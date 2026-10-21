@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": 3,
+  "revision": 4,
   "lessons": [
     {
       "id": 10003,
@@ -818,68 +818,6 @@
       ]
     },
     {
-      "id": 10017,
-      "level": 3,
-      "title": "仔细研究论证过程",
-      "sentence": "The students identified a problem that others had overlooked because they examined how the argument was organized.",
-      "targets": {
-        "s": "The students",
-        "v": "identified",
-        "o": "a problem",
-        "m": "that others had overlooked",
-        "x": "because they examined how the argument was organized."
-      },
-      "main": "The students identified a problem.",
-      "meaning": "学生们仔细研究论证的组织方式，因此发现了别人之前忽视的问题。",
-      "analysis": "【主干】The students identified a problem。【层次】that others had overlooked 限定 problem；because... 表原因，they 指 students；how the argument was organized 作 examined 的宾语从句。【辨析】had overlooked 与 was organized 均不是外层谓语。",
-      "distractors": [
-        "学生认为其他人已解决问题，因此不需要查看论证。",
-        "学生没有检查论证方式，却发现别人完全认可的问题。",
-        "论证结构非常清楚，以至于学生没有遇到任何问题。"
-      ],
-      "words": [
-        [
-          "identify",
-          "识别；发现",
-          "v."
-        ],
-        [
-          "argument",
-          "论证",
-          "n."
-        ],
-        [
-          "overlook",
-          "忽视",
-          "v."
-        ]
-      ],
-      "roleExplanations": {
-        "s": "The students 是主句主语。",
-        "v": "identified 是主句过去时谓语。",
-        "o": "a problem 是 identified 的直接宾语。",
-        "m": "that others had overlooked 修饰 a problem，had overlooked 为从句谓语。",
-        "x": "because they examined how the argument was organized 说明发现问题的原因。"
-      },
-      "grammarSupplements": [
-        {
-          "kind": "定语从句",
-          "text": "that others had overlooked",
-          "explanation": "that 在从句中作 overlooked 的宾语，others 作从句主语。"
-        },
-        {
-          "kind": "原因状语从句",
-          "text": "because they examined how the argument was organized.",
-          "explanation": "because 引出原因；examined 的对象是 how 从句。"
-        },
-        {
-          "kind": "内层 how 宾语从句",
-          "text": "how the argument was organized.",
-          "explanation": "how 表组织方式；the argument 为从句主语，was organized 为被动谓语。"
-        }
-      ]
-    },
-    {
       "id": 10018,
       "level": 3,
       "title": "委员会真正需要什么",
@@ -1172,6 +1110,73 @@
           "kind": "第二组谓宾与时间",
           "text": "presented stronger evidence a month later.",
           "explanation": "presented 对应 stronger evidence；a month later 是时间状语。"
+        }
+      ]
+    },
+    {
+      "id": 10023,
+      "level": 3,
+      "title": "梳理论证结构后发现遗漏",
+      "sentence": "After the students examined how the argument was organized, they identified a problem that earlier reviewers had overlooked.",
+      "targets": {
+        "x": "After the students examined how the argument was organized,",
+        "s": "they",
+        "v": "identified",
+        "o": "a problem",
+        "m": "that earlier reviewers had overlooked."
+      },
+      "main": "they identified a problem.",
+      "meaning": "学生分析了论证的组织方式后，发现了早期评审人员忽视的一个问题。",
+      "distractors": [
+        "学生没有查看论证结构，却认定早期评审人员已经发现了所有问题。",
+        "早期评审人员指出了一个问题，因此学生不再需要检查论证结构。",
+        "学生认为论证方式没有问题，所以决定直接采纳早期评审意见。"
+      ],
+      "words": [
+        [
+          "examine",
+          "仔细检查；研究",
+          "v."
+        ],
+        [
+          "argument",
+          "论证；论点",
+          "n."
+        ],
+        [
+          "reviewer",
+          "评审人员",
+          "n."
+        ],
+        [
+          "overlook",
+          "忽视；遗漏",
+          "v."
+        ]
+      ],
+      "analysis": "【主句主干】they identified a problem，其中 they 指前面的 students，identified 是主句谓语，a problem 是其直接宾语。【时间背景】After the students examined how the argument was organized 是时间状语从句，说明学生在检查论证结构之后发现问题。【内部结构】how the argument was organized 是 examined 的宾语从句，其内部主语是 the argument，was organized 为被动语态谓语。【后置修饰】that earlier reviewers had overlooked 是修饰 a problem 的定语从句，that 在从句中作 overlooked 的宾语。【易错点】After 从句的 examined、宾语从句的 was organized、定语从句的 had overlooked 都不是主句谓语；they 与 students 指代一致。",
+      "roleExplanations": {
+        "x": "After... 是时间状语从句，说明发现问题前先检查了论证结构。",
+        "s": "they 是主句主语，明确指前一分句的 students。",
+        "v": "identified 是主句谓语，表示发现或识别。",
+        "o": "a problem 是 identified 的直接宾语，不需要连后面的修饰从句一并圈选。",
+        "m": "that earlier reviewers had overlooked 修饰 problem，其中 that 是 overlooked 的宾语。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "时间状语从句",
+          "text": "After the students examined how the argument was organized,",
+          "explanation": "After 引导时间状语从句；students 是从句主语，examined 为谓语，后接 how 宾语从句。"
+        },
+        {
+          "kind": "how 宾语从句",
+          "text": "how the argument was organized,",
+          "explanation": "how 引导间接疑问，整体作 examined 的宾语；the argument 是内部主语，was organized 是被动谓语。"
+        },
+        {
+          "kind": "修饰 problem 的定语从句",
+          "text": "that earlier reviewers had overlooked.",
+          "explanation": "that 指代 a problem 并在定语从句中作宾语；earlier reviewers 作主语，had overlooked 为过去完成时谓语。"
         }
       ]
     }
