@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": 10,
+  "revision": 11,
   "lessons": [
     {
       "id": 10003,
@@ -3447,7 +3447,7 @@
       "main": "the children decided to stay indoors",
       "words": [],
       "roleExplanations": {
-        "x": "「Although the rain had stopped,」说明主句动作「decided」发生的背景（时间、条件、原因或让步），其中的动词不是主句谓语。",
+        "x": "Although the rain had stopped 是让步状语从句；because the ground was still wet 是原因状语从句。两处都可选为状语从句，但含义不同。",
         "s": "「the children」与主句谓语「decided」对应，是整个主句描述的人或事物。句首/句中的背景从句不抢占主句主语位置。",
         "v": "「decided」是主语「the children」的主句带时态的主要动作。",
         "c": "「to stay indoors」补足主句动词「decided」的具体内容；它与直接宾语、系动词表语的功能并不相同。"
@@ -3472,8 +3472,18 @@
           "kind": "非谓语结构",
           "text": "to stay indoors",
           "explanation": "「to stay indoors」是不承担独立时态的非谓语结构；它可以修饰、作主语或作动词补足内容，需要结合本句前后成分判断。"
+        },
+        {
+          "kind": "原因状语从句",
+          "text": "because the ground was still wet.",
+          "explanation": "because 引导原因状语从句，交代孩子们为何仍待在室内；the ground 为从句主语，was 为系动词，wet 作表语。"
         }
-      ]
+      ],
+      "acceptedTargets": {
+        "x": [
+          "because the ground was still wet."
+        ]
+      }
     },
     {
       "title": "阅读俱乐部的同学",
@@ -3528,6 +3538,65 @@
       "acceptedTargets": {
         "s": [
           "The students waiting outside the library"
+        ],
+        "n": [
+          "to meet the writer"
+        ]
+      }
+    },
+    {
+      "title": "先完成任务",
+      "sentence": "Having finished her project early, Maya offered to help a classmate who was having trouble with his work.",
+      "targets": {
+        "n": "Having finished her project early,",
+        "s": "Maya",
+        "v": "offered",
+        "c": "to help a classmate",
+        "m": "who was having trouble with his work."
+      },
+      "meaning": "玛雅提前完成项目后，主动提出帮助一位作业遇到困难的同学。",
+      "distractors": [
+        "玛雅因没有完成项目而拒绝帮助同学。",
+        "玛雅请同学替她完成项目。",
+        "玛雅直到最后一刻才开始自己的项目。"
+      ],
+      "analysis": "Having finished 表示先于 offered 完成的动作；offered to help 表示主动提出帮助，who... 修饰 a classmate。",
+      "id": 61,
+      "level": 3,
+      "main": "Maya offered to help a classmate",
+      "words": [],
+      "roleExplanations": {
+        "n": "「Having finished her project early,」是不承担独立时态的非谓语结构；它可以修饰、作主语或作动词补足内容，需要结合本句前后成分判断。",
+        "s": "「Maya」与主句谓语「offered」对应，是整个主句描述的人或事物。",
+        "v": "「offered」是主语「Maya」的主句带时态的主要动作。不要误把定语从句内部动词当作主句谓语。",
+        "c": "「to help a classmate」补足主句动词「offered」的具体内容；它与直接宾语、系动词表语的功能并不相同。",
+        "m": "「who was having trouble with his work.」修饰它前面提到的名词或代词，并不构成第二个独立主句。要注意从句动词和「offered」所在层次不同。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "本句完整结构",
+          "text": "Having finished her project early, Maya offered to help a classmate who was having trouble with his work.",
+          "explanation": "Having finished 表示先于 offered 完成的动作；offered to help 表示主动提出帮助，who... 修饰 a classmate。"
+        },
+        {
+          "kind": "动词补足成分",
+          "text": "to help a classmate",
+          "explanation": "「to help a classmate」补足主句动词「offered」的具体内容；它与直接宾语、系动词表语的功能并不相同。"
+        },
+        {
+          "kind": "定语从句",
+          "text": "who was having trouble with his work.",
+          "explanation": "「who was having trouble with his work.」修饰它前面提到的名词或代词，并不构成第二个独立主句。要注意从句动词和「offered」所在层次不同。"
+        },
+        {
+          "kind": "非谓语结构",
+          "text": "Having finished her project early,",
+          "explanation": "「Having finished her project early,」是不承担独立时态的非谓语结构；它可以修饰、作主语或作动词补足内容，需要结合本句前后成分判断。"
+        }
+      ],
+      "acceptedTargets": {
+        "n": [
+          "to help a classmate"
         ]
       }
     },
@@ -3813,7 +3882,7 @@
       "main": "The idea helped the teachers",
       "words": [],
       "roleExplanations": {
-        "s": "「The idea」与主句谓语「helped」对应，是整个主句描述的人或事物。",
+        "s": "The idea 是主语中心词；that students should learn at their own pace 是解释 idea 内容的同位语从句，并非定语从句。圈核心 The idea 或完整主语短语都算正确。",
         "v": "「helped」是主语「The idea」的主句带时态的主要动作。",
         "o": "「the teachers」是「helped」所支配的直接宾语，回答动作涉及什么、什么事或谁。",
         "k": "「design a more flexible course」说明宾语「the teachers」的状态、身份或动作；是宾语补足语，不要把两者合成一个宾语。"
@@ -3833,8 +3902,18 @@
           "kind": "非谓语结构",
           "text": "design a more flexible course",
           "explanation": "「design a more flexible course」是不承担独立时态的非谓语结构；它可以修饰、作主语或作动词补足内容，需要结合本句前后成分判断。"
+        },
+        {
+          "kind": "idea 的同位语从句",
+          "text": "that students should learn at their own pace",
+          "explanation": "that 引出 idea 的具体内容；that 不在从句中充当主语/宾语，不是修饰名词的定语从句。"
         }
-      ]
+      ],
+      "acceptedTargets": {
+        "s": [
+          "The idea that students should learn at their own pace"
+        ]
+      }
     },
     {
       "title": "复杂决定的真正原因",
