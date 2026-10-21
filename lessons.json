@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": 4,
+  "revision": 5,
   "lessons": [
     {
       "id": 10003,
@@ -104,7 +104,7 @@
         "s": "Researchers 是外层主语。",
         "v": "notice 是外层谓语；compare 和 remain 均在定语从句内。",
         "o": "patterns 是 notice 的直接宾语，不强制把其后的定语从句一起圈入。",
-        "m": "who compare the results carefully 限定 Researchers。"
+        "m": "本句有两处定语从句：who compare... 修饰 Researchers，that would otherwise remain hidden 修饰 patterns。两处都属于正确的定语从句选区。"
       },
       "grammarSupplements": [
         {
@@ -117,7 +117,12 @@
           "text": "that would otherwise remain hidden.",
           "explanation": "that 指 patterns；would remain 是该从句谓语，hidden 作表语。"
         }
-      ]
+      ],
+      "acceptedTargets": {
+        "m": [
+          "that would otherwise remain hidden."
+        ]
+      }
     },
     {
       "id": 10005,
@@ -330,7 +335,7 @@
         "s": "The experiment 是主句主语，插入的 which 从句不改变它。",
         "v": "produced 是主句谓语，表示产生。",
         "o": "results 是产生的结果，后有独立定语从句。",
-        "m": "which several experts had initially dismissed 插入说明专家曾轻视该实验。"
+        "m": "本句有两处定语从句：which several experts had initially dismissed 是修饰 experiment 的非限制性定语从句；that changed the direction of the project 是修饰 results 的限制性定语从句。选出任意一处完整从句均正确。"
       },
       "grammarSupplements": [
         {
@@ -343,7 +348,12 @@
           "text": "that changed the direction of the project.",
           "explanation": "that 指 results，并在从句中作主语；changed 为从句谓语。"
         }
-      ]
+      ],
+      "acceptedTargets": {
+        "m": [
+          "that changed the direction of the project."
+        ]
+      }
     },
     {
       "id": 10009,
@@ -623,7 +633,7 @@
         "v": "tried 是主句谓语。",
         "c": "to develop a solution 补足 tried 的内容，回答尝试做什么。",
         "m": "that would work under different conditions 修饰 solution。",
-        "n": "copying the example 是介词 of 后的动名词结构。"
+        "n": "本句至少有两处非谓语动词结构：介词 of 后的 copying the example 和 tried 后的 to develop a solution；二者都是真正的非谓语，且 to develop 同时可作为补足语核心。"
       },
       "grammarSupplements": [
         {
@@ -641,7 +651,12 @@
           "text": "that would work under different conditions.",
           "explanation": "that 指 solution；would work 是从句谓语。"
         }
-      ]
+      ],
+      "acceptedTargets": {
+        "n": [
+          "to develop a solution"
+        ]
+      }
     },
     {
       "id": 10014,
@@ -738,7 +753,7 @@
       "roleExplanations": {
         "s": "The speaker 是主句主语。",
         "v": "paused 是主句谓语，后面的 give 是不定式内的动词。",
-        "n": "to give the audience time 是目的不定式，核心 to give。"
+        "n": "本句包含两个不定式结构：to give the audience time 表示 paused 的目的；to consider a question 修饰 time，说明时间用于思考什么。二者都可作为非谓语辨认目标；选核心 to consider 也正确。"
       },
       "grammarSupplements": [
         {
@@ -756,7 +771,13 @@
           "text": "that had no obvious answer.",
           "explanation": "that 指 question，had 为从句谓语，no obvious answer 为宾语。"
         }
-      ]
+      ],
+      "acceptedTargets": {
+        "n": [
+          "to consider a question",
+          "to consider"
+        ]
+      }
     },
     {
       "id": 10016,
@@ -915,7 +936,7 @@
         "s": "The manager 是询问的发出者。",
         "v": "asked 是主句谓语；could be introduced 在 whether 从句内。",
         "o": "whether... 整个从句是 asked 询问的内容，不能只选 whether。",
-        "n": "recommended by staff 是修饰 changes 的过去分词短语，核心 recommended。"
+        "n": "除了 recommended by staff 这一过去分词后置定语，without increasing costs 中的 increasing costs 也是介词 without 后的动名词短语；选完整短语或动名词核心 increasing 都正确。"
       },
       "grammarSupplements": [
         {
@@ -933,7 +954,13 @@
           "text": "without increasing costs.",
           "explanation": "without 是介词，increasing 是动名词，costs 为其宾语。"
         }
-      ]
+      ],
+      "acceptedTargets": {
+        "n": [
+          "increasing costs.",
+          "increasing"
+        ]
+      }
     },
     {
       "id": 10020,
