@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": 5,
+  "revision": 6,
   "lessons": [
     {
       "id": 10003,
@@ -654,7 +654,8 @@
       ],
       "acceptedTargets": {
         "n": [
-          "to develop a solution"
+          "to develop a solution",
+          "to develop"
         ]
       }
     },
