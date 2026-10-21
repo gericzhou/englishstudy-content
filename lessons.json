@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": 6,
+  "revision": 7,
   "lessons": [
     {
       "id": 10003,
@@ -514,7 +514,7 @@
         "x": "Because... 解释结果可能不具代表性的原因。",
         "s": "its findings 是主句主语，指调查发现。",
         "v": "may not represent 包含情态与否定，表示可能不代表。",
-        "o": "the opinions 是 represent 的宾语中心短语，不必连同后置 of 短语全选。"
+        "o": "represent 的宾语以 the opinions 为核心；of the entire community 是后置介词短语修饰 opinions。选 the opinions 或整个 the opinions of the entire community 均合理。"
       },
       "grammarSupplements": [
         {
@@ -527,7 +527,12 @@
           "text": "of the entire community.",
           "explanation": "of... 修饰 opinions，指出整个社区的意见。"
         }
-      ]
+      ],
+      "acceptedTargets": {
+        "o": [
+          "the opinions of the entire community."
+        ]
+      }
     },
     {
       "id": 10012,
