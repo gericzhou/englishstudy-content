@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": 12,
+  "revision": 13,
   "lessons": [
     {
       "id": 10003,
@@ -121,6 +121,9 @@
       "acceptedTargets": {
         "m": [
           "that would otherwise remain hidden."
+        ],
+        "o": [
+          "patterns that would otherwise remain hidden."
         ]
       }
     },
@@ -293,7 +296,12 @@
           "text": "that might have misled readers.",
           "explanation": "that 指 chart，might have misled 表示可能曾误导读者。"
         }
-      ]
+      ],
+      "acceptedTargets": {
+        "o": [
+          "a chart that might have misled readers."
+        ]
+      }
     },
     {
       "id": 10008,
@@ -352,6 +360,9 @@
       "acceptedTargets": {
         "m": [
           "that changed the direction of the project."
+        ],
+        "o": [
+          "results that changed the direction of the project."
         ]
       }
     },
@@ -900,7 +911,12 @@
           "text": "why the proposed change would benefit smaller schools.",
           "explanation": "proposed change 为从句主语，would benefit 为谓语。"
         }
-      ]
+      ],
+      "acceptedTargets": {
+        "p": [
+          "a clear explanation of why the proposed change would benefit smaller schools."
+        ]
+      }
     },
     {
       "id": 10019,
@@ -1085,7 +1101,12 @@
           "text": "that would cause the least disruption to nearby residents.",
           "explanation": "that 指代 the one；would cause 为从句谓语，the least disruption 为其宾语。"
         }
-      ]
+      ],
+      "acceptedTargets": {
+        "o": [
+          "the one that would cause the least disruption to nearby residents."
+        ]
+      }
     },
     {
       "id": 10022,
@@ -1216,7 +1237,12 @@
           "text": "that earlier reviewers had overlooked.",
           "explanation": "that 指代 a problem 并在定语从句中作宾语；earlier reviewers 作主语，had overlooked 为过去完成时谓语。"
         }
-      ]
+      ],
+      "acceptedTargets": {
+        "o": [
+          "a problem that earlier reviewers had overlooked."
+        ]
+      }
     }
   ],
   "bundledCorrections": [
