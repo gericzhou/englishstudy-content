@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": 8,
+  "revision": 9,
   "lessons": [
     {
       "id": 10003,
@@ -1217,6 +1217,2785 @@
           "explanation": "that 指代 a problem 并在定语从句中作宾语；earlier reviewers 作主语，had overlooked 为过去完成时谓语。"
         }
       ]
+    }
+  ],
+  "bundledCorrections": [
+    {
+      "id": 1,
+      "level": 2,
+      "title": "站在窗边的男孩",
+      "sentence": "The boy who is standing near the window is reading a book.",
+      "targets": {
+        "v": "is reading",
+        "s": "The boy",
+        "o": "a book.",
+        "m": "who is standing near the window"
+      },
+      "main": "The boy is reading a book.",
+      "meaning": "站在窗边的男孩正在读一本书。",
+      "distractors": [
+        "男孩正在给窗边的人读书。",
+        "窗边的男孩已经读完了一本书。",
+        "站在窗边的男孩正在寻找一本书，而不是阅读它。"
+      ],
+      "words": [],
+      "analysis": "who is standing near the window 是定语从句，修饰 The boy。主句只有 The boy is reading a book。",
+      "roleExplanations": {
+        "s": "主语中心词是 boy；who is standing near the window 只是修饰 boy 的定语从句，不另作主句主语。",
+        "v": "is reading 是主句的现在进行时谓语；定语从句中的 is standing 只说明 boy 在做什么。",
+        "o": "a book 是 read 的直接宾语，回答“正在读什么”，句尾句号属于原句。",
+        "m": "who 指回 The boy，整段修饰 boy，限定是哪一个男孩。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "主句主语",
+          "text": "The boy",
+          "explanation": "The boy 是外层主句的主语；后面的 who 从句只限定是哪一个男孩。"
+        },
+        {
+          "kind": "定语从句",
+          "text": "who is standing near the window",
+          "explanation": "who 指代 the boy，作从句主语；is standing 是现在进行时谓语，表示正站着。"
+        },
+        {
+          "kind": "从句内地点短语",
+          "text": "near the window",
+          "explanation": "near 是介词，the window 是介词宾语；整段说明 standing 的位置。"
+        },
+        {
+          "kind": "主句谓语",
+          "text": "is reading",
+          "explanation": "is reading 是主句现在进行时谓语，和从句内 is standing 分属两个层次。"
+        },
+        {
+          "kind": "主句宾语",
+          "text": "a book.",
+          "explanation": "a book 是主句动作 reading 的宾语，说明男孩正在读什么。"
+        }
+      ],
+      "acceptedTargets": {
+        "s": [
+          "The boy who is standing near the window"
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "level": 2,
+      "title": "阅读使单词更容易学",
+      "sentence": "Students who read regularly often find that learning new words becomes easier.",
+      "targets": {
+        "v": "find",
+        "s": "Students",
+        "o": "that learning new words becomes easier.",
+        "m": "who read regularly"
+      },
+      "main": "Students often find that learning new words becomes easier.",
+      "meaning": "经常阅读的学生往往发现，学习新单词变得更容易了。",
+      "distractors": [
+        "经常读书的学生觉得新单词越来越难。",
+        "学习新单词的学生通常不再需要阅读。",
+        "经常阅读的学生往往发现，学习新词汇花费的时间越来越长。"
+      ],
+      "words": [
+        [
+          "regularly",
+          "经常地；有规律地",
+          "adv."
+        ]
+      ],
+      "analysis": "who read regularly 是定语从句，修饰 Students。that learning new words becomes easier 是 find 的宾语从句；它不是主句谓语。",
+      "roleExplanations": {
+        "s": "Students 是主句主语；who read regularly 仅限定是哪类学生，不改变主句主语中心词。",
+        "v": "find 是主句谓语“发现”，不是定语从句中的 read，也不是宾语从句中的 becomes。",
+        "o": "that learning new words becomes easier 是完整宾语从句，表示学生发现的事实。",
+        "m": "who read regularly 修饰 Students，说明经常阅读的学生，不能把这段当主句谓语。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "主句主语",
+          "text": "Students",
+          "explanation": "Students 为主句主语，修饰它的是后面的 who read regularly，而不是后面 that 宾语从句。"
+        },
+        {
+          "kind": "限制性定语从句",
+          "text": "who read regularly",
+          "explanation": "who 作从句主语，read 为谓语，regularly 是频率状语。"
+        },
+        {
+          "kind": "主句谓语及频率状语",
+          "text": "often find",
+          "explanation": "often 修饰主句谓语 find，表示学生经常发现。"
+        },
+        {
+          "kind": "主句宾语从句",
+          "text": "that learning new words becomes easier.",
+          "explanation": "that 引出 find 的宾语从句，说明发现的内容。"
+        },
+        {
+          "kind": "宾语从句内部动名词主语",
+          "text": "learning new words",
+          "explanation": "learning 是动名词，new words 是它的宾语；整个短语在 that 从句内作主语。"
+        },
+        {
+          "kind": "从句内部系表",
+          "text": "becomes easier.",
+          "explanation": "becomes 为系动词，easier 是比较级形容词作表语，说明学新词变容易。"
+        }
+      ],
+      "acceptedTargets": {
+        "s": [
+          "Students who read regularly"
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "level": 2,
+      "title": "文章的观点",
+      "sentence": "The article that we discussed in class suggests that small changes can have a big impact.",
+      "targets": {
+        "v": "suggests",
+        "s": "The article",
+        "o": "that small changes can have a big impact.",
+        "m": "that we discussed in class"
+      },
+      "main": "The article suggests that small changes can have a big impact.",
+      "meaning": "我们在课堂上讨论的那篇文章指出，小改变也能产生大影响。",
+      "distractors": [
+        "课堂上的一项小改变导致文章被取消。",
+        "那篇文章建议我们在课堂上做更大的改变。",
+        "我们在课堂上讨论的那篇文章表明，只有重大改变才会产生影响。"
+      ],
+      "words": [
+        [
+          "suggests",
+          "表明；暗示；建议",
+          "v."
+        ],
+        [
+          "impact",
+          "影响",
+          "n."
+        ]
+      ],
+      "analysis": "第一个 that 引导定语从句，修饰 article；第二个 that 引导宾语从句，说明文章指出了什么。这是重点对比。",
+      "roleExplanations": {
+        "s": "The article 是 suggests 的主句主语；that we discussed in class 只用来限定是哪篇文章。",
+        "v": "suggests 是主句谓语“表明”；从句 discussed、can have 都属于各自从句。",
+        "o": "第二个 that 引出宾语从句，具体说明文章提出了什么；与前面的定语从句 that 作用不同。",
+        "m": "that we discussed in class 修饰 article，that 在该从句中指这篇文章。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "主句主语",
+          "text": "The article",
+          "explanation": "The article 为主句主语；第一个 that 限定是哪篇文章。"
+        },
+        {
+          "kind": "第一个 that：定语从句",
+          "text": "that we discussed in class",
+          "explanation": "that 指代 the article，在从句内作 discussed 的宾语；we 为从句主语，in class 表讨论地点/情境。"
+        },
+        {
+          "kind": "主句谓语",
+          "text": "suggests",
+          "explanation": "suggests 是主句谓语，表示文章指出；不能将从句里的 discussed 当主句谓语。"
+        },
+        {
+          "kind": "第二个 that：宾语从句",
+          "text": "that small changes can have a big impact.",
+          "explanation": "第二个 that 引出 suggests 所说的内容；small changes 为从句主语，can have 为从句谓语。"
+        },
+        {
+          "kind": "从句内部宾语",
+          "text": "a big impact.",
+          "explanation": "a big impact 是 have 的宾语，说明小变化会造成重大影响。"
+        }
+      ],
+      "acceptedTargets": {
+        "s": [
+          "The article that we discussed in class"
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "level": 2,
+      "title": "困难任务与团队",
+      "sentence": "Although the task seemed impossible at first, the team that had prepared carefully eventually found a practical solution.",
+      "targets": {
+        "v": "found",
+        "s": "the team",
+        "o": "a practical solution.",
+        "m": "that had prepared carefully",
+        "x": "Although the task seemed impossible at first,"
+      },
+      "main": "the team eventually found a practical solution.",
+      "meaning": "尽管任务起初看起来不可能完成，但准备充分的团队最终找到了切实可行的解决办法。",
+      "distractors": [
+        "团队因为没有准备充分而放弃了任务。",
+        "只要任务最初看起来简单，团队就能马上找到方案。",
+        "尽管团队已经做好准备，他们最终仍没有找到可行的解决办法。"
+      ],
+      "words": [
+        [
+          "eventually",
+          "最终",
+          "adv."
+        ],
+        [
+          "practical",
+          "切实可行的",
+          "adj."
+        ]
+      ],
+      "analysis": "Although... 是让步状语从句，整体先放一边；that had prepared carefully 修饰 the team。真正主句是 the team eventually found a practical solution。",
+      "roleExplanations": {
+        "s": "主语是 the team；that had prepared carefully 修饰 team，Although 从句主语是 the task，不属于主句。",
+        "v": "found 是主句谓语，表示团队最终找到解决办法；seemed 和 had prepared 分属不同从句。",
+        "o": "a practical solution 是 found 的直接宾语，回答“找到什么”。",
+        "m": "that had prepared carefully 说明是“充分准备过的团队”，修饰 the team。",
+        "x": "Although the task seemed impossible at first 是让步状语，先交代困难背景。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "让步状语从句",
+          "text": "Although the task seemed impossible at first,",
+          "explanation": "Although 表示虽然；the task 为从句主语，seemed 是系动词，impossible 是表语，at first 表起初。"
+        },
+        {
+          "kind": "主句主语",
+          "text": "the team",
+          "explanation": "the team 是主句主语，后面的 that 从句限定是哪支队伍。"
+        },
+        {
+          "kind": "定语从句",
+          "text": "that had prepared carefully",
+          "explanation": "that 指 team，作从句主语；had prepared 是过去完成时，carefully 作方式状语。"
+        },
+        {
+          "kind": "主句时间副词与谓语",
+          "text": "eventually found",
+          "explanation": "eventually 表示最终，found 是主句谓语，不能与从句内的 prepared 混淆。"
+        },
+        {
+          "kind": "主句宾语",
+          "text": "a practical solution.",
+          "explanation": "a practical solution 是 found 的宾语，practical 修饰 solution。"
+        }
+      ],
+      "acceptedTargets": {
+        "s": [
+          "the team that had prepared carefully"
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "level": 2,
+      "title": "睡眠影响记忆",
+      "sentence": "Researchers who study how sleep affects memory have discovered that regular rest helps students learn more effectively.",
+      "targets": {
+        "v": "have discovered",
+        "s": "Researchers",
+        "o": "that regular rest helps students learn more effectively.",
+        "m": "who study how sleep affects memory"
+      },
+      "main": "Researchers have discovered that regular rest helps students learn more effectively.",
+      "meaning": "研究睡眠如何影响记忆的研究人员发现，规律休息能帮助学生更有效地学习。",
+      "distractors": [
+        "研究人员发现记忆力不会受到睡眠影响。",
+        "学生发现研究人员需要停止研究睡眠。",
+        "研究人员发现，规律休息会妨碍学生有效记住新知识。"
+      ],
+      "words": [
+        [
+          "researcher",
+          "研究人员",
+          "n."
+        ],
+        [
+          "affect",
+          "影响",
+          "v."
+        ],
+        [
+          "effectively",
+          "有效地",
+          "adv."
+        ]
+      ],
+      "analysis": "who study... 修饰 Researchers，其中 how sleep affects memory 是 study 的宾语从句；that regular rest ... 是 have discovered 的宾语从句。主句谓语仅 have discovered。",
+      "roleExplanations": {
+        "s": "Researchers 是主语中心词，who study... 描述研究人员的研究方向。",
+        "v": "have discovered 是现在完成时的主句谓语；study、affects 和 helps 在各自的从句中。",
+        "o": "that regular rest helps... 是 have discovered 的宾语从句，回答研究人员发现了什么。",
+        "m": "who study how sleep affects memory 修饰 Researchers；其中 how... 又是 study 的宾语从句。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "主句主语",
+          "text": "Researchers",
+          "explanation": "Researchers 是主句主语；who 引出修饰研究者的定语从句。"
+        },
+        {
+          "kind": "第一层定语从句",
+          "text": "who study how sleep affects memory",
+          "explanation": "who 作从句主语，study 为谓语，后面的 how... 是 study 的内容。"
+        },
+        {
+          "kind": "第二层 how 宾语从句",
+          "text": "how sleep affects memory",
+          "explanation": "how 引导间接疑问式宾语从句，说明睡眠如何影响记忆；sleep 是从句主语，affects 是谓语，memory 是宾语。"
+        },
+        {
+          "kind": "主句现在完成时谓语",
+          "text": "have discovered",
+          "explanation": "have discovered 为主句现在完成时谓语，表示研究人员已经发现。"
+        },
+        {
+          "kind": "that 宾语从句",
+          "text": "that regular rest helps students learn more effectively.",
+          "explanation": "that... 是 have discovered 的宾语，从句主语 regular rest，谓语 helps。"
+        },
+        {
+          "kind": "从句内宾语与补足语",
+          "text": "students learn more effectively.",
+          "explanation": "students 是 helps 的宾语，learn... 是省略 to 的不定式宾补；more effectively 表示学习效果更好。"
+        }
+      ],
+      "acceptedTargets": {
+        "s": [
+          "Researchers who study how sleep affects memory"
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "level": 2,
+      "title": "技术与时间",
+      "sentence": "While many people believe that technology always saves time, studies that examine daily habits suggest that it can also create new distractions.",
+      "targets": {
+        "v": "suggest",
+        "s": "studies",
+        "o": "that it can also create new distractions.",
+        "m": "that examine daily habits",
+        "x": "While many people believe that technology always saves time,"
+      },
+      "main": "studies suggest that it can also create new distractions.",
+      "meaning": "虽然许多人相信科技总能节省时间，但研究日常习惯的调查表明，它也会造成新的干扰。",
+      "distractors": [
+        "研究发现，科技必然让所有人的生活更轻松。",
+        "人们调查日常习惯，是为了证明科技永远节省时间。",
+        "研究日常习惯的调查表明，科技始终只会节省时间而不会带来干扰。"
+      ],
+      "words": [
+        [
+          "examine",
+          "检查；研究",
+          "v."
+        ],
+        [
+          "distraction",
+          "让人分心的事物",
+          "n."
+        ]
+      ],
+      "analysis": "While... 整体是对比性的状语从句；studies that examine daily habits 才是主句主语（studies），suggest 为主句谓语，最后 that... 为宾语从句。",
+      "roleExplanations": {
+        "s": "主句主语为 studies；that examine daily habits 修饰 studies，while 从句的 many people 是另一层主语。",
+        "v": "suggest 是主句谓语，表示研究表明；believe、saves、examine、create 都属于其他层级。",
+        "o": "最后的 that it can also create new distractions 是 suggest 的宾语从句。",
+        "m": "that examine daily habits 限定 studies 是研究日常习惯的那些研究。",
+        "x": "While many people believe... 与主句形成对比：常见看法和研究发现不同。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "对比状语从句",
+          "text": "While many people believe that technology always saves time,",
+          "explanation": "While 在本句表示“尽管/而”，引导与主句研究结论相对照的从句，many people 为从句主语。"
+        },
+        {
+          "kind": "状语从句内第一层谓语",
+          "text": "many people believe",
+          "explanation": "many people 是从句主语，believe 为谓语；后面的 that 是其宾语内容。"
+        },
+        {
+          "kind": "状语从句内的宾语从句",
+          "text": "that technology always saves time,",
+          "explanation": "that 引出相信的内容，technology 为内层主语，saves 为谓语，time 为宾语，always 为频率状语。"
+        },
+        {
+          "kind": "主句主语及其定语从句",
+          "text": "studies that examine daily habits",
+          "explanation": "studies 是主句主语；that examine daily habits 修饰 studies，that 作从句主语，daily habits 是 examine 的宾语。"
+        },
+        {
+          "kind": "主句谓语与宾语从句",
+          "text": "suggest that it can also create new distractions.",
+          "explanation": "suggest 是主句谓语；后面 that... 是宾语从句，it 指 technology，can create 为谓语，new distractions 为宾语。"
+        }
+      ],
+      "acceptedTargets": {
+        "s": [
+          "studies that examine daily habits"
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "level": 3,
+      "title": "独立学习的要求",
+      "sentence": "Although online courses offer learners greater flexibility, students who lack effective study habits sometimes discover that learning independently requires more self-discipline than they initially expected.",
+      "targets": {
+        "v": "discover",
+        "s": "students",
+        "o": "that learning independently requires more self-discipline than they initially expected.",
+        "m": "who lack effective study habits",
+        "x": "Although online courses offer learners greater flexibility,"
+      },
+      "main": "students sometimes discover that learning independently requires more self-discipline than they initially expected.",
+      "meaning": "尽管网课给学生带来更大的灵活性，但缺乏良好学习习惯的学生有时会发现，独立学习需要的自律比他们最初预想的更多。",
+      "distractors": [
+        "网络课程会自动培养所有学生的自律能力。",
+        "学生发现，独立学习总是比课堂学习更容易。",
+        "缺乏良好学习习惯的学生发现，网课使独立学习不再需要自律。"
+      ],
+      "words": [
+        [
+          "flexibility",
+          "灵活性",
+          "n."
+        ],
+        [
+          "self-discipline",
+          "自律",
+          "n."
+        ],
+        [
+          "initially",
+          "起初",
+          "adv."
+        ]
+      ],
+      "analysis": "Although... 是让步状语从句；主句主语 students 被 who lack... 修饰，主谓是 students discover；宾语是 that 引导的完整从句。",
+      "roleExplanations": {
+        "s": "students 是主语中心词，who lack... 对学生作限定；online courses 是 Although 从句的主语。",
+        "v": "discover 是主句谓语“发现”，不是前面从句的 offer/lack，也不是宾语从句中的 requires。",
+        "o": "that learning independently requires... 是宾语从句，说明学生发现独立学习需要更多自律。",
+        "m": "who lack effective study habits 修饰 students，指出缺少有效学习习惯的那类学生。",
+        "x": "Although online courses offer learners greater flexibility 是让步背景，衬托主句中的困难。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "让步状语从句",
+          "text": "Although online courses offer learners greater flexibility,",
+          "explanation": "Although 引导让步背景；online courses 为从句主语，offer 是谓语；learners 为间接宾语，greater flexibility 为直接宾语。"
+        },
+        {
+          "kind": "主句主语",
+          "text": "students",
+          "explanation": "students 为主句主语；后面 who 从句说明具体是哪类学生。"
+        },
+        {
+          "kind": "主句定语从句",
+          "text": "who lack effective study habits",
+          "explanation": "who 指 students，作从句主语，lack 是从句谓语，effective study habits 是宾语。"
+        },
+        {
+          "kind": "主句频率词和谓语",
+          "text": "sometimes discover",
+          "explanation": "sometimes 是频率状语，discover 为主句谓语。"
+        },
+        {
+          "kind": "宾语从句",
+          "text": "that learning independently requires more self-discipline than they initially expected.",
+          "explanation": "that 引出 discover 的内容；其内部主语是 learning independently，谓语 requires，宾语为 more self-discipline。"
+        },
+        {
+          "kind": "宾语从句中的动名词主语",
+          "text": "learning independently",
+          "explanation": "learning 是动名词，independently 修饰它表示独立学习，整个短语作 requires 的主语。"
+        },
+        {
+          "kind": "比较结构",
+          "text": "than they initially expected.",
+          "explanation": "than... 说明所需自律程度高于原先预计；they 是比较从句主语，expected 是谓语，被比较的程度内容省略。"
+        }
+      ],
+      "acceptedTargets": {
+        "s": [
+          "students who lack effective study habits"
+        ]
+      }
+    },
+    {
+      "id": 15,
+      "level": 3,
+      "title": "学习进步的原因",
+      "sentence": "Parents who focus only on examination scores may fail to notice that the confidence students develop through small achievements can have a lasting effect on their willingness to keep learning.",
+      "targets": {
+        "v": "may fail to notice",
+        "s": "Parents",
+        "o": "that the confidence students develop through small achievements can have a lasting effect on their willingness to keep learning.",
+        "m": "who focus only on examination scores"
+      },
+      "main": "Parents may fail to notice that the confidence students develop through small achievements can have a lasting effect on their willingness to keep learning.",
+      "meaning": "只关注考试分数的家长可能没有注意到，学生通过小小成就建立的信心，会对他们继续学习的意愿产生持久影响。",
+      "distractors": [
+        "只要关注考试分数，就一定能培养学生的学习信心。",
+        "学生通过考试成绩发现家长不愿继续学习。",
+        "家长注意到，只要学生取得一点成绩，他们便不再需要建立学习信心。"
+      ],
+      "words": [
+        [
+          "achievement",
+          "成就",
+          "n."
+        ],
+        [
+          "lasting",
+          "持久的",
+          "adj."
+        ],
+        [
+          "willingness",
+          "意愿",
+          "n."
+        ]
+      ],
+      "analysis": "who focus... 修饰 Parents，主句谓语 may fail to notice；that 从句中 the confidence 后省略了关系代词 that/which，students develop... 对 confidence 作后置修饰。",
+      "roleExplanations": {
+        "s": "Parents 是主句主语；who focus only on examination scores 只是指出哪一类家长。",
+        "v": "may fail to notice 是带情态动词的完整主句谓语，意思是“可能没注意到”。",
+        "o": "that the confidence... can have... 整个是 notice 的宾语从句；students develop... 又修饰 confidence。",
+        "m": "who focus only on examination scores 修饰 Parents，不是句子的主句动作。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "主句主语",
+          "text": "Parents",
+          "explanation": "Parents 为主语，其后跟限制性定语从句，指出只注重考试成绩的家长。"
+        },
+        {
+          "kind": "第一层定语从句",
+          "text": "who focus only on examination scores",
+          "explanation": "who 指 Parents，focus 为从句谓语，only 限定程度；on examination scores 为介词短语说明关注对象。"
+        },
+        {
+          "kind": "主句谓语短语",
+          "text": "may fail to notice",
+          "explanation": "may 表可能，fail to notice 表未能注意到，整个短语表达主句动作。"
+        },
+        {
+          "kind": "that 宾语从句",
+          "text": "that the confidence students develop through small achievements can have a lasting effect on their willingness to keep learning.",
+          "explanation": "that 引出未能注意到的事实；内部主语中心为 the confidence，谓语为 can have。"
+        },
+        {
+          "kind": "省略关系代词的定语从句",
+          "text": "students develop through small achievements",
+          "explanation": "修饰 confidence，可补上 that/which；students 是内部主语，develop 为谓语，through small achievements 说明信心如何建立。"
+        },
+        {
+          "kind": "从句主要谓宾",
+          "text": "can have a lasting effect",
+          "explanation": "can have 为 that 从句谓语，a lasting effect 为宾语，表示产生持久影响。"
+        },
+        {
+          "kind": "effect 后的 on 短语",
+          "text": "on their willingness to keep learning.",
+          "explanation": "on 指出影响发生在继续学习的意愿上；其内部 to keep learning 是修饰 willingness 的不定式。"
+        },
+        {
+          "kind": "内部不定式",
+          "text": "to keep learning.",
+          "explanation": "to keep learning 说明愿意继续做什么，learning 是 keep 后的动名词。"
+        }
+      ],
+      "acceptedTargets": {
+        "s": [
+          "Parents who focus only on examination scores"
+        ],
+        "m": [
+          "students develop through small achievements"
+        ]
+      }
+    },
+    {
+      "id": 16,
+      "level": 2,
+      "title": "研究结论",
+      "sentence": "The discovery of new evidence has encouraged researchers to reconsider whether their previous conclusions were correct.",
+      "targets": {
+        "v": "has encouraged",
+        "s": "The discovery of new evidence",
+        "o": "researchers",
+        "k": "to reconsider whether their previous conclusions were correct."
+      },
+      "main": "The discovery of new evidence has encouraged researchers to reconsider whether their previous conclusions were correct.",
+      "meaning": "新证据的发现促使研究人员重新考虑他们先前的结论是否正确。",
+      "distractors": [
+        "研究人员发现新的证据已完全证明旧结论正确。",
+        "新证据使研究人员决定不再检查他们原来的结论。",
+        "研究人员因没有发现任何新证据而拒绝重新审视之前的结论。"
+      ],
+      "words": [
+        [
+          "evidence",
+          "证据",
+          "n."
+        ],
+        [
+          "reconsider",
+          "重新考虑",
+          "v."
+        ],
+        [
+          "conclusion",
+          "结论",
+          "n."
+        ]
+      ],
+      "analysis": "主语是 The discovery of new evidence，主句谓语是 has encouraged。researchers 是受鼓励的对象，to reconsider... 是其后的不定式补足语，其中 whether... 是 reconsider 的宾语从句。",
+      "roleExplanations": {
+        "s": "The discovery of new evidence 是发现这一事件整体作主语，而不是后面的 researchers。",
+        "v": "has encouraged 是现在完成时主句谓语，表达“已经促使”；reconsider 不承担主句时态。",
+        "o": "has encouraged 的宾语是 researchers（受鼓励的人）；不定式 to reconsider... 补充说明鼓励他们做什么。",
+        "k": "to reconsider... 补充说明宾语 researchers 被鼓励做什么，是不定式作宾语补足语。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "主语名词短语",
+          "text": "The discovery of new evidence",
+          "explanation": "The discovery 作主语中心，of new evidence 修饰 discovery，说明发现了什么证据。"
+        },
+        {
+          "kind": "谓语",
+          "text": "has encouraged",
+          "explanation": "现在完成时谓语，表示这项发现已经鼓励了研究人员。"
+        },
+        {
+          "kind": "宾语",
+          "text": "researchers",
+          "explanation": "researchers 是受到鼓励的人，为 has encouraged 的宾语。"
+        },
+        {
+          "kind": "不定式宾语补足语",
+          "text": "to reconsider whether their previous conclusions were correct.",
+          "explanation": "to reconsider... 说明 researchers 受到鼓励后去做什么；句中的 n 与 k 指向同一不定式，可同时描述形式与句法作用。"
+        },
+        {
+          "kind": "内层 whether 宾语从句",
+          "text": "whether their previous conclusions were correct.",
+          "explanation": "whether... 是 reconsider 的宾语从句，表示重新考虑原先结论是否正确；were 为系动词，correct 是表语。"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "level": 3,
+      "title": "科学家的意外发现",
+      "sentence": "Scientists who carefully examine the data collected from experiments often discover that results which initially seem disappointing can provide useful clues about problems that researchers had not expected.",
+      "targets": {
+        "v": "discover",
+        "s": "Scientists",
+        "o": "that results which initially seem disappointing can provide useful clues about problems that researchers had not expected.",
+        "m": "who carefully examine the data collected from experiments"
+      },
+      "main": "Scientists often discover that results which initially seem disappointing can provide useful clues about problems that researchers had not expected.",
+      "meaning": "认真分析实验数据的科学家常常发现，那些起初看似令人失望的结果，可能为研究人员未曾预料到的问题提供有用线索。",
+      "distractors": [
+        "科学家发现失望的实验结果通常毫无价值。",
+        "研究人员通常会预料到所有实验结果，因此不需要分析数据。",
+        "科学家发现，令人失望的实验结果通常意味着原先预料的问题已经解决。"
+      ],
+      "words": [
+        [
+          "examine",
+          "仔细研究",
+          "v."
+        ],
+        [
+          "initially",
+          "最初",
+          "adv."
+        ],
+        [
+          "clue",
+          "线索",
+          "n."
+        ]
+      ],
+      "analysis": "主句 Scientists discover that...；who 修饰 Scientists；宾语从句中 which initially... 修饰 results，that researchers had not expected 修饰 problems。",
+      "roleExplanations": {
+        "s": "Scientists 是主语中心词；who carefully examine... 限定科学家种类。",
+        "v": "discover 为主句谓语；seem、can provide、had not expected 都位于嵌套从句。",
+        "o": "that results... can provide... 是 discover 的宾语从句，其中 which... 修饰 results，另一个 that... 修饰 problems。",
+        "m": "who carefully examine the data collected from experiments 修饰 Scientists，collected... 又修饰 data。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "主句主语",
+          "text": "Scientists",
+          "explanation": "Scientists 是外层主句主语，后面的 who... 只限定科学家的类型。"
+        },
+        {
+          "kind": "第一层定语从句",
+          "text": "who carefully examine the data collected from experiments",
+          "explanation": "who 指 Scientists，examine 为从句谓语，the data 为宾语，carefully 是方式状语。"
+        },
+        {
+          "kind": "定语从句内分词修饰",
+          "text": "collected from experiments",
+          "explanation": "collected 是过去分词后置定语，修饰 the data；from experiments 交代数据来源。"
+        },
+        {
+          "kind": "主句谓语",
+          "text": "often discover",
+          "explanation": "often 是频率状语，discover 才是外层主句谓语。"
+        },
+        {
+          "kind": "宾语从句",
+          "text": "that results which initially seem disappointing can provide useful clues about problems that researchers had not expected.",
+          "explanation": "that... 整体作 discover 的宾语；results 为此从句主语，can provide 为此从句谓语。"
+        },
+        {
+          "kind": "嵌套修饰 results 的从句",
+          "text": "which initially seem disappointing",
+          "explanation": "which 指 results，seem 为系动词，disappointing 为表语，initially 为时间状语。"
+        },
+        {
+          "kind": "从句内部谓宾",
+          "text": "can provide useful clues",
+          "explanation": "can provide 为 that 从句谓语，useful clues 为宾语。"
+        },
+        {
+          "kind": "修饰 clues 的 about 短语",
+          "text": "about problems that researchers had not expected.",
+          "explanation": "about... 修饰 clues，说明关于哪些问题的线索；内部还有定语从句。"
+        },
+        {
+          "kind": "最内层定语从句",
+          "text": "that researchers had not expected.",
+          "explanation": "that 修饰 problems，在从句内作宾语；researchers 是主语，had not expected 为过去完成时否定谓语。"
+        }
+      ],
+      "acceptedTargets": {
+        "s": [
+          "Scientists who carefully examine the data collected from experiments"
+        ],
+        "m": [
+          "which initially seem disappointing",
+          "that researchers had not expected."
+        ]
+      }
+    },
+    {
+      "id": 19,
+      "level": 3,
+      "title": "考试焦虑与教学",
+      "sentence": "As students who are preparing for important examinations become increasingly anxious about their results, teachers who understand how stress affects learning may encourage them to focus on strategies that improve long-term memory.",
+      "targets": {
+        "v": "may encourage",
+        "s": "teachers",
+        "o": "them",
+        "m": "who understand how stress affects learning",
+        "x": "As students who are preparing for important examinations become increasingly anxious about their results,",
+        "k": "to focus on strategies that improve long-term memory."
+      },
+      "main": "teachers may encourage them to focus on strategies that improve long-term memory.",
+      "meaning": "随着备考学生越来越担心自己的成绩，了解压力如何影响学习的教师可能会鼓励他们关注有助于长期记忆的策略。",
+      "distractors": [
+        "老师鼓励学生把全部时间花在担心考试成绩上。",
+        "考试压力与记忆毫无关系，所以老师无需调整策略。",
+        "由于学生备考压力减轻，教师鼓励他们放弃有助于长期记忆的学习策略。"
+      ],
+      "words": [
+        [
+          "increasingly",
+          "越来越",
+          "adv."
+        ],
+        [
+          "anxious",
+          "焦虑的",
+          "adj."
+        ],
+        [
+          "strategy",
+          "策略",
+          "n."
+        ],
+        [
+          "long-term",
+          "长期的",
+          "adj."
+        ]
+      ],
+      "analysis": "As... 是句首状语从句，说明背景变化，里面有 who are preparing...；主句的主语是 teachers，who understand how... 修饰 teachers。主句谓语 may encourage，宾语与补足内容为 them to focus...。",
+      "roleExplanations": {
+        "s": "主句主语是 teachers；句首 As... 有另一组 students，不能把它当成鼓励者。",
+        "v": "may encourage 是情态动词+动词原形组成的主句谓语；As 从句中的 become 是另一层。",
+        "o": "encourage 的宾语是 them（那些学生），to focus... 是补充说明他们应做的动作的宾语补足语。",
+        "m": "who understand how stress affects learning 修饰 teachers；how... 是 understand 的宾语从句。",
+        "x": "As students... become increasingly anxious... 提供背景变化，与 teachers may encourage 对应。",
+        "k": "to focus on ... 是宾语补足语，说明 them 被鼓励做的事情；不是 encourage 的直接宾语。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "句首 As 状语从句",
+          "text": "As students who are preparing for important examinations become increasingly anxious about their results,",
+          "explanation": "As 在本句表示随着情况变化；这一长段是主句背景，并非主句的主语。"
+        },
+        {
+          "kind": "状语从句主语及其定语从句",
+          "text": "students who are preparing for important examinations",
+          "explanation": "students 是状语从句主语；who are preparing... 说明是哪类学生，for important examinations 指备考对象。"
+        },
+        {
+          "kind": "状语从句的系表",
+          "text": "become increasingly anxious about their results,",
+          "explanation": "become 是从句系动词，anxious 是表语，increasingly 表示程度加深，about their results 说明焦虑对象。"
+        },
+        {
+          "kind": "主句主语",
+          "text": "teachers",
+          "explanation": "teachers 为主句主语，后跟定语从句补充教师特点。"
+        },
+        {
+          "kind": "修饰 teachers 的定语从句",
+          "text": "who understand how stress affects learning",
+          "explanation": "who 为从句主语，understand 为谓语；内层 how... 作 understand 的宾语。"
+        },
+        {
+          "kind": "内层宾语从句",
+          "text": "how stress affects learning",
+          "explanation": "how 引导间接疑问宾语从句；stress 是主语，affects 为谓语，learning 是宾语。"
+        },
+        {
+          "kind": "主句谓宾",
+          "text": "may encourage them",
+          "explanation": "may encourage 为主句谓语，them 指学生，是宾语。"
+        },
+        {
+          "kind": "宾语补足不定式",
+          "text": "to focus on strategies that improve long-term memory.",
+          "explanation": "to focus... 作 them 的宾语补足语，说明鼓励他们去关注什么。"
+        },
+        {
+          "kind": "on 后的定语从句",
+          "text": "on strategies that improve long-term memory.",
+          "explanation": "on 引出 focus 的对象 strategies；that improve... 是修饰 strategies 的定语从句，long-term memory 为 improve 的宾语。"
+        }
+      ],
+      "acceptedTargets": {
+        "s": [
+          "teachers who understand how stress affects learning"
+        ],
+        "m": [
+          "who are preparing for important examinations",
+          "that improve long-term memory."
+        ]
+      }
+    },
+    {
+      "id": 20,
+      "level": 3,
+      "title": "阅读困难的真正原因",
+      "sentence": "Students who find it difficult to understand what they read often assume that the problem lies in their limited vocabulary, when in fact their inability to identify how different parts of a sentence are connected may be equally important.",
+      "targets": {
+        "v": "assume",
+        "s": "Students",
+        "o": "that the problem lies in their limited vocabulary,",
+        "m": "who find it difficult to understand what they read"
+      },
+      "main": "Students often assume that the problem lies in their limited vocabulary.",
+      "meaning": "那些难以理解阅读内容的学生往往以为问题在于词汇量有限，但实际上，无法识别句子不同部分之间的联系也可能是同样重要的原因。",
+      "distractors": [
+        "学生认为句子结构完全不重要，只需要多背单词。",
+        "学生发现只要扩大词汇量就能自动理解所有复杂句。",
+        "阅读困难的学生发现，理解复杂句仅取决于词汇量，与句间关系无关。"
+      ],
+      "words": [
+        [
+          "assume",
+          "假定；认为",
+          "v."
+        ],
+        [
+          "lie in",
+          "在于",
+          "v. phr."
+        ],
+        [
+          "inability",
+          "缺乏……的能力",
+          "n."
+        ],
+        [
+          "identify",
+          "识别",
+          "v."
+        ]
+      ],
+      "analysis": "主句 Students assume that...；who find it difficult... 修饰 Students，其中 what they read 是 understand 的宾语从句。句尾 when in fact 引出对比性补充，里面 how different parts... 又作 identify 的宾语从句。",
+      "roleExplanations": {
+        "s": "主语中心词 Students，who find it difficult... 限定这些学生；what they read 在从句内部。",
+        "v": "assume 是主句谓语“认为”；find、read、lies、identify 都处于定语或宾语从句。",
+        "o": "that the problem lies in their limited vocabulary 是 assume 的宾语从句；句尾 when in fact 提出另一种可能性。",
+        "m": "who find it difficult to understand what they read 修饰 Students，其中 it 是形式宾语结构的一部分。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "主句主语及定语从句",
+          "text": "Students who find it difficult to understand what they read",
+          "explanation": "Students 是外层主句主语；who... 修饰 students，说明这些学生的特征。"
+        },
+        {
+          "kind": "定语从句内形式宾语结构",
+          "text": "who find it difficult to understand what they read",
+          "explanation": "who 在从句中作主语，find 为谓语；it 为形式宾语，difficult 作宾语补足语，真正内容是 to understand...。"
+        },
+        {
+          "kind": "真正宾语：不定式",
+          "text": "to understand what they read",
+          "explanation": "to understand... 是 find it difficult 结构中被后置的真正宾语，说明理解读到的东西有困难。"
+        },
+        {
+          "kind": "内层 what 宾语从句",
+          "text": "what they read",
+          "explanation": "what 引导 understand 的宾语从句并在从句内作 read 的宾语，they 为从句主语。"
+        },
+        {
+          "kind": "主句谓语及宾语从句",
+          "text": "often assume that the problem lies in their limited vocabulary,",
+          "explanation": "often 修饰 assume；that... 是 assume 的宾语从句，the problem 是从句主语，lies in 表示问题在于。"
+        },
+        {
+          "kind": "in 介词短语",
+          "text": "in their limited vocabulary,",
+          "explanation": "lies in 表“问题在于”；in 后接 their limited vocabulary，说明被认为的问题来源。"
+        },
+        {
+          "kind": "句尾对比/纠正补充",
+          "text": "when in fact their inability to identify how different parts of a sentence are connected may be equally important.",
+          "explanation": "when in fact 引出与前面想法相对照的实际情况，表示事实上另一种能力不足同样重要。"
+        },
+        {
+          "kind": "后半句主语与名词内不定式",
+          "text": "their inability to identify how different parts of a sentence are connected",
+          "explanation": "inability 是后半句主语中心；to identify... 补充不能做到什么，内部有 how 从句。"
+        },
+        {
+          "kind": "how 宾语从句",
+          "text": "how different parts of a sentence are connected",
+          "explanation": "how... 是 identify 的宾语；different parts of a sentence 作从句主语，are connected 为被动谓语，说明句子各部分如何相互联系。"
+        },
+        {
+          "kind": "后半句系表",
+          "text": "may be equally important.",
+          "explanation": "may be 为情态系动词，equally important 是表语，表示这方面能力同样重要。"
+        }
+      ],
+      "acceptedTargets": {
+        "s": [
+          "Students who find it difficult to understand what they read"
+        ]
+      }
+    },
+    {
+      "id": 21,
+      "level": 4,
+      "title": "环保决策中的长距离并列",
+      "sentence": "Although the committee, whose earlier recommendations had been dismissed as impractical, acknowledged that the proposed restrictions would impose costs on small businesses, it rejected the assumption that delaying action would protect those businesses and called for measures that could be adjusted as new evidence emerged.",
+      "targets": {
+        "v": "rejected",
+        "v2": "called for",
+        "s": "it",
+        "o": "the assumption that delaying action would protect those businesses",
+        "m": "whose earlier recommendations had been dismissed as impractical,",
+        "x": "Although the committee, whose earlier recommendations had been dismissed as impractical, acknowledged that the proposed restrictions would impose costs on small businesses,",
+        "n": "delaying action"
+      },
+      "main": "it rejected the assumption ... and called for measures ...",
+      "meaning": "尽管委员会承认拟议的限制措施会给小企业带来成本，而且它此前的建议曾被认为不切实际，但委员会否定了“推迟行动就能保护这些企业”的假设，并呼吁采取能够随新证据调整的措施。",
+      "distractors": [
+        "委员会认为推迟行动能保护小企业，因此撤回了限制措施。",
+        "委员会虽然承认新措施会带来成本，却只拒绝了之前的建议，没有提出后续措施。",
+        "委员会提出让小企业自行承担所有成本，并认为新证据不会改变措施。"
+      ],
+      "words": [
+        [
+          "impractical",
+          "不切实际的",
+          "adj."
+        ],
+        [
+          "acknowledge",
+          "承认",
+          "v."
+        ],
+        [
+          "restriction",
+          "限制措施",
+          "n."
+        ],
+        [
+          "impose",
+          "施加（负担、成本）",
+          "v."
+        ],
+        [
+          "assumption",
+          "假设",
+          "n."
+        ]
+      ],
+      "analysis": "整句分为 Although 让步从句与 it 开头的主句。让步从句内部 whose ... 修饰 committee；acknowledged 后 that ... 是其宾语从句。主句 it 指 committee，rejected 与 and called for 是相隔较远的并列谓语，不可将 although 从句的 acknowledged 错当主句动词。rejected 的宾语为 the assumption，后置 that delaying action would protect those businesses 是说明 assumption 内容的同位语从句；called for 是要求/呼吁的动词短语，for 属动词搭配，后面 measures 是其支配对象。measures 后 that ... 是定语从句，其中 as new evidence emerged 是时间/随情况变化状语从句。",
+      "roleExplanations": {
+        "v": "rejected 是 it 的第一组主句谓语；acknowledged 属于 Although 让步从句，had been dismissed 属于 whose 定语从句。",
+        "v2": "called for 是与 rejected 共享主语 it 的第二组并列谓语；for 与 call 构成“呼吁、要求”的固定搭配，不能误当独立宾语。",
+        "s": "it 指前文的 the committee，是主句主语；Although 从句中的 the committee 只充当从句主语。",
+        "o": "the assumption that... 整体作 rejected 的宾语；其中 that... 解释假设内容，不是修饰某个措施的定语从句。",
+        "m": "whose earlier recommendations had been dismissed as impractical 修饰 committee；whose 作 recommendations 的限定词，had been dismissed 为被动完成时谓语。",
+        "x": "Although 到 small businesses 的整段是让步状语从句；里面的 acknowledged 是从句谓语而非主句谓语。",
+        "n": "delaying action 是动名词短语，作同位语从句内 would protect 的主语，不承担独立时态。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "让步状语从句",
+          "text": "Although the committee, whose earlier recommendations had been dismissed as impractical, acknowledged that the proposed restrictions would impose costs on small businesses,",
+          "explanation": "Although 引导让步，承认成本并不意味着接受“延迟更好”的结论；内部包含定语从句和 acknowledged 的宾语从句。"
+        },
+        {
+          "kind": "whose 定语从句",
+          "text": "whose earlier recommendations had been dismissed as impractical,",
+          "explanation": "whose 表委员会的，recommendations 是从句主语，had been dismissed 是被动谓语，as impractical 说明被认定的性质。"
+        },
+        {
+          "kind": "that 宾语从句",
+          "text": "that the proposed restrictions would impose costs on small businesses,",
+          "explanation": "that 是 acknowledged 的宾语从句引导词；impose costs on ... 表示给……施加成本，on small businesses 是 impose 的对象搭配。"
+        },
+        {
+          "kind": "主句第一谓语与宾语",
+          "text": "it rejected the assumption that delaying action would protect those businesses",
+          "explanation": "it 指 committee；rejected 是第一组谓语；the assumption 为宾语中心词，后面 that 从句说明假设内容。"
+        },
+        {
+          "kind": "名词后的同位语从句",
+          "text": "that delaying action would protect those businesses",
+          "explanation": "that 在同位语从句内不作成分；delaying action 为动名词主语，would protect 为从句谓语，those businesses 为宾语。"
+        },
+        {
+          "kind": "长距离第二并列谓语",
+          "text": "and called for measures",
+          "explanation": "and 与 rejected 并列而非与从句里的 would protect 并列；call for 构成“呼吁、要求”的动词短语，measures 是其宾语性补足对象。"
+        },
+        {
+          "kind": "measures 定语从句",
+          "text": "that could be adjusted as new evidence emerged.",
+          "explanation": "that 充当定语从句主语，could be adjusted 是被动谓语，as new evidence emerged 表示随新证据出现而调整。"
+        }
+      ],
+      "acceptedTargets": {
+        "v2": [
+          "called"
+        ],
+        "m": [
+          "that could be adjusted as new evidence emerged."
+        ],
+        "x": [
+          "as new evidence emerged."
+        ],
+        "o": [
+          "the assumption"
+        ]
+      }
+    },
+    {
+      "id": 23,
+      "level": 4,
+      "title": "相关性与因果性的两层限制",
+      "sentence": "Because the pattern persisted even after the researchers had controlled for differences in age and income, the finding was treated as evidence of a connection between the two behaviors, although it remained unclear whether either behavior was responsible for the other.",
+      "targets": {
+        "v": "was treated",
+        "s": "the finding",
+        "c": "as evidence of a connection between the two behaviors,",
+        "x": "Because the pattern persisted even after the researchers had controlled for differences in age and income,",
+        "r": "for differences in age and income,"
+      },
+      "main": "the finding was treated as evidence of a connection between the two behaviors.",
+      "meaning": "由于研究人员即使控制了年龄和收入差异，这种模式仍然存在，因此该发现被视为两种行为存在联系的证据；不过究竟哪一种行为导致了另一种行为仍不明确。",
+      "distractors": [
+        "年龄和收入差异完全解释了两种行为之间的联系，因此研究人员否认两者存在关联。",
+        "研究发现既证明了两种行为有关，也确定了其中哪一种是另一种的原因。",
+        "两种行为的联系只存在于研究人员没有控制年龄和收入的情况下。"
+      ],
+      "words": [
+        [
+          "persist",
+          "持续存在",
+          "v."
+        ],
+        [
+          "control for",
+          "控制（变量）",
+          "v. phr."
+        ],
+        [
+          "behavior",
+          "行为",
+          "n."
+        ],
+        [
+          "responsible for",
+          "是……的原因",
+          "adj. phr."
+        ]
+      ],
+      "analysis": "Because 引出原因状语，内部 even after 是让步色彩的时间从句，had controlled for 是完整动词搭配，for 后 differences 为介词宾语。主句 the finding was treated 是被动谓语；as evidence... 为被认定的内容补足语，其中 of a connection 与 between the two behaviors 层层修饰 evidence。末尾 although 再加让步限制：it remained unclear 是从句主系表结构，whether either behavior was responsible for the other 是解释 unclear 的内容从句，不足以确定因果方向。",
+      "roleExplanations": {
+        "v": "was treated 是主句被动谓语，persisted、had controlled、remained 均是其他从句中的谓语。",
+        "s": "the finding 为主句主语；句首 the pattern 为 Because 从句的主语。",
+        "c": "as evidence ... 是 treated 的补足成分，说明发现被看作什么，不是 treat 的直接宾语。",
+        "x": "Because the pattern persisted even after... 解释为何这种发现被重视；even after 子句嵌套其中。",
+        "r": "for differences in age and income 跟在 controlled 后，control for 意为在分析中控制某些变量；for 后 differences 为介词宾语。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "外层原因从句",
+          "text": "Because the pattern persisted even after the researchers had controlled for differences in age and income,",
+          "explanation": "Because 引导原因；pattern persisted 的结论仍然成立，即使 researchers 已控制可能的混杂因素。"
+        },
+        {
+          "kind": "even after 嵌套时间从句",
+          "text": "even after the researchers had controlled for differences in age and income,",
+          "explanation": "after 引导时间从句，even 强调“甚至在……之后”；had controlled 为过去完成时，for 是与 control 搭配的介词。"
+        },
+        {
+          "kind": "for 的功能",
+          "text": "for differences in age and income,",
+          "explanation": "control for 指将年龄与收入差异纳入控制，in age and income 修饰 differences。"
+        },
+        {
+          "kind": "主句被动与补足",
+          "text": "the finding was treated as evidence of a connection between the two behaviors,",
+          "explanation": "the finding 为主语；was treated 为被动谓语；as evidence 表被认定的角色，of ... 与 between ... 补足证据指向何种联系。"
+        },
+        {
+          "kind": "末尾让步从句",
+          "text": "although it remained unclear whether either behavior was responsible for the other.",
+          "explanation": "although 限制上面的结论：存在联系不等于确定因果。it 是形式主语，remained 是系动词，unclear 为表语；whether... 交代不明确的内容。"
+        },
+        {
+          "kind": "whether 内容从句",
+          "text": "whether either behavior was responsible for the other.",
+          "explanation": "whether 表是否；either behavior 为主语，was responsible for 是系表＋介词搭配，for the other 指另一种行为。"
+        }
+      ],
+      "acceptedTargets": {
+        "x": [
+          "although it remained unclear whether either behavior was responsible for the other."
+        ],
+        "r": [
+          "as evidence of a connection between the two behaviors,"
+        ]
+      }
+    },
+    {
+      "id": 24,
+      "level": 4,
+      "title": "数字平台与形式宾语",
+      "sentence": "The platform, which was introduced to make public services easier to access and was praised by officials who expected it to reduce administrative costs, has instead made it harder for people without reliable internet access to obtain the assistance to which they are entitled.",
+      "targets": {
+        "v": "has instead made",
+        "s": "The platform,",
+        "o": "it",
+        "k": "harder",
+        "m": "which was introduced to make public services easier to access and was praised by officials who expected it to reduce administrative costs,",
+        "n": "to obtain the assistance to which they are entitled.",
+        "r": "without reliable internet access"
+      },
+      "main": "The platform has instead made it harder for people ... to obtain the assistance ...",
+      "meaning": "这个平台原本为了让公共服务更易获取而推出，也曾受到期望它降低行政成本的官员称赞，但它反而让那些没有稳定互联网连接的人更难获得自己本来有权享有的援助。",
+      "distractors": [
+        "平台虽然降低了行政成本，但官员因为公众无法使用它而拒绝支持。",
+        "平台使没有网络的人更容易取得援助，却让拥有网络的人更难获取服务。",
+        "官员推出平台的主要目的是限制公众应得的援助，而不是简化服务。"
+      ],
+      "words": [
+        [
+          "administrative",
+          "行政管理的",
+          "adj."
+        ],
+        [
+          "reliable",
+          "可靠的",
+          "adj."
+        ],
+        [
+          "entitled",
+          "有权享有……的",
+          "adj."
+        ],
+        [
+          "assistance",
+          "援助",
+          "n."
+        ]
+      ],
+      "analysis": "The platform 是主句主语，which... 是很长的非限制性定语从句，内部 was introduced 与 was praised 并列，共用 which；officials 后还有 who expected it to reduce administrative costs 嵌套定语从句，expected 的宾语 it 指平台，to reduce 作宾补。主句谓语 has instead made；it 是形式宾语，harder 是宾语补足语，真正需要理解的是 for people ... to obtain...。without reliable internet access 修饰 people，to which they are entitled 是介词前置的定语从句，修饰 assistance。",
+      "roleExplanations": {
+        "v": "has instead made 为主句现在完成时谓语；定语从句中的 was introduced、was praised、expected 不是外层谓语。",
+        "s": "The platform 为主句主语，后面的 which 大段修饰平台，不另起主句。",
+        "o": "it 是 made 的形式宾语，真正的动作内容由后面的 for people ... to obtain ... 表示，不应把后面一整段当宾补。",
+        "k": "harder 是 made it harder 中说明 it 所代表事情难度的宾语补足语，不是动词直接宾语。",
+        "m": "which... costs 为非限制性定语从句，内含 was introduced 与 was praised 两个并列谓语，以及 who expected... 再一层定语从句。",
+        "n": "to obtain the assistance ... 是 for people 逻辑主语所要完成的动作，和 harder 构成难度结构，不是主句谓语。",
+        "r": "without reliable internet access 修饰 people，说明谁更难获取援助；without 的宾语是 reliable internet access。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "主语与非限制性定语从句",
+          "text": "The platform, which was introduced to make public services easier to access and was praised by officials who expected it to reduce administrative costs,",
+          "explanation": "which 引导补充说明平台的定语从句，内部有 was introduced 与 was praised 两组被动谓语，均归属于 which 而非外层。"
+        },
+        {
+          "kind": "第一个目的不定式",
+          "text": "to make public services easier to access",
+          "explanation": "to make 表推出平台的目的；public services 为 make 的宾语，easier 为宾补，to access 补充说明服务更容易获取。"
+        },
+        {
+          "kind": "嵌套 who 定语从句",
+          "text": "who expected it to reduce administrative costs,",
+          "explanation": "who 指 officials，expected 是谓语；it 是 expected 的宾语，to reduce administrative costs 是宾补，说明官员对平台的预期。"
+        },
+        {
+          "kind": "外层现在完成时",
+          "text": "has instead made it harder",
+          "explanation": "has made 为主句谓语，instead 表与预期相反；it 形式宾语，harder 宾补。"
+        },
+        {
+          "kind": "for 的逻辑主语",
+          "text": "for people without reliable internet access",
+          "explanation": "for 引出不定式 to obtain 的逻辑主语 people，without... 是修饰 people 的介词短语。"
+        },
+        {
+          "kind": "难度结构中的不定式",
+          "text": "to obtain the assistance to which they are entitled.",
+          "explanation": "to obtain 为非谓语，说明变难的事情；assistance 为 obtain 的宾语。"
+        },
+        {
+          "kind": "介词前置的定语从句",
+          "text": "to which they are entitled.",
+          "explanation": "which 指 assistance，to 来自 be entitled to，整段说明人们依法/按资格有权获取的援助。"
+        }
+      ],
+      "acceptedTargets": {
+        "m": [
+          "who expected it to reduce administrative costs,",
+          "to which they are entitled."
+        ]
+      }
+    },
+    {
+      "id": 25,
+      "level": 4,
+      "title": "not only 与跨从句并列谓语",
+      "sentence": "The report that the advisory panel had prepared after months of consultation not only questioned whether the figures on which the policy relied were accurate but also proposed a method for collecting evidence that could be checked independently before any decision was made.",
+      "targets": {
+        "v": "questioned",
+        "v2": "proposed",
+        "s": "The report",
+        "o": "whether the figures on which the policy relied were accurate",
+        "m": "that the advisory panel had prepared after months of consultation",
+        "r": "for collecting evidence that could be checked independently",
+        "x": "before any decision was made."
+      },
+      "main": "The report questioned whether the figures were accurate and proposed a method for collecting evidence.",
+      "meaning": "咨询数月后由顾问小组编写的报告不仅质疑该政策所依赖的数据是否准确，还提出了一种收集可供独立核查的证据的方法，以便在作出决定之前进行审查。",
+      "distractors": [
+        "顾问小组认为政策所依赖的所有数字都准确，因此只建议立即作出决定。",
+        "报告质疑数据，但并没有提出任何改进证据收集的办法。",
+        "报告提出先作出决定，之后再决定是否需要独立核查证据。"
+      ],
+      "words": [
+        [
+          "advisory panel",
+          "顾问小组",
+          "n. phr."
+        ],
+        [
+          "consultation",
+          "征询意见；磋商",
+          "n."
+        ],
+        [
+          "independently",
+          "独立地",
+          "adv."
+        ],
+        [
+          "rely on",
+          "依赖",
+          "v. phr."
+        ]
+      ],
+      "analysis": "主语中心词 The report，后接 that...prepared 修饰。not only 与 but also 跨越整段 whether 宾语从句，将 questioned 和 proposed 并列为两组主句谓语。whether figures ... were accurate 整体是 questioned 的宾语；on which the policy relied 是介词 on 前置的定语从句，修饰 figures，来自 rely on。proposed 的直接宾语是 a method；for collecting evidence... 修饰 method，其中 collecting 是动名词，that could be checked independently 修饰 evidence，before... 是更内层时间状语从句。",
+      "roleExplanations": {
+        "v": "questioned 是 report 的第一组谓语；从句里 relied 和 were 不是外层谓语。",
+        "v2": "proposed 是和 questioned 由 not only ... but also ... 连接的第二组谓语，共用 the report 为主语。",
+        "s": "The report 为主句主语中心，后面 that the advisory panel ... 为定语从句；advisory panel 是从句主语。",
+        "o": "whether ... accurate 是 questioned 的宾语从句；whether 表是否，figures 为该从句主语，were accurate 为系表。",
+        "m": "that the advisory panel had prepared after months of consultation 修饰 report；that 在定语从句内充当 prepared 的宾语。",
+        "r": "for collecting evidence... 修饰 proposed 的 method，for 是用途介词，collecting 为动名词，evidence 为其宾语。",
+        "x": "before any decision was made 是时间状语从句，说明独立核查与最终决策的先后关系。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "主语后的定语从句",
+          "text": "that the advisory panel had prepared after months of consultation",
+          "explanation": "that 回指 report，作 prepared 的宾语；after months of consultation 表编写报告前经历的磋商时间。"
+        },
+        {
+          "kind": "两组主句谓语",
+          "text": "not only questioned",
+          "explanation": "not only 标出第一组谓语 questioned，后面的 but also proposed 才是与它并列的第二组主句谓语。"
+        },
+        {
+          "kind": "whether 宾语从句",
+          "text": "whether the figures on which the policy relied were accurate",
+          "explanation": "whether 引出被质疑的内容，the figures 为主语，were accurate 为系表；中间嵌入 on which 定语从句。"
+        },
+        {
+          "kind": "介词前置的定语从句",
+          "text": "on which the policy relied",
+          "explanation": "which 指 figures，on 是 rely on 的介词，the policy 为此从句主语，relied 为谓语。"
+        },
+        {
+          "kind": "并列第二谓语及宾语",
+          "text": "but also proposed a method",
+          "explanation": "but also 与 not only 呼应，proposed 是第二谓语，a method 为其直接宾语。"
+        },
+        {
+          "kind": "for 用途短语",
+          "text": "for collecting evidence that could be checked independently",
+          "explanation": "for 引入方法的用途，collecting 是动名词，that could be checked independently 修饰 evidence，为被动定语从句。"
+        },
+        {
+          "kind": "before 时间从句",
+          "text": "before any decision was made.",
+          "explanation": "before 引导时间状语从句，any decision 为从句主语，was made 为被动谓语，强调在决定作出前核查。"
+        }
+      ],
+      "acceptedTargets": {
+        "m": [
+          "on which the policy relied",
+          "that could be checked independently"
+        ],
+        "r": [
+          "on which the policy relied"
+        ]
+      }
+    },
+    {
+      "id": 26,
+      "level": 4,
+      "title": "主语内容从句与选择偏差",
+      "sentence": "That children who performed well on the initial test were more likely to succeed later did not establish that the training itself was effective, since families who volunteered for the programme differed in important ways from those who did not, particularly in the resources with which they could support learning at home.",
+      "targets": {
+        "v": "did not establish",
+        "s": "That children who performed well on the initial test were more likely to succeed later",
+        "o": "that the training itself was effective,",
+        "m": "who performed well on the initial test",
+        "x": "since families who volunteered for the programme differed in important ways from those who did not, particularly in the resources with which they could support learning at home.",
+        "r": "from those who did not,"
+      },
+      "main": "That children ... succeeded later did not establish that the training itself was effective.",
+      "meaning": "最初测试表现好的儿童后来更可能取得成功，并不能证明训练本身有效，因为自愿参加该项目的家庭在重要方面与未参加的家庭有所不同，尤其是其能够用来支持孩子在家学习的资源不同。",
+      "distractors": [
+        "孩子初测成绩越好，就越能证明训练是他们成功的直接原因。",
+        "未参与该项目的家庭与参与者完全相同，因此研究已经排除了选择偏差。",
+        "由于家庭背景有差异，研究确认训练对儿童的后续表现毫无影响。"
+      ],
+      "words": [
+        [
+          "establish",
+          "证实；确立",
+          "v."
+        ],
+        [
+          "initial",
+          "最初的",
+          "adj."
+        ],
+        [
+          "volunteer for",
+          "自愿参加",
+          "v. phr."
+        ],
+        [
+          "programme",
+          "项目（英式拼写）",
+          "n."
+        ]
+      ],
+      "analysis": "That children ... later 是以 that 引导的主语从句；that 在从句内不作成分，整段为主句主语。who performed ... 修饰 children。主句 did not establish 是否定谓语；后面的 that the training itself was effective 是宾语从句，前后两个 that 的功能不同：第一个引导主语从句，第二个引导宾语从句。since ... 是原因状语从句；families who volunteered ... 为其主语，differed 为谓语，in important ways 交代差异方面，from those who did not 说明对照组，did not 后省略 volunteer for the programme。 particularly in the resources ... 补充举例说明差异具体表现在哪些方面；with which they could support learning at home 是修饰 resources 的介词前置定语从句，原语序为 they could support learning at home with the resources；with 表借助、利用某种资源。",
+      "roleExplanations": {
+        "v": "did not establish 是主句否定谓语，did not 与 establish 必须一起识别；were、performed、volunteered、differed 都是从句的动词。",
+        "s": "That children who performed well on the initial test were more likely to succeed later 整体为主语从句，不能只圈 children 或把 that 丢掉。",
+        "o": "that the training itself was effective 是 establish 的宾语从句，表达不能证实的结论。",
+        "m": "who performed well on the initial test 修饰 children，其中 who 作从句主语，performed 是从句谓语。",
+        "x": "since... 引导原因状语从句，说明样本家庭背景不同，尤其是用来支持孩子在家学习的资源不同；with which ... 是嵌套定语从句。",
+        "r": "from those who did not 是 differed 的比较对象介词短语；those 指未参加项目的家庭，who did not 后省略 volunteered for the programme。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "that 主语从句",
+          "text": "That children who performed well on the initial test were more likely to succeed later",
+          "explanation": "整个 that 从句在主句里作主语；children 为内部主语，were more likely 为系表，to succeed later 补充 likely 的内容。"
+        },
+        {
+          "kind": "who 定语从句",
+          "text": "who performed well on the initial test",
+          "explanation": "who 指 children，performed 是从句谓语，well 作方式状语，on the initial test 表测试场合。"
+        },
+        {
+          "kind": "主句否定谓语",
+          "text": "did not establish",
+          "explanation": "did not + 动词原形 establish 构成一般过去时否定谓语；否定的是“证明有效”，不是孩子成绩上的相关性。"
+        },
+        {
+          "kind": "that 宾语从句",
+          "text": "that the training itself was effective,",
+          "explanation": "第二个 that 引导 establish 的宾语从句，the training itself 为主语，was effective 为系表。"
+        },
+        {
+          "kind": "since 原因状语从句",
+          "text": "since families who volunteered for the programme differed in important ways from those who did not, particularly in the resources with which they could support learning at home.",
+          "explanation": "since = 因为，differed 为从句谓语；in important ways 表不同的方面，from those... 是比较对象；particularly in the resources... 指明特别重要的资源差异。"
+        },
+        {
+          "kind": "从句内两个定语从句",
+          "text": "who volunteered for the programme",
+          "explanation": "who 修饰 families；volunteered 是谓语，for the programme 说明参加何种项目。末尾 who did not 修饰 those，省略已经出现过的 volunteered for the programme。"
+        },
+        {
+          "kind": "in 与 from 介词短语",
+          "text": "in important ways from those who did not,",
+          "explanation": "in important ways 回答在哪些方面不同；from 引出比较对象，后面 those ... 不是 differed 的直接宾语。"
+        },
+        {
+          "kind": "with 介词前置的定语从句",
+          "text": "with which they could support learning at home.",
+          "explanation": "with which 修饰 resources，等于 the resources which they could support learning at home with；with 表借助/利用资源，不是关系词本身。they 为从句主语，could support 为谓语，learning 为宾语，at home 为地点状语。"
+        }
+      ],
+      "acceptedTargets": {
+        "m": [
+          "who volunteered for the programme",
+          "who did not,",
+          "with which they could support learning at home."
+        ]
+      }
+    },
+    {
+      "id": 27,
+      "level": 4,
+      "title": "主语从句、插入语与真正的道歉",
+      "sentence": "What makes an apology convincing, according to studies comparing how people respond to different expressions of regret, is not the number of times a speaker says sorry but whether the speaker acknowledges the harm caused and offers to repair it.",
+      "targets": {
+        "v": "is",
+        "s": "What makes an apology convincing,",
+        "p": "not the number of times a speaker says sorry but whether the speaker acknowledges the harm caused and offers to repair it.",
+        "r": "according to studies comparing how people respond to different expressions of regret,",
+        "k": "convincing,",
+        "n": "comparing how people respond to different expressions of regret,"
+      },
+      "main": "What makes an apology convincing is not the number of times ... but whether the speaker acknowledges ... and offers ...",
+      "meaning": "根据比较人们对不同歉意表达方式反应的研究，真正使道歉有说服力的并不是一个人说了多少次“对不起”，而是这个人是否承认造成的伤害并提出弥补。",
+      "distractors": [
+        "研究认为，只要道歉者反复表达歉意，就无须承认所造成的伤害。",
+        "研究认为道歉是否可信主要取决于表达遗憾的次数，而不是后续的补救行动。",
+        "研究得出的结论是，道歉者是否承认伤害并不重要，重要的是对方是否立即原谅。"
+      ],
+      "words": [
+        [
+          "apology",
+          "道歉",
+          "n."
+        ],
+        [
+          "convincing",
+          "令人信服的",
+          "adj."
+        ],
+        [
+          "regret",
+          "遗憾；悔意",
+          "n."
+        ],
+        [
+          "acknowledge",
+          "承认",
+          "v."
+        ]
+      ],
+      "analysis": "外层主语为 What makes an apology convincing 这一主语从句，内部 What 为 makes 的主语，an apology 为宾语，convincing 为宾语补足语。according to... 是夹在主语与系动词 is 中间的插入性介词短语，studies 后 comparing 是现在分词后置定语，how people respond ... 为 comparing 的宾语从句。外层谓语 is；表语是 not ... but whether ... 对举结构：否定“说 sorry 的次数”，强调“是否承认伤害并提出修补”。whether 引导表语成分，从句内 acknowledges 与 offers 是并列谓语，共用 the speaker，the harm caused 中 caused 是过去分词后置定语。",
+      "roleExplanations": {
+        "v": "is 是外层主句系动词；makes 只在 What 主语从句内，respond 只在 how 宾语从句内。",
+        "s": "What makes an apology convincing 整体作主句主语，不可只选 an apology；中间插入的 according to... 也不属于主语。",
+        "p": "not...but... 整体为系动词 is 后的表语，对举否定次数、强调对伤害的承认与补救。",
+        "r": "according to 表示“根据……”，其介词宾语是 studies，comparing ... 修饰 studies；这段提供研究依据，并不是独立主句。",
+        "k": "convincing 是 What 从句内 make + 宾语 an apology + 宾补结构中的宾补，说明道歉显得怎样。",
+        "n": "comparing ... 是现在分词后置定语，修饰 studies；how... 作 comparing 的宾语，含 respond to 固定搭配。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "What 主语从句",
+          "text": "What makes an apology convincing,",
+          "explanation": "What 在小句中作 makes 的主语，an apology 为 makes 的宾语，convincing 为其宾语补足语；整段作外层主语。"
+        },
+        {
+          "kind": "依据来源插入语",
+          "text": "according to studies comparing how people respond to different expressions of regret,",
+          "explanation": "according to 是复合介词短语，引出研究依据；studies 为介词宾语。插入语隔开外层主语与 is。"
+        },
+        {
+          "kind": "现在分词及 how 从句",
+          "text": "comparing how people respond to different expressions of regret,",
+          "explanation": "comparing 作 studies 后置定语；how people respond ... 是 comparing 的宾语从句，to different expressions ... 是 respond 的介词补足语。"
+        },
+        {
+          "kind": "外层系表结构",
+          "text": "is not the number of times a speaker says sorry but whether the speaker acknowledges the harm caused and offers to repair it.",
+          "explanation": "is 是主句谓语，not...but... 对比排除式表语结构。"
+        },
+        {
+          "kind": "the number 后定语从句",
+          "text": "a speaker says sorry",
+          "explanation": "此小句修饰 times，省略关系副词或关系词语境；speaker 为主语，says 为谓语，sorry 为所说内容。"
+        },
+        {
+          "kind": "whether 对照项",
+          "text": "whether the speaker acknowledges the harm caused and offers to repair it.",
+          "explanation": "whether 引出真正决定道歉是否可信的内容，speaker 为主语，acknowledges 与 offers 并列。"
+        },
+        {
+          "kind": "伤害的过去分词定语",
+          "text": "the harm caused",
+          "explanation": "caused 为过去分词后置定语，相当于 the harm that was caused，修饰 harm。"
+        },
+        {
+          "kind": "offers 后的不定式",
+          "text": "to repair it.",
+          "explanation": "to repair 补足 offers，it 指造成的伤害；不是主句谓语。"
+        }
+      ],
+      "acceptedTargets": {
+        "n": [
+          "caused"
+        ]
+      }
+    },
+    {
+      "id": 28,
+      "level": 4,
+      "title": "自动化判断与条件陷阱",
+      "sentence": "Even if an automated system produces answers that appear more consistent than those of human reviewers, the decisions it makes should not be considered fair unless the assumptions built into its training data and the people most affected by its errors are examined together.",
+      "targets": {
+        "v": "should not be considered",
+        "s": "the decisions it makes",
+        "p": "fair",
+        "x": "Even if an automated system produces answers that appear more consistent than those of human reviewers,",
+        "m": "that appear more consistent than those of human reviewers,",
+        "n": "built into its training data"
+      },
+      "main": "the decisions it makes should not be considered fair unless the assumptions and affected people are examined together.",
+      "meaning": "即使自动化系统给出的答案看起来比人工审核者更加一致，如果不同时审查训练数据中隐含的假设以及最受错误影响的人群，它所作出的决定就不应该被认为是公平的。",
+      "distractors": [
+        "只要自动化系统的回答比人工审核更一致，它作出的决定就必然公平。",
+        "只需要检查训练数据中包含的假设，无须考虑系统错误影响最严重的人。",
+        "只有当系统的所有回答完全一致时，才可以开始考虑其公平性。"
+      ],
+      "words": [
+        [
+          "automated",
+          "自动化的",
+          "adj."
+        ],
+        [
+          "consistent",
+          "一致的",
+          "adj."
+        ],
+        [
+          "assumption",
+          "假设",
+          "n."
+        ],
+        [
+          "reviewer",
+          "审核者",
+          "n."
+        ],
+        [
+          "training data",
+          "训练数据",
+          "n. phr."
+        ]
+      ],
+      "analysis": "Even if 是让步条件状语从句，内部 that appear... 修饰 answers，than those of human reviewers 中 those 代替 answers，避免重复。主句 the decisions it makes 作主语，it makes 为省略关系代词的定语从句。should not be considered 是情态动词加被动式的否定谓语，fair 说明 decisions 被认定的性质，属于被动结构的主语补足语/表语，而非宾语。unless 另加“除非”条件从句；assumptions built into its training data 与 people most affected by its errors 并列作 are examined 的主语，两处过去分词均为后置修饰。",
+      "roleExplanations": {
+        "v": "should not be considered 为完整情态被动否定谓语，不能只圈 considered；produces、appear、makes、are examined 均属于从句。",
+        "s": "the decisions it makes 为主句主语，it makes 是省略 that/which 的定语从句，it 指系统。",
+        "p": "fair 是说明 decisions 是否应被视为公平的主语补足语/表语，不是被 considered 的直接宾语。",
+        "x": "Even if... 是即使如此也不能保证公平的让步条件背景；并不等于 unless 的必须满足条件。",
+        "m": "that appear more consistent than those of human reviewers 修饰 answers；those 代替 answers，of human reviewers 指人工审核者给出的答案。",
+        "n": "built into its training data 是过去分词后置定语，修饰 assumptions，说明假设嵌入在哪里。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "even if 让步条件",
+          "text": "Even if an automated system produces answers that appear more consistent than those of human reviewers,",
+          "explanation": "even if 是即使，不保证后果成立；system 为从句主语，produces 为谓语，answers 为宾语。"
+        },
+        {
+          "kind": "answers 后的定语从句",
+          "text": "that appear more consistent than those of human reviewers,",
+          "explanation": "that 指 answers，appear 为系动词，more consistent 为表语，than those... 是比较对象。"
+        },
+        {
+          "kind": "省略关系词的主语名词组",
+          "text": "the decisions it makes",
+          "explanation": "decisions 是主句主语中心，it makes 修饰 decisions，省略在从句中作 makes 宾语的 that/which。"
+        },
+        {
+          "kind": "情态被动与表语",
+          "text": "should not be considered fair",
+          "explanation": "should not + be considered 组成被动谓语，fair 是主语补足语，否定的是认为公平这一评价。"
+        },
+        {
+          "kind": "unless 必要条件",
+          "text": "unless the assumptions built into its training data and the people most affected by its errors are examined together.",
+          "explanation": "unless 表除非，含义是：需要同时考察数据前提及受影响群体才能谈公平；assumptions and people 为并列主语，are examined 为被动谓语。"
+        },
+        {
+          "kind": "assumptions 过去分词定语",
+          "text": "built into its training data",
+          "explanation": "built 是过去分词修饰 assumptions；into 说明嵌入的位置，its 指自动化系统。"
+        },
+        {
+          "kind": "people 过去分词定语",
+          "text": "most affected by its errors",
+          "explanation": "affected 是过去分词修饰 people；most 表程度，by its errors 引出造成影响的因素。"
+        }
+      ],
+      "acceptedTargets": {
+        "m": [
+          "it makes"
+        ],
+        "x": [
+          "unless the assumptions built into its training data and the people most affected by its errors are examined together."
+        ]
+      }
+    },
+    {
+      "id": 29,
+      "level": 4,
+      "title": "科研结果中的多层嵌套与同位语",
+      "sentence": "The scientists found that the organisms, which had been thought to survive only in relatively warm water, could remain active at temperatures once considered too low for life, a discovery that forced them to reconsider how adaptable the species might be.",
+      "targets": {
+        "v": "found",
+        "s": "The scientists",
+        "o": "that the organisms, which had been thought to survive only in relatively warm water, could remain active at temperatures once considered too low for life,",
+        "m": "which had been thought to survive only in relatively warm water,",
+        "n": "once considered too low for life,",
+        "r": "at temperatures once considered too low for life,"
+      },
+      "main": "The scientists found that the organisms could remain active at unexpectedly low temperatures.",
+      "meaning": "科学家发现，这些原先被认为只能在相对温暖的水中生存的生物，在过去被认定低到不足以维持生命的温度下仍能保持活跃；这一发现迫使他们重新思考该物种究竟有多强的适应能力。",
+      "distractors": [
+        "科学家发现这些生物只能在温水中保持活跃，因此进一步证实了原有理论。",
+        "科学家确定，这些生物一旦遇到低温就不可能存活，无需修改原有解释。",
+        "科学家认为该物种的适应能力与温度无关，因此结束了相关研究。"
+      ],
+      "words": [
+        [
+          "organism",
+          "生物体",
+          "n."
+        ],
+        [
+          "relatively",
+          "相对地",
+          "adv."
+        ],
+        [
+          "adaptable",
+          "适应能力强的",
+          "adj."
+        ],
+        [
+          "reconsider",
+          "重新考虑",
+          "v."
+        ]
+      ],
+      "analysis": "主句 The scientists found 后接 that 宾语从句。宾语从句主语 the organisms 后插入 which 非限制性定语从句，which had been thought to survive ... 属过去完成时被动＋不定式补足语。跳过插入后主干为 organisms could remain active at temperatures；once considered too low for life 是过去分词结构修饰 temperatures，too low for life 是被认为的性质。逗号后 a discovery... 是概括整个发现的同位语性名词结构，that forced them to reconsider ... 修饰 discovery；them 为 forced 的宾语，to reconsider 为宾补，how adaptable ... 作 reconsider 的宾语从句。",
+      "roleExplanations": {
+        "v": "found 是外层主句谓语，had been thought、could remain、forced、might be 都在内部从句或后置说明里。",
+        "s": "The scientists 是外层主句主语，the organisms 仅为宾语从句内主语。",
+        "o": "that the organisms ... could remain active ... 是 found 的宾语从句，包含对 organisms 的插入修饰和温度短语。",
+        "m": "which had been thought to survive only in relatively warm water 为非限制性定语从句，修饰 organisms；which 作被动谓语主语。",
+        "n": "once considered too low for life 是过去分词短语修饰 temperatures，表示曾经被认定过低，不具有独立时态。",
+        "r": "at temperatures ... 是 remain active 的温度状语，at 说明活跃时的温度条件，temperatures 为介词宾语。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "主句谓宾",
+          "text": "The scientists found that the organisms,",
+          "explanation": "scientists 为主语，found 为谓语，that 引出所发现的内容；从句的主语 organisms 后有插入定语。"
+        },
+        {
+          "kind": "插入非限制性定语从句",
+          "text": "which had been thought to survive only in relatively warm water,",
+          "explanation": "which 指 organisms，had been thought 是过去完成时被动语态，to survive 补足 thought；in relatively warm water 说明此前认为的生存环境。"
+        },
+        {
+          "kind": "that 宾语从句核心谓语",
+          "text": "could remain active at temperatures once considered too low for life,",
+          "explanation": "could remain 系动词组合，active 为表语，at temperatures... 为温度状语；不应把插入从句里的 thought 当成真正发现。"
+        },
+        {
+          "kind": "温度后置分词修饰",
+          "text": "once considered too low for life,",
+          "explanation": "once 为以前/曾经，considered 为过去分词修饰 temperatures，too low for life 表被认为的状态。"
+        },
+        {
+          "kind": "a discovery 概括性同位语",
+          "text": "a discovery that forced them to reconsider how adaptable the species might be.",
+          "explanation": "a discovery 概括前面整个科研发现，不是 temperatures 的宾语；that forced... 是修饰 discovery 的定语从句。"
+        },
+        {
+          "kind": "强迫结构与宾补",
+          "text": "forced them to reconsider",
+          "explanation": "forced 是定语从句谓语，them 是宾语，to reconsider 是宾补，说明迫使研究者去做什么。"
+        },
+        {
+          "kind": "how 嵌套宾语从句",
+          "text": "how adaptable the species might be.",
+          "explanation": "how adaptable ... 是 reconsider 的宾语从句；species 为主语，might be 为系动词，adaptable 为表语，how 表程度。"
+        }
+      ],
+      "acceptedTargets": {
+        "m": [
+          "that forced them to reconsider how adaptable the species might be."
+        ],
+        "r": [
+          "in relatively warm water,"
+        ]
+      }
+    },
+    {
+      "id": 30,
+      "level": 4,
+      "title": "研究透明性与虚拟语气",
+      "sentence": "Having discovered that the evidence cited in support of the policy was drawn mainly from unusually successful cases, the reviewers recommended that the results be published alongside the failures, so that readers could judge how much confidence the overall conclusion deserved.",
+      "targets": {
+        "v": "recommended",
+        "s": "the reviewers",
+        "o": "that the results be published alongside the failures,",
+        "n": "Having discovered that the evidence cited in support of the policy was drawn mainly from unusually successful cases,",
+        "x": "so that readers could judge how much confidence the overall conclusion deserved.",
+        "r": "in support of the policy"
+      },
+      "main": "the reviewers recommended that the results be published alongside the failures.",
+      "meaning": "评审人员发现，支持该政策的证据主要来自异常成功的个案，因此建议在公布结果时也一同公布失败案例，以便读者判断整体结论究竟有多可信。",
+      "distractors": [
+        "评审人员发现证据覆盖了所有成功和失败案例，因此认为只公开成功结果即可。",
+        "评审人员要求只发布政策的成功数据，避免读者质疑整体结论。",
+        "评审人员认为，只要个别案例非常成功，整体结论就必然值得完全信任。"
+      ],
+      "words": [
+        [
+          "reviewer",
+          "评审人员",
+          "n."
+        ],
+        [
+          "cite",
+          "引用；援引",
+          "v."
+        ],
+        [
+          "unusually",
+          "异常地",
+          "adv."
+        ],
+        [
+          "alongside",
+          "与……一起",
+          "prep."
+        ],
+        [
+          "conclusion",
+          "结论",
+          "n."
+        ]
+      ],
+      "analysis": "句首 Having discovered 是完成式分词状语，逻辑主语须与主句 the reviewers 一致。它后的 that the evidence... 是 discovered 的宾语从句，其中 cited in support... 为过去分词后置定语修饰 evidence，in support of 表支持/为……提供依据；was drawn mainly from... 为从句被动谓语，from 引出数据来源。主句 recommended 后 that the results be published ... 为宾语从句，recommend 表建议时此处 be 是虚拟语气动词原形（不写 are），be published 为被动。alongside the failures 是与失败案例一同公开的介词短语。so that 引出目的从句，how much confidence ... 为 judge 的宾语从句，deserved 为该从句谓语。",
+      "roleExplanations": {
+        "v": "recommended 是外层主句谓语；discovered 是分词完成式中的非限定性动词，was drawn 为其内部宾语从句的谓语。",
+        "s": "the reviewers 是主句主语，也为 Having discovered 的逻辑主语，不可误把 evidence 当成主句主语。",
+        "o": "that the results be published alongside the failures 整体是 recommended 的宾语从句；be published 为建议语气的被动结构。",
+        "n": "Having discovered ... 为完成式分词原因/先时状语，显示先发现偏差再提出公开建议。",
+        "x": "so that readers could judge ... 为目的状语从句，readers 是主语，could judge 是谓语，how much confidence... 作宾语。",
+        "r": "in support of the policy 修饰 cited 的引用目的/对象；in support of 表为支持某政策，并非对结果的主句状语。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "完成式分词前置状语",
+          "text": "Having discovered that the evidence cited in support of the policy was drawn mainly from unusually successful cases,",
+          "explanation": "Having discovered 表先前发现，用于说明提出建议的原因/背景；逻辑主语与 reviewers 一致。"
+        },
+        {
+          "kind": "that 嵌套宾语从句",
+          "text": "that the evidence cited in support of the policy was drawn mainly from unusually successful cases,",
+          "explanation": "the evidence 为内层主语，was drawn 为被动谓语；mainly from ... 说明来源主要偏向异常成功个案。"
+        },
+        {
+          "kind": "cited 过去分词定语",
+          "text": "cited in support of the policy",
+          "explanation": "cited 修饰 evidence，相当于 evidence that was cited；in support of 表证据引用的用途，为支持某政策。"
+        },
+        {
+          "kind": "主句谓语",
+          "text": "the reviewers recommended",
+          "explanation": "reviewers 是主句主语，recommended 为谓语；后面的 that 从句是建议的内容。"
+        },
+        {
+          "kind": "recommend 后虚拟语气",
+          "text": "that the results be published alongside the failures,",
+          "explanation": "recommend that ... (should) do 可省略 should；主语 the results 后直接用动词原形 be，be published 是被动语态。"
+        },
+        {
+          "kind": "alongside 介词作用",
+          "text": "alongside the failures,",
+          "explanation": "alongside = 与……一起，the failures 为介词宾语，说明结果与失败案例应一同发布。"
+        },
+        {
+          "kind": "so that 目的状语从句",
+          "text": "so that readers could judge how much confidence the overall conclusion deserved.",
+          "explanation": "so that 表为了，readers 是主语，could judge 为谓语，how much confidence... 为宾语从句。"
+        },
+        {
+          "kind": "how much 嵌套从句",
+          "text": "how much confidence the overall conclusion deserved.",
+          "explanation": "how much confidence 为 deserved 的宾语，the overall conclusion 为从句主语，deserved 为谓语，说明总体结论值得多少信任。"
+        }
+      ],
+      "acceptedTargets": {
+        "n": [
+          "cited in support of the policy"
+        ],
+        "r": [
+          "from unusually successful cases,",
+          "alongside the failures,"
+        ]
+      }
+    },
+    {
+      "id": 31,
+      "level": 4,
+      "title": "科技缩小距离却扩大差距",
+      "sentence": "The same tools that enable students in remote communities to attend lessons delivered hundreds of kilometres away can reinforce inequalities that their developers had intended to remove if they are designed without input from those students.",
+      "targets": {
+        "v": "can reinforce",
+        "s": "The same tools",
+        "o": "inequalities that their developers had intended to remove",
+        "m": "that enable students in remote communities to attend lessons delivered hundreds of kilometres away",
+        "n": "delivered hundreds of kilometres away",
+        "x": "if they are designed without input from those students.",
+        "r": "without input from those students."
+      },
+      "main": "The same tools can reinforce inequalities if they are designed without student input.",
+      "meaning": "让偏远社区学生能够参与数百公里外课程的同一批工具，如果在设计时没有听取这些学生的意见，反而可能加剧开发者原本打算消除的不平等。",
+      "distractors": [
+        "这些工具能够把远方课程送到偏远地区，因此设计时不需要学生参与也必然缩小差距。",
+        "开发者原先就是为了扩大不平等而设计这些工具，并且已经实现目标。",
+        "只要学生能上远程课程，技术设计中出现的其他不平等就不会产生影响。"
+      ],
+      "words": [
+        [
+          "remote",
+          "偏远的",
+          "adj."
+        ],
+        [
+          "reinforce",
+          "强化；加剧",
+          "v."
+        ],
+        [
+          "inequality",
+          "不平等",
+          "n."
+        ],
+        [
+          "developer",
+          "开发者",
+          "n."
+        ],
+        [
+          "input",
+          "意见；参与",
+          "n."
+        ]
+      ],
+      "analysis": "主句主语 The same tools 后是很长的 that 定语从句，enable sb to do sth：students 为宾语、to attend 为宾补；lessons 后 delivered... 是过去分词后置定语。跳过后续修饰才能看到主句谓语 can reinforce 与宾语 inequalities。宾语后的 that their developers had intended to remove 修饰 inequalities，that 在从句中为 remove 的宾语，而 had intended to remove 中 to remove 为 intended 的不定式补足语。if... 为条件状语从句，they 指 tools，are designed 是被动谓语；without input from those students 为介词短语，without 的宾语 input，from those students 进一步修饰 input。",
+      "roleExplanations": {
+        "v": "can reinforce 是主句情态动词＋动词原形的谓语；enable 与 intended 分别在不同定语从句中，are designed 在 if 从句中。",
+        "s": "The same tools 是主句主语，that ... away 是修饰 tools 的定语从句，students 是该从句内 enable 的宾语。",
+        "o": "inequalities that their developers had intended to remove 是 reinforce 的直接宾语，that... 限定是哪种不平等。",
+        "m": "that enable ... away 修饰 tools；enable 后 students 是宾语，to attend ... 是其宾语补足语。",
+        "n": "delivered hundreds of kilometres away 为过去分词定语，修饰 lessons，说明授课地点相距很远。",
+        "x": "if they are designed ... 为条件状语从句，they 指 tools，are designed 是被动，表示如果设计过程未纳入意见。",
+        "r": "without input from those students 中 without 表缺乏，input 是其宾语，from... 指意见应来自的学生群体。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "主语定语从句",
+          "text": "that enable students in remote communities to attend lessons delivered hundreds of kilometres away",
+          "explanation": "that 在定语从句内作主语，enable 为谓语，students 为宾语，to attend ... 为宾补。"
+        },
+        {
+          "kind": "学生所在位置",
+          "text": "in remote communities",
+          "explanation": "in 引出学生居住地区，remote communities 为介词宾语，修饰 students 而非 lessons。"
+        },
+        {
+          "kind": "to attend 宾补",
+          "text": "to attend lessons delivered hundreds of kilometres away",
+          "explanation": "to attend 是 enable students 后的宾语补足语；lessons 是 attend 的宾语，delivered... 为其后置定语。"
+        },
+        {
+          "kind": "课程的过去分词定语",
+          "text": "delivered hundreds of kilometres away",
+          "explanation": "delivered 说明课程在数百公里外提供，不是主句的谓语。"
+        },
+        {
+          "kind": "主句谓宾",
+          "text": "can reinforce inequalities that their developers had intended to remove",
+          "explanation": "can reinforce 为主句谓语，inequalities 为宾语中心，后面 that... 修饰 inequalities。"
+        },
+        {
+          "kind": "宾语后的定语从句",
+          "text": "that their developers had intended to remove",
+          "explanation": "that 作 remove 的宾语，developers 为从句主语，had intended 为过去完成时，to remove 补足意图。"
+        },
+        {
+          "kind": "if 条件从句",
+          "text": "if they are designed without input from those students.",
+          "explanation": "they 指 tools，are designed 为被动，if 表需要考虑的条件。"
+        },
+        {
+          "kind": "without 与 from",
+          "text": "without input from those students.",
+          "explanation": "without 引出缺少意见这一条件，input 是介词宾语，from those students 指学生意见来源。"
+        }
+      ],
+      "acceptedTargets": {
+        "m": [
+          "that their developers had intended to remove"
+        ],
+        "n": [
+          "to attend lessons delivered hundreds of kilometres away"
+        ],
+        "o": [
+          "inequalities"
+        ]
+      }
+    },
+    {
+      "id": 32,
+      "level": 4,
+      "title": "减排比较与两组 on 补足语",
+      "sentence": "While shifting freight from roads to rail can reduce emissions per tonne of goods transported, whether it lowers a region's total environmental impact depends on how the rail network is powered and on the additional infrastructure that must be built to support it.",
+      "targets": {
+        "v": "depends",
+        "s": "whether it lowers a region's total environmental impact",
+        "r": "on how the rail network is powered and on the additional infrastructure that must be built to support it.",
+        "x": "While shifting freight from roads to rail can reduce emissions per tonne of goods transported,",
+        "n": "shifting freight from roads to rail",
+        "m": "that must be built to support it."
+      },
+      "main": "whether it lowers a region's total environmental impact depends on the rail network's power and required infrastructure.",
+      "meaning": "虽然把货运从公路转向铁路能够降低每吨运输货物的排放，但这种转变是否真的减少一个地区的总体环境影响，还取决于铁路网络如何供电，以及为支持该转变而必须建设的额外基础设施。",
+      "distractors": [
+        "铁路每吨货物排放较低，因此不论供电来源和基础设施建设如何，都能降低总体环境影响。",
+        "决定地区总体环境影响的唯一因素是运输货物的重量，与电力来源没有关系。",
+        "只要新增铁路基础设施，公路货运所产生的环境影响就会立即消失。"
+      ],
+      "words": [
+        [
+          "freight",
+          "货运；货物",
+          "n."
+        ],
+        [
+          "emission",
+          "排放物；排放量",
+          "n."
+        ],
+        [
+          "per tonne",
+          "每吨",
+          "prep. phr."
+        ],
+        [
+          "infrastructure",
+          "基础设施",
+          "n."
+        ],
+        [
+          "overall impact",
+          "总体影响",
+          "n. phr."
+        ]
+      ],
+      "analysis": "While... 是让步/对比状语从句，shifting freight from roads to rail 是动名词短语，作 can reduce 的主语，from roads to rail 说明转移起点与终点；per tonne of goods transported 修饰排放计算口径，其中 transported 为过去分词修饰 goods。主句从 whether 开始，whether it lowers a region's total environmental impact 整体为主语从句，it 指货运转移，lowers 为从句谓语。depends 为主句谓语，后面 on how the rail network is powered 与 on the additional infrastructure that must be built to support it 是由 and 连接的两组介词 on 补足短语，不是主句两个谓语。how... 是介词 on 的宾语从句，that must be built... 是 infrastructure 的定语从句，to support it 为目的不定式。",
+      "roleExplanations": {
+        "v": "depends 是主句谓语；shifting 是 While 从句中的动名词主语，lowers 位于 whether 主语从句。depends on 可视为谓语搭配，圈 depends 或 depends on 都接受。",
+        "s": "whether it lowers a region's total environmental impact 是主语从句，不能只圈 it；it 指货运改用铁路的变化。",
+        "r": "on how the rail network is powered and on the additional infrastructure... 是 depends 的两项并列介词补足语；on 后分别为 how 从句和名词组。",
+        "x": "While shifting freight ... transported 是让步/对比状语从句，指出每吨减排与总体环境影响不同。",
+        "n": "shifting freight from roads to rail 是动名词短语，作 While 从句 can reduce 的主语，from...to... 是转移的起止地点。",
+        "m": "that must be built to support it 修饰 infrastructure，that 作从句主语，must be built 为被动谓语，to support it 是目的不定式。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "While 对比状语从句",
+          "text": "While shifting freight from roads to rail can reduce emissions per tonne of goods transported,",
+          "explanation": "While 在此有“虽然/尽管”对比色彩；整段提供每吨减排的背景，但不直接保证总影响减小。"
+        },
+        {
+          "kind": "动名词主语及 from/to",
+          "text": "shifting freight from roads to rail",
+          "explanation": "shifting 为动名词，整个短语作 can reduce 的主语；freight 为 shifting 的宾语；from roads 表出发方式，to rail 表目标方式。"
+        },
+        {
+          "kind": "per 单位介词短语",
+          "text": "per tonne of goods transported,",
+          "explanation": "per 表每，tonne 为计量单位，of goods 表所计货物，transported 是过去分词后置定语，修饰 goods。"
+        },
+        {
+          "kind": "whether 主语从句",
+          "text": "whether it lowers a region's total environmental impact",
+          "explanation": "whether 表是否，整句作为 depends 的主语；内部 it 为主语，lowers 为谓语，environmental impact 为宾语。"
+        },
+        {
+          "kind": "主句动词及两项介词补足",
+          "text": "depends on how the rail network is powered and on the additional infrastructure that must be built to support it.",
+          "explanation": "depends 是主句谓语，on... 和 on... 为并列补足语，并非第二组谓语。"
+        },
+        {
+          "kind": "第一组 on 宾语从句",
+          "text": "on how the rail network is powered",
+          "explanation": "on 是 depends 的介词，how... 是介词宾语从句，rail network 为从句主语，is powered 为被动谓语。"
+        },
+        {
+          "kind": "第二组 on 介词宾语",
+          "text": "on the additional infrastructure that must be built to support it.",
+          "explanation": "on 引出另一依赖因素：额外基础设施；infrastructure 是介词宾语中心。"
+        },
+        {
+          "kind": "infrastructure 定语从句",
+          "text": "that must be built to support it.",
+          "explanation": "that 为从句主语，must be built 是情态被动谓语，to support it 表建设目的，it 指货运转变。"
+        }
+      ],
+      "acceptedTargets": {
+        "v": [
+          "depends on"
+        ],
+        "n": [
+          "transported,",
+          "to support it."
+        ],
+        "r": [
+          "on how the rail network is powered",
+          "on the additional infrastructure that must be built to support it."
+        ]
+      }
+    },
+    {
+      "id": 55,
+      "level": 2,
+      "title": "比赛中的感谢",
+      "sentence": "The girl who won the competition thanked her classmates after the match.",
+      "targets": {
+        "s": "The girl",
+        "v": "thanked",
+        "o": "her classmates",
+        "m": "who won the competition"
+      },
+      "main": "The girl thanked her classmates",
+      "meaning": "赢得比赛的女孩在赛后感谢了同班同学。",
+      "distractors": [
+        "女孩感谢了赢得比赛的同学。",
+        "女孩比赛前责怪了同学。",
+        "这位女孩没有参加比赛。"
+      ],
+      "words": [],
+      "analysis": "who won the competition 限定是哪位女孩；thanked 才是主句谓语，不是 won。",
+      "roleExplanations": {
+        "s": "「The girl」与主句谓语「thanked」对应，是整个主句描述的人或事物。",
+        "v": "「thanked」是主语「The girl」的主句带时态的主要动作。不要误把定语从句内部动词当作主句谓语。",
+        "o": "「her classmates」是「thanked」所支配的直接宾语，回答动作涉及什么、什么事或谁。",
+        "m": "「who won the competition」修饰它前面提到的名词或代词，并不构成第二个独立主句。要注意从句动词和「thanked」所在层次不同。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "本句完整结构",
+          "text": "The girl who won the competition thanked her classmates after the match.",
+          "explanation": "who won the competition 限定是哪位女孩；thanked 才是主句谓语，不是 won。"
+        },
+        {
+          "kind": "定语从句",
+          "text": "who won the competition",
+          "explanation": "「who won the competition」修饰它前面提到的名词或代词，并不构成第二个独立主句。要注意从句动词和「thanked」所在层次不同。"
+        }
+      ],
+      "acceptedTargets": {
+        "s": [
+          "The girl who won the competition"
+        ]
+      }
+    },
+    {
+      "title": "城市中的友好行动",
+      "sentence": "People who volunteer at the community centre often discover that small actions can make a real difference.",
+      "targets": {
+        "s": "People",
+        "v": "discover",
+        "o": "that small actions can make a real difference.",
+        "m": "who volunteer at the community centre"
+      },
+      "meaning": "在社区中心做志愿服务的人们常常发现，小行动也能带来真正的改变。",
+      "distractors": [
+        "在社区中心工作的人认为小小的行动毫无用处。",
+        "只有社区中心的工作人员才能改变城市。",
+        "人们发现大型活动往往比志愿服务更简单。"
+      ],
+      "analysis": "who volunteer at the community centre 修饰 People；discover 的宾语不是 difference，而是 that 引导的整个发现内容。",
+      "id": 58,
+      "level": 3,
+      "main": "People discover that small actions can make a real difference.",
+      "words": [],
+      "roleExplanations": {
+        "s": "「People」与主句谓语「discover」对应，是整个主句描述的人或事物。",
+        "v": "「discover」是主语「People」的主句带时态的主要动作。不要误把定语从句内部动词当作主句谓语。",
+        "o": "「that small actions can make a real difference.」是「discover」所支配的直接宾语，回答动作涉及什么、什么事或谁。",
+        "m": "「who volunteer at the community centre」修饰它前面提到的名词或代词，并不构成第二个独立主句。要注意从句动词和「discover」所在层次不同。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "本句完整结构",
+          "text": "People who volunteer at the community centre often discover that small actions can make a real difference.",
+          "explanation": "who volunteer at the community centre 修饰 People；discover 的宾语不是 difference，而是 that 引导的整个发现内容。"
+        },
+        {
+          "kind": "定语从句",
+          "text": "who volunteer at the community centre",
+          "explanation": "「who volunteer at the community centre」修饰它前面提到的名词或代词，并不构成第二个独立主句。要注意从句动词和「discover」所在层次不同。"
+        }
+      ],
+      "acceptedTargets": {
+        "s": [
+          "People who volunteer at the community centre"
+        ]
+      }
+    },
+    {
+      "title": "雨停后的野餐",
+      "sentence": "Although the rain had stopped, the children decided to stay indoors because the ground was still wet.",
+      "targets": {
+        "x": "Although the rain had stopped,",
+        "s": "the children",
+        "v": "decided",
+        "c": "to stay indoors"
+      },
+      "meaning": "虽然雨停了，孩子们还是决定待在室内，因为地面仍然潮湿。",
+      "distractors": [
+        "雨还没停，孩子们决定马上去野餐。",
+        "孩子们认为地面已经干了，所以走出屋子。",
+        "雨停之后，孩子们立刻去室外玩耍。"
+      ],
+      "analysis": "Although 引导让步状语从句，句尾 because 又说明决定待在屋内的原因；decided 是主句谓语，不定式说明决定的内容。",
+      "id": 59,
+      "level": 3,
+      "main": "the children decided to stay indoors",
+      "words": [],
+      "roleExplanations": {
+        "x": "「Although the rain had stopped,」说明主句动作「decided」发生的背景（时间、条件、原因或让步），其中的动词不是主句谓语。",
+        "s": "「the children」与主句谓语「decided」对应，是整个主句描述的人或事物。句首/句中的背景从句不抢占主句主语位置。",
+        "v": "「decided」是主语「the children」的主句带时态的主要动作。",
+        "c": "「to stay indoors」补足主句动词「decided」的具体内容；它与直接宾语、系动词表语的功能并不相同。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "本句完整结构",
+          "text": "Although the rain had stopped, the children decided to stay indoors because the ground was still wet.",
+          "explanation": "Although 引导让步状语从句，句尾 because 又说明决定待在屋内的原因；decided 是主句谓语，不定式说明决定的内容。"
+        },
+        {
+          "kind": "动词补足成分",
+          "text": "to stay indoors",
+          "explanation": "「to stay indoors」补足主句动词「decided」的具体内容；它与直接宾语、系动词表语的功能并不相同。"
+        },
+        {
+          "kind": "状语从句",
+          "text": "Although the rain had stopped,",
+          "explanation": "「Although the rain had stopped,」说明主句动作「decided」发生的背景（时间、条件、原因或让步），其中的动词不是主句谓语。"
+        },
+        {
+          "kind": "非谓语结构",
+          "text": "to stay indoors",
+          "explanation": "「to stay indoors」是不承担独立时态的非谓语结构；它可以修饰、作主语或作动词补足内容，需要结合本句前后成分判断。"
+        }
+      ]
+    },
+    {
+      "title": "阅读俱乐部的同学",
+      "sentence": "The students waiting outside the library were excited to meet the writer whose books they had read.",
+      "targets": {
+        "s": "The students",
+        "v": "were",
+        "p": "excited",
+        "n": "waiting outside the library",
+        "m": "whose books they had read"
+      },
+      "meaning": "在图书馆外等候的学生们很兴奋，因为他们将见到自己读过作品的作家。",
+      "distractors": [
+        "等待中的作家想见读过自己作品的学生。",
+        "学生们因图书馆关门而感到失望。",
+        "学生们还没有读过那位作家的任何书。"
+      ],
+      "analysis": "waiting outside the library 是后置现在分词定语，修饰 students；whose books they had read 是修饰 writer 的定语从句。",
+      "id": 60,
+      "level": 3,
+      "main": "The students were excited",
+      "words": [],
+      "roleExplanations": {
+        "s": "「The students」与主句谓语「were」对应，是整个主句描述的人或事物。",
+        "v": "「were」是主语「The students」的主句系动词或表状态动词。不要误把定语从句内部动词当作主句谓语。",
+        "p": "「excited」解释主语「The students」是什么或处于何种状态，跟在系动词后面，不能当直接宾语。",
+        "n": "「waiting outside the library」是不承担独立时态的非谓语结构；它可以修饰、作主语或作动词补足内容，需要结合本句前后成分判断。",
+        "m": "「whose books they had read」修饰它前面提到的名词或代词，并不构成第二个独立主句。要注意从句动词和「were」所在层次不同。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "本句完整结构",
+          "text": "The students waiting outside the library were excited to meet the writer whose books they had read.",
+          "explanation": "waiting outside the library 是后置现在分词定语，修饰 students；whose books they had read 是修饰 writer 的定语从句。"
+        },
+        {
+          "kind": "表语",
+          "text": "excited",
+          "explanation": "「excited」解释主语「The students」是什么或处于何种状态，跟在系动词后面，不能当直接宾语。"
+        },
+        {
+          "kind": "定语从句",
+          "text": "whose books they had read",
+          "explanation": "「whose books they had read」修饰它前面提到的名词或代词，并不构成第二个独立主句。要注意从句动词和「were」所在层次不同。"
+        },
+        {
+          "kind": "非谓语结构",
+          "text": "waiting outside the library",
+          "explanation": "「waiting outside the library」是不承担独立时态的非谓语结构；它可以修饰、作主语或作动词补足内容，需要结合本句前后成分判断。"
+        }
+      ],
+      "acceptedTargets": {
+        "s": [
+          "The students waiting outside the library"
+        ]
+      }
+    },
+    {
+      "title": "是否继续尝试",
+      "sentence": "Whether the team can finish the experiment before Friday remains uncertain to everyone involved in the project.",
+      "targets": {
+        "s": "Whether the team can finish the experiment before Friday",
+        "v": "remains",
+        "p": "uncertain",
+        "r": "to everyone involved in the project."
+      },
+      "meaning": "团队能否在周五前完成实验，对所有项目参与者而言仍不确定。",
+      "distractors": [
+        "所有人都确定实验已经在周五前完成。",
+        "这支团队拒绝参与实验。",
+        "是否完成实验完全不影响项目成员。"
+      ],
+      "analysis": "Whether 引导的整个疑问内容放在句首作主语；remains 是系动词，uncertain 是表语，不是宾语。",
+      "id": 63,
+      "level": 3,
+      "main": "Whether the team can finish the experiment before Friday remains uncertain",
+      "words": [],
+      "roleExplanations": {
+        "s": "「Whether the team can finish the experiment before Friday」与主句谓语「remains」对应，是整个主句描述的人或事物。",
+        "v": "「remains」是主语「Whether the team can finish the experiment before Friday」的主句系动词或表状态动词。",
+        "p": "「uncertain」解释主语「Whether the team can finish the experiment before Friday」是什么或处于何种状态，跟在系动词后面，不能当直接宾语。",
+        "r": "「to everyone involved in the project.」以介词引出名词或名词性内容，介词后的部分属于介词宾语；不能整体误选为「remains」的直接宾语。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "本句完整结构",
+          "text": "Whether the team can finish the experiment before Friday remains uncertain to everyone involved in the project.",
+          "explanation": "Whether 引导的整个疑问内容放在句首作主语；remains 是系动词，uncertain 是表语，不是宾语。"
+        },
+        {
+          "kind": "表语",
+          "text": "uncertain",
+          "explanation": "「uncertain」解释主语「Whether the team can finish the experiment before Friday」是什么或处于何种状态，跟在系动词后面，不能当直接宾语。"
+        },
+        {
+          "kind": "介词短语",
+          "text": "to everyone involved in the project.",
+          "explanation": "「to everyone involved in the project.」以介词引出名词或名词性内容，介词后的部分属于介词宾语；不能整体误选为「remains」的直接宾语。"
+        }
+      ],
+      "acceptedTargets": {
+        "r": [
+          "in the project."
+        ]
+      }
+    },
+    {
+      "title": "借来的相机",
+      "sentence": "The student whose camera was broken borrowed one from a friend and took pictures of the school event.",
+      "targets": {
+        "s": "The student",
+        "v": "borrowed",
+        "o": "one",
+        "v2": "took",
+        "o2": "pictures",
+        "m": "whose camera was broken",
+        "r": "from a friend"
+      },
+      "meaning": "相机坏了的学生向朋友借了一台，并拍下学校活动的照片。",
+      "distractors": [
+        "这名学生把坏相机借给了朋友。",
+        "学生忘记参加学校活动。",
+        "这名学生只向朋友借了照片。"
+      ],
+      "analysis": "whose camera was broken 修饰 The student；borrowed 与 took 共享主语，但 each 对应不同宾语 one 与 pictures。",
+      "id": 65,
+      "level": 3,
+      "main": "The student borrowed one took pictures",
+      "words": [],
+      "roleExplanations": {
+        "s": "「The student」与主句谓语「borrowed」对应，是整个主句描述的人或事物。",
+        "v": "「borrowed」是主语「The student」的主句带时态的主要动作。不要误把定语从句内部动词当作主句谓语。",
+        "o": "「one」是「borrowed」所支配的直接宾语，回答动作涉及什么、什么事或谁。仅对应第一组谓语，第二组另找。",
+        "v2": "「took」与第一组谓语「borrowed」并列，共同描述主语「The student」。判断这组动作后面是否有自己的宾语或补充内容。",
+        "o2": "「pictures」对应并列谓语「took」，不是第一组「borrowed」的宾语；把两组动作和对象分别配对。",
+        "m": "「whose camera was broken」修饰它前面提到的名词或代词，并不构成第二个独立主句。要注意从句动词和「borrowed」所在层次不同。",
+        "r": "「from a friend」以介词引出名词或名词性内容，介词后的部分属于介词宾语；不能整体误选为「borrowed」的直接宾语。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "本句完整结构",
+          "text": "The student whose camera was broken borrowed one from a friend and took pictures of the school event.",
+          "explanation": "whose camera was broken 修饰 The student；borrowed 与 took 共享主语，但 each 对应不同宾语 one 与 pictures。"
+        },
+        {
+          "kind": "并列谓语②",
+          "text": "took",
+          "explanation": "「took」与第一组谓语「borrowed」并列，共同描述主语「The student」。判断这组动作后面是否有自己的宾语或补充内容。"
+        },
+        {
+          "kind": "第二组直接宾语",
+          "text": "pictures",
+          "explanation": "「pictures」对应并列谓语「took」，不是第一组「borrowed」的宾语；把两组动作和对象分别配对。"
+        },
+        {
+          "kind": "介词短语",
+          "text": "from a friend",
+          "explanation": "「from a friend」以介词引出名词或名词性内容，介词后的部分属于介词宾语；不能整体误选为「borrowed」的直接宾语。"
+        },
+        {
+          "kind": "定语从句",
+          "text": "whose camera was broken",
+          "explanation": "「whose camera was broken」修饰它前面提到的名词或代词，并不构成第二个独立主句。要注意从句动词和「borrowed」所在层次不同。"
+        }
+      ],
+      "acceptedTargets": {
+        "s": [
+          "The student whose camera was broken"
+        ],
+        "r": [
+          "of the school event."
+        ]
+      }
+    },
+    {
+      "title": "科学课上的发现",
+      "sentence": "The experiment not only showed us how plants respond to light but also gave the teacher a useful idea for the next lesson.",
+      "targets": {
+        "s": "The experiment",
+        "v": "showed",
+        "i": "us",
+        "o": "how plants respond to light",
+        "v2": "gave",
+        "o2": "a useful idea"
+      },
+      "meaning": "实验不仅让我们明白植物如何对光作出反应，还给了老师下节课的有用点子。",
+      "distractors": [
+        "实验仅向老师展示了植物对水的反应。",
+        "老师给实验提供了下一课的想法。",
+        "实验表明植物完全不会受到光的影响。"
+      ],
+      "analysis": "not only...but also 连接两组并列谓语 showed 与 gave；how... 作第一组直接宾语，第二组给出 a useful idea，the teacher 是第二组的接受者。",
+      "id": 66,
+      "level": 3,
+      "main": "The experiment showed how plants respond to light gave a useful idea",
+      "words": [],
+      "roleExplanations": {
+        "s": "「The experiment」与主句谓语「showed」对应，是整个主句描述的人或事物。",
+        "v": "「showed」是主语「The experiment」的主句带时态的主要动作。",
+        "i": "「us」表示接受者或受益者。与直接宾语「how plants respond to light」不同，后者表示被给、寄、告知的东西。",
+        "o": "「how plants respond to light」是「showed」所支配的直接宾语，回答动作涉及什么、什么事或谁。仅对应第一组谓语，第二组另找。",
+        "v2": "「gave」与第一组谓语「showed」并列，共同描述主语「The experiment」。判断这组动作后面是否有自己的宾语或补充内容。",
+        "o2": "「a useful idea」对应并列谓语「gave」，不是第一组「showed」的宾语；把两组动作和对象分别配对。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "本句完整结构",
+          "text": "The experiment not only showed us how plants respond to light but also gave the teacher a useful idea for the next lesson.",
+          "explanation": "not only...but also 连接两组并列谓语 showed 与 gave；how... 作第一组直接宾语，第二组给出 a useful idea，the teacher 是第二组的接受者。"
+        },
+        {
+          "kind": "并列谓语②",
+          "text": "gave",
+          "explanation": "「gave」与第一组谓语「showed」并列，共同描述主语「The experiment」。判断这组动作后面是否有自己的宾语或补充内容。"
+        },
+        {
+          "kind": "第二组直接宾语",
+          "text": "a useful idea",
+          "explanation": "「a useful idea」对应并列谓语「gave」，不是第一组「showed」的宾语；把两组动作和对象分别配对。"
+        },
+        {
+          "kind": "间接宾语",
+          "text": "us",
+          "explanation": "「us」表示接受者或受益者。与直接宾语「how plants respond to light」不同，后者表示被给、寄、告知的东西。"
+        }
+      ],
+      "acceptedTargets": {
+        "i": [
+          "the teacher"
+        ]
+      }
+    },
+    {
+      "title": "取决于天气的计划",
+      "sentence": "Our decision to hold the outdoor concert depends on whether the weather will remain clear throughout the weekend.",
+      "targets": {
+        "s": "Our decision to hold the outdoor concert",
+        "v": "depends",
+        "r": "on whether the weather will remain clear throughout the weekend."
+      },
+      "meaning": "是否举办户外音乐会，取决于整个周末天气是否持续晴朗。",
+      "distractors": [
+        "举办音乐会的决定只取决于门票价格。",
+        "无论下不下雨，音乐会都已经取消。",
+        "周末天气肯定会一直晴朗。"
+      ],
+      "analysis": "depends on 是动词加介词的搭配；whether 从句作介词 on 的宾语，不是 depends 的直接宾语。",
+      "id": 67,
+      "level": 3,
+      "main": "Our decision to hold the outdoor concert depends",
+      "words": [],
+      "roleExplanations": {
+        "s": "「Our decision to hold the outdoor concert」与主句谓语「depends」对应，是整个主句描述的人或事物。",
+        "v": "「depends」是主语「Our decision to hold the outdoor concert」的主句带时态的主要动作。",
+        "r": "「on whether the weather will remain clear throughout the weekend.」以介词引出名词或名词性内容，介词后的部分属于介词宾语；不能整体误选为「depends」的直接宾语。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "本句完整结构",
+          "text": "Our decision to hold the outdoor concert depends on whether the weather will remain clear throughout the weekend.",
+          "explanation": "depends on 是动词加介词的搭配；whether 从句作介词 on 的宾语，不是 depends 的直接宾语。"
+        },
+        {
+          "kind": "介词短语",
+          "text": "on whether the weather will remain clear throughout the weekend.",
+          "explanation": "「on whether the weather will remain clear throughout the weekend.」以介词引出名词或名词性内容，介词后的部分属于介词宾语；不能整体误选为「depends」的直接宾语。"
+        }
+      ],
+      "acceptedTargets": {
+        "r": [
+          "throughout the weekend."
+        ]
+      }
+    },
+    {
+      "title": "书中的信息",
+      "sentence": "The book I borrowed from the school library explains why some animals move to warmer places during winter.",
+      "targets": {
+        "s": "The book",
+        "v": "explains",
+        "o": "why some animals move to warmer places during winter.",
+        "m": "I borrowed from the school library"
+      },
+      "meaning": "我从学校图书馆借来的书解释了为什么有些动物冬天会迁往更温暖的地方。",
+      "distractors": [
+        "我借的书介绍了动物为什么在夏天迁徙。",
+        "这本书是图书馆工作人员写的。",
+        "一些动物冬天都会回到寒冷的地方。"
+      ],
+      "analysis": "I borrowed... 省略了关系代词，修饰 The book；why... 整个原因疑问从句作 explains 的宾语。",
+      "id": 68,
+      "level": 3,
+      "main": "The book explains why some animals move to warmer places during winter.",
+      "words": [],
+      "roleExplanations": {
+        "s": "「The book」与主句谓语「explains」对应，是整个主句描述的人或事物。",
+        "v": "「explains」是主语「The book」的主句带时态的主要动作。不要误把定语从句内部动词当作主句谓语。",
+        "o": "「why some animals move to warmer places during winter.」是「explains」所支配的直接宾语，回答动作涉及什么、什么事或谁。",
+        "m": "「I borrowed from the school library」修饰它前面提到的名词或代词，并不构成第二个独立主句。要注意从句动词和「explains」所在层次不同。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "本句完整结构",
+          "text": "The book I borrowed from the school library explains why some animals move to warmer places during winter.",
+          "explanation": "I borrowed... 省略了关系代词，修饰 The book；why... 整个原因疑问从句作 explains 的宾语。"
+        },
+        {
+          "kind": "定语从句",
+          "text": "I borrowed from the school library",
+          "explanation": "「I borrowed from the school library」修饰它前面提到的名词或代词，并不构成第二个独立主句。要注意从句动词和「explains」所在层次不同。"
+        }
+      ],
+      "acceptedTargets": {
+        "s": [
+          "The book I borrowed from the school library"
+        ]
+      }
+    },
+    {
+      "title": "每个人的学习节奏",
+      "sentence": "The idea that students should learn at their own pace helped the teachers design a more flexible course.",
+      "targets": {
+        "s": "The idea",
+        "v": "helped",
+        "o": "the teachers",
+        "k": "design a more flexible course"
+      },
+      "meaning": "学生应该按自己的节奏学习的理念，帮助老师们设计了一门更灵活的课程。",
+      "distractors": [
+        "这项理念要求所有学生必须同速学习。",
+        "老师们帮助学生设计了一门没有课程内容的课。",
+        "老师们发现灵活课程完全没有价值。"
+      ],
+      "analysis": "that students should... 解释 idea 的具体内容，是同位语从句；help the teachers design... 是宾语加省略 to 的不定式宾补。",
+      "id": 69,
+      "level": 3,
+      "main": "The idea helped the teachers",
+      "words": [],
+      "roleExplanations": {
+        "s": "「The idea」与主句谓语「helped」对应，是整个主句描述的人或事物。",
+        "v": "「helped」是主语「The idea」的主句带时态的主要动作。",
+        "o": "「the teachers」是「helped」所支配的直接宾语，回答动作涉及什么、什么事或谁。",
+        "k": "「design a more flexible course」说明宾语「the teachers」的状态、身份或动作；是宾语补足语，不要把两者合成一个宾语。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "本句完整结构",
+          "text": "The idea that students should learn at their own pace helped the teachers design a more flexible course.",
+          "explanation": "that students should... 解释 idea 的具体内容，是同位语从句；help the teachers design... 是宾语加省略 to 的不定式宾补。"
+        },
+        {
+          "kind": "宾语补足语",
+          "text": "design a more flexible course",
+          "explanation": "「design a more flexible course」说明宾语「the teachers」的状态、身份或动作；是宾语补足语，不要把两者合成一个宾语。"
+        },
+        {
+          "kind": "非谓语结构",
+          "text": "design a more flexible course",
+          "explanation": "「design a more flexible course」是不承担独立时态的非谓语结构；它可以修饰、作主语或作动词补足内容，需要结合本句前后成分判断。"
+        }
+      ]
+    },
+    {
+      "title": "复杂决定的真正原因",
+      "sentence": "What made the decision difficult was not the lack of money, as several members had claimed, but the uncertainty about whether the proposed solution would work in practice.",
+      "targets": {
+        "s": "What made the decision difficult",
+        "v": "was",
+        "p": "not the lack of money, as several members had claimed, but the uncertainty about whether the proposed solution would work in practice."
+      },
+      "meaning": "使决策困难的并不是几名成员所说的资金不足，而是不确定所提方案在实际中能否奏效。",
+      "distractors": [
+        "资金不足是造成决策困难的唯一原因。",
+        "所有成员都保证方案一定会成功。",
+        "这个方案已经在实际中证明完全无效。"
+      ],
+      "analysis": "What 引导主语从句；was 后用 not...but... 连接两部分表语内容；whether... 是介词 about 后的名词性从句。",
+      "id": 76,
+      "level": 4,
+      "main": "What made the decision difficult was not the lack of money, as several members had claimed, but the uncertainty about whether the proposed solution would work in practice.",
+      "words": [],
+      "roleExplanations": {
+        "s": "「What made the decision difficult」与主句谓语「was」对应，是整个主句描述的人或事物。",
+        "v": "「was」是主语「What made the decision difficult」的主句系动词或表状态动词。",
+        "p": "「not the lack of money, as several members had claimed, but the uncertainty about whether the proposed solution would work in practice.」解释主语「What made the decision difficult」是什么或处于何种状态，跟在系动词后面，不能当直接宾语。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "本句完整结构",
+          "text": "What made the decision difficult was not the lack of money, as several members had claimed, but the uncertainty about whether the proposed solution would work in practice.",
+          "explanation": "What 引导主语从句；was 后用 not...but... 连接两部分表语内容；whether... 是介词 about 后的名词性从句。"
+        },
+        {
+          "kind": "表语",
+          "text": "not the lack of money, as several members had claimed, but the uncertainty about whether the proposed solution would work in practice.",
+          "explanation": "「not the lack of money, as several members had claimed, but the uncertainty about whether the proposed solution would work in practice.」解释主语「What made the decision difficult」是什么或处于何种状态，跟在系动词后面，不能当直接宾语。"
+        }
+      ],
+      "acceptedTargets": {
+        "p": [
+          "the uncertainty about whether the proposed solution would work in practice.",
+          "the uncertainty"
+        ]
+      }
+    },
+    {
+      "title": "意外调查结果",
+      "sentence": "Having found that the new teaching method benefited confident students more than those who needed additional support, the teachers revised the plan and invited parents to offer practical suggestions.",
+      "targets": {
+        "n": "Having found that the new teaching method benefited confident students more than those who needed additional support,",
+        "s": "the teachers",
+        "v": "revised",
+        "o": "the plan",
+        "v2": "invited",
+        "o2": "parents",
+        "k": "to offer practical suggestions."
+      },
+      "meaning": "教师发现新教学方法对自信的学生比对需要额外帮助的学生更有效，于是修改方案并邀请家长提供切实建议。",
+      "distractors": [
+        "教师发现新方法对所有学生的帮助完全一样。",
+        "教师拒绝修改教学方案，也没有邀请家长。",
+        "家长首先设计了新方法并要求老师停止实施。"
+      ],
+      "analysis": "Having found... 是先发生的非谓语背景，修饰主句 teachers；revised 与 invited 并列，各自支配宾语，to offer... 说明 parents 被邀请做什么。",
+      "id": 77,
+      "level": 4,
+      "main": "the teachers revised the plan invited parents",
+      "words": [],
+      "roleExplanations": {
+        "n": "「Having found that the new teaching method benefited confident students more than those who needed additional support,」是不承担独立时态的非谓语结构；它可以修饰、作主语或作动词补足内容，需要结合本句前后成分判断。",
+        "s": "「the teachers」与主句谓语「revised」对应，是整个主句描述的人或事物。",
+        "v": "「revised」是主语「the teachers」的主句带时态的主要动作。",
+        "o": "「the plan」是「revised」所支配的直接宾语，回答动作涉及什么、什么事或谁。仅对应第一组谓语，第二组另找。",
+        "v2": "「invited」与第一组谓语「revised」并列，共同描述主语「the teachers」。判断这组动作后面是否有自己的宾语或补充内容。",
+        "o2": "「parents」对应并列谓语「invited」，不是第一组「revised」的宾语；把两组动作和对象分别配对。",
+        "k": "「to offer practical suggestions.」说明宾语「the plan」的状态、身份或动作；是宾语补足语，不要把两者合成一个宾语。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "本句完整结构",
+          "text": "Having found that the new teaching method benefited confident students more than those who needed additional support, the teachers revised the plan and invited parents to offer practical suggestions.",
+          "explanation": "Having found... 是先发生的非谓语背景，修饰主句 teachers；revised 与 invited 并列，各自支配宾语，to offer... 说明 parents 被邀请做什么。"
+        },
+        {
+          "kind": "并列谓语②",
+          "text": "invited",
+          "explanation": "「invited」与第一组谓语「revised」并列，共同描述主语「the teachers」。判断这组动作后面是否有自己的宾语或补充内容。"
+        },
+        {
+          "kind": "第二组直接宾语",
+          "text": "parents",
+          "explanation": "「parents」对应并列谓语「invited」，不是第一组「revised」的宾语；把两组动作和对象分别配对。"
+        },
+        {
+          "kind": "宾语补足语",
+          "text": "to offer practical suggestions.",
+          "explanation": "「to offer practical suggestions.」说明宾语「the plan」的状态、身份或动作；是宾语补足语，不要把两者合成一个宾语。"
+        },
+        {
+          "kind": "非谓语结构",
+          "text": "Having found that the new teaching method benefited confident students more than those who needed additional support,",
+          "explanation": "「Having found that the new teaching method benefited confident students more than those who needed additional support,」是不承担独立时态的非谓语结构；它可以修饰、作主语或作动词补足内容，需要结合本句前后成分判断。"
+        }
+      ],
+      "acceptedTargets": {
+        "n": [
+          "to offer practical suggestions."
+        ]
+      }
+    },
+    {
+      "title": "减少排放的两种措施",
+      "sentence": "The report, which had been prepared by researchers from several countries, suggested that reducing waste at the source could be more effective than dealing with it after production and recommended policies that encouraged companies to change their practices.",
+      "targets": {
+        "s": "The report",
+        "v": "suggested",
+        "o": "that reducing waste at the source could be more effective than dealing with it after production",
+        "v2": "recommended",
+        "o2": "policies that encouraged companies to change their practices.",
+        "m": "which had been prepared by researchers from several countries,"
+      },
+      "meaning": "这份由多个国家的研究人员编写的报告指出，从源头减少浪费可能比生产后处理更有效，并建议采取鼓励企业改变做法的政策。",
+      "distractors": [
+        "报告指出应当等生产结束后才开始关注浪费。",
+        "报告建议企业保持现有做法而不做改变。",
+        "研究人员的报告只谈到了产品价格。"
+      ],
+      "analysis": "which... 是非限制性定语从句；主句有 suggested 与 recommended 两个并列谓语，后面各跟自己的宾语，第二宾语内部还有 that 定语从句。",
+      "id": 79,
+      "level": 4,
+      "main": "The report suggested that reducing waste at the source could be more effective than dealing with it after production recommended policies that encouraged companies to change their practices.",
+      "words": [],
+      "roleExplanations": {
+        "s": "「The report」与主句谓语「suggested」对应，是整个主句描述的人或事物。",
+        "v": "「suggested」是主语「The report」的主句带时态的主要动作。不要误把定语从句内部动词当作主句谓语。",
+        "o": "「that reducing waste at the source could be more effective than dealing with it after production」是「suggested」所支配的直接宾语，回答动作涉及什么、什么事或谁。仅对应第一组谓语，第二组另找。",
+        "v2": "「recommended」与第一组谓语「suggested」并列，共同描述主语「The report」。判断这组动作后面是否有自己的宾语或补充内容。",
+        "o2": "「policies that encouraged companies to change their practices.」对应并列谓语「recommended」，不是第一组「suggested」的宾语；把两组动作和对象分别配对。",
+        "m": "「which had been prepared by researchers from several countries,」修饰它前面提到的名词或代词，并不构成第二个独立主句。要注意从句动词和「suggested」所在层次不同。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "本句完整结构",
+          "text": "The report, which had been prepared by researchers from several countries, suggested that reducing waste at the source could be more effective than dealing with it after production and recommended policies that encouraged companies to change their practices.",
+          "explanation": "which... 是非限制性定语从句；主句有 suggested 与 recommended 两个并列谓语，后面各跟自己的宾语，第二宾语内部还有 that 定语从句。"
+        },
+        {
+          "kind": "并列谓语②",
+          "text": "recommended",
+          "explanation": "「recommended」与第一组谓语「suggested」并列，共同描述主语「The report」。判断这组动作后面是否有自己的宾语或补充内容。"
+        },
+        {
+          "kind": "第二组直接宾语",
+          "text": "policies that encouraged companies to change their practices.",
+          "explanation": "「policies that encouraged companies to change their practices.」对应并列谓语「recommended」，不是第一组「suggested」的宾语；把两组动作和对象分别配对。"
+        },
+        {
+          "kind": "定语从句",
+          "text": "which had been prepared by researchers from several countries,",
+          "explanation": "「which had been prepared by researchers from several countries,」修饰它前面提到的名词或代词，并不构成第二个独立主句。要注意从句动词和「suggested」所在层次不同。"
+        }
+      ],
+      "acceptedTargets": {
+        "m": [
+          "that encouraged companies to change their practices."
+        ]
+      }
     }
   ]
 }
