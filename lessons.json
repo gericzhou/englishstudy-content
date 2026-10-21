@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": 9,
+  "revision": 10,
   "lessons": [
     {
       "id": 10003,
@@ -2514,7 +2514,8 @@
         "o": "whether the figures on which the policy relied were accurate",
         "m": "that the advisory panel had prepared after months of consultation",
         "r": "for collecting evidence that could be checked independently",
-        "x": "before any decision was made."
+        "x": "before any decision was made.",
+        "o2": "a method"
       },
       "main": "The report questioned whether the figures were accurate and proposed a method for collecting evidence.",
       "meaning": "咨询数月后由顾问小组编写的报告不仅质疑该政策所依赖的数据是否准确，还提出了一种收集可供独立核查的证据的方法，以便在作出决定之前进行审查。",
@@ -2553,7 +2554,8 @@
         "o": "whether ... accurate 是 questioned 的宾语从句；whether 表是否，figures 为该从句主语，were accurate 为系表。",
         "m": "that the advisory panel had prepared after months of consultation 修饰 report；that 在定语从句内充当 prepared 的宾语。",
         "r": "for collecting evidence... 修饰 proposed 的 method，for 是用途介词，collecting 为动名词，evidence 为其宾语。",
-        "x": "before any decision was made 是时间状语从句，说明独立核查与最终决策的先后关系。"
+        "x": "before any decision was made 是时间状语从句，说明独立核查与最终决策的先后关系。",
+        "o2": "a method 是 proposed 独立支配的直接宾语；它与 questioned 后的 whether 宾语从句分别对应第二组与第一组并列谓语。"
       },
       "grammarSupplements": [
         {
@@ -2598,7 +2600,7 @@
           "that could be checked independently"
         ],
         "r": [
-          "on which the policy relied"
+          "on which"
         ]
       }
     },
@@ -2952,7 +2954,7 @@
         "s": "The scientists 是外层主句主语，the organisms 仅为宾语从句内主语。",
         "o": "that the organisms ... could remain active ... 是 found 的宾语从句，包含对 organisms 的插入修饰和温度短语。",
         "m": "which had been thought to survive only in relatively warm water 为非限制性定语从句，修饰 organisms；which 作被动谓语主语。",
-        "n": "once considered too low for life 是过去分词短语修饰 temperatures，表示曾经被认定过低，不具有独立时态。",
+        "n": "once considered too low for life 是修饰 temperatures 的过去分词短语，其中 considered 是非谓语核心；选 considered 或完整 once considered too low for life 都可以。",
         "r": "at temperatures ... 是 remain active 的温度状语，at 说明活跃时的温度条件，temperatures 为介词宾语。"
       },
       "grammarSupplements": [
@@ -2998,6 +3000,9 @@
         ],
         "r": [
           "in relatively warm water,"
+        ],
+        "n": [
+          "considered"
         ]
       }
     },
