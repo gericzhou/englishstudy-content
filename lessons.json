@@ -1,5 +1,1179 @@
 {
   "schemaVersion": 1,
-  "revision": 2,
-  "lessons": []
+  "revision": 3,
+  "lessons": [
+    {
+      "id": 10003,
+      "level": 3,
+      "title": "远距离通学与自主阅读",
+      "sentence": "Although the library stays open late, students who travel long distances often struggle to find enough time for independent reading.",
+      "targets": {
+        "x": "Although the library stays open late,",
+        "s": "students",
+        "v": "struggle",
+        "m": "who travel long distances",
+        "c": "to find enough time"
+      },
+      "main": "students often struggle to find enough time.",
+      "meaning": "虽然图书馆开放到很晚，但通学路程较长的学生往往仍难以找到足够的时间进行自主阅读。",
+      "analysis": "【主干】students struggle；often 是频率状语。【层次】Although... 让步从句；who... 限定 students；to find enough time 补充说明 struggle 的具体困难；for independent reading 说明时间用于何事。【辨析】travel、stays 均不是主句谓语。",
+      "distractors": [
+        "图书馆提前闭馆，因此所有学生都无法阅读。",
+        "通学距离远的学生通常有更多时间自主阅读。",
+        "学生认为只要图书馆延长开放时间，就完全没有阅读困难。"
+      ],
+      "words": [
+        [
+          "struggle",
+          "努力；艰难应对",
+          "v."
+        ],
+        [
+          "independent",
+          "独立的",
+          "adj."
+        ],
+        [
+          "distance",
+          "距离",
+          "n."
+        ]
+      ],
+      "roleExplanations": {
+        "s": "students 是主句主语；前面的 library 只属于让步从句。",
+        "v": "struggle 才是主句谓语，表示难以做到某事。",
+        "x": "Although the library stays open late 表示虽开放较晚但困难仍存在。",
+        "m": "who travel long distances 修饰 students。",
+        "c": "to find enough time 是 struggle 后的不定式补足成分。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "让步状语从句",
+          "text": "Although the library stays open late,",
+          "explanation": "Although 引出让步背景；library 是从句主语，stays 是从句谓语。"
+        },
+        {
+          "kind": "定语从句",
+          "text": "who travel long distances",
+          "explanation": "who 指 students；travel 是定语从句谓语。"
+        },
+        {
+          "kind": "目的介词短语",
+          "text": "for independent reading.",
+          "explanation": "修饰 enough time，说明时间用于自主阅读。"
+        }
+      ]
+    },
+    {
+      "id": 10004,
+      "level": 3,
+      "title": "仔细比较与隐含规律",
+      "sentence": "Researchers who compare the results carefully sometimes notice patterns that would otherwise remain hidden.",
+      "targets": {
+        "s": "Researchers",
+        "v": "notice",
+        "o": "patterns",
+        "m": "who compare the results carefully"
+      },
+      "main": "Researchers sometimes notice patterns.",
+      "meaning": "认真比较研究结果的研究人员，有时会发现原本可能一直隐藏着的规律。",
+      "analysis": "【主干】Researchers notice patterns。【层次】who compare... 修饰 Researchers；that would otherwise remain hidden 修饰 patterns，otherwise 表示如果不仔细观察就可能看不到。【辨析】compare 是定语从句谓语，remain 是另一层定语从句谓语。",
+      "distractors": [
+        "研究人员认为认真比较会使所有规律消失。",
+        "研究人员发现隐藏的规律通常不需要比较结果。",
+        "只要发现了规律，研究人员便不再查看任何结果。"
+      ],
+      "words": [
+        [
+          "pattern",
+          "规律；模式",
+          "n."
+        ],
+        [
+          "otherwise",
+          "否则；在其他情况下",
+          "adv."
+        ],
+        [
+          "remain",
+          "保持",
+          "v."
+        ]
+      ],
+      "roleExplanations": {
+        "s": "Researchers 是外层主语。",
+        "v": "notice 是外层谓语；compare 和 remain 均在定语从句内。",
+        "o": "patterns 是 notice 的直接宾语，不强制把其后的定语从句一起圈入。",
+        "m": "who compare the results carefully 限定 Researchers。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "主语后定语从句",
+          "text": "who compare the results carefully",
+          "explanation": "who 指研究人员，carefully 修饰 compare。"
+        },
+        {
+          "kind": "宾语后定语从句",
+          "text": "that would otherwise remain hidden.",
+          "explanation": "that 指 patterns；would remain 是该从句谓语，hidden 作表语。"
+        }
+      ]
+    },
+    {
+      "id": 10005,
+      "level": 3,
+      "title": "断电后的实验处理",
+      "sentence": "When the power suddenly failed, the technician checked the backup system before restarting the experiment.",
+      "targets": {
+        "x": "When the power suddenly failed,",
+        "s": "the technician",
+        "v": "checked",
+        "o": "the backup system",
+        "n": "restarting the experiment."
+      },
+      "main": "the technician checked the backup system.",
+      "meaning": "电力突然中断时，技术员先检查了备用系统，然后才重新启动实验。",
+      "analysis": "【主干】the technician checked the backup system。【层次】When... 是时间状语从句；before restarting... 是介词 before 接动名词短语作时间状语，restarting 为非谓语核心。【辨析】failed 是从句谓语，不是主句谓语；before 后没有独立主谓，不是状语从句。",
+      "distractors": [
+        "技术员在断电前关闭了所有备用设备。",
+        "实验重新开始后，技术员才发现根本没有备用系统。",
+        "技术员在停电时没有检查系统而直接重新启动实验。"
+      ],
+      "words": [
+        [
+          "technician",
+          "技术员",
+          "n."
+        ],
+        [
+          "backup",
+          "备用的",
+          "adj."
+        ],
+        [
+          "restart",
+          "重新启动",
+          "v."
+        ]
+      ],
+      "roleExplanations": {
+        "s": "the technician 是主句执行检查的人。",
+        "v": "checked 是主句过去时谓语。",
+        "o": "the backup system 是 checked 的宾语。",
+        "x": "When the power suddenly failed 是独立的时间状语从句。",
+        "n": "restarting the experiment 是 before 后的动名词短语，核心为 restarting。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "时间状语从句",
+          "text": "When the power suddenly failed,",
+          "explanation": "从句主语 power，谓语 failed；suddenly 修饰 failed。"
+        },
+        {
+          "kind": "介词短语及动名词",
+          "text": "before restarting the experiment.",
+          "explanation": "before 为介词，restarting 为动名词；其宾语是 the experiment。"
+        }
+      ]
+    },
+    {
+      "id": 10006,
+      "level": 3,
+      "title": "对证据不足的结论提出质疑",
+      "sentence": "The teacher encouraged the students to question conclusions that were not supported by reliable evidence.",
+      "targets": {
+        "s": "The teacher",
+        "v": "encouraged",
+        "o": "the students",
+        "k": "to question conclusions",
+        "m": "that were not supported by reliable evidence."
+      },
+      "main": "The teacher encouraged the students to question conclusions.",
+      "meaning": "老师鼓励学生质疑那些缺乏可靠证据支持的结论。",
+      "analysis": "【主干】teacher encouraged students。【层次】to question conclusions 是宾语 the students 的补足语，交代鼓励他们做什么；that... 是 conclusions 的定语从句，其中 were not supported 为被动谓语。【辨析】conclusions 是 question 的宾语，不是 encouraged 的宾语。",
+      "distractors": [
+        "老师要求学生相信所有结论，无论是否有证据。",
+        "老师质疑学生能否提供任何可靠证据。",
+        "学生鼓励老师不再检查研究结论。"
+      ],
+      "words": [
+        [
+          "encourage",
+          "鼓励",
+          "v."
+        ],
+        [
+          "conclusion",
+          "结论",
+          "n."
+        ],
+        [
+          "reliable",
+          "可靠的",
+          "adj."
+        ]
+      ],
+      "roleExplanations": {
+        "s": "The teacher 是鼓励行为的发出者。",
+        "v": "encouraged 是主句谓语。",
+        "o": "the students 是 encouraged 的宾语。",
+        "k": "to question conclusions 说明 students 被鼓励做的事，不是另一个直接宾语。",
+        "m": "that were not supported by reliable evidence 修饰 conclusions。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "宾语与宾补结构",
+          "text": "encouraged the students to question conclusions",
+          "explanation": "encourage sb. to do：the students 作宾语，to question... 作宾补。"
+        },
+        {
+          "kind": "限定性定语从句",
+          "text": "that were not supported by reliable evidence.",
+          "explanation": "that 指 conclusions；were not supported 为被动谓语，by 引出依据来源。"
+        }
+      ]
+    },
+    {
+      "id": 10007,
+      "level": 3,
+      "title": "复查数据后删除图表",
+      "sentence": "Having checked the figures twice, the editor removed a chart that might have misled readers.",
+      "targets": {
+        "n": "Having checked the figures twice,",
+        "s": "the editor",
+        "v": "removed",
+        "o": "a chart",
+        "m": "that might have misled readers."
+      },
+      "main": "the editor removed a chart.",
+      "meaning": "编辑核对两遍数字后，删掉了一张可能误导读者的图表。",
+      "analysis": "【主干】the editor removed a chart。【层次】Having checked... 是完成式现在分词结构，表示检查先于删除；that might have misled readers 修饰 chart，might have misled 表示对可能情况的判断。【辨析】Having checked 是非谓语，不是主句过去时。",
+      "distractors": [
+        "编辑没有复核数据就增加了一张新图表。",
+        "读者发现编辑故意隐瞒了全部数字。",
+        "图表被保留，因为编辑认为它绝对不会产生误导。"
+      ],
+      "words": [
+        [
+          "figure",
+          "数字；数据",
+          "n."
+        ],
+        [
+          "editor",
+          "编辑",
+          "n."
+        ],
+        [
+          "mislead",
+          "误导",
+          "v."
+        ]
+      ],
+      "roleExplanations": {
+        "n": "Having checked the figures twice 是非谓语完成式结构；动作逻辑主语是 editor。",
+        "s": "the editor 是主句主语，也是前面分词结构的逻辑主语。",
+        "v": "removed 是主句谓语。",
+        "o": "a chart 是被删除的对象。",
+        "m": "that might have misled readers 修饰 chart，读者不是主句宾语。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "完成式分词状语",
+          "text": "Having checked the figures twice,",
+          "explanation": "having + 过去分词表示先完成检查，twice 表频率。"
+        },
+        {
+          "kind": "定语从句",
+          "text": "that might have misled readers.",
+          "explanation": "that 指 chart，might have misled 表示可能曾误导读者。"
+        }
+      ]
+    },
+    {
+      "id": 10008,
+      "level": 3,
+      "title": "被质疑的实验带来新成果",
+      "sentence": "The experiment, which several experts had initially dismissed, produced results that changed the direction of the project.",
+      "targets": {
+        "s": "The experiment,",
+        "v": "produced",
+        "o": "results",
+        "m": "which several experts had initially dismissed,"
+      },
+      "main": "The experiment produced results.",
+      "meaning": "这项实验最初曾被几位专家否定，却产生了改变项目方向的结果。",
+      "analysis": "【主干】The experiment produced results。【层次】逗号之间的 which... 是非限制性定语从句，指 experiment；that changed... 限定 results。【辨析】had dismissed 是插入从句的谓语，changed 属于修饰 results 的另一个从句。",
+      "distractors": [
+        "几位专家最终证明这项实验根本没有产生结果。",
+        "实验只改变了专家，而没有影响项目方向。",
+        "专家一致决定停止实验，因此项目没有任何变化。"
+      ],
+      "words": [
+        [
+          "dismiss",
+          "不予理会；否定",
+          "v."
+        ],
+        [
+          "initially",
+          "最初",
+          "adv."
+        ],
+        [
+          "direction",
+          "方向",
+          "n."
+        ]
+      ],
+      "roleExplanations": {
+        "s": "The experiment 是主句主语，插入的 which 从句不改变它。",
+        "v": "produced 是主句谓语，表示产生。",
+        "o": "results 是产生的结果，后有独立定语从句。",
+        "m": "which several experts had initially dismissed 插入说明专家曾轻视该实验。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "非限制性定语从句",
+          "text": "which several experts had initially dismissed,",
+          "explanation": "which 在从句里作 dismissed 的宾语，several experts 是从句主语。"
+        },
+        {
+          "kind": "第二个定语从句",
+          "text": "that changed the direction of the project.",
+          "explanation": "that 指 results，并在从句中作主语；changed 为从句谓语。"
+        }
+      ]
+    },
+    {
+      "id": 10009,
+      "level": 3,
+      "title": "识别主谓与句子理解",
+      "sentence": "If students can identify the main verb, they usually understand the sentence more accurately.",
+      "targets": {
+        "x": "If students can identify the main verb,",
+        "s": "they",
+        "v": "understand",
+        "o": "the sentence"
+      },
+      "main": "they usually understand the sentence more accurately.",
+      "meaning": "如果学生能找出主句谓语动词，通常就能更准确地理解整个句子。",
+      "analysis": "【主干】they understand the sentence。【层次】If... 是条件状语从句；can identify 是从句谓语；usually、more accurately 分别表达频率和程度。【辨析】students 是条件从句主语，外层主语是 they。",
+      "distractors": [
+        "只有记住每一个陌生单词，学生才可能理解句子。",
+        "学生找出了主要动词后，通常会把句子理解得更不准确。",
+        "如果学生不阅读句子，也能准确掌握其中的语法。"
+      ],
+      "words": [
+        [
+          "identify",
+          "识别；确认",
+          "v."
+        ],
+        [
+          "accurately",
+          "准确地",
+          "adv."
+        ],
+        [
+          "verb",
+          "动词",
+          "n."
+        ]
+      ],
+      "roleExplanations": {
+        "x": "If students can identify the main verb 引出条件，不能当主句宾语。",
+        "s": "they 是条件从句后主句的明示主语，指学生。",
+        "v": "understand 是主句谓语；identify 只在 If 从句内。",
+        "o": "the sentence 是 understand 的宾语。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "条件状语从句",
+          "text": "If students can identify the main verb,",
+          "explanation": "If 引导条件；students 为从句主语，can identify 为从句谓语。"
+        },
+        {
+          "kind": "方式程度修饰",
+          "text": "more accurately.",
+          "explanation": "more accurately 修饰 understand，表示理解得更准确。"
+        }
+      ]
+    },
+    {
+      "id": 10010,
+      "level": 3,
+      "title": "新时间表改善放学安排",
+      "sentence": "The new timetable not only reduced waiting times but also allowed students to leave school earlier.",
+      "targets": {
+        "s": "The new timetable",
+        "v": "reduced",
+        "o": "waiting times",
+        "v2": "allowed",
+        "o2": "students",
+        "k": "to leave school earlier."
+      },
+      "main": "The new timetable reduced waiting times and allowed students to leave earlier.",
+      "meaning": "新时间表不仅缩短了等待时间，还让学生能够更早离校。",
+      "analysis": "【主干】The new timetable 同时支配 reduced 与 allowed 两个并列谓语。【层次】reduced 的宾语是 waiting times；allowed 的宾语是 students，to leave... 作 students 的宾语补足语。【辨析】not only ... but also ... 并列谓语，不是两个各有主语的独立分句。",
+      "distractors": [
+        "新时间表虽然缩短了等待，却让学生更晚离校。",
+        "新时间表让老师更早离校，但增加了学生等待时间。",
+        "新时间表只改变了课程内容，与等待和放学无关。"
+      ],
+      "words": [
+        [
+          "timetable",
+          "时间表",
+          "n."
+        ],
+        [
+          "reduce",
+          "减少",
+          "v."
+        ],
+        [
+          "allow",
+          "允许",
+          "v."
+        ]
+      ],
+      "roleExplanations": {
+        "s": "The new timetable 是 reduced 和 allowed 共享的主语。",
+        "v": "reduced 是第一组主句谓语，支配 waiting times。",
+        "o": "waiting times 是 reduced 的直接宾语。",
+        "v2": "allowed 与 reduced 并列，仍由 timetable 作主语。",
+        "o2": "students 是 allowed 的直接宾语，不是 reduced 的宾语。",
+        "k": "to leave school earlier 说明 students 获准做什么。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "第一组谓宾",
+          "text": "reduced waiting times",
+          "explanation": "reduced 对应 waiting times；waiting 是修饰 times 的名词性定语。"
+        },
+        {
+          "kind": "第二组谓宾及宾补",
+          "text": "allowed students to leave school earlier.",
+          "explanation": "allow sb. to do：students 是宾语，to leave... 作宾补。"
+        },
+        {
+          "kind": "并列连接",
+          "text": "but also",
+          "explanation": "与前面的 not only 呼应，连接两个同层级谓语。"
+        }
+      ]
+    },
+    {
+      "id": 10011,
+      "level": 3,
+      "title": "样本选择与调查结论",
+      "sentence": "Because the survey included only volunteers, its findings may not represent the opinions of the entire community.",
+      "targets": {
+        "x": "Because the survey included only volunteers,",
+        "s": "its findings",
+        "v": "may not represent",
+        "o": "the opinions"
+      },
+      "main": "its findings may not represent the opinions.",
+      "meaning": "由于调查只纳入了志愿参与的人，它的调查结果可能无法代表整个社区的意见。",
+      "analysis": "【主干】its findings may not represent the opinions。【层次】Because... 表原因；only 限定 volunteers；of the entire community 修饰 opinions。【辨析】included 是原因从句谓语，may not represent 才是主句谓语；否定词 not 不可漏掉。",
+      "distractors": [
+        "调查覆盖了整个社区，因此结论必定准确。",
+        "调查结果必然完全代表社区所有人的意见。",
+        "因为社区居民拒绝参与，调查员没有得到任何结论。"
+      ],
+      "words": [
+        [
+          "survey",
+          "调查",
+          "n."
+        ],
+        [
+          "volunteer",
+          "志愿者",
+          "n."
+        ],
+        [
+          "represent",
+          "代表",
+          "v."
+        ]
+      ],
+      "roleExplanations": {
+        "x": "Because... 解释结果可能不具代表性的原因。",
+        "s": "its findings 是主句主语，指调查发现。",
+        "v": "may not represent 包含情态与否定，表示可能不代表。",
+        "o": "the opinions 是 represent 的宾语中心短语，不必连同后置 of 短语全选。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "原因状语从句",
+          "text": "Because the survey included only volunteers,",
+          "explanation": "survey 是从句主语，included 是谓语，volunteers 为宾语。"
+        },
+        {
+          "kind": "后置介词短语",
+          "text": "of the entire community.",
+          "explanation": "of... 修饰 opinions，指出整个社区的意见。"
+        }
+      ]
+    },
+    {
+      "id": 10012,
+      "level": 3,
+      "title": "简单提问揭示理解偏差",
+      "sentence": "A question that seems simple at first can reveal a misunderstanding when students explain how they reached their answers.",
+      "targets": {
+        "s": "A question",
+        "v": "can reveal",
+        "o": "a misunderstanding",
+        "m": "that seems simple at first",
+        "x": "when students explain how they reached their answers."
+      },
+      "main": "A question can reveal a misunderstanding.",
+      "meaning": "一个起初看似简单的问题，在学生解释自己如何得出答案时，可能揭示他们的理解偏差。",
+      "analysis": "【主干】A question can reveal a misunderstanding。【层次】that seems... 是修饰 question 的定语从句；when... 是时间状语从句；其中 how they reached... 是 explain 的宾语从句。【辨析】seems、explain、reached 均处在不同的从句层级。",
+      "distractors": [
+        "简单问题不可能反映任何理解偏差。",
+        "学生解释答案后，所有误解都会自动消失。",
+        "问题之所以复杂，是因为学生从未给出任何答案。"
+      ],
+      "words": [
+        [
+          "reveal",
+          "揭示",
+          "v."
+        ],
+        [
+          "misunderstanding",
+          "误解",
+          "n."
+        ],
+        [
+          "reach",
+          "得出（结论）",
+          "v."
+        ]
+      ],
+      "roleExplanations": {
+        "s": "A question 是外层主语，后面 that 从句仅作修饰。",
+        "v": "can reveal 是主句情态动词与谓语组合。",
+        "o": "a misunderstanding 是揭示的对象。",
+        "m": "that seems simple at first 修饰 question。",
+        "x": "when students explain how they reached their answers 给出发现误解的时间背景。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "定语从句",
+          "text": "that seems simple at first",
+          "explanation": "that 指 question；seems 是系动词，simple 是表语。"
+        },
+        {
+          "kind": "时间状语从句",
+          "text": "when students explain how they reached their answers.",
+          "explanation": "students 为该从句主语，explain 为谓语。"
+        },
+        {
+          "kind": "内层 how 宾语从句",
+          "text": "how they reached their answers.",
+          "explanation": "how 从句作 explain 的宾语，they reached 是内部主谓。"
+        }
+      ]
+    },
+    {
+      "id": 10013,
+      "level": 3,
+      "title": "通过独立思考而非照抄",
+      "sentence": "Instead of copying the example, the class tried to develop a solution that would work under different conditions.",
+      "targets": {
+        "s": "the class",
+        "v": "tried",
+        "c": "to develop a solution",
+        "m": "that would work under different conditions.",
+        "n": "copying the example,"
+      },
+      "main": "the class tried to develop a solution.",
+      "meaning": "全班没有照抄示例，而是尝试设计一种能够适用于不同条件的解决办法。",
+      "analysis": "【主干】the class tried to develop a solution。【层次】Instead of copying... 是介词短语，其中 copying 为动名词；to develop... 是 tried 后的不定式补足语；that would work... 修饰 solution。【辨析】copying 不是主句谓语，也不是由连词引导的状语从句。",
+      "distractors": [
+        "全班按照示例原样复制了一种方案。",
+        "这套方案只能在原示例的条件下运作。",
+        "学生们拒绝尝试任何新的解决办法。"
+      ],
+      "words": [
+        [
+          "solution",
+          "解决方案",
+          "n."
+        ],
+        [
+          "condition",
+          "条件",
+          "n."
+        ],
+        [
+          "develop",
+          "开发；设计",
+          "v."
+        ]
+      ],
+      "roleExplanations": {
+        "s": "the class 是主句主语，语法上作为集体名词按单数处理。",
+        "v": "tried 是主句谓语。",
+        "c": "to develop a solution 补足 tried 的内容，回答尝试做什么。",
+        "m": "that would work under different conditions 修饰 solution。",
+        "n": "copying the example 是介词 of 后的动名词结构。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "对比介词短语",
+          "text": "Instead of copying the example,",
+          "explanation": "instead of 后接动名词 copying，而非限定谓语。"
+        },
+        {
+          "kind": "宾语式不定式补足语",
+          "text": "to develop a solution",
+          "explanation": "develop 是不定式核心，a solution 为它的宾语。"
+        },
+        {
+          "kind": "修饰 solution 的定语从句",
+          "text": "that would work under different conditions.",
+          "explanation": "that 指 solution；would work 是从句谓语。"
+        }
+      ]
+    },
+    {
+      "id": 10014,
+      "level": 3,
+      "title": "后来收集的证据改变看法",
+      "sentence": "Although the first explanation sounded reasonable, the evidence collected later showed that an important detail had been overlooked.",
+      "targets": {
+        "x": "Although the first explanation sounded reasonable,",
+        "s": "the evidence",
+        "v": "showed",
+        "n": "collected later",
+        "o": "that an important detail had been overlooked."
+      },
+      "main": "the evidence showed that an important detail had been overlooked.",
+      "meaning": "虽然第一个解释听上去合理，但后来收集的证据表明有一个重要细节被忽略了。",
+      "analysis": "【主干】the evidence showed that...。【层次】Although... 表让步；collected later 为过去分词后置定语，修饰 evidence；that... 是 showed 的宾语从句，其中 had been overlooked 为过去完成时被动结构。【辨析】overlooked 在宾语从句的限定谓语中，不应另圈为外层非谓语。",
+      "distractors": [
+        "第一个解释不合理，而后来没有收集任何证据。",
+        "后来的证据证实第一个解释遗漏了全部内容之外的某件事，所以无需检查。",
+        "重要细节已在最初解释中得到充分重视，后续证据没有影响。"
+      ],
+      "words": [
+        [
+          "reasonable",
+          "合理的",
+          "adj."
+        ],
+        [
+          "evidence",
+          "证据",
+          "n."
+        ],
+        [
+          "overlook",
+          "忽略",
+          "v."
+        ]
+      ],
+      "roleExplanations": {
+        "x": "Although... 引出让步背景；sounded 是从句系动词。",
+        "s": "the evidence 是主句主语。",
+        "v": "showed 是主句谓语。",
+        "n": "collected later 是修饰 evidence 的过去分词短语，核心 collected。",
+        "o": "that an important detail had been overlooked 是 showed 的完整宾语从句。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "过去分词后置定语",
+          "text": "collected later",
+          "explanation": "相当于 which was collected later，修饰 evidence。"
+        },
+        {
+          "kind": "宾语从句内部被动谓语",
+          "text": "had been overlooked.",
+          "explanation": "had been overlooked 属于宾语从句谓语，表示在某个过去时间之前已被忽略。"
+        }
+      ]
+    },
+    {
+      "id": 10015,
+      "level": 3,
+      "title": "演讲者留时间供听众思考",
+      "sentence": "The speaker paused to give the audience time to consider a question that had no obvious answer.",
+      "targets": {
+        "s": "The speaker",
+        "v": "paused",
+        "n": "to give the audience time"
+      },
+      "main": "The speaker paused.",
+      "meaning": "演讲者暂停了一下，给听众时间去思考一道没有明显答案的问题。",
+      "analysis": "【主干】The speaker paused，是不及物动词谓语，没有直接宾语。【层次】to give... 表示暂停的目的；give the audience time 是双宾语结构；to consider... 修饰 time，说明时间用于做什么；that had no obvious answer 修饰 question。【辨析】不要把 give 当作主句谓语。",
+      "distractors": [
+        "演讲者立即公布了唯一正确答案，没有让听众思考。",
+        "听众因问题太简单而中断了演讲。",
+        "演讲者给听众时间写答案，因为每道题都有显而易见的解法。"
+      ],
+      "words": [
+        [
+          "pause",
+          "暂停",
+          "v."
+        ],
+        [
+          "audience",
+          "听众",
+          "n."
+        ],
+        [
+          "obvious",
+          "明显的",
+          "adj."
+        ]
+      ],
+      "roleExplanations": {
+        "s": "The speaker 是主句主语。",
+        "v": "paused 是主句谓语，后面的 give 是不定式内的动词。",
+        "n": "to give the audience time 是目的不定式，核心 to give。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "目的不定式",
+          "text": "to give the audience time",
+          "explanation": "解释 speaker 为什么 paused；the audience 是 give 的间接宾语，time 为直接宾语。"
+        },
+        {
+          "kind": "后置不定式",
+          "text": "to consider a question",
+          "explanation": "修饰 time，说明给听众时间去思考什么。"
+        },
+        {
+          "kind": "限定性定语从句",
+          "text": "that had no obvious answer.",
+          "explanation": "that 指 question，had 为从句谓语，no obvious answer 为宾语。"
+        }
+      ]
+    },
+    {
+      "id": 10016,
+      "level": 3,
+      "title": "道路封闭时的线上服务",
+      "sentence": "While the road remained closed, local businesses used online services to reach customers who could not visit their shops.",
+      "targets": {
+        "x": "While the road remained closed,",
+        "s": "local businesses",
+        "v": "used",
+        "o": "online services",
+        "n": "to reach customers",
+        "m": "who could not visit their shops."
+      },
+      "main": "local businesses used online services.",
+      "meaning": "道路封闭期间，当地商家借助线上服务联系无法到店的顾客。",
+      "analysis": "【主干】local businesses used online services。【层次】While... 表道路封闭期间；to reach... 是目的不定式，解释使用线上服务的目的；who... 修饰 customers。【辨析】remained 与 could not visit 都是从句内部谓语，to reach 不承担主句时态。",
+      "distractors": [
+        "道路开放以后，商家才停止提供所有线上服务。",
+        "当地商家只为能够亲自到店的顾客提供线上服务。",
+        "道路封闭使当地商家完全无法联系客户。"
+      ],
+      "words": [
+        [
+          "remain",
+          "保持",
+          "v."
+        ],
+        [
+          "business",
+          "商家；企业",
+          "n."
+        ],
+        [
+          "customer",
+          "顾客",
+          "n."
+        ]
+      ],
+      "roleExplanations": {
+        "x": "While the road remained closed 是时间背景从句，road 不是主句主语。",
+        "s": "local businesses 是使用线上服务的主体。",
+        "v": "used 是主句过去时谓语。",
+        "o": "online services 是 used 的宾语。",
+        "n": "to reach customers 是目的不定式，核心 to reach。",
+        "m": "who could not visit their shops 修饰 customers。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "目的不定式",
+          "text": "to reach customers",
+          "explanation": "说明用线上服务的目的，customers 为 reach 的宾语。"
+        },
+        {
+          "kind": "定语从句",
+          "text": "who could not visit their shops.",
+          "explanation": "who 指 customers，could not visit 是从句谓语。"
+        }
+      ]
+    },
+    {
+      "id": 10017,
+      "level": 3,
+      "title": "仔细研究论证过程",
+      "sentence": "The students identified a problem that others had overlooked because they examined how the argument was organized.",
+      "targets": {
+        "s": "The students",
+        "v": "identified",
+        "o": "a problem",
+        "m": "that others had overlooked",
+        "x": "because they examined how the argument was organized."
+      },
+      "main": "The students identified a problem.",
+      "meaning": "学生们仔细研究论证的组织方式，因此发现了别人之前忽视的问题。",
+      "analysis": "【主干】The students identified a problem。【层次】that others had overlooked 限定 problem；because... 表原因，they 指 students；how the argument was organized 作 examined 的宾语从句。【辨析】had overlooked 与 was organized 均不是外层谓语。",
+      "distractors": [
+        "学生认为其他人已解决问题，因此不需要查看论证。",
+        "学生没有检查论证方式，却发现别人完全认可的问题。",
+        "论证结构非常清楚，以至于学生没有遇到任何问题。"
+      ],
+      "words": [
+        [
+          "identify",
+          "识别；发现",
+          "v."
+        ],
+        [
+          "argument",
+          "论证",
+          "n."
+        ],
+        [
+          "overlook",
+          "忽视",
+          "v."
+        ]
+      ],
+      "roleExplanations": {
+        "s": "The students 是主句主语。",
+        "v": "identified 是主句过去时谓语。",
+        "o": "a problem 是 identified 的直接宾语。",
+        "m": "that others had overlooked 修饰 a problem，had overlooked 为从句谓语。",
+        "x": "because they examined how the argument was organized 说明发现问题的原因。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "定语从句",
+          "text": "that others had overlooked",
+          "explanation": "that 在从句中作 overlooked 的宾语，others 作从句主语。"
+        },
+        {
+          "kind": "原因状语从句",
+          "text": "because they examined how the argument was organized.",
+          "explanation": "because 引出原因；examined 的对象是 how 从句。"
+        },
+        {
+          "kind": "内层 how 宾语从句",
+          "text": "how the argument was organized.",
+          "explanation": "how 表组织方式；the argument 为从句主语，was organized 为被动谓语。"
+        }
+      ]
+    },
+    {
+      "id": 10018,
+      "level": 3,
+      "title": "委员会真正需要什么",
+      "sentence": "What the committee needed most was a clear explanation of why the proposed change would benefit smaller schools.",
+      "targets": {
+        "s": "What the committee needed most",
+        "v": "was",
+        "p": "a clear explanation"
+      },
+      "main": "What the committee needed most was a clear explanation.",
+      "meaning": "委员会最需要的是清楚解释拟议的改革为何能让规模较小的学校受益。",
+      "analysis": "【主干】What the committee needed most 是主语从句，was 是系动词，a clear explanation 是表语核心。【层次】of why... 补充 explanation 的内容；why the proposed change would benefit smaller schools 是介词 of 后的名词性从句。【辨析】committee 只是主语从句内部的主语，不是外层谓语 was 的完整主语。",
+      "distractors": [
+        "委员会最需要的是更多资金，而不是解释改革的好处。",
+        "委员会已经确定拟议的改变对小学校毫无益处。",
+        "这次改革的目的仅仅是让大型学校受益。"
+      ],
+      "words": [
+        [
+          "committee",
+          "委员会",
+          "n."
+        ],
+        [
+          "proposed",
+          "提议的",
+          "adj."
+        ],
+        [
+          "benefit",
+          "使受益",
+          "v."
+        ]
+      ],
+      "roleExplanations": {
+        "s": "What the committee needed most 整体是外层主语；needed 属于从句内部。",
+        "v": "was 是外层主句系动词。",
+        "p": "a clear explanation 是表语核心；后面 of... 是对 explanation 的内容补充。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "主语从句",
+          "text": "What the committee needed most",
+          "explanation": "what 在从句内部作 needed 的宾语；整个从句相当于“委员会最需要的东西”。"
+        },
+        {
+          "kind": "补充解释的介词短语",
+          "text": "of why the proposed change would benefit smaller schools.",
+          "explanation": "of 后接 why 从句，说明所需解释的具体问题。"
+        },
+        {
+          "kind": "why 名词性从句",
+          "text": "why the proposed change would benefit smaller schools.",
+          "explanation": "proposed change 为从句主语，would benefit 为谓语。"
+        }
+      ]
+    },
+    {
+      "id": 10019,
+      "level": 3,
+      "title": "员工建议的调整方案",
+      "sentence": "The manager asked whether the changes recommended by staff could be introduced without increasing costs.",
+      "targets": {
+        "s": "The manager",
+        "v": "asked",
+        "o": "whether the changes recommended by staff could be introduced without increasing costs.",
+        "n": "recommended by staff"
+      },
+      "main": "The manager asked whether the changes could be introduced.",
+      "meaning": "经理询问，员工建议的那些调整能否在不增加费用的情况下实施。",
+      "analysis": "【主干】The manager asked whether...。【层次】whether... 是 asked 的宾语从句；recommended by staff 为过去分词后置定语，修饰 changes；without increasing costs 是介词 + 动名词结构，表示不增加费用。【辨析】could be introduced 是宾语从句中的被动谓语，不是外层谓语。",
+      "distractors": [
+        "经理决定立即实施调整，即使会增加全部费用。",
+        "员工问经理是否应该取消所有改革建议。",
+        "经理明确要求只采用成本最高的方案。"
+      ],
+      "words": [
+        [
+          "introduce",
+          "实施；引入",
+          "v."
+        ],
+        [
+          "recommend",
+          "建议",
+          "v."
+        ],
+        [
+          "increase",
+          "增加",
+          "v."
+        ]
+      ],
+      "roleExplanations": {
+        "s": "The manager 是询问的发出者。",
+        "v": "asked 是主句谓语；could be introduced 在 whether 从句内。",
+        "o": "whether... 整个从句是 asked 询问的内容，不能只选 whether。",
+        "n": "recommended by staff 是修饰 changes 的过去分词短语，核心 recommended。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "后置分词定语",
+          "text": "recommended by staff",
+          "explanation": "changes 是被建议的对象；by staff 指出建议者。"
+        },
+        {
+          "kind": "whether 宾语从句",
+          "text": "whether the changes recommended by staff could be introduced without increasing costs.",
+          "explanation": "whether 引导是否问题；the changes 为内部主语，could be introduced 为被动谓语。"
+        },
+        {
+          "kind": "方式介词短语",
+          "text": "without increasing costs.",
+          "explanation": "without 是介词，increasing 是动名词，costs 为其宾语。"
+        }
+      ]
+    },
+    {
+      "id": 10020,
+      "level": 3,
+      "title": "联系生活经验记忆知识",
+      "sentence": "Students tend to remember information better when they connect it with experiences that are personally meaningful.",
+      "targets": {
+        "s": "Students",
+        "v": "tend to remember",
+        "o": "information",
+        "x": "when they connect it with experiences that are personally meaningful.",
+        "m": "that are personally meaningful."
+      },
+      "main": "Students tend to remember information better.",
+      "meaning": "当学生把知识与对自己有意义的亲身经历联系起来时，往往能记得更牢。",
+      "analysis": "【主干】Students tend to remember information better。【层次】when... 是时间或条件背景；其中 connect it with experiences 表示把信息与经历联系起来；that... 修饰 experiences。【辨析】connect 是 when 从句谓语，are 是更内层定语从句谓语。",
+      "distractors": [
+        "学生只有死记硬背才能记住任何信息。",
+        "亲身经历会让学生更容易忘记所学知识。",
+        "学生记忆的好坏只取决于信息出现的顺序。"
+      ],
+      "words": [
+        [
+          "experience",
+          "经历",
+          "n."
+        ],
+        [
+          "meaningful",
+          "有意义的",
+          "adj."
+        ],
+        [
+          "connect",
+          "联系",
+          "v."
+        ]
+      ],
+      "roleExplanations": {
+        "s": "Students 是主句主语。",
+        "v": "tend to remember 是主句谓语复合结构，表示往往能记住。",
+        "o": "information 是 remember 的宾语。",
+        "x": "when they connect it with experiences... 交代有利于记忆的情境。",
+        "m": "that are personally meaningful 修饰 experiences，而不是 information。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "时间状语从句",
+          "text": "when they connect it with experiences that are personally meaningful.",
+          "explanation": "they 为从句主语，connect...with... 表示把两者联系。"
+        },
+        {
+          "kind": "从句内部定语从句",
+          "text": "that are personally meaningful.",
+          "explanation": "that 指 experiences，are 为系动词，personally meaningful 表示对本人有意义。"
+        }
+      ]
+    },
+    {
+      "id": 10021,
+      "level": 3,
+      "title": "比较路线减少居民受影响",
+      "sentence": "After examining three possible routes, the organizers chose the one that would cause the least disruption to nearby residents.",
+      "targets": {
+        "s": "the organizers",
+        "v": "chose",
+        "o": "the one",
+        "m": "that would cause the least disruption to nearby residents.",
+        "n": "examining three possible routes,"
+      },
+      "main": "the organizers chose the one.",
+      "meaning": "考察了三条可能的路线后，组织者选中了对附近居民干扰最小的那一条。",
+      "analysis": "【主干】the organizers chose the one。【层次】After examining... 是介词 after + 动名词结构作时间状语；that would cause... 修饰 one，解释选中哪一条。【辨析】examining 是非谓语；would cause 属于定语从句谓语。",
+      "distractors": [
+        "组织者未经考察就选择了干扰最大的路线。",
+        "三条路线都不会影响附近居民，因此无需选择。",
+        "附近居民决定直接取消所有路线安排。"
+      ],
+      "words": [
+        [
+          "organizer",
+          "组织者",
+          "n."
+        ],
+        [
+          "disruption",
+          "干扰；扰乱",
+          "n."
+        ],
+        [
+          "resident",
+          "居民",
+          "n."
+        ]
+      ],
+      "roleExplanations": {
+        "s": "the organizers 是主句主语和前面 examining 的逻辑执行者。",
+        "v": "chose 是主句过去时谓语。",
+        "o": "the one 是 chose 的宾语核心；后面有定语从句。",
+        "m": "that would cause the least disruption to nearby residents 修饰 the one。",
+        "n": "examining three possible routes 是 after 后的动名词短语。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "时间介词短语",
+          "text": "After examining three possible routes,",
+          "explanation": "after 是介词，examining 为动名词，routes 为其宾语。"
+        },
+        {
+          "kind": "限定性定语从句",
+          "text": "that would cause the least disruption to nearby residents.",
+          "explanation": "that 指代 the one；would cause 为从句谓语，the least disruption 为其宾语。"
+        }
+      ]
+    },
+    {
+      "id": 10022,
+      "level": 3,
+      "title": "修订提案并补充证据",
+      "sentence": "Even though the proposal was rejected at first, its supporters revised the plan and presented stronger evidence a month later.",
+      "targets": {
+        "x": "Even though the proposal was rejected at first,",
+        "s": "its supporters",
+        "v": "revised",
+        "o": "the plan",
+        "v2": "presented",
+        "o2": "stronger evidence"
+      },
+      "main": "its supporters revised the plan and presented stronger evidence.",
+      "meaning": "尽管提案最初被否决，支持者还是修改了计划，并在一个月后提交了更有力的证据。",
+      "analysis": "【主干】its supporters 是 revised 与 presented 共同的主语，两组谓语各有不同宾语。【层次】Even though... 是让步从句；a month later 为主句时间状语。【辨析】was rejected 是让步从句中的被动谓语；不要把 plan 和 evidence 合并成单一宾语。",
+      "distractors": [
+        "由于提案一开始获得通过，支持者便停止修订。",
+        "提案支持者在一个月前删除了所有证据。",
+        "支持者拒绝修改计划，也没有补充任何新证据。"
+      ],
+      "words": [
+        [
+          "proposal",
+          "提案",
+          "n."
+        ],
+        [
+          "revise",
+          "修订",
+          "v."
+        ],
+        [
+          "evidence",
+          "证据",
+          "n."
+        ]
+      ],
+      "roleExplanations": {
+        "x": "Even though... 交代虽被拒绝仍继续推进的让步背景。",
+        "s": "its supporters 同时执行 revised 与 presented 两个动作。",
+        "v": "revised 是第一组谓语，支配 the plan。",
+        "o": "the plan 是 revised 的直接宾语。",
+        "v2": "presented 是与 revised 并列的第二组谓语，仍共享 supporters。",
+        "o2": "stronger evidence 是 presented 的独立宾语。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "让步状语从句",
+          "text": "Even though the proposal was rejected at first,",
+          "explanation": "proposal 为从句主语，was rejected 是被动谓语；at first 表示最初。"
+        },
+        {
+          "kind": "第一组谓宾",
+          "text": "revised the plan",
+          "explanation": "revised 的宾语是 the plan。"
+        },
+        {
+          "kind": "第二组谓宾与时间",
+          "text": "presented stronger evidence a month later.",
+          "explanation": "presented 对应 stronger evidence；a month later 是时间状语。"
+        }
+      ]
+    }
+  ]
 }
