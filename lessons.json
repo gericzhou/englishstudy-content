@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": 7,
+  "revision": 8,
   "lessons": [
     {
       "id": 10003,
@@ -982,7 +982,7 @@
       },
       "main": "Students tend to remember information better.",
       "meaning": "当学生把知识与对自己有意义的亲身经历联系起来时，往往能记得更牢。",
-      "analysis": "【主干】Students tend to remember information better。【层次】when... 是时间或条件背景；其中 connect it with experiences 表示把信息与经历联系起来；that... 修饰 experiences。【辨析】connect 是 when 从句谓语，are 是更内层定语从句谓语。",
+      "analysis": "【主句主干】Students 是主语；tend 为承担时态的限定谓语动词，to remember 为动词不定式补足成分，information 是 remember 的宾语；整体 tend to remember 是动词短语，表示往往会记住。【关键修饰】better 表示记得更好；when they connect it with experiences... 是时间或条件背景，内部 that are personally meaningful 修饰 experiences。【判断依据】tend 可以随主语和时态变化，而不定式 to remember 不单独承担主句时态。【本句易错点】可以圈 tend 识别限定谓语，也可以圈 tend to remember 识别完整动词短语；remember 不是与 tend 并列的第二个限定谓语。",
       "distractors": [
         "学生只有死记硬背才能记住任何信息。",
         "亲身经历会让学生更容易忘记所学知识。",
@@ -1007,7 +1007,7 @@
       ],
       "roleExplanations": {
         "s": "Students 是主句主语。",
-        "v": "tend to remember 是主句谓语复合结构，表示往往能记住。",
+        "v": "tend 是承担时态的主句限定谓语动词，后接不定式 to remember 作补足成分；tend to remember 可作为完整动词短语来分析。选 tend 或 tend to remember 均为正确的主句谓语辨认。",
         "o": "information 是 remember 的宾语。",
         "x": "when they connect it with experiences... 交代有利于记忆的情境。",
         "m": "that are personally meaningful 修饰 experiences，而不是 information。"
@@ -1023,7 +1023,12 @@
           "text": "that are personally meaningful.",
           "explanation": "that 指 experiences，are 为系动词，personally meaningful 表示对本人有意义。"
         }
-      ]
+      ],
+      "acceptedTargets": {
+        "v": [
+          "tend"
+        ]
+      }
     },
     {
       "id": 10021,
