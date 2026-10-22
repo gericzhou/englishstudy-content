@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": 14,
+  "revision": 15,
   "lessons": [
     {
       "id": 10003,
@@ -1874,6 +1874,690 @@
           "A survey conducted last month"
         ]
       }
+    },
+    {
+      "id": 10034,
+      "level": 3,
+      "title": "提案得到支持却仍受质疑",
+      "sentence": "Although the proposal, which had attracted considerable support, seemed practical at first, the committee questioned whether it could be carried out without increasing costs.",
+      "targets": {
+        "x": "Although the proposal, which had attracted considerable support, seemed practical at first,",
+        "s": "the committee",
+        "v": "questioned",
+        "o": "whether it could be carried out without increasing costs.",
+        "m": "which had attracted considerable support,",
+        "n": "increasing costs."
+      },
+      "main": "the committee questioned whether it could be carried out.",
+      "meaning": "尽管该提案获得了相当多的支持、起初看似可行，委员会仍质疑能否在不增加成本的情况下实施。",
+      "analysis": "【主干】the committee questioned whether...。【让步】Although 从句内嵌 which 非限制性定语从句，修饰 proposal。【宾语】whether 从句是 questioned 的宾语，it 指 proposal，could be carried out 是被动谓语。【非谓语】without increasing costs 中的 increasing costs 是介词后的动名词结构。【易错】seemed、had attracted、could be carried out 都不是主句谓语。",
+      "distractors": [
+        "委员会确认提案无需增加成本，因此没有提出任何疑问。",
+        "提案因缺乏支持而被直接取消，从未讨论实施问题。",
+        "委员会认为提案已经实施完毕，所以无需检查成本。"
+      ],
+      "roleExplanations": {
+        "x": "Although 引导让步从句，which 插入修饰 proposal。",
+        "s": "the committee 才是外层主句主语。",
+        "v": "questioned 是主句谓语。",
+        "o": "whether... 整体作 questioned 的宾语。",
+        "m": "which... 是修饰 proposal 的非限制性定语从句。",
+        "n": "increasing costs 是 without 后动名词，核心 increasing。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "让步从句",
+          "text": "Although the proposal, which had attracted considerable support, seemed practical at first,",
+          "explanation": "先略过 which 插入语，从句主干是 proposal seemed practical。"
+        },
+        {
+          "kind": "嵌套定语从句",
+          "text": "which had attracted considerable support,",
+          "explanation": "which 指 proposal，had attracted 为内部谓语。"
+        },
+        {
+          "kind": "宾语从句",
+          "text": "whether it could be carried out without increasing costs.",
+          "explanation": "whether 表是否，it 是该从句主语，could be carried out 为被动谓语。"
+        },
+        {
+          "kind": "动名词",
+          "text": "increasing costs.",
+          "explanation": "介词 without 后接动名词 increasing，costs 是其宾语。"
+        }
+      ],
+      "words": [
+        [
+          "proposal",
+          "提案",
+          "n."
+        ],
+        [
+          "practical",
+          "可行的",
+          "adj."
+        ],
+        [
+          "considerable",
+          "相当多的",
+          "adj."
+        ]
+      ]
+    },
+    {
+      "id": 10035,
+      "level": 3,
+      "title": "识别缺陷并提出验证方法",
+      "sentence": "The researcher not only identified a flaw in the experiment but also suggested a method that other teams could use to test the results independently.",
+      "targets": {
+        "s": "The researcher",
+        "v": "identified",
+        "o": "a flaw",
+        "v2": "suggested",
+        "o2": "a method",
+        "m": "that other teams could use to test the results independently.",
+        "n": "to test the results independently."
+      },
+      "main": "The researcher identified a flaw and suggested a method.",
+      "meaning": "研究人员不仅发现了实验中的缺陷，还提出了其他团队可用来独立验证结果的方法。",
+      "analysis": "【主干】The researcher 同时支配 identified 和 suggested 两个谓语，分别接 a flaw 和 a method。【并列】not only...but also... 连接两组谓宾。【定语从句】that... 修饰 method，that 作 use 的宾语。【目的】to test... 位于定语从句内，是使用方法的目的不定式。不能把 method 错当 identified 的宾语。",
+      "distractors": [
+        "研究人员宣布实验不存在缺陷，也不需要再验证结果。",
+        "研究人员只发现一个错误，拒绝提供其他团队可使用的方法。",
+        "其他团队认为研究结果已经被独立验证，所以取消后续研究。"
+      ],
+      "roleExplanations": {
+        "s": "The researcher 为两组动作共同的主语。",
+        "v": "identified 为第一组谓语。",
+        "o": "a flaw 为第一组宾语，后可连 in the experiment。",
+        "v2": "suggested 为第二组并列谓语。",
+        "o2": "a method 为第二组宾语，后面可带 that 定语从句。",
+        "m": "that... 限定 a method，that 作 use 的宾语。",
+        "n": "to test the results independently 是目的不定式。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "第一组谓宾",
+          "text": "identified a flaw in the experiment",
+          "explanation": "identified 后的 a flaw 是直接宾语。"
+        },
+        {
+          "kind": "第二组谓宾",
+          "text": "suggested a method",
+          "explanation": "suggested 与 identified 并列，a method 是其宾语。"
+        },
+        {
+          "kind": "限定性定语从句",
+          "text": "that other teams could use to test the results independently.",
+          "explanation": "that 修饰 method，在从句中作 use 的宾语。"
+        },
+        {
+          "kind": "目的不定式",
+          "text": "to test the results independently.",
+          "explanation": "说明其他团队使用方法的目的。"
+        }
+      ],
+      "words": [
+        [
+          "flaw",
+          "缺陷",
+          "n."
+        ],
+        [
+          "independently",
+          "独立地",
+          "adv."
+        ],
+        [
+          "suggest",
+          "提出；建议",
+          "v."
+        ]
+      ],
+      "acceptedTargets": {
+        "o": [
+          "a flaw in the experiment"
+        ],
+        "o2": [
+          "a method that other teams could use to test the results independently."
+        ]
+      }
+    },
+    {
+      "id": 10036,
+      "level": 3,
+      "title": "比较两份报告后修正判断",
+      "sentence": "Having compared the two reports, the editor concluded that the evidence presented by the second team was more convincing than it had initially appeared.",
+      "targets": {
+        "n": "Having compared the two reports,",
+        "s": "the editor",
+        "v": "concluded",
+        "o": "that the evidence presented by the second team was more convincing than it had initially appeared."
+      },
+      "main": "the editor concluded that the evidence was more convincing.",
+      "meaning": "编辑比较了两份报告后认定，第二个团队提出的证据比最初看起来更有说服力。",
+      "analysis": "【主干】the editor concluded that...。【分词状语】Having compared... 为完成式分词，逻辑主语 editor，表示先比较后下结论。【宾语从句】that... 作 concluded 的宾语，其中 evidence 是内部主语，was more convincing 为系表。【分词定语】presented by the second team 修饰 evidence。【比较】than it had initially appeared 省略可从上文理解的表语，it 指 evidence。",
+      "distractors": [
+        "编辑在比较之前便断定第二份证据没有说服力。",
+        "编辑认为第一份报告的证据比任何其他报告更可靠。",
+        "编辑宣布两组证据完全一致，没有必要进行比较。"
+      ],
+      "roleExplanations": {
+        "n": "Having compared... 是完成式分词状语；presented by... 为句内另一个非谓语定语。",
+        "s": "the editor 是外层主语，也是 Having compared 的逻辑主语。",
+        "v": "concluded 是主句谓语，was 和 appeared 属于宾语及比较从句。",
+        "o": "that... 整体作 concluded 的宾语。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "完成式分词",
+          "text": "Having compared the two reports,",
+          "explanation": "having + 过去分词表示动作先于主句。"
+        },
+        {
+          "kind": "过去分词后置定语",
+          "text": "presented by the second team",
+          "explanation": "修饰 evidence，表示由第二个团队提出的证据。"
+        },
+        {
+          "kind": "宾语从句",
+          "text": "that the evidence presented by the second team was more convincing than it had initially appeared.",
+          "explanation": "evidence 是内部主语，was more convincing 是系表。"
+        }
+      ],
+      "words": [
+        [
+          "convincing",
+          "有说服力的",
+          "adj."
+        ],
+        [
+          "editor",
+          "编辑",
+          "n."
+        ],
+        [
+          "evidence",
+          "证据",
+          "n."
+        ]
+      ],
+      "acceptedTargets": {
+        "n": [
+          "presented by the second team"
+        ]
+      }
+    },
+    {
+      "id": 10037,
+      "level": 3,
+      "title": "时刻表是否成功取决于运行",
+      "sentence": "Whether the new timetable will reduce delays depends on how reliably the buses operate during the morning rush hour.",
+      "targets": {
+        "s": "Whether the new timetable will reduce delays",
+        "v": "depends",
+        "r": "on how reliably the buses operate during the morning rush hour."
+      },
+      "main": "Whether the new timetable will reduce delays depends on how reliably the buses operate.",
+      "meaning": "新时刻表能否减少延误，取决于早高峰公交车运行得是否稳定。",
+      "analysis": "【主语从句】Whether the new timetable will reduce delays 整体作主句主语，whether 表是否。【主句】depends 是主句限定谓语，on how... 为介词补足语。【介词宾语】how reliably the buses operate... 是 on 的宾语从句；buses 为内部主语，operate 为内部谓语。【易错】delays 是 reduce 的宾语，不是 depends 的宾语；depends on 可作谓语搭配。",
+      "distractors": [
+        "公交时刻表是否减少延误与车辆的运行状况完全无关。",
+        "早高峰公交车一定准点，因此新时刻表无须调整。",
+        "新时刻表主要取决于乘客数量，而不是公交运行的稳定程度。"
+      ],
+      "roleExplanations": {
+        "s": "whether 整段主语从句作外层主语。",
+        "v": "depends 为主句谓语，可将 depends on 作为动词搭配理解。",
+        "r": "on how... 是补充 depends 的介词短语，how 从句为 on 的宾语。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "whether 主语从句",
+          "text": "Whether the new timetable will reduce delays",
+          "explanation": "whether 引导是否问题，整段承担主句主语。"
+        },
+        {
+          "kind": "depends on 结构",
+          "text": "depends on how reliably the buses operate during the morning rush hour.",
+          "explanation": "depends 为主句谓语，on 后的名词性从句表示依赖的条件。"
+        },
+        {
+          "kind": "how 宾语从句",
+          "text": "how reliably the buses operate during the morning rush hour.",
+          "explanation": "buses 为从句主语，operate 为谓语。"
+        }
+      ],
+      "words": [
+        [
+          "reliably",
+          "稳定地；可靠地",
+          "adv."
+        ],
+        [
+          "delay",
+          "延误",
+          "n."
+        ],
+        [
+          "timetable",
+          "时刻表",
+          "n."
+        ]
+      ],
+      "acceptedTargets": {
+        "v": [
+          "depends on"
+        ]
+      }
+    },
+    {
+      "id": 10038,
+      "level": 3,
+      "title": "面对警告仍作出双重承诺",
+      "sentence": "Despite being warned that the schedule was unrealistic, the organizers promised to finish the project before the deadline and offered to publish weekly updates.",
+      "targets": {
+        "n": "being warned that the schedule was unrealistic,",
+        "s": "the organizers",
+        "v": "promised",
+        "c": "to finish the project before the deadline",
+        "v2": "offered"
+      },
+      "main": "the organizers promised to finish the project and offered to publish weekly updates.",
+      "meaning": "尽管组织者已被提醒日程安排不切实际，他们仍承诺在截止日期前完成项目，并主动提出每周公布进展。",
+      "analysis": "【主干】the organizers promised... and offered...，两个并列谓语共用 organizers。【让步】Despite 是介词，being warned 为被动动名词结构，不能把 warned 当主句谓语。【两个不定式】to finish... 补足 promised，to publish weekly updates 补足 offered。【内容从句】that the schedule was unrealistic 是 warned 后的内容从句。",
+      "distractors": [
+        "组织者听到警告便取消了项目，并停止发布任何消息。",
+        "组织者只要求其他人公布进展，没有作出完成项目的承诺。",
+        "因为计划已经提前完成，组织者无须再考虑时间表是否现实。"
+      ],
+      "roleExplanations": {
+        "n": "being warned... 是 Despite 后的被动动名词；另有两个不定式也可辨认。",
+        "s": "the organizers 是 promised 和 offered 共用的主语。",
+        "v": "promised 为第一组主句谓语。",
+        "c": "to finish the project before the deadline 补足承诺内容。",
+        "v2": "offered 为第二组并列主句谓语。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "介词后被动动名词",
+          "text": "Despite being warned that the schedule was unrealistic,",
+          "explanation": "Despite 为介词，being warned 表被动。"
+        },
+        {
+          "kind": "第一组动词补足语",
+          "text": "to finish the project before the deadline",
+          "explanation": "是不定式，补充 promised 的内容。"
+        },
+        {
+          "kind": "第二个不定式",
+          "text": "to publish weekly updates.",
+          "explanation": "是不定式，补充 offered 的内容。"
+        },
+        {
+          "kind": "that 内容从句",
+          "text": "that the schedule was unrealistic,",
+          "explanation": "that 引导警告的内容，schedule 是内部主语。"
+        }
+      ],
+      "words": [
+        [
+          "despite",
+          "尽管",
+          "prep."
+        ],
+        [
+          "unrealistic",
+          "不切实际的",
+          "adj."
+        ],
+        [
+          "deadline",
+          "截止日期",
+          "n."
+        ]
+      ],
+      "acceptedTargets": {
+        "n": [
+          "to finish the project before the deadline",
+          "to publish weekly updates."
+        ]
+      }
+    },
+    {
+      "id": 10039,
+      "level": 3,
+      "title": "节约时间的说法遭质疑",
+      "sentence": "The claim that the new system would save time was challenged by employees who had noticed that some tasks actually took longer than before.",
+      "targets": {
+        "s": "The claim",
+        "v": "was challenged",
+        "r": "by employees",
+        "m": "who had noticed that some tasks actually took longer than before."
+      },
+      "main": "The claim was challenged by employees.",
+      "meaning": "新系统能够节省时间的说法遭到员工质疑，因为他们注意到有些任务实际上比以前花费更多时间。",
+      "analysis": "【主干】The claim was challenged by employees，主句是被动语态，没有直接宾语。【同位语从句】that the new system would save time 解释 claim 的内容，that 在从句内不作主宾。【定语从句】who had noticed... 修饰 employees；其内部 that some tasks actually took longer than before 作 noticed 的宾语。【易错】两个 that 从句层级不同，不要把同位语从句误判为定语从句。",
+      "distractors": [
+        "员工一致认可新系统能够缩短所有任务的时间。",
+        "新系统已经彻底解决效率问题，没有人质疑过它的表现。",
+        "这项主张认为员工本来就不该关注完成任务所需时间。"
+      ],
+      "roleExplanations": {
+        "s": "The claim 为主语核心，that... 是交代主张内容的同位语从句。",
+        "v": "was challenged 是被动谓语，不能继续要求找直接宾语。",
+        "r": "by employees 表示质疑者，属被动句介词短语。",
+        "m": "who had noticed... 是修饰 employees 的定语从句。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "名词后同位语从句",
+          "text": "that the new system would save time",
+          "explanation": "解释 claim 的具体内容，that 不在内部充当句子成分。"
+        },
+        {
+          "kind": "被动谓语",
+          "text": "was challenged by employees",
+          "explanation": "was challenged 为主句谓语，by employees 为动作执行者。"
+        },
+        {
+          "kind": "定语从句",
+          "text": "who had noticed that some tasks actually took longer than before.",
+          "explanation": "who 指 employees，had noticed 为从句谓语。"
+        },
+        {
+          "kind": "内层 that 宾语从句",
+          "text": "that some tasks actually took longer than before.",
+          "explanation": "some tasks 为内部主语，took 为从句谓语。"
+        }
+      ],
+      "words": [
+        [
+          "claim",
+          "主张；说法",
+          "n."
+        ],
+        [
+          "employee",
+          "员工",
+          "n."
+        ],
+        [
+          "challenge",
+          "质疑",
+          "v."
+        ]
+      ],
+      "acceptedTargets": {
+        "s": [
+          "The claim that the new system would save time"
+        ],
+        "r": [
+          "by employees who had noticed that some tasks actually took longer than before."
+        ]
+      }
+    },
+    {
+      "id": 10040,
+      "level": 3,
+      "title": "形式宾语与嵌套疑问句",
+      "sentence": "The students found it difficult to explain why the experiment had failed, although the teacher had provided clear instructions.",
+      "targets": {
+        "s": "The students",
+        "v": "found",
+        "o": "it",
+        "k": "difficult",
+        "n": "to explain why the experiment had failed,",
+        "x": "although the teacher had provided clear instructions."
+      },
+      "main": "The students found it difficult to explain why the experiment had failed.",
+      "meaning": "尽管老师提供了明确说明，学生们仍感到很难解释实验失败的原因。",
+      "analysis": "【形式宾语】found it difficult to explain... 中 it 是形式宾语，difficult 为宾语补足语，真正内容是后面的不定式。【内层从句】why the experiment had failed 作 explain 的宾语。【让步】although... 是主句外的让步状语从句。【易错】had failed 与 had provided 分别是不同从句的谓语，不是 found 的并列谓语。",
+      "distractors": [
+        "学生很容易解释实验的成功，因为老师没有说明。",
+        "老师认定学生已经完全解释了实验结果，所以无须再讨论。",
+        "学生没有阅读任何说明，就立即宣布实验没有失败。"
+      ],
+      "roleExplanations": {
+        "s": "The students 为主句主语。",
+        "v": "found 为主句谓语。",
+        "o": "it 是形式宾语。",
+        "k": "difficult 是宾语补足语，评价解释这件事的困难程度。",
+        "n": "to explain why... 是后置不定式真正宾语内容，核心 to explain。",
+        "x": "although... 为让步状语从句。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "形式宾语结构",
+          "text": "found it difficult to explain why the experiment had failed,",
+          "explanation": "found + it + difficult + to do，其中 it 为形式宾语。"
+        },
+        {
+          "kind": "why 宾语从句",
+          "text": "why the experiment had failed,",
+          "explanation": "why 引出 explain 的宾语，从句 had failed 为谓语。"
+        },
+        {
+          "kind": "让步状语从句",
+          "text": "although the teacher had provided clear instructions.",
+          "explanation": "老师虽已给出明确说明，学生仍难以解释。"
+        }
+      ],
+      "words": [
+        [
+          "experiment",
+          "实验",
+          "n."
+        ],
+        [
+          "provide",
+          "提供",
+          "v."
+        ],
+        [
+          "instruction",
+          "说明",
+          "n."
+        ]
+      ],
+      "acceptedTargets": {
+        "n": [
+          "to explain"
+        ]
+      }
+    },
+    {
+      "id": 10041,
+      "level": 3,
+      "title": "纪录片揭示两种变化",
+      "sentence": "The documentary, which was filmed over three years, shows how rapidly the coastline has changed and explains why some villages are now at risk.",
+      "targets": {
+        "s": "The documentary,",
+        "v": "shows",
+        "o": "how rapidly the coastline has changed",
+        "v2": "explains",
+        "o2": "why some villages are now at risk.",
+        "m": "which was filmed over three years,"
+      },
+      "main": "The documentary shows how the coastline has changed and explains why villages are at risk.",
+      "meaning": "这部历时三年拍摄的纪录片展示了海岸线变化之快，并解释了某些村庄如今为何面临风险。",
+      "analysis": "【主干】The documentary 分别以 shows 和 explains 作两个并列谓语，共用一个主语。【非限制性定语从句】which was filmed over three years 补充纪录片的拍摄信息。【宾语对应】shows 对应 how rapidly the coastline has changed，explains 对应 why some villages are now at risk。【易错】不要将两个 how/why 从句合成一个宾语。",
+      "distractors": [
+        "纪录片只介绍了村庄历史，完全没有说明环境变化。",
+        "纪录片证明海岸线从未变化，而且村庄完全没有风险。",
+        "这部影片拍摄了三天，内容只涉及海岸旅游业。"
+      ],
+      "roleExplanations": {
+        "s": "The documentary 是 shows、explains 共同主语。",
+        "v": "shows 为第一组主句谓语。",
+        "o": "how rapidly... 整段是 shows 的宾语从句。",
+        "v2": "explains 为第二组并列谓语。",
+        "o2": "why some villages... 是 explains 的宾语从句。",
+        "m": "which was filmed... 是非限制性定语从句，修饰 documentary。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "插入定语从句",
+          "text": "which was filmed over three years,",
+          "explanation": "which 指 documentary，was filmed 为被动谓语。"
+        },
+        {
+          "kind": "how 宾语从句",
+          "text": "how rapidly the coastline has changed",
+          "explanation": "展示海岸线变化有多快，coastline 为内部主语。"
+        },
+        {
+          "kind": "why 宾语从句",
+          "text": "why some villages are now at risk.",
+          "explanation": "解释村庄面临风险的原因，villages 为从句主语。"
+        }
+      ],
+      "words": [
+        [
+          "documentary",
+          "纪录片",
+          "n."
+        ],
+        [
+          "coastline",
+          "海岸线",
+          "n."
+        ],
+        [
+          "at risk",
+          "处于危险中",
+          "phr."
+        ]
+      ]
+    },
+    {
+      "id": 10042,
+      "level": 3,
+      "title": "依据失实就重新审议",
+      "sentence": "If the information on which the decision was based proves inaccurate, the board will reconsider whether the plan should go ahead.",
+      "targets": {
+        "x": "If the information on which the decision was based proves inaccurate,",
+        "s": "the board",
+        "v": "will reconsider",
+        "o": "whether the plan should go ahead.",
+        "m": "on which the decision was based"
+      },
+      "main": "the board will reconsider whether the plan should go ahead.",
+      "meaning": "如果决策所依据的信息被证实不准确，委员会将重新考虑这项计划是否应继续推进。",
+      "analysis": "【条件从句】If... 表条件，information 作主语，proves inaccurate 为系表。【定语从句】on which the decision was based 修饰 information，on 为前置介词，对应 be based on。【主句】the board will reconsider...。【宾语从句】whether the plan should go ahead 是 reconsider 的宾语，whether 表是否。【易错】was based 只在定语从句中。",
+      "distractors": [
+        "委员会已证实信息完全准确，立即决定无需再审议计划。",
+        "无论原有信息是否可靠，计划都必须无条件推进。",
+        "委员会认为决策从来不需要任何依据，因此取消所有审核。"
+      ],
+      "roleExplanations": {
+        "x": "If... 提出信息不准确这一条件。",
+        "s": "the board 是主句主语。",
+        "v": "will reconsider 为主句谓语，表示将重新审议。",
+        "o": "whether... 是完整宾语从句。",
+        "m": "on which the decision was based 修饰 information，on 是前置介词。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "条件状语从句",
+          "text": "If the information on which the decision was based proves inaccurate,",
+          "explanation": "information 为条件从句主语，proves 为系动词。"
+        },
+        {
+          "kind": "介词前置定语从句",
+          "text": "on which the decision was based",
+          "explanation": "原意是 decision was based on the information。"
+        },
+        {
+          "kind": "whether 宾语从句",
+          "text": "whether the plan should go ahead.",
+          "explanation": "whether 表是否，plan 为内部主语，should go ahead 为谓语。"
+        }
+      ],
+      "words": [
+        [
+          "inaccurate",
+          "不准确的",
+          "adj."
+        ],
+        [
+          "reconsider",
+          "重新考虑",
+          "v."
+        ],
+        [
+          "board",
+          "委员会",
+          "n."
+        ]
+      ]
+    },
+    {
+      "id": 10043,
+      "level": 3,
+      "title": "获批的并非原始方案",
+      "sentence": "What the committee eventually approved was not the original proposal but a revised plan that addressed the concerns raised by local residents.",
+      "targets": {
+        "s": "What the committee eventually approved",
+        "v": "was",
+        "p": "not the original proposal but a revised plan",
+        "m": "that addressed the concerns raised by local residents.",
+        "n": "raised by local residents."
+      },
+      "main": "What the committee eventually approved was not the original proposal but a revised plan.",
+      "meaning": "委员会最终批准的不是原来的提案，而是一份回应了当地居民关切的修订方案。",
+      "analysis": "【主语从句】What the committee eventually approved 整体为主语，What 在从句内是 approved 的宾语。【主句系表】was 是系动词，not A but B 表示不是原提案，而是修订方案。【定语从句】that addressed... 修饰 plan，that 在从句内作主语。【非谓语】raised by local residents 是修饰 concerns 的过去分词短语。【易错】approved、addressed 都不是主句的限定谓语。",
+      "distractors": [
+        "委员会最终未经修改就批准了最初版本的全部内容。",
+        "修订方案没有涉及居民关切，因此被委员会否决。",
+        "居民在没有委员会参与的情况下自行批准了原方案。"
+      ],
+      "roleExplanations": {
+        "s": "What... 作为整体主语从句，what 在从句内部作宾语。",
+        "v": "was 是主句系动词。",
+        "p": "not the original proposal but a revised plan 为对比表语。",
+        "m": "that addressed... 是修饰 plan 的限制性定语从句。",
+        "n": "raised by local residents 是过去分词后置定语，修饰 concerns。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "what 主语从句",
+          "text": "What the committee eventually approved",
+          "explanation": "what 指被批准的事物，整段作主语。"
+        },
+        {
+          "kind": "否定对比表语",
+          "text": "not the original proposal but a revised plan",
+          "explanation": "not A but B：不是 A 而是 B。"
+        },
+        {
+          "kind": "定语从句",
+          "text": "that addressed the concerns raised by local residents.",
+          "explanation": "that 指 plan，作从句主语，addressed 为谓语。"
+        },
+        {
+          "kind": "分词定语",
+          "text": "raised by local residents.",
+          "explanation": "raised 修饰 concerns，表示由居民提出的关切。"
+        }
+      ],
+      "words": [
+        [
+          "revised",
+          "修订的",
+          "adj."
+        ],
+        [
+          "approve",
+          "批准",
+          "v."
+        ],
+        [
+          "concern",
+          "关切",
+          "n."
+        ]
+      ]
     }
   ],
   "bundledCorrections": [
