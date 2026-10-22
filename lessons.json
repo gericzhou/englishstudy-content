@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": 13,
+  "revision": 14,
   "lessons": [
     {
       "id": 10003,
@@ -1241,6 +1241,637 @@
       "acceptedTargets": {
         "o": [
           "a problem that earlier reviewers had overlooked."
+        ]
+      }
+    },
+    {
+      "id": 10024,
+      "level": 3,
+      "title": "雨天音乐会的延期决定",
+      "sentence": "Unless the weather improves by noon, the organizers will postpone the outdoor concert that students have prepared for weeks.",
+      "targets": {
+        "x": "Unless the weather improves by noon,",
+        "s": "the organizers",
+        "v": "will postpone",
+        "o": "the outdoor concert",
+        "m": "that students have prepared for weeks."
+      },
+      "main": "the organizers will postpone the outdoor concert.",
+      "meaning": "除非中午之前天气好转，否则组织者将推迟学生筹备了好几个星期的露天音乐会。",
+      "distractors": [
+        "组织者决定不管天气怎样都按时开始演出。",
+        "学生因为天气晴朗而取消了所有准备工作。",
+        "音乐会已经如期举行，组织者没有做出调整。"
+      ],
+      "words": [
+        [
+          "postpone",
+          "推迟",
+          "v."
+        ],
+        [
+          "organizer",
+          "组织者",
+          "n."
+        ],
+        [
+          "outdoor",
+          "户外的",
+          "adj."
+        ]
+      ],
+      "analysis": "【主干】the organizers will postpone the outdoor concert。【条件】Unless 相当于 if...not，表示除非；从句用一般现在时 improves，主句用 will postpone。【定语】that... 修饰 concert，that 在定语从句内作 prepared 的宾语。【易错】students 属于定语从句，不是主句主语。",
+      "roleExplanations": {
+        "x": "Unless... 为条件状语从句，表示除非天气好转。",
+        "s": "the organizers 才是主句主语。",
+        "v": "will postpone 表示将推迟，为主句谓语。",
+        "o": "the outdoor concert 是宾语核心，后可包括修饰它的 that 从句。",
+        "m": "that students have prepared for weeks 限定 concert。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "条件从句",
+          "text": "Unless the weather improves by noon,",
+          "explanation": "Unless 表除非；weather 为从句主语，improves 为谓语。"
+        },
+        {
+          "kind": "主句谓宾",
+          "text": "will postpone the outdoor concert",
+          "explanation": "will postpone 支配 the outdoor concert。"
+        },
+        {
+          "kind": "定语从句",
+          "text": "that students have prepared for weeks.",
+          "explanation": "that 指 concert，作 prepared 的宾语。"
+        }
+      ],
+      "acceptedTargets": {
+        "o": [
+          "the outdoor concert that students have prepared for weeks."
+        ]
+      }
+    },
+    {
+      "id": 10025,
+      "level": 3,
+      "title": "车站调查发现末班车问题",
+      "sentence": "The volunteers collecting information at the station discovered that several passengers had missed the last bus.",
+      "targets": {
+        "s": "The volunteers",
+        "v": "discovered",
+        "o": "that several passengers had missed the last bus.",
+        "n": "collecting information at the station"
+      },
+      "main": "The volunteers discovered that several passengers had missed the last bus.",
+      "meaning": "在车站收集信息的志愿者发现，几名乘客错过了末班车。",
+      "distractors": [
+        "志愿者发现所有乘客都顺利赶上了末班车。",
+        "乘客在车站发现了丢失的调查资料。",
+        "志愿者自己错过了末班车，所以停止收集信息。"
+      ],
+      "words": [
+        [
+          "volunteer",
+          "志愿者",
+          "n."
+        ],
+        [
+          "passenger",
+          "乘客",
+          "n."
+        ],
+        [
+          "miss",
+          "错过",
+          "v."
+        ]
+      ],
+      "analysis": "【主干】The volunteers discovered that...。【分词】collecting information at the station 是现在分词后置定语，逻辑主语为 volunteers。【宾语从句】that several passengers had missed the last bus 作 discovered 的宾语，had missed 是从句的过去完成时谓语。",
+      "roleExplanations": {
+        "s": "The volunteers 是主句主语中心，连同 collecting... 是完整名词短语。",
+        "v": "discovered 才是外层谓语，collecting 不是限定谓语。",
+        "o": "完整 that 从句充当 discovered 的宾语。",
+        "n": "collecting... 修饰 volunteers，属于现在分词非谓语结构。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "现在分词后置定语",
+          "text": "collecting information at the station",
+          "explanation": "修饰 volunteers；information 为 collecting 的宾语。"
+        },
+        {
+          "kind": "that 宾语从句",
+          "text": "that several passengers had missed the last bus.",
+          "explanation": "从句 several passengers 作主语，had missed 作谓语。"
+        },
+        {
+          "kind": "从句内部宾语",
+          "text": "the last bus.",
+          "explanation": "the last bus 是 missed 的宾语，不是 discovered 的直接宾语。"
+        }
+      ],
+      "acceptedTargets": {
+        "s": [
+          "The volunteers collecting information at the station"
+        ]
+      }
+    },
+    {
+      "id": 10026,
+      "level": 3,
+      "title": "改写复杂操作说明",
+      "sentence": "To make the instructions clearer, the teacher replaced several difficult terms with simpler expressions.",
+      "targets": {
+        "n": "To make the instructions clearer,",
+        "s": "the teacher",
+        "v": "replaced",
+        "o": "several difficult terms",
+        "r": "with simpler expressions."
+      },
+      "main": "the teacher replaced several difficult terms with simpler expressions.",
+      "meaning": "为了让说明更清楚，老师用较简单的表达替换了几个难懂的术语。",
+      "distractors": [
+        "老师故意把简单术语换成更难的表达。",
+        "老师删掉了全部操作说明，没有进行任何改写。",
+        "为了节省时间，老师让所有学生自行猜测指令。"
+      ],
+      "words": [
+        [
+          "replace",
+          "替换",
+          "v."
+        ],
+        [
+          "term",
+          "术语",
+          "n."
+        ],
+        [
+          "expression",
+          "表达",
+          "n."
+        ]
+      ],
+      "analysis": "【主干】the teacher replaced several difficult terms with simpler expressions。【目的】To make the instructions clearer 是目的不定式，make 后 the instructions 为宾语，clearer 为其宾补。【搭配】replace A with B 中 A 是直接宾语，with B 是介词短语，说明用什么替换。",
+      "roleExplanations": {
+        "n": "To make... 是目的不定式，核心 To make。",
+        "s": "the teacher 是执行 replaced 的主语。",
+        "v": "replaced 为主句谓语。",
+        "o": "several difficult terms 为直接宾语，即被替换的东西。",
+        "r": "with simpler expressions 是方式或替代对象的介词短语。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "目的不定式",
+          "text": "To make the instructions clearer,",
+          "explanation": "make the instructions clearer 构成动词+宾语+宾补。"
+        },
+        {
+          "kind": "直接宾语",
+          "text": "several difficult terms",
+          "explanation": "说明被替换的内容，是 replaced 的宾语。"
+        },
+        {
+          "kind": "with 介词短语",
+          "text": "with simpler expressions.",
+          "explanation": "replace A with B，B 不能当作第二个直接宾语。"
+        }
+      ]
+    },
+    {
+      "id": 10027,
+      "level": 3,
+      "title": "样本不足以支持结论",
+      "sentence": "Although the results appeared encouraging, the researchers admitted that the sample was too small to support a firm conclusion.",
+      "targets": {
+        "x": "Although the results appeared encouraging,",
+        "s": "the researchers",
+        "v": "admitted",
+        "o": "that the sample was too small to support a firm conclusion.",
+        "n": "to support a firm conclusion."
+      },
+      "main": "the researchers admitted that the sample was too small.",
+      "meaning": "尽管研究结果看起来令人鼓舞，研究人员仍承认样本太小，不足以支持可靠结论。",
+      "distractors": [
+        "研究人员确认样本足够大，可以证明任何结论。",
+        "研究人员否认样本规模与结论可靠性存在关系。",
+        "因为结果不理想，研究人员隐瞒了所有数据。"
+      ],
+      "words": [
+        [
+          "admit",
+          "承认",
+          "v."
+        ],
+        [
+          "sample",
+          "样本",
+          "n."
+        ],
+        [
+          "encouraging",
+          "令人鼓舞的",
+          "adj."
+        ]
+      ],
+      "analysis": "【主干】the researchers admitted that...。【让步】Although 从句对照主句承认的局限。【宾语从句】that the sample was too small... 说明承认的事实。【不定式】too...to... 表示太……而不能……；to support 是非谓语核心，a firm conclusion 是 support 的宾语。",
+      "roleExplanations": {
+        "x": "Although... 是让步从句，appeared 为从句系动词。",
+        "s": "the researchers 是主句主语。",
+        "v": "admitted 为主句谓语。",
+        "o": "that 从句整体是 admitted 的宾语。",
+        "n": "to support a firm conclusion 是 too small 后的不定式结构。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "让步从句",
+          "text": "Although the results appeared encouraging,",
+          "explanation": "结果虽看似不错，却无法消除样本不足的问题。"
+        },
+        {
+          "kind": "宾语从句",
+          "text": "that the sample was too small to support a firm conclusion.",
+          "explanation": "that 引出 admitted 的内容，sample 是从句主语。"
+        },
+        {
+          "kind": "too...to 不定式",
+          "text": "to support a firm conclusion.",
+          "explanation": "和 too small 搭配，表达样本不足以支持结论。"
+        }
+      ]
+    },
+    {
+      "id": 10028,
+      "level": 3,
+      "title": "阅读项目与家长参与",
+      "sentence": "The school introduced a reading programme and invited parents to share books that their children had enjoyed.",
+      "targets": {
+        "s": "The school",
+        "v": "introduced",
+        "o": "a reading programme",
+        "v2": "invited",
+        "o2": "parents",
+        "k": "to share books",
+        "m": "that their children had enjoyed."
+      },
+      "main": "The school introduced a reading programme and invited parents to share books.",
+      "meaning": "学校推出阅读项目，并邀请家长分享孩子们读过且喜欢的书。",
+      "distractors": [
+        "学校取消阅读项目并禁止家长分享图书。",
+        "家长推出了学校的阅读计划，并让学生停止阅读。",
+        "学校只要求家长购买新书，没有邀请他们分享书籍。"
+      ],
+      "words": [
+        [
+          "programme",
+          "项目",
+          "n."
+        ],
+        [
+          "invite",
+          "邀请",
+          "v."
+        ],
+        [
+          "share",
+          "分享",
+          "v."
+        ]
+      ],
+      "analysis": "【两组谓宾】The school 是 introduced 和 invited 共同的主语；introduced → a reading programme，invited → parents。【宾补】to share books 说明邀请家长做什么。【定语】that their children had enjoyed 修饰 books，that 是 enjoyed 的宾语。【易错】不要将 books 当作 invited 的直接宾语。",
+      "roleExplanations": {
+        "s": "The school 同时支配两个并列谓语。",
+        "v": "introduced 是第一组谓语。",
+        "o": "a reading programme 是 introduced 的宾语。",
+        "v2": "invited 是第二组谓语。",
+        "o2": "parents 是 invited 的宾语。",
+        "k": "to share books 是 parents 的不定式宾补。",
+        "m": "that their children had enjoyed 修饰 books，had enjoyed 是定语从句谓语。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "第一组谓宾",
+          "text": "introduced a reading programme",
+          "explanation": "introduced 与 a reading programme 对应。"
+        },
+        {
+          "kind": "第二组谓宾与宾补",
+          "text": "invited parents to share books",
+          "explanation": "invite sb. to do：parents 是宾语，to share... 为宾补。"
+        },
+        {
+          "kind": "定语从句",
+          "text": "that their children had enjoyed.",
+          "explanation": "that 指 books，在从句中作 enjoyed 的宾语。"
+        }
+      ],
+      "acceptedTargets": {
+        "k": [
+          "to share"
+        ]
+      }
+    },
+    {
+      "id": 10029,
+      "level": 3,
+      "title": "中断比赛时的冷静反应",
+      "sentence": "What surprised the coach was how calmly the team reacted when the match suddenly stopped.",
+      "targets": {
+        "s": "What surprised the coach",
+        "v": "was",
+        "p": "how calmly the team reacted when the match suddenly stopped.",
+        "x": "when the match suddenly stopped."
+      },
+      "main": "What surprised the coach was how calmly the team reacted.",
+      "meaning": "让教练感到意外的是，比赛突然中断时，球队竟然应对得如此冷静。",
+      "distractors": [
+        "教练惊讶于比赛顺利进行，没有出现任何中断。",
+        "球队在比赛暂停时惊慌失措，这让教练完全满意。",
+        "教练要求队员在比赛中避免保持冷静。"
+      ],
+      "words": [
+        [
+          "react",
+          "反应",
+          "v."
+        ],
+        [
+          "calmly",
+          "冷静地",
+          "adv."
+        ],
+        [
+          "surprise",
+          "使惊讶",
+          "v."
+        ]
+      ],
+      "analysis": "【主语从句】What surprised the coach 整体作主句主语，What 在从句里作主语。【主句系表】was 为系动词，how calmly the team reacted... 是表语从句。【嵌套】when the match suddenly stopped 是表语从句内部的时间状语从句。【易错】coach 不是外层主语，stopped 也不是主句谓语。",
+      "roleExplanations": {
+        "s": "What surprised the coach 整段主语从句，而不是 the coach 单独作主语。",
+        "v": "was 为主句系动词。",
+        "p": "how calmly the team reacted... 整体作表语从句。",
+        "x": "when the match suddenly stopped 给表语从句中的 reacted 提供时间背景。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "主语从句",
+          "text": "What surprised the coach",
+          "explanation": "What 作内部主语；surprised 是从句谓语，the coach 为其宾语。"
+        },
+        {
+          "kind": "表语从句",
+          "text": "how calmly the team reacted when the match suddenly stopped.",
+          "explanation": "the team 是表语从句主语，reacted 为谓语，how calmly 表反应方式。"
+        },
+        {
+          "kind": "内层时间状语从句",
+          "text": "when the match suddenly stopped.",
+          "explanation": "match 为主语，stopped 为不及物谓语。"
+        }
+      ]
+    },
+    {
+      "id": 10030,
+      "level": 3,
+      "title": "检查设备后作出决定",
+      "sentence": "The engineer checked the device carefully before deciding whether it was safe to use.",
+      "targets": {
+        "s": "The engineer",
+        "v": "checked",
+        "o": "the device",
+        "n": "deciding whether it was safe to use."
+      },
+      "main": "The engineer checked the device carefully.",
+      "meaning": "工程师仔细检查了设备，然后才决定它是否可以安全使用。",
+      "distractors": [
+        "工程师没有进行检查，就认定设备绝对安全。",
+        "工程师使用设备后才想起需要判断它能否启动。",
+        "检查的目的只是确认设备的价格，而非安全性。"
+      ],
+      "words": [
+        [
+          "engineer",
+          "工程师",
+          "n."
+        ],
+        [
+          "device",
+          "设备",
+          "n."
+        ],
+        [
+          "safe",
+          "安全的",
+          "adj."
+        ]
+      ],
+      "analysis": "【主干】The engineer checked the device。【动名词】before deciding... 中 before 是介词，deciding 是动名词，其逻辑主语与 engineer 一致。【名词性从句】whether it was safe to use 作 deciding 的宾语，it 指 device。【易错】deciding 没有独立时态，不能当第二个主句谓语。",
+      "roleExplanations": {
+        "s": "The engineer 是主句主语，也是 deciding 的逻辑执行者。",
+        "v": "checked 为主句谓语。",
+        "o": "the device 为 checked 的直接宾语。",
+        "n": "deciding whether it was safe to use 是介词 before 后的动名词短语。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "before 介词短语",
+          "text": "before deciding whether it was safe to use.",
+          "explanation": "before 为介词，deciding 为动名词；不构成另一个限定谓语。"
+        },
+        {
+          "kind": "whether 宾语从句",
+          "text": "whether it was safe to use.",
+          "explanation": "whether 从句作 deciding 的宾语，it 指代前面的 device。"
+        }
+      ]
+    },
+    {
+      "id": 10031,
+      "level": 3,
+      "title": "具体反馈帮助学生改错",
+      "sentence": "Students who receive specific feedback are more likely to correct mistakes than those given only a score.",
+      "targets": {
+        "s": "Students",
+        "v": "are",
+        "p": "more likely",
+        "n": "to correct mistakes",
+        "m": "who receive specific feedback"
+      },
+      "main": "Students are more likely to correct mistakes.",
+      "meaning": "得到具体反馈的学生，比那些只得到分数的学生更有可能改正错误。",
+      "distractors": [
+        "只得到分数的学生比收到具体反馈的学生更容易纠错。",
+        "具体反馈使学生完全丧失发现错误的能力。",
+        "两种反馈形式没有任何区别，无法比较其效果。"
+      ],
+      "words": [
+        [
+          "feedback",
+          "反馈",
+          "n."
+        ],
+        [
+          "specific",
+          "具体的",
+          "adj."
+        ],
+        [
+          "likely",
+          "可能的",
+          "adj."
+        ]
+      ],
+      "analysis": "【主句】Students are more likely...，are 为系动词，more likely 是表语中心。【修饰】who receive specific feedback 修饰 Students；given only a score 为过去分词后置定语，修饰 those（其他学生），相当于 who are given...。【不定式】to correct mistakes 补充 likely 的内容。【比较】than those... 表比较对象。",
+      "roleExplanations": {
+        "s": "Students 为主语中心；who... 可并入完整主语名词短语。",
+        "v": "are 是主句系动词。",
+        "p": "more likely 是表语中心，likely 后补不定式说明可能做什么。",
+        "n": "to correct mistakes 是不定式结构，核心 to correct。",
+        "m": "who receive specific feedback 修饰 Students。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "主语定语从句",
+          "text": "who receive specific feedback",
+          "explanation": "who 指 Students，receive 为从句谓语。"
+        },
+        {
+          "kind": "比较部分",
+          "text": "than those given only a score.",
+          "explanation": "those 指其他学生，given only a score 为过去分词后置定语。"
+        },
+        {
+          "kind": "不定式补足结构",
+          "text": "to correct mistakes",
+          "explanation": "补充 likely 的内容；mistakes 是 correct 的宾语。"
+        }
+      ],
+      "acceptedTargets": {
+        "s": [
+          "Students who receive specific feedback"
+        ]
+      }
+    },
+    {
+      "id": 10032,
+      "level": 3,
+      "title": "过去虚拟条件下的失误",
+      "sentence": "If the instructions had been explained more clearly, fewer students would have made the same mistake.",
+      "targets": {
+        "x": "If the instructions had been explained more clearly,",
+        "s": "fewer students",
+        "v": "would have made",
+        "o": "the same mistake."
+      },
+      "main": "fewer students would have made the same mistake.",
+      "meaning": "如果当初把说明解释得更清楚一些，犯同样错误的学生本来就会更少。",
+      "distractors": [
+        "因为说明十分清楚，事实上没有学生犯过任何错误。",
+        "如果今后说明更清楚，学生昨天就会停止犯错。",
+        "学生本来会犯更多相同错误，与说明的清楚程度无关。"
+      ],
+      "words": [
+        [
+          "instruction",
+          "指令；说明",
+          "n."
+        ],
+        [
+          "mistake",
+          "错误",
+          "n."
+        ],
+        [
+          "explain",
+          "解释",
+          "v."
+        ]
+      ],
+      "analysis": "【主干】fewer students would have made the same mistake。【虚拟】If ... had been explained 为与过去事实相反的条件，用过去完成时被动；would have made 是主句对过去假设结果的表达。【辨析】主句谓语应包含 would have，不是单独 made。",
+      "roleExplanations": {
+        "x": "If 引导与过去事实相反的条件状语从句，had been explained 为被动结构。",
+        "s": "fewer students 为主句主语，表示更少的学生。",
+        "v": "would have made 是主句虚拟语气谓语。",
+        "o": "the same mistake 是 made 的宾语。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "过去虚拟条件",
+          "text": "If the instructions had been explained more clearly,",
+          "explanation": "had been explained 为过去完成时被动。"
+        },
+        {
+          "kind": "虚拟主句",
+          "text": "fewer students would have made the same mistake.",
+          "explanation": "would have + 过去分词表达过去未实现的假设结果。"
+        }
+      ]
+    },
+    {
+      "id": 10033,
+      "level": 3,
+      "title": "上月调查与停车成本",
+      "sentence": "A survey conducted last month suggests that many families prefer public transport when parking is expensive.",
+      "targets": {
+        "s": "A survey",
+        "v": "suggests",
+        "o": "that many families prefer public transport when parking is expensive.",
+        "n": "conducted last month",
+        "x": "when parking is expensive."
+      },
+      "main": "A survey suggests that many families prefer public transport.",
+      "meaning": "上个月开展的一项调查显示，停车费用昂贵时，许多家庭更倾向于乘坐公共交通。",
+      "distractors": [
+        "调查发现停车越贵，家庭就越喜欢开私家车。",
+        "这项调查证明所有家庭在任何情况下都偏好私家车。",
+        "调查认为停车成本完全不会改变家庭出行选择。"
+      ],
+      "words": [
+        [
+          "survey",
+          "调查",
+          "n."
+        ],
+        [
+          "conduct",
+          "开展；进行",
+          "v."
+        ],
+        [
+          "transport",
+          "公共交通；运输",
+          "n."
+        ]
+      ],
+      "analysis": "【主干】A survey suggests that...。【分词】conducted last month 为过去分词后置定语，修饰 survey。【宾语从句】that many families prefer... 是 suggests 的宾语，从句谓语为 prefer。【状语】when parking is expensive 表发生偏好的情境，是从句内部的状语从句。",
+      "roleExplanations": {
+        "s": "A survey 是主语核心，后接 conducted last month 修饰。",
+        "v": "suggests 是主句谓语，conducted 不是限定动词。",
+        "o": "that 从句整体是 suggests 的宾语。",
+        "n": "conducted last month 是过去分词后置定语。",
+        "x": "when parking is expensive 是宾语从句内部的状语从句。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "过去分词后置定语",
+          "text": "conducted last month",
+          "explanation": "修饰 survey，约等于 which was conducted last month。"
+        },
+        {
+          "kind": "that 宾语从句",
+          "text": "that many families prefer public transport when parking is expensive.",
+          "explanation": "many families 为从句主语，prefer 为从句谓语。"
+        },
+        {
+          "kind": "内层状语从句",
+          "text": "when parking is expensive.",
+          "explanation": "parking 为主语，is 为系动词，expensive 为表语。"
+        }
+      ],
+      "acceptedTargets": {
+        "s": [
+          "A survey conducted last month"
         ]
       }
     }
