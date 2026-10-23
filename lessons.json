@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": 16,
+  "revision": 17,
   "lessons": [
     {
       "id": 10003,
@@ -3196,6 +3196,633 @@
       "acceptedTargets": {
         "o": [
           "the activity that was postponed last week."
+        ]
+      }
+    },
+    {
+      "id": 10054,
+      "level": 3,
+      "title": "记录温度变化的实验",
+      "sentence": "The scientist collected the samples carefully and recorded what happened when the temperature changed.",
+      "targets": {
+        "s": "The scientist",
+        "v": "collected",
+        "o": "the samples",
+        "v2": "recorded",
+        "o2": "what happened when the temperature changed.",
+        "x": "when the temperature changed."
+      },
+      "main": "The scientist collected the samples and recorded what happened.",
+      "meaning": "科学家仔细收集样本，并记录了温度变化时发生的情况。",
+      "analysis": "【主干】The scientist 同时支配 collected 和 recorded 两组并列谓语。【宾语对应】collected → the samples；recorded → what happened when the temperature changed。【名词性从句】what happened... 整体是 recorded 的宾语，what 在从句内作 happened 的主语。【时间从句】when the temperature changed 位于 what 从句内部，说明事情发生的时间。",
+      "distractors": [
+        "科学家没有采集样本，只记下了当天的气温。",
+        "科学家发现温度始终不变，因此没有记录实验情况。",
+        "样本被工作人员丢弃，科学家没有得到任何观察结果。"
+      ],
+      "words": [
+        [
+          "sample",
+          "样本",
+          "n."
+        ],
+        [
+          "record",
+          "记录",
+          "v."
+        ],
+        [
+          "temperature",
+          "温度",
+          "n."
+        ]
+      ],
+      "roleExplanations": {
+        "s": "The scientist 是 collected 与 recorded 的共同主语。",
+        "v": "collected 是第一组主句谓语。",
+        "o": "the samples 是 collected 的宾语，carefully 是方式状语。",
+        "v2": "recorded 是第二组并列谓语。",
+        "o2": "what happened... 整段是 recorded 的直接宾语从句。",
+        "x": "when the temperature changed 是内层时间状语从句。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "第一组谓宾",
+          "text": "collected the samples",
+          "explanation": "collected 为动词，the samples 为宾语。"
+        },
+        {
+          "kind": "第二组谓宾",
+          "text": "recorded what happened when the temperature changed.",
+          "explanation": "recorded 为第二组谓语，what 从句作宾语。"
+        },
+        {
+          "kind": "内部时间从句",
+          "text": "when the temperature changed.",
+          "explanation": "temperature 是主语，changed 为从句谓语。"
+        }
+      ]
+    },
+    {
+      "id": 10055,
+      "level": 3,
+      "title": "解释看似合理却存在误解",
+      "sentence": "Although his first explanation sounded convincing, Daniel later realized that he had misunderstood the question.",
+      "targets": {
+        "x": "Although his first explanation sounded convincing,",
+        "s": "Daniel",
+        "v": "realized",
+        "o": "that he had misunderstood the question."
+      },
+      "main": "Daniel later realized that he had misunderstood the question.",
+      "meaning": "尽管丹尼尔最初的解释听起来很有说服力，他后来还是意识到自己误解了问题。",
+      "analysis": "【主干】Daniel realized that...。【让步】Although... 表尽管最初解释似乎合理。【宾语从句】that he had misunderstood the question 是 realized 的宾语；he 指 Daniel，had misunderstood 表示误解发生在意识到之前。【辨析】sounded 属让步从句，had misunderstood 属宾语从句，两者都不作主句谓语。",
+      "distractors": [
+        "丹尼尔坚持认为自己的解释绝对正确，从未改变看法。",
+        "老师后来发现所有人都理解了丹尼尔的回答。",
+        "丹尼尔承认问题很简单，但拒绝再次阅读题目。"
+      ],
+      "words": [
+        [
+          "convincing",
+          "有说服力的",
+          "adj."
+        ],
+        [
+          "realize",
+          "意识到",
+          "v."
+        ],
+        [
+          "misunderstand",
+          "误解",
+          "v."
+        ]
+      ],
+      "roleExplanations": {
+        "x": "Although... 引出让步状语，sounded convincing 为从句系表。",
+        "s": "Daniel 是主句主语。",
+        "v": "realized 是主句谓语。",
+        "o": "that he had misunderstood the question 是完整宾语从句，其中 had misunderstood 为过去完成时。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "让步状语从句",
+          "text": "Although his first explanation sounded convincing,",
+          "explanation": "Although 表尽管，sounded 为系动词，convincing 为表语。"
+        },
+        {
+          "kind": "宾语从句",
+          "text": "that he had misunderstood the question.",
+          "explanation": "that 引导 realized 的内容，had misunderstood 是内部谓语。"
+        }
+      ]
+    },
+    {
+      "id": 10056,
+      "level": 3,
+      "title": "等待在入口处的学生",
+      "sentence": "The students waiting near the entrance were told to move inside before the rain became heavier.",
+      "targets": {
+        "s": "The students",
+        "n": "waiting near the entrance",
+        "v": "were told",
+        "c": "to move inside",
+        "x": "before the rain became heavier."
+      },
+      "main": "The students were told to move inside.",
+      "meaning": "等在入口附近的学生被告知，要在雨变得更大之前移到室内。",
+      "analysis": "【主干】The students were told to move inside。【非谓语】waiting near the entrance 是现在分词后置定语，修饰 Students。【被动】were told 是主句被动谓语；to move inside 补充说明被告知做什么。【时间】before the rain became heavier 为时间状语从句，其内部 rain 是主语，became 是系动词，heavier 是表语。",
+      "distractors": [
+        "学生被要求留在入口外，直到雨停以后才能进去。",
+        "入口附近的学生正在告诉老师怎样预测降雨。",
+        "因为天气转晴，学生被要求到室外继续活动。"
+      ],
+      "words": [
+        [
+          "entrance",
+          "入口",
+          "n."
+        ],
+        [
+          "heavier",
+          "更大的；更重的",
+          "adj."
+        ],
+        [
+          "move",
+          "移动",
+          "v."
+        ]
+      ],
+      "roleExplanations": {
+        "s": "The students 为主语中心，可与 waiting... 合成完整主语短语。",
+        "n": "waiting near the entrance 是修饰 Students 的现在分词定语。",
+        "v": "were told 为主句被动谓语，表示被告知。",
+        "c": "to move inside 补足 were told 的具体内容，to move 为不定式核心。",
+        "x": "before the rain became heavier 是时间状语从句。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "分词后置定语",
+          "text": "waiting near the entrance",
+          "explanation": "逻辑主语是 students，waiting 没有独立时态。"
+        },
+        {
+          "kind": "被动谓语及补足语",
+          "text": "were told to move inside",
+          "explanation": "were told 是主句谓语，to move... 是不定式补足语。"
+        },
+        {
+          "kind": "时间状语从句",
+          "text": "before the rain became heavier.",
+          "explanation": "before 表在……之前，rain 为从句主语。"
+        }
+      ],
+      "acceptedTargets": {
+        "s": [
+          "The students waiting near the entrance"
+        ],
+        "c": [
+          "to move"
+        ]
+      }
+    },
+    {
+      "id": 10057,
+      "level": 3,
+      "title": "实验失败的真正原因",
+      "sentence": "The reason why the experiment failed was that one important step had been left out.",
+      "targets": {
+        "s": "The reason",
+        "m": "why the experiment failed",
+        "v": "was",
+        "p": "that one important step had been left out."
+      },
+      "main": "The reason was that one important step had been left out.",
+      "meaning": "实验失败的原因是一个重要步骤被遗漏了。",
+      "analysis": "【主干】The reason was that...。【定语从句】why the experiment failed 修饰 reason，why 是关系副词，表示“实验失败的原因”。【表语从句】that one important step had been left out 整体作 was 的表语；had been left out 为过去完成时被动谓语。【辨析】failed 在 why 定语从句内，had been left out 在 that 表语从句内。",
+      "distractors": [
+        "实验失败是因为所有关键步骤都严格完成了。",
+        "实验成功了，因为研究人员主动删除了不需要的设备。",
+        "这句话说的是实验失败的时间，而不是原因。"
+      ],
+      "words": [
+        [
+          "reason",
+          "原因",
+          "n."
+        ],
+        [
+          "leave out",
+          "遗漏",
+          "phr. v."
+        ],
+        [
+          "experiment",
+          "实验",
+          "n."
+        ]
+      ],
+      "roleExplanations": {
+        "s": "The reason 是主语中心，后面 why 从句也可并入完整主语。",
+        "m": "why the experiment failed 是关系副词 why 引导的定语从句，修饰 reason。",
+        "v": "was 是主句系动词。",
+        "p": "that one important step had been left out 是表语从句，说明原因具体是什么。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "关系副词定语从句",
+          "text": "why the experiment failed",
+          "explanation": "why 修饰 reason，内部 experiment 是主语，failed 为谓语。"
+        },
+        {
+          "kind": "that 表语从句",
+          "text": "that one important step had been left out.",
+          "explanation": "that 不在内部作主宾，step 是主语，had been left out 是被动谓语。"
+        }
+      ],
+      "acceptedTargets": {
+        "s": [
+          "The reason why the experiment failed"
+        ]
+      }
+    },
+    {
+      "id": 10058,
+      "level": 3,
+      "title": "用图表让结果更清楚",
+      "sentence": "To make the results easier to compare, the team presented the data in a simple chart.",
+      "targets": {
+        "n": "To make the results easier to compare,",
+        "s": "the team",
+        "v": "presented",
+        "o": "the data",
+        "r": "in a simple chart."
+      },
+      "main": "the team presented the data in a simple chart.",
+      "meaning": "为了使结果更便于比较，团队把数据呈现在一张简单的图表中。",
+      "analysis": "【主干】the team presented the data。【目的】To make the results easier to compare 是不定式目的状语；make 后的 the results 是宾语，easier 是宾补，to compare 补充 easier 的内容。【介词】in a simple chart 表示数据呈现方式/载体。【辨析】to make 不承担主句时态，presented 才是限定谓语。",
+      "distractors": [
+        "团队为了隐藏结果，将所有数据从图表中删除。",
+        "由于结果无法比较，团队放弃了数据展示。",
+        "团队只检查数据，却没有把任何结果呈现出来。"
+      ],
+      "words": [
+        [
+          "present",
+          "呈现；展示",
+          "v."
+        ],
+        [
+          "compare",
+          "比较",
+          "v."
+        ],
+        [
+          "chart",
+          "图表",
+          "n."
+        ]
+      ],
+      "roleExplanations": {
+        "n": "To make... 是句首目的不定式，核心 To make；内部也有 to compare。",
+        "s": "the team 是主句主语。",
+        "v": "presented 是主句谓语。",
+        "o": "the data 是 presented 的直接宾语。",
+        "r": "in a simple chart 是介词短语，描述如何呈现数据。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "目的不定式",
+          "text": "To make the results easier to compare,",
+          "explanation": "make + the results + easier；to compare 说明容易做什么。"
+        },
+        {
+          "kind": "主句谓宾",
+          "text": "the team presented the data",
+          "explanation": "the team 为主语，presented 为谓语，the data 为宾语。"
+        },
+        {
+          "kind": "介词短语",
+          "text": "in a simple chart.",
+          "explanation": "in + 名词短语说明数据呈现的形式。"
+        }
+      ],
+      "acceptedTargets": {
+        "n": [
+          "to compare,"
+        ]
+      }
+    },
+    {
+      "id": 10059,
+      "level": 3,
+      "title": "老师推荐的教材",
+      "sentence": "The book, which had been recommended by several teachers, helped students understand a difficult topic.",
+      "targets": {
+        "s": "The book,",
+        "m": "which had been recommended by several teachers,",
+        "v": "helped",
+        "o": "students",
+        "k": "understand a difficult topic."
+      },
+      "main": "The book helped students understand a difficult topic.",
+      "meaning": "这本受到几位老师推荐的书帮助学生理解了一个难懂的主题。",
+      "analysis": "【主干】The book helped students understand...。【插入定语】which had been recommended by several teachers 为非限制性定语从句，修饰 book，其中 had been recommended 为过去完成时被动谓语。【宾补】help sb. (to) do 允许省略 to；students 是 helped 的宾语，understand a difficult topic 是省略 to 的不定式宾补。【易错】teachers 不是主句主语。",
+      "distractors": [
+        "老师们认为这本书毫无帮助，因此不推荐阅读。",
+        "学生把一本书借给老师，以便研究完全无关的主题。",
+        "这本书阻止学生理解原本已经熟悉的内容。"
+      ],
+      "words": [
+        [
+          "recommend",
+          "推荐",
+          "v."
+        ],
+        [
+          "topic",
+          "主题",
+          "n."
+        ],
+        [
+          "understand",
+          "理解",
+          "v."
+        ]
+      ],
+      "roleExplanations": {
+        "s": "The book 是主句主语，逗号后的 which 是补充修饰。",
+        "m": "which... 为非限制性定语从句，修饰 book。",
+        "v": "helped 为主句谓语。",
+        "o": "students 为 helped 的宾语。",
+        "k": "understand a difficult topic 是省略 to 的不定式宾补，understand 为核心。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "非限制性定语从句",
+          "text": "which had been recommended by several teachers,",
+          "explanation": "which 指 book，had been recommended 为被动谓语。"
+        },
+        {
+          "kind": "宾语与宾语补足语",
+          "text": "helped students understand a difficult topic.",
+          "explanation": "help sb. (to) do：students 是宾语，understand... 是宾补。"
+        }
+      ],
+      "acceptedTargets": {
+        "k": [
+          "understand"
+        ]
+      }
+    },
+    {
+      "id": 10060,
+      "level": 3,
+      "title": "线上学习的注意力问题",
+      "sentence": "Some parents worry that online lessons may distract children who already have difficulty concentrating.",
+      "targets": {
+        "s": "Some parents",
+        "v": "worry",
+        "o": "that online lessons may distract children who already have difficulty concentrating.",
+        "m": "who already have difficulty concentrating."
+      },
+      "main": "Some parents worry that online lessons may distract children.",
+      "meaning": "一些家长担心线上课程可能让原本就难以集中注意力的孩子分心。",
+      "analysis": "【主干】Some parents worry that...。【宾语从句】that online lessons may distract children... 是 worry 的内容，online lessons 是从句主语，may distract 是谓语。【定语从句】who already have difficulty concentrating 修饰 children，have difficulty (in) doing 是固定搭配，concentrating 作动名词。【易错】distract 属宾语从句的谓语，并非与 worry 并列。",
+      "distractors": [
+        "家长认为在线课程能够消除所有孩子的注意力问题。",
+        "孩子们担心父母会停止使用互联网参加课程。",
+        "家长只关心孩子的考试分数，从不考虑注意力问题。"
+      ],
+      "words": [
+        [
+          "distract",
+          "使分心",
+          "v."
+        ],
+        [
+          "concentrate",
+          "集中注意力",
+          "v."
+        ],
+        [
+          "difficulty",
+          "困难",
+          "n."
+        ]
+      ],
+      "roleExplanations": {
+        "s": "Some parents 是主句主语。",
+        "v": "worry 是主句谓语，后接 that 内容从句。",
+        "o": "that... 整段是 worry 的宾语从句，不能只选 children。",
+        "m": "who already have difficulty concentrating 修饰 children，who 为从句主语。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "that 宾语从句",
+          "text": "that online lessons may distract children who already have difficulty concentrating.",
+          "explanation": "online lessons 为内部主语，may distract 为谓语。"
+        },
+        {
+          "kind": "修饰 children 的定语从句",
+          "text": "who already have difficulty concentrating.",
+          "explanation": "who 指 children；have difficulty doing 为固定搭配。"
+        }
+      ]
+    },
+    {
+      "id": 10061,
+      "level": 3,
+      "title": "判断计划可行并复核预算",
+      "sentence": "The committee considered the plan practical but decided to check whether enough money was available.",
+      "targets": {
+        "s": "The committee",
+        "v": "considered",
+        "o": "the plan",
+        "k": "practical",
+        "v2": "decided",
+        "c": "to check whether enough money was available."
+      },
+      "main": "The committee considered the plan practical but decided to check the budget.",
+      "meaning": "委员会认为该计划可行，但决定检查资金是否充足。",
+      "analysis": "【两组并列谓语】The committee 共用 considered 与 decided。【宾语和宾补】considered the plan practical 中 the plan 是宾语，practical 为宾补，描述计划的性质。【动词补足】decided to check... 中 to check... 是不定式补足成分。【名词性从句】whether enough money was available 是 check 的宾语从句。【易错】available 是形容词表语，不是主句宾补。",
+      "distractors": [
+        "委员会认定计划无法实行，所以决定立即取消全部预算。",
+        "委员会已经确认资金绝对充足，因此不再检查。",
+        "委员会将计划交给另一个团队，没有作出任何判断。"
+      ],
+      "words": [
+        [
+          "consider",
+          "认为；考虑",
+          "v."
+        ],
+        [
+          "practical",
+          "可行的",
+          "adj."
+        ],
+        [
+          "available",
+          "可用的；充足的",
+          "adj."
+        ]
+      ],
+      "roleExplanations": {
+        "s": "The committee 是两个并列谓语的共同主语。",
+        "v": "considered 是第一组主句谓语。",
+        "o": "the plan 是 considered 的直接宾语。",
+        "k": "practical 是宾语 the plan 的补足语。",
+        "v2": "decided 是第二组并列谓语。",
+        "c": "to check whether enough money was available 为 decided 的动词不定式补足成分。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "宾语和宾语补足语",
+          "text": "considered the plan practical",
+          "explanation": "the plan 是宾语，practical 描述 plan 的性质。"
+        },
+        {
+          "kind": "第二组并列谓语",
+          "text": "decided to check whether enough money was available.",
+          "explanation": "decided 与 considered 共用主语，to check... 补足决定做什么。"
+        },
+        {
+          "kind": "whether 宾语从句",
+          "text": "whether enough money was available.",
+          "explanation": "whether 表是否，enough money 是从句主语，was available 为系表。"
+        }
+      ],
+      "acceptedTargets": {
+        "c": [
+          "to check"
+        ]
+      }
+    },
+    {
+      "id": 10062,
+      "level": 3,
+      "title": "核对数字后发现遗漏",
+      "sentence": "After the team checked the figures, they noticed that an important number was missing.",
+      "targets": {
+        "x": "After the team checked the figures,",
+        "s": "they",
+        "v": "noticed",
+        "o": "that an important number was missing."
+      },
+      "main": "they noticed that an important number was missing.",
+      "meaning": "团队核对数字后发现一个重要的数据缺失了。",
+      "analysis": "【主干】they noticed that...。【时间从句】After the team checked the figures 是时间状语从句，其内部 checked 为谓语。【指代】主句 they 指 team 的成员。【宾语从句】that an important number was missing 是 noticed 的宾语，从句内部 an important number 为主语，was missing 为系表。【易错】checked 不承担主句时态位置。",
+      "distractors": [
+        "团队核对数据后确认所有数字都完整无误。",
+        "一个重要数字帮助团队完成了全部检查。",
+        "团队在检查前就把所有数字重新编写了一遍。"
+      ],
+      "words": [
+        [
+          "figure",
+          "数字；数据",
+          "n."
+        ],
+        [
+          "missing",
+          "缺失的",
+          "adj."
+        ],
+        [
+          "notice",
+          "注意到",
+          "v."
+        ]
+      ],
+      "roleExplanations": {
+        "x": "After... 是时间状语从句，交代先检查后发现。",
+        "s": "they 是主句主语，指前面团队成员。",
+        "v": "noticed 是主句谓语。",
+        "o": "that... 是完整宾语从句，不能只选 number。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "时间状语从句",
+          "text": "After the team checked the figures,",
+          "explanation": "the team 是从句主语，checked 是从句谓语。"
+        },
+        {
+          "kind": "that 宾语从句",
+          "text": "that an important number was missing.",
+          "explanation": "that 从句作 noticed 的宾语，was missing 为系表。"
+        }
+      ]
+    },
+    {
+      "id": 10063,
+      "level": 3,
+      "title": "居民建议改善公共空间",
+      "sentence": "The changes suggested by local residents made the public space safer and easier to use.",
+      "targets": {
+        "s": "The changes",
+        "n": "suggested by local residents",
+        "v": "made",
+        "o": "the public space",
+        "k": "safer and easier to use."
+      },
+      "main": "The changes made the public space safer and easier to use.",
+      "meaning": "当地居民建议的改动，让公共空间变得更安全，也更方便使用。",
+      "analysis": "【主干】The changes made the public space safer and easier to use。【过去分词定语】suggested by local residents 修饰 changes，表示居民提出的改动，suggested 不作主句谓语。【宾语宾补】make + 宾语 + 形容词：the public space 为宾语；safer and easier to use 是并列形容词为核心的宾补，to use 补充 easier 的内容。【易错】residents 是介词 by 的宾语，不是 made 的主语。",
+      "distractors": [
+        "居民建议的改动让公共空间变得更危险而且更难使用。",
+        "公共空间因为没有改动而完全失去了使用价值。",
+        "居民要求拆除整个公共空间，不再进行任何改善。"
+      ],
+      "words": [
+        [
+          "resident",
+          "居民",
+          "n."
+        ],
+        [
+          "suggest",
+          "建议；提出",
+          "v."
+        ],
+        [
+          "safer",
+          "更安全的",
+          "adj."
+        ]
+      ],
+      "roleExplanations": {
+        "s": "The changes 是主句主语中心，也可包括 suggested... 定语。",
+        "n": "suggested by local residents 为过去分词后置定语，核心 suggested。",
+        "v": "made 是主句谓语，表示使得。",
+        "o": "the public space 是 made 的宾语。",
+        "k": "safer and easier to use 是宾补，说明改动后空间的状态。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "过去分词后置定语",
+          "text": "suggested by local residents",
+          "explanation": "修饰 changes，by residents 指出建议者。"
+        },
+        {
+          "kind": "宾语宾补结构",
+          "text": "made the public space safer and easier to use.",
+          "explanation": "make + 宾语 + 宾补；safer 与 easier 为形容词比较级。"
+        },
+        {
+          "kind": "不定式补充说明",
+          "text": "to use.",
+          "explanation": "修饰 easier，指空间更容易被使用。"
+        }
+      ],
+      "acceptedTargets": {
+        "s": [
+          "The changes suggested by local residents"
+        ],
+        "k": [
+          "safer and easier"
         ]
       }
     }
