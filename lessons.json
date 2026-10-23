@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": 15,
+  "revision": 16,
   "lessons": [
     {
       "id": 10003,
@@ -2558,6 +2558,646 @@
           "n."
         ]
       ]
+    },
+    {
+      "id": 10044,
+      "level": 3,
+      "title": "雨中完成博物馆调查",
+      "sentence": "Although the museum was crowded, the students managed to finish the survey that their teacher had assigned.",
+      "targets": {
+        "x": "Although the museum was crowded,",
+        "s": "the students",
+        "v": "managed",
+        "c": "to finish the survey",
+        "m": "that their teacher had assigned."
+      },
+      "main": "the students managed to finish the survey",
+      "meaning": "尽管博物馆里人很多，学生们还是设法完成了老师布置的调查。",
+      "analysis": "【主干】the students managed to finish the survey。【让步】Although... 表尽管拥挤仍然完成。【动词补足】manage to do 表设法做到，managed 是带时态的主句谓语，to finish... 是不定式补足成分。【定语】that their teacher had assigned 修饰 survey，that 作 assigned 的宾语；had assigned 属定语从句的谓语。",
+      "distractors": [
+        "因为博物馆很空，学生提前取消了调查。",
+        "老师完成了所有调查，学生只是负责参观。",
+        "学生因博物馆拥挤而没有完成老师布置的调查。"
+      ],
+      "roleExplanations": {
+        "x": "Although the museum was crowded 是让步从句，was 是从句系动词。",
+        "s": "the students 是主句主语。",
+        "v": "managed 是主句限定谓语。",
+        "c": "to finish the survey 说明设法做到什么，完整不定式短语；to finish 核心亦可判对。",
+        "m": "that their teacher had assigned 是修饰 survey 的限制性定语从句。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "让步从句",
+          "text": "Although the museum was crowded,",
+          "explanation": "Although 表示尽管，museum 是从句主语，was crowded 为系表。"
+        },
+        {
+          "kind": "不定式补足语",
+          "text": "to finish the survey",
+          "explanation": "manage to do：to finish 是不定式核心，survey 为 finish 的宾语。"
+        },
+        {
+          "kind": "定语从句",
+          "text": "that their teacher had assigned.",
+          "explanation": "that 指 survey，在从句中作 assigned 的宾语。"
+        }
+      ],
+      "words": [
+        [
+          "crowded",
+          "拥挤的",
+          "adj."
+        ],
+        [
+          "manage",
+          "设法做到",
+          "v."
+        ],
+        [
+          "assign",
+          "布置；分配",
+          "v."
+        ]
+      ],
+      "acceptedTargets": {
+        "c": [
+          "to finish"
+        ]
+      }
+    },
+    {
+      "id": 10045,
+      "level": 3,
+      "title": "科学社团的实验报告",
+      "sentence": "The report written by the science club explains why some plants grow faster in warmer conditions.",
+      "targets": {
+        "s": "The report",
+        "n": "written by the science club",
+        "v": "explains",
+        "o": "why some plants grow faster in warmer conditions."
+      },
+      "main": "The report explains why...",
+      "meaning": "科学社团撰写的报告解释了为什么有些植物在较温暖的环境中生长得更快。",
+      "analysis": "【主干】The report explains why...。【分词定语】written by the science club 修饰 report，是过去分词结构；不是过去时谓语。【宾语从句】why... 整体是 explains 的宾语，some plants 为从句主语，grow 是其谓语，faster 为比较级副词。",
+      "distractors": [
+        "科学社团的报告否认温度会影响植物生长。",
+        "报告说明所有植物在较冷环境中都生长得更快。",
+        "科学社团打算写报告，但尚未开始研究植物。"
+      ],
+      "roleExplanations": {
+        "s": "The report 是主语核心，也可连后面的 written 分词定语。",
+        "n": "written by the science club 是过去分词定语，核心 written。",
+        "v": "explains 是主句谓语。",
+        "o": "why some plants... 是完整宾语从句，不能只圈 some plants。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "过去分词后置定语",
+          "text": "written by the science club",
+          "explanation": "修饰 report，表示报告由科学社团撰写。"
+        },
+        {
+          "kind": "why 宾语从句",
+          "text": "why some plants grow faster in warmer conditions.",
+          "explanation": "why 说明原因，grow 是从句谓语。"
+        }
+      ],
+      "words": [
+        [
+          "report",
+          "报告",
+          "n."
+        ],
+        [
+          "condition",
+          "条件；环境",
+          "n."
+        ],
+        [
+          "grow",
+          "生长",
+          "v."
+        ]
+      ],
+      "acceptedTargets": {
+        "s": [
+          "The report written by the science club"
+        ]
+      }
+    },
+    {
+      "id": 10046,
+      "level": 3,
+      "title": "解释解题思路",
+      "sentence": "When the teacher asked a difficult question, Mia explained how she had solved the problem.",
+      "targets": {
+        "x": "When the teacher asked a difficult question,",
+        "s": "Mia",
+        "v": "explained",
+        "o": "how she had solved the problem."
+      },
+      "main": "Mia explained how...",
+      "meaning": "当老师提出一道难题时，米娅解释了自己是如何解决这个问题的。",
+      "analysis": "【主干】Mia explained how...。【时间从句】When the teacher asked... 交代背景，asked 是从句谓语。【宾语从句】how she had solved the problem 是 explained 的宾语；she 为从句主语，had solved 是过去完成时，表示解题发生在解释之前。",
+      "distractors": [
+        "米娅向老师提出了一道难题，但没有解释答案。",
+        "老师解释了自己如何解决米娅提出的问题。",
+        "米娅表示这个问题太难，完全没有办法解决。"
+      ],
+      "roleExplanations": {
+        "x": "When... 是时间状语从句，不能当主句宾语。",
+        "s": "Mia 才是主句主语。",
+        "v": "explained 是主句谓语。",
+        "o": "how she had solved the problem 是整体宾语从句，不能只选 problem。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "时间状语从句",
+          "text": "When the teacher asked a difficult question,",
+          "explanation": "teacher 为从句主语，asked 为谓语。"
+        },
+        {
+          "kind": "how 宾语从句",
+          "text": "how she had solved the problem.",
+          "explanation": "she 是从句主语，had solved 是过去完成时谓语。"
+        }
+      ],
+      "words": [
+        [
+          "explain",
+          "解释",
+          "v."
+        ],
+        [
+          "solve",
+          "解决",
+          "v."
+        ],
+        [
+          "difficult",
+          "困难的",
+          "adj."
+        ]
+      ]
+    },
+    {
+      "id": 10047,
+      "level": 3,
+      "title": "校园减少废弃物",
+      "sentence": "The new rules not only reduced waste but also encouraged students to reuse materials.",
+      "targets": {
+        "s": "The new rules",
+        "v": "reduced",
+        "o": "waste",
+        "v2": "encouraged",
+        "o2": "students",
+        "k": "to reuse materials."
+      },
+      "main": "The new rules 是 reduced 和 encouraged 共用的主语",
+      "meaning": "新规定不仅减少了废弃物，还鼓励学生重复使用材料。",
+      "analysis": "【两组谓宾】The new rules 是 reduced 和 encouraged 共用的主语。【对应】reduced → waste；encouraged → students。【宾补】to reuse materials 说明学生被鼓励做的事。【并列】not only...but also... 连接同一层级的两个谓语，reuse 是不定式中的动词，不是第三个限定谓语。",
+      "distractors": [
+        "新规定增加了浪费，也禁止学生重复使用材料。",
+        "学生减少了学校规定，却丢弃了所有材料。",
+        "规定只改变了课堂时间，和废弃物处理无关。"
+      ],
+      "roleExplanations": {
+        "s": "The new rules 同时是 reduced 与 encouraged 的主语。",
+        "v": "reduced 是第一组主句谓语。",
+        "o": "waste 是 reduced 的宾语。",
+        "v2": "encouraged 是第二组并列谓语。",
+        "o2": "students 是 encouraged 的宾语。",
+        "k": "to reuse materials 是宾语 students 后的不定式宾补。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "第一组谓宾",
+          "text": "reduced waste",
+          "explanation": "reduced 直接支配 waste。"
+        },
+        {
+          "kind": "第二组谓宾",
+          "text": "encouraged students",
+          "explanation": "encouraged 的直接宾语是 students。"
+        },
+        {
+          "kind": "不定式宾语补足语",
+          "text": "to reuse materials.",
+          "explanation": "encourage sb. to do sth.，materials 是 reuse 的宾语。"
+        }
+      ],
+      "words": [
+        [
+          "reduce",
+          "减少",
+          "v."
+        ],
+        [
+          "waste",
+          "废弃物；浪费",
+          "n."
+        ],
+        [
+          "reuse",
+          "再次使用",
+          "v."
+        ]
+      ],
+      "acceptedTargets": {
+        "k": [
+          "to reuse"
+        ]
+      }
+    },
+    {
+      "id": 10048,
+      "level": 3,
+      "title": "检查信息来源",
+      "sentence": "Students who check the source of a claim are less likely to accept misleading information.",
+      "targets": {
+        "s": "Students",
+        "m": "who check the source of a claim",
+        "v": "are",
+        "p": "less likely",
+        "n": "to accept misleading information."
+      },
+      "main": "Students are less likely to accept...",
+      "meaning": "会核查说法来源的学生，不太容易接受具有误导性的信息。",
+      "analysis": "【主干】Students are less likely to accept...。【定语】who check the source of a claim 修饰 Students，check 是从句谓语。【系表】are 是主句系动词，less likely 为表语核心。【不定式】to accept misleading information 补充 likely 的含义，to accept 为不定式核心；information 为 accept 的宾语。",
+      "distractors": [
+        "核查消息来源会使学生更容易相信错误信息。",
+        "所有学生都必须相信从网上看到的每一种说法。",
+        "不检查消息来源的学生一定不会受到误导。"
+      ],
+      "roleExplanations": {
+        "s": "Students 为主语中心，完整主语可包含 who 定语从句。",
+        "m": "who... 修饰 Students，who 是从句主语。",
+        "v": "are 是主句系动词，不是 check。",
+        "p": "less likely 是表语中心。",
+        "n": "to accept... 是不定式补足结构，不承担主句时态。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "限制性定语从句",
+          "text": "who check the source of a claim",
+          "explanation": "who 指 Students，check 是从句谓语。"
+        },
+        {
+          "kind": "系表与不定式",
+          "text": "are less likely to accept misleading information.",
+          "explanation": "are 为主句系动词，less likely 为表语，to accept... 补足含义。"
+        }
+      ],
+      "words": [
+        [
+          "misleading",
+          "误导性的",
+          "adj."
+        ],
+        [
+          "claim",
+          "说法；主张",
+          "n."
+        ],
+        [
+          "source",
+          "来源",
+          "n."
+        ]
+      ],
+      "acceptedTargets": {
+        "s": [
+          "Students who check the source of a claim"
+        ],
+        "n": [
+          "to accept"
+        ]
+      }
+    },
+    {
+      "id": 10049,
+      "level": 3,
+      "title": "比较地图后确定路线",
+      "sentence": "After comparing the two maps, the volunteers chose a route that avoided the busiest streets.",
+      "targets": {
+        "n": "comparing the two maps,",
+        "s": "the volunteers",
+        "v": "chose",
+        "o": "a route",
+        "m": "that avoided the busiest streets."
+      },
+      "main": "the volunteers chose a route",
+      "meaning": "志愿者比较两张地图后，选择了一条避开最繁忙街道的路线。",
+      "analysis": "【主干】the volunteers chose a route。【时间】After comparing... 中 After 是介词，comparing 是动名词，逻辑主语为 volunteers。【定语从句】that avoided the busiest streets 修饰 route，that 作该从句主语，avoided 为其谓语。可以圈宾语核心 a route，也可以圈包含定语从句的完整宾语。",
+      "distractors": [
+        "志愿者没有查看任何地图就选择了最拥堵的路线。",
+        "志愿者在街道上收集地图，但没有选择路线。",
+        "两张地图都表明所有道路十分畅通，所以路线并不重要。"
+      ],
+      "roleExplanations": {
+        "n": "comparing the two maps 是 After 后的动名词短语，核心 comparing。",
+        "s": "the volunteers 是主句主语。",
+        "v": "chose 是主句过去时谓语。",
+        "o": "a route 是宾语核心，完整宾语可含后面 that 定语从句。",
+        "m": "that avoided... 修饰 route，that 在从句内作主语。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "介词后的动名词",
+          "text": "After comparing the two maps,",
+          "explanation": "After 后没有独立主谓，因此这里是介词加动名词结构。"
+        },
+        {
+          "kind": "直接宾语",
+          "text": "a route",
+          "explanation": "route 是 chose 的直接宾语中心。"
+        },
+        {
+          "kind": "定语从句",
+          "text": "that avoided the busiest streets.",
+          "explanation": "that 修饰 route，avoided 是定语从句谓语。"
+        }
+      ],
+      "words": [
+        [
+          "route",
+          "路线",
+          "n."
+        ],
+        [
+          "avoid",
+          "避开",
+          "v."
+        ],
+        [
+          "busy",
+          "繁忙的",
+          "adj."
+        ]
+      ],
+      "acceptedTargets": {
+        "o": [
+          "a route that avoided the busiest streets."
+        ]
+      }
+    },
+    {
+      "id": 10050,
+      "level": 3,
+      "title": "说明含糊导致错误",
+      "sentence": "Because the instructions were unclear, several groups made mistakes that could have been avoided.",
+      "targets": {
+        "x": "Because the instructions were unclear,",
+        "s": "several groups",
+        "v": "made",
+        "o": "mistakes",
+        "m": "that could have been avoided."
+      },
+      "main": "several groups made mistakes",
+      "meaning": "由于说明不够清楚，几个小组犯了一些本可以避免的错误。",
+      "analysis": "【主干】several groups made mistakes。【原因】Because... 说明犯错原因。【定语】that could have been avoided 修饰 mistakes，that 在从句内作主语；could have been avoided 是情态完成式被动结构，表示本可以避免。【易错】were 是原因从句系动词，不是主句谓语。",
+      "distractors": [
+        "由于说明非常清楚，所有小组都没有发生错误。",
+        "几组学生有意制造了无法避免的错误。",
+        "这些错误完全无法预测，与说明内容没有关系。"
+      ],
+      "roleExplanations": {
+        "x": "Because... 是原因状语从句，提供造成错误的原因。",
+        "s": "several groups 是主句主语。",
+        "v": "made 是主句谓语。",
+        "o": "mistakes 是宾语核心，也可含后面的 that 修饰部分。",
+        "m": "that could have been avoided 修饰 mistakes，表示可能本来避免。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "原因从句",
+          "text": "Because the instructions were unclear,",
+          "explanation": "instructions 是从句主语，were unclear 是系表。"
+        },
+        {
+          "kind": "主句谓宾",
+          "text": "several groups made mistakes",
+          "explanation": "made 为谓语，mistakes 为直接宾语。"
+        },
+        {
+          "kind": "被动定语从句",
+          "text": "that could have been avoided.",
+          "explanation": "could have been avoided 是情态完成式被动，that 指 mistakes。"
+        }
+      ],
+      "words": [
+        [
+          "instruction",
+          "说明；指令",
+          "n."
+        ],
+        [
+          "unclear",
+          "不清楚的",
+          "adj."
+        ],
+        [
+          "avoid",
+          "避免",
+          "v."
+        ]
+      ],
+      "acceptedTargets": {
+        "o": [
+          "mistakes that could have been avoided."
+        ]
+      }
+    },
+    {
+      "id": 10051,
+      "level": 3,
+      "title": "请工作人员解释延误",
+      "sentence": "The manager asked the workers to explain why the delivery had been delayed.",
+      "targets": {
+        "s": "The manager",
+        "v": "asked",
+        "o": "the workers",
+        "k": "to explain why the delivery had been delayed."
+      },
+      "main": "The manager asked the workers to explain...",
+      "meaning": "经理要求工作人员解释配送为何延误。",
+      "analysis": "【主干】The manager asked the workers to explain...。【宾补】ask sb. to do：the workers 是 asked 的直接宾语，to explain... 是宾语补足语。【嵌套】why the delivery had been delayed 是 explain 的宾语从句，had been delayed 为过去完成时被动谓语。【辨析】delivery 不是主句的宾语。",
+      "distractors": [
+        "经理向工作人员解释了配送提前完成的原因。",
+        "工作人员要求经理立即取消所有配送安排。",
+        "经理说配送从未出现延误，不必再讨论。"
+      ],
+      "roleExplanations": {
+        "s": "The manager 是提出要求的主语。",
+        "v": "asked 是主句谓语。",
+        "o": "the workers 是 asked 的直接宾语。",
+        "k": "to explain why... 是宾语补足语，to explain 为核心，why 从句作 explain 的宾语。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "宾语和宾语补足语",
+          "text": "asked the workers to explain",
+          "explanation": "ask sb. to do：workers 为宾语，to explain 为宾补核心。"
+        },
+        {
+          "kind": "why 宾语从句",
+          "text": "why the delivery had been delayed.",
+          "explanation": "why 引出解释的内容，delivery 为内部主语，had been delayed 为被动谓语。"
+        }
+      ],
+      "words": [
+        [
+          "delivery",
+          "配送；投递",
+          "n."
+        ],
+        [
+          "delay",
+          "推迟；延误",
+          "v."
+        ],
+        [
+          "explain",
+          "解释",
+          "v."
+        ]
+      ],
+      "acceptedTargets": {
+        "k": [
+          "to explain"
+        ]
+      }
+    },
+    {
+      "id": 10052,
+      "level": 3,
+      "title": "学生最看重的反馈",
+      "sentence": "What the students found most useful was the feedback they received after each practice session.",
+      "targets": {
+        "s": "What the students found most useful",
+        "v": "was",
+        "p": "the feedback"
+      },
+      "main": "What the students found most useful 整体是主句主语，其中 What 作 found 的宾语，most useful 是对其评价的宾补",
+      "meaning": "学生觉得最有用的是每次练习后收到的反馈。",
+      "analysis": "【主语从句】What the students found most useful 整体是主句主语，其中 What 作 found 的宾语，most useful 是对其评价的宾补。【系表】was 是主句系动词，the feedback 是表语核心。【省略关系代词】they received after each practice session 修饰 feedback，省略了作 received 宾语的 that/which。【易错】found、received 都不是外层谓语。",
+      "distractors": [
+        "学生觉得最没用的是完成练习后的任何反馈。",
+        "每次练习后学生都不愿听取反馈，只想获得分数。",
+        "教师认为学生在练习之前收到的材料最有帮助。"
+      ],
+      "roleExplanations": {
+        "s": "What... 是主语从句，整体作外层主语，students 仅在内部。",
+        "v": "was 才是主句系动词。",
+        "p": "the feedback 为表语核心，连同后面的省略关系代词定语从句也合理。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "what 主语从句",
+          "text": "What the students found most useful",
+          "explanation": "What 在内部作 found 的宾语，most useful 是宾补。"
+        },
+        {
+          "kind": "省略关系词的定语从句",
+          "text": "they received after each practice session.",
+          "explanation": "修饰 feedback，可补出 that/which；they 作从句主语，received 作谓语。"
+        },
+        {
+          "kind": "表语中心",
+          "text": "the feedback",
+          "explanation": "是 was 后的表语中心，说明最有用的东西是什么。"
+        }
+      ],
+      "words": [
+        [
+          "feedback",
+          "反馈",
+          "n."
+        ],
+        [
+          "session",
+          "一段活动；课时",
+          "n."
+        ],
+        [
+          "useful",
+          "有用的",
+          "adj."
+        ]
+      ],
+      "acceptedTargets": {
+        "p": [
+          "the feedback they received after each practice session."
+        ]
+      }
+    },
+    {
+      "id": 10053,
+      "level": 3,
+      "title": "天气改善后恢复活动",
+      "sentence": "If the weather improves tomorrow, the class will continue the activity that was postponed last week.",
+      "targets": {
+        "x": "If the weather improves tomorrow,",
+        "s": "the class",
+        "v": "will continue",
+        "o": "the activity",
+        "m": "that was postponed last week."
+      },
+      "main": "the class will continue the activity",
+      "meaning": "如果明天天气好转，这个班就会继续上周推迟的活动。",
+      "analysis": "【主干】the class will continue the activity。【条件】If 从句用一般现在时 improves 表示将来的条件，主句用 will continue。【定语】that was postponed last week 修饰 activity，其中 was postponed 是从句被动谓语。【易错】主句宾语可圈 the activity 或包含 that 从句的完整名词短语。",
+      "distractors": [
+        "如果明天天气不好，这个班也已经确定举行完所有活动。",
+        "班级决定取消全部活动，因为上周天气一直很好。",
+        "活动上周按时完成，没有任何延期。"
+      ],
+      "roleExplanations": {
+        "x": "If... 引导条件状语从句，天气改善后活动才继续。",
+        "s": "the class 是主句主语。",
+        "v": "will continue 是主句谓语。",
+        "o": "the activity 为宾语核心，可连后面的定语从句。",
+        "m": "that was postponed last week 是定语从句，was postponed 为被动谓语。"
+      },
+      "grammarSupplements": [
+        {
+          "kind": "条件状语从句",
+          "text": "If the weather improves tomorrow,",
+          "explanation": "improves 用一般现在时表达将来的条件。"
+        },
+        {
+          "kind": "主句谓宾",
+          "text": "the class will continue the activity",
+          "explanation": "will continue 为将来时谓语，activity 为宾语。"
+        },
+        {
+          "kind": "定语从句",
+          "text": "that was postponed last week.",
+          "explanation": "that 指 activity，was postponed 为一般过去时被动。"
+        }
+      ],
+      "words": [
+        [
+          "postpone",
+          "推迟",
+          "v."
+        ],
+        [
+          "activity",
+          "活动",
+          "n."
+        ],
+        [
+          "improve",
+          "改善",
+          "v."
+        ]
+      ],
+      "acceptedTargets": {
+        "o": [
+          "the activity that was postponed last week."
+        ]
+      }
     }
   ],
   "bundledCorrections": [
