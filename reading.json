@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": 2,
+  "revision": 3,
   "passages": [
     {
       "id": "online-shanghai-2008-autumn-B",
@@ -797,7 +797,8 @@
         "turn out a blessing": "因祸得福"
       },
       "review": {
-        "summary": "失业让 Zoe 从伦敦的忙碌生活走向威尔士乡间。虽然农场劳动辛苦，却为她带来健康的疲劳、真切的感动和充实的新生活。",
+        "theme": "失业之后的人生转机：城市压力与乡村充实生活的对比",
+        "overview": "Zoe Chambers 原本在伦敦事业顺利，却被短信解雇。好友 Kathy 邀她到威尔士农场暂住，结果 Zoe 发现劳动虽然辛苦，却带来了健康、充实和真切的感动，再也不想返回都市生活。",
         "paragraphNotes": [
           {
             "paragraph": 1,
@@ -820,11 +821,35 @@
             "connection": "结尾她不愿回伦敦，支持第71题“因祸得福”的主旨。"
           }
         ],
-        "keyTakeaways": [
-          "抓人物态度的前后变化：原先满意 → 失业沮丧 → 农场充实。",
-          "辨认比较：mentally exhausted（都市）与 physically tiring but healthy（乡间）。",
-          "主旨题要概括情节转折，而不是被“老朋友帮助”这一细节带偏。"
-        ]
+        "development": [
+          "第1段：伦敦生活表面成功 → 突然失业 → 生气失落。",
+          "第2段：受到老朋友邀请 → 短期访农场 → 决定留下。",
+          "第3段：伦敦精神透支与农场身体疲劳形成鲜明对照。",
+          "第4段：学新技能、接羔羊、获得满足 → 不愿返回城市。"
+        ],
+        "keyGrammar": [
+          "has been working / has been teaching / has been helping：现在完成进行时，表示从过去持续到现在。",
+          "Zoe says (that) she has no regrets：that 可省略的宾语从句，整体作 says 的宾语。",
+          "everything (that) I'd done ... / experiences (that) I've ever had：省略关系代词的定语从句，分别修饰 everything 与 experiences。",
+          "The moment I arrived ...：The moment 引导时间状语从句，相当于 as soon as。",
+          "all (that) I need ... is ...：主语中嵌有定语从句，系动词 is 后是表语，不应强行找宾语。"
+        ],
+        "keyPhrases": [
+          "out of work：失业",
+          "dismiss someone by text：通过短信解雇某人",
+          "jump at the chance：欣然抓住机会",
+          "no regrets：毫不后悔",
+          "mentally exhausted：精神上筋疲力尽",
+          "put someone in a good mood：使某人心情变好",
+          "physically tiring but rewarding：身体上劳累但值得"
+        ],
+        "commonMistakes": [
+          "第68题问的是原先在伦敦时 Zoe 的自我感受，不能用后文的 meaningless 作答案。",
+          "第69题的“最重要原因”是突然失业，不是因为 Kathy 强行说服她。",
+          "第70题需区分伦敦的精神疲惫和农场的身体疲惫。",
+          "第71题概括人物遭遇与心态转变，不是把好友相助这个细节直接当主题。"
+        ],
+        "homeworkTip": "先独立做 68—71 题，交卷后用原文定位依据核对；再逐句拆出主干、从句和修饰对象，不单独扣介词短语。"
       },
       "source": "2008年上海市普通高校招生统一文化考试英语秋考 · 阅读理解 B；用户提供原文及第68—71题，并对照第三方历年卷转载核对",
       "sourceURL": "https://www.yeyulingfeng.com/wendang/136297.html",
