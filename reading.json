@@ -1,7 +1,910 @@
 {
   "schemaVersion": 1,
-  "revision": 1,
-  "passages": [],
-  "questionSets": [],
+  "revision": 2,
+  "passages": [
+    {
+      "id": "online-shanghai-2008-autumn-B",
+      "section": "ONLINE",
+      "title": "2008年上海秋考英语 · 阅读理解 B · Zoe Chambers",
+      "page": "第6页 · 阅读理解 B（68—71题）",
+      "sentences": [
+        {
+          "id": "online-shanghai-2008-autumn-B-01",
+          "paragraph": 1,
+          "sentence": "Zoe Chambers was a successful PR (Public Relations) consultant and life was going well — she had a great job, a beautiful flat and a busy social life in London.",
+          "targets": {
+            "s": "Zoe Chambers",
+            "v": "was",
+            "p": "a successful PR (Public Relations) consultant"
+          },
+          "main": "Zoe Chambers was a successful PR consultant; life was going well; she had a great job, a flat and a busy social life.",
+          "analysis": "先看第一分句：Zoe Chambers 是主语，was 是系动词，a successful ... consultant 是表语。and 连接另一分句 life was going well；破折号后 she had ... 进一步解释生活顺利的表现，两个分句的主语不同，不能把所有 was/had 统称为 Zoe 的并列谓语。",
+          "meaning": "佐伊·钱伯斯是一位成功的公关顾问，生活十分顺利——她在伦敦有一份好工作、一套漂亮的公寓，还拥有忙碌的社交生活。",
+          "distractors": [
+            "佐伊原是一位不成功的公关顾问，伦敦生活非常困难。",
+            "佐伊虽然有漂亮的公寓，但从未在伦敦工作。",
+            "佐伊在伦敦当公关顾问时已经厌倦社交和工作。"
+          ],
+          "deepNotes": [
+            "先看第一分句：Zoe Chambers 是主语，was 是系动词，a successful ... consultant 是表语。and 连接另一分句 life was going well；破折号后 she had ... 进一步解释生活顺利的表现，两个分句的主语不同，不能把所有 was/had 统称为 Zoe 的并列谓语。"
+          ],
+          "diagramLinks": null,
+          "roleExplanations": {
+            "s": "Zoe Chambers 是首个主句的主语；life 和 she 分别是后续独立分句的主语。",
+            "v": "was 表示 Zoe 当时的身份。life was going well 和 she had ... 各有自己的主语、谓语，不是共享主语的并列谓语。",
+            "p": "a successful PR (Public Relations) consultant 是系动词 was 后的表语，说明 Zoe 的职业，不是动词宾语。"
+          },
+          "grammarSupplements": [
+            {
+              "kind": "独立分句并列",
+              "text": "life was going well",
+              "explanation": "and 后的主语是 life，谓语 was going，表达她过得顺利。"
+            },
+            {
+              "kind": "破折号解释",
+              "text": "she had a great job, a beautiful flat and a busy social life in London.",
+              "explanation": "she had ... 补充说明先前的 life was going well。"
+            }
+          ],
+          "generatedGlossary": null,
+          "acceptedTargets": null
+        },
+        {
+          "id": "online-shanghai-2008-autumn-B-02",
+          "paragraph": 1,
+          "sentence": "Then one evening in June last year, she received a text message telling her she was out of work.",
+          "targets": {
+            "s": "she",
+            "v": "received",
+            "o": "a text message"
+          },
+          "main": "she received",
+          "analysis": "主干 she received a text message。telling her she was out of work 是现在分词后置修饰 message，表示短信传达的内容；she was out of work 是 telling 的内容从句，不是 received 的另一个宾语。不要单独圈介词短语。",
+          "meaning": "接着，去年六月的一个晚上，她收到一条短信，通知她失业了。",
+          "distractors": [
+            "去年六月，她通过一条短信获得了一份新工作。",
+            "她写短信给别人，告诉对方自己正在寻找工作。",
+            "她因为收到私人短信，决定辞去公关顾问的工作。"
+          ],
+          "deepNotes": [
+            "主干 she received a text message。telling her she was out of work 是现在分词后置修饰 message，表示短信传达的内容；she was out of work 是 telling 的内容从句，不是 received 的另一个宾语。不要单独圈介词短语。"
+          ],
+          "diagramLinks": null,
+          "roleExplanations": {
+            "s": "主句主语是「she」。",
+            "v": "主句谓语是「received」。",
+            "o": "a text message 是 received 的宾语；也认可把后面修饰 message 的 telling... 一并选为完整宾语名词短语。"
+          },
+          "grammarSupplements": [
+            {
+              "kind": "分词后置修饰宾语",
+              "text": "telling her she was out of work.",
+              "explanation": "修饰宾语 message，解释短信说了什么。"
+            },
+            {
+              "kind": "消息内容从句",
+              "text": "she was out of work.",
+              "explanation": "省略了 that，是 telling 后说明具体消息的从句，意思是她失业了。"
+            }
+          ],
+          "generatedGlossary": null,
+          "acceptedTargets": {
+            "o": [
+              "a text message telling her she was out of work."
+            ]
+          }
+        },
+        {
+          "id": "online-shanghai-2008-autumn-B-03",
+          "paragraph": 1,
+          "sentence": "\"The first two weeks were the most difficult to live through,\" she said.",
+          "targets": {
+            "s": "she",
+            "v": "said",
+            "o": "\"The first two weeks were the most difficult to live through,\""
+          },
+          "main": "she said: \"The first two weeks were the most difficult to live through.\"",
+          "analysis": "说话框架是 she said，前面的完整直接引语是 said 所表达的内容；引语内部 The first two weeks 是主语，were 是系动词，the most difficult to live through 是表语。注意题目让你找外层引述框架。",
+          "meaning": "她说：“最初的两个星期最难熬。”",
+          "distractors": [
+            "她说最后两个星期过得最轻松。",
+            "她说自己在这家公司只工作了两个星期。",
+            "她说花了两周时间才成功找到新工作。"
+          ],
+          "deepNotes": [
+            "说话框架是 she said，前面的完整直接引语是 said 所表达的内容；引语内部 The first two weeks 是主语，were 是系动词，the most difficult to live through 是表语。注意题目让你找外层引述框架。"
+          ],
+          "diagramLinks": null,
+          "roleExplanations": {
+            "s": "she 指 Zoe，是引语后 said 的主语；引语里的 The first two weeks 是引语内部的主语。",
+            "v": "主句谓语是「said」。",
+            "o": "整段直接引语作 said 的内容；不要只选择引语里的 the first two weeks。"
+          },
+          "grammarSupplements": [
+            {
+              "kind": "直接引语内部主干",
+              "text": "The first two weeks were the most difficult to live through",
+              "explanation": "引语内部另有一套主谓表：The first two weeks / were / the most difficult。"
+            }
+          ],
+          "generatedGlossary": null,
+          "acceptedTargets": null
+        },
+        {
+          "id": "online-shanghai-2008-autumn-B-04",
+          "paragraph": 1,
+          "sentence": "\"After everything I'd done for the company, they dismissed me by text!",
+          "targets": {
+            "s": "they",
+            "v": "dismissed",
+            "o": "me",
+            "m": "I'd done for the company,"
+          },
+          "main": "they dismissed me by text",
+          "analysis": "主干 they dismissed me；After everything ... 表示在她为公司付出之后的背景。I'd done for the company 是省略关系代词 that 的定语从句，修饰 everything，不能把 done 当作主句谓语。",
+          "meaning": "“在我为公司做了那么多之后，他们竟然用短信就把我解雇了！",
+          "distractors": [
+            "“因为我没为公司做任何事情，他们把我调去负责发短信！",
+            "“公司称赞了我过去的工作，并通过短信给我加薪！",
+            "“我发短信告知公司自己辞职，公司没有回应！"
+          ],
+          "deepNotes": [
+            "主干 they dismissed me；After everything ... 表示在她为公司付出之后的背景。I'd done for the company 是省略关系代词 that 的定语从句，修饰 everything，不能把 done 当作主句谓语。"
+          ],
+          "diagramLinks": {
+            "m": {
+              "anchor": "x",
+              "relation": "修饰句首背景中的 everything"
+            }
+          },
+          "roleExplanations": {
+            "s": "主句主语是「they」。",
+            "v": "主句谓语是「dismissed」。",
+            "o": "主句宾语是「me」。若是完整宾语从句，应把整个从句选出来。",
+            "m": "I'd done for the company 修饰 everything，解释她之前为公司做过的全部事情；被修饰的不是 they 或 me。"
+          },
+          "grammarSupplements": [
+            {
+              "kind": "句首背景",
+              "text": "After everything I'd done for the company,",
+              "explanation": "整个结构交代事情发生的背景，意思是“在我为公司做了这么多之后”。"
+            }
+          ],
+          "generatedGlossary": null,
+          "acceptedTargets": null
+        },
+        {
+          "id": "online-shanghai-2008-autumn-B-05",
+          "paragraph": 1,
+          "sentence": "I was so angry and I just didn't feel like looking for another job.",
+          "targets": {
+            "s": "I",
+            "v": "was",
+            "p": "so angry"
+          },
+          "main": "I was so angry; I didn't feel like looking for another job.",
+          "analysis": "第一分句 I was so angry 是主系表结构。and 后的 I just didn't feel like looking for another job 是另一完整分句：didn't feel like 表示不想，looking for another job 是其后的动名词内容。两个 I 都指 Zoe，但每个分句各有自己的谓语。",
+          "meaning": "我非常生气，根本不想再找另一份工作。",
+          "distractors": [
+            "我因为找到另一份工作而高兴极了。",
+            "我虽然感到生气，却立即积极寻找另一份工作。",
+            "我生气是因为公司强迫我为别人介绍工作。"
+          ],
+          "deepNotes": [
+            "第一分句 I was so angry 是主系表结构。and 后的 I just didn't feel like looking for another job 是另一完整分句：didn't feel like 表示不想，looking for another job 是其后的动名词内容。两个 I 都指 Zoe，但每个分句各有自己的谓语。"
+          ],
+          "diagramLinks": null,
+          "roleExplanations": {
+            "s": "主句主语是「I」。",
+            "v": "主句谓语是「was」。",
+            "p": "表语是「so angry」。"
+          },
+          "grammarSupplements": [
+            {
+              "kind": "并列完整分句",
+              "text": "I just didn't feel like looking for another job.",
+              "explanation": "and 后的主语 I 再次出现，didn't feel like 表示“不想”，这不是第一分句系动词 was 后的宾语。"
+            }
+          ],
+          "generatedGlossary": null,
+          "acceptedTargets": null
+        },
+        {
+          "id": "online-shanghai-2008-autumn-B-06",
+          "paragraph": 1,
+          "sentence": "I hated everything about the city and my life.\"",
+          "targets": {
+            "s": "I",
+            "v": "hated",
+            "o": "everything about the city and my life."
+          },
+          "main": "I hated everything about the city and my life.",
+          "analysis": "主干 I hated everything。everything 是宾语中心，about the city and my life 用来限定她讨厌的内容；它不是需要单独寻找的介词短语题。",
+          "meaning": "“我讨厌这座城市和自己生活中的一切。”",
+          "distractors": [
+            "“我仍然喜欢城市生活中的每一个方面。”",
+            "“我只是讨厌公司，但非常热爱伦敦。”",
+            "“我只讨厌自己的工作，对城市没有意见。”"
+          ],
+          "deepNotes": [
+            "主干 I hated everything。everything 是宾语中心，about the city and my life 用来限定她讨厌的内容；它不是需要单独寻找的介词短语题。"
+          ],
+          "diagramLinks": null,
+          "roleExplanations": {
+            "s": "主句主语是「I」。",
+            "v": "主句谓语是「hated」。",
+            "o": "everything 是 hated 的宾语中心；about the city and my life 进一步说明“关于城市和自己生活的一切”，圈宾语中心或完整宾语短语都可以。"
+          },
+          "grammarSupplements": [],
+          "generatedGlossary": null,
+          "acceptedTargets": {
+            "o": [
+              "everything"
+            ]
+          }
+        },
+        {
+          "id": "online-shanghai-2008-autumn-B-07",
+          "paragraph": 2,
+          "sentence": "Then, Zoe received an invitation from an old school friend, Kathy, to come and stay.",
+          "targets": {
+            "s": "Zoe",
+            "v": "received",
+            "o": "an invitation"
+          },
+          "main": "Zoe received",
+          "analysis": "主干 Zoe received an invitation。from an old school friend, Kathy 说明邀请来自谁；to come and stay 是邀请的具体内容。这些属于宾语的扩展信息，而不是独立小短语选择任务。",
+          "meaning": "后来，佐伊收到老同学凯茜的邀请，让她来住一段时间。",
+          "distractors": [
+            "随后，佐伊邀请老同学凯茜到伦敦长住。",
+            "佐伊收到一封学校寄来的工作录用通知。",
+            "凯茜拒绝了佐伊希望来农场居住的请求。"
+          ],
+          "deepNotes": [
+            "主干 Zoe received an invitation。from an old school friend, Kathy 说明邀请来自谁；to come and stay 是邀请的具体内容。这些属于宾语的扩展信息，而不是独立小短语选择任务。"
+          ],
+          "diagramLinks": null,
+          "roleExplanations": {
+            "s": "主句主语是「Zoe」。",
+            "v": "主句谓语是「received」。",
+            "o": "an invitation 是 received 的核心宾语，也认可带来源和内容修饰的完整名词短语。"
+          },
+          "grammarSupplements": [
+            {
+              "kind": "邀请内容",
+              "text": "to come and stay.",
+              "explanation": "说明邀请她去做什么：来并暂住。"
+            }
+          ],
+          "generatedGlossary": null,
+          "acceptedTargets": {
+            "o": [
+              "an invitation from an old school friend, Kathy, to come and stay."
+            ]
+          }
+        },
+        {
+          "id": "online-shanghai-2008-autumn-B-08",
+          "paragraph": 2,
+          "sentence": "Kathy and her husband, Huw, had just bought a farm in north-west Wales.",
+          "targets": {
+            "s": "Kathy and her husband, Huw,",
+            "v": "had just bought",
+            "o": "a farm"
+          },
+          "main": "Kathy and her husband, Huw, had just bought",
+          "analysis": "主句是 Kathy and her husband had just bought a farm。Huw 是丈夫的同位语，补充其姓名；in north-west Wales 修饰 farm 的位置。",
+          "meaning": "凯茜和丈夫休刚刚在威尔士西北部买下了一座农场。",
+          "distractors": [
+            "凯茜和丈夫打算卖掉在伦敦的农场。",
+            "凯茜的丈夫休独自买下了威尔士东北部的公寓。",
+            "凯茜和休已经在农场生活了几十年。"
+          ],
+          "deepNotes": [
+            "主句是 Kathy and her husband had just bought a farm。Huw 是丈夫的同位语，补充其姓名；in north-west Wales 修饰 farm 的位置。"
+          ],
+          "diagramLinks": null,
+          "roleExplanations": {
+            "s": "Kathy and her husband, Huw 是并列主语，Huw 为 husband 的同位语。",
+            "v": "主句谓语是「had just bought」。",
+            "o": "a farm 是买下的对象；in north-west Wales 修饰这座农场，完整宾语短语也算对。"
+          },
+          "grammarSupplements": [],
+          "generatedGlossary": null,
+          "acceptedTargets": {
+            "s": [
+              "Kathy and her husband"
+            ],
+            "o": [
+              "a farm in north-west Wales."
+            ]
+          }
+        },
+        {
+          "id": "online-shanghai-2008-autumn-B-09",
+          "paragraph": 2,
+          "sentence": "Zoe jumped at the chance to spend a weekend away from London, and now, ten months later, she is still on the farm.",
+          "targets": {
+            "s": "Zoe",
+            "v": "jumped"
+          },
+          "main": "Zoe jumped at the chance; she is still on the farm.",
+          "analysis": "前半句 Zoe jumped at the chance 表示欣然接受机会。and 后 now, ten months later, she is still on the farm 是独立分句，主语从 Zoe 变成 she，谓语为 is；不要把 is 误标为 Zoe 的共享主语并列谓语。",
+          "meaning": "佐伊立刻抓住机会，离开伦敦去度周末；而如今，十个月过去了，她仍然待在农场。",
+          "distractors": [
+            "佐伊拒绝了邀请，直到十个月后才第一次去农场。",
+            "佐伊在伦敦度过周末后就再也没有去过农场。",
+            "佐伊在农场住了十个月后返回伦敦继续工作。"
+          ],
+          "deepNotes": [
+            "前半句 Zoe jumped at the chance 表示欣然接受机会。and 后 now, ten months later, she is still on the farm 是独立分句，主语从 Zoe 变成 she，谓语为 is；不要把 is 误标为 Zoe 的共享主语并列谓语。"
+          ],
+          "diagramLinks": null,
+          "roleExplanations": {
+            "s": "主句主语是「Zoe」。",
+            "v": "主句谓语是「jumped」。"
+          },
+          "grammarSupplements": [
+            {
+              "kind": "并列独立分句",
+              "text": "she is still on the farm.",
+              "explanation": "and 后的独立主句说明十个月后她仍留在农场，this is the unexpected outcome。"
+            }
+          ],
+          "generatedGlossary": null,
+          "acceptedTargets": null
+        },
+        {
+          "id": "online-shanghai-2008-autumn-B-10",
+          "paragraph": 2,
+          "sentence": "\"The moment I arrived at Kathy's farm, I loved it and I knew I wanted to stay,\" said Zoe.",
+          "targets": {
+            "s": "Zoe",
+            "v": "said",
+            "o": "\"The moment I arrived at Kathy's farm, I loved it and I knew I wanted to stay,\""
+          },
+          "main": "Zoe said she loved the farm immediately and wanted to stay.",
+          "analysis": "外层引述主干 Zoe said，前面是完整直接引语。引语内 The moment I arrived ... 是时间从句；I loved it 和 I knew I wanted to stay 并列，两个 I 都是各自分句主语；I wanted to stay 是 knew 的宾语从句（省略 that）。",
+          "meaning": "佐伊说：“我一到凯茜的农场就爱上了这里，而且知道自己想留下来。”",
+          "distractors": [
+            "佐伊说自己一到农场便失望，而且从不想留下。",
+            "佐伊说她直到很久以后才知道凯茜有一座农场。",
+            "佐伊说自己喜欢伦敦，打算周末后马上回去。"
+          ],
+          "deepNotes": [
+            "外层引述主干 Zoe said，前面是完整直接引语。引语内 The moment I arrived ... 是时间从句；I loved it 和 I knew I wanted to stay 并列，两个 I 都是各自分句主语；I wanted to stay 是 knew 的宾语从句（省略 that）。"
+          ],
+          "diagramLinks": null,
+          "roleExplanations": {
+            "s": "主句主语是「Zoe」。",
+            "v": "主句谓语是「said」。",
+            "o": "主句宾语是「\"The moment I arrived at Kathy's farm, I loved it and I knew I wanted to stay,\"」。若是完整宾语从句，应把整个从句选出来。"
+          },
+          "grammarSupplements": [
+            {
+              "kind": "引语内部时间从句",
+              "text": "The moment I arrived at Kathy's farm,",
+              "explanation": "The moment 相当于 as soon as，表示她一到农场，就产生了后面的感受。"
+            },
+            {
+              "kind": "引语内部宾语从句",
+              "text": "I wanted to stay",
+              "explanation": "这是 knew 后省略 that 的宾语从句，说明她知道的事情。"
+            }
+          ],
+          "generatedGlossary": null,
+          "acceptedTargets": null
+        },
+        {
+          "id": "online-shanghai-2008-autumn-B-11",
+          "paragraph": 2,
+          "sentence": "\"Everything about my past life suddenly seemed meaningless.\"",
+          "targets": {
+            "s": "Everything about my past life",
+            "v": "seemed",
+            "p": "meaningless."
+          },
+          "main": "Everything about my past life seemed meaningless.",
+          "analysis": "Everything about my past life 是主语，suddenly 修饰系动词 seemed；meaningless 是说明主语感受的表语，不是宾语，也不需要孩子单独圈出形容词。",
+          "meaning": "“过去生活中的一切突然都显得毫无意义。”",
+          "distractors": [
+            "“过去的每一段经历突然都让我觉得很有意义。”",
+            "“我的过去已经毫无希望，不能改变。”",
+            "“过去的所有朋友突然变得没有价值。”"
+          ],
+          "deepNotes": [
+            "Everything about my past life 是主语，suddenly 修饰系动词 seemed；meaningless 是说明主语感受的表语，不是宾语，也不需要孩子单独圈出形容词。"
+          ],
+          "diagramLinks": null,
+          "roleExplanations": {
+            "s": "Everything about my past life 整体作主语，中心词为 Everything；about my past life 只是它的范围修饰。",
+            "v": "seemed 是系动词，搭配形容词 meaningless 表示“显得毫无意义”。",
+            "p": "表语是「meaningless.」。"
+          },
+          "grammarSupplements": [],
+          "generatedGlossary": null,
+          "acceptedTargets": null
+        },
+        {
+          "id": "online-shanghai-2008-autumn-B-12",
+          "paragraph": 3,
+          "sentence": "Zoe has been working on the farm since October of last year and says she has no regrets.",
+          "targets": {
+            "s": "Zoe",
+            "v": "has been working",
+            "v2": "says",
+            "o2": "she has no regrets."
+          },
+          "main": "Zoe has been working and says she has no regrets.",
+          "analysis": "Zoe 是共享主语；has been working（现在完成进行时）和 says 是两组并列谓语。第二组 says 后 she has no regrets 是省略 that 的宾语从句；第一组 working 是不及物用法，没有硬凑出普通宾语。",
+          "meaning": "从去年十月起，佐伊一直在农场工作，并表示自己并不后悔。",
+          "distractors": [
+            "佐伊去年十月之前已经离开农场，如今很后悔。",
+            "佐伊虽然住在农场，却一直不愿意工作。",
+            "佐伊说自己过去在农场工作时十分后悔。"
+          ],
+          "deepNotes": [
+            "Zoe 是共享主语；has been working（现在完成进行时）和 says 是两组并列谓语。第二组 says 后 she has no regrets 是省略 that 的宾语从句；第一组 working 是不及物用法，没有硬凑出普通宾语。"
+          ],
+          "diagramLinks": null,
+          "roleExplanations": {
+            "s": "主句主语是「Zoe」。",
+            "v": "主句谓语是「has been working」。",
+            "v2": "says 与 has been working 共享主语 Zoe，不要将从句 has 当成第二个主句谓语。",
+            "o2": "she has no regrets 是 says 后的整个宾语从句，省略 that，表示“她不后悔”。"
+          },
+          "grammarSupplements": [
+            {
+              "kind": "并列谓语",
+              "text": "and says she has no regrets.",
+              "explanation": "and 连接 has been working 与 says，共用 Zoe 这个主语。"
+            },
+            {
+              "kind": "宾语从句",
+              "text": "she has no regrets.",
+              "explanation": "省略引导词 that 的宾语从句，整体作 says 的内容。"
+            }
+          ],
+          "generatedGlossary": null,
+          "acceptedTargets": null
+        },
+        {
+          "id": "online-shanghai-2008-autumn-B-13",
+          "paragraph": 3,
+          "sentence": "\"It's a hard life, physically very tiring,\" she says.",
+          "targets": {
+            "s": "she",
+            "v": "says",
+            "o": "\"It's a hard life, physically very tiring,\""
+          },
+          "main": "she says farm life is hard and physically tiring.",
+          "analysis": "报道框架 she says；前面的引语交代她的评价。引语内 It's a hard life 中 it 指农场生活，physically very tiring 补充说明这种生活身体上多么累，不能只凭 tiring 就断定她不喜欢乡村生活。",
+          "meaning": "她说：“这样的生活很辛苦，身体上特别累。”",
+          "distractors": [
+            "她说农场生活非常轻松，从来不会累。",
+            "她说只有精神上觉得疲惫，身体反而轻松。",
+            "她说最艰难的是都市生活，农场毫无压力。"
+          ],
+          "deepNotes": [
+            "报道框架 she says；前面的引语交代她的评价。引语内 It's a hard life 中 it 指农场生活，physically very tiring 补充说明这种生活身体上多么累，不能只凭 tiring 就断定她不喜欢乡村生活。"
+          ],
+          "diagramLinks": null,
+          "roleExplanations": {
+            "s": "主句主语是「she」。",
+            "v": "主句谓语是「says」。",
+            "o": "主句宾语是「\"It's a hard life, physically very tiring,\"」。若是完整宾语从句，应把整个从句选出来。"
+          },
+          "grammarSupplements": [],
+          "generatedGlossary": null,
+          "acceptedTargets": null
+        },
+        {
+          "id": "online-shanghai-2008-autumn-B-14",
+          "paragraph": 3,
+          "sentence": "\"In London I was stressed and often mentally exhausted.",
+          "targets": {
+            "s": "I",
+            "v": "was",
+            "p": "stressed and often mentally exhausted."
+          },
+          "main": "I was stressed and mentally exhausted in London.",
+          "analysis": "引语内 I was ... 属于主系表结构：I 是主语，was 是系动词；stressed 和 mentally exhausted 描述过去在伦敦的心理状态。注意 mentally（精神上）与下句 physically（身体上）构成对比。",
+          "meaning": "“在伦敦时，我压力很大，而且经常感到精神疲惫。",
+          "distractors": [
+            "“在伦敦时，我虽然劳累，但精神一直很放松。",
+            "“在伦敦时，我只是在身体上感到精疲力尽。",
+            "“我在伦敦从不焦虑，也没有精神上的压力。"
+          ],
+          "deepNotes": [
+            "引语内 I was ... 属于主系表结构：I 是主语，was 是系动词；stressed 和 mentally exhausted 描述过去在伦敦的心理状态。注意 mentally（精神上）与下句 physically（身体上）构成对比。"
+          ],
+          "diagramLinks": null,
+          "roleExplanations": {
+            "s": "主句主语是「I」。",
+            "v": "主句谓语是「was」。",
+            "p": "表语是「stressed and often mentally exhausted.」。"
+          },
+          "grammarSupplements": [],
+          "generatedGlossary": null,
+          "acceptedTargets": null
+        },
+        {
+          "id": "online-shanghai-2008-autumn-B-15",
+          "paragraph": 3,
+          "sentence": "But this is a good, healthy tiredness.",
+          "targets": {
+            "s": "this",
+            "v": "is",
+            "p": "a good, healthy tiredness."
+          },
+          "main": "this is a good, healthy tiredness.",
+          "analysis": "this 指现在农场劳作后的疲惫；is 是系动词，后面的 a good, healthy tiredness 是表语名词短语。结合上一句可看出城乡两种疲惫的性质不同。",
+          "meaning": "但是如今这种疲惫是健康的、让人感觉良好的疲惫。",
+          "distractors": [
+            "但她觉得在农场工作造成了严重的精神透支。",
+            "这种疲惫说明农场生活有害健康。",
+            "但这种感觉与伦敦生活时毫无不同。"
+          ],
+          "deepNotes": [
+            "this 指现在农场劳作后的疲惫；is 是系动词，后面的 a good, healthy tiredness 是表语名词短语。结合上一句可看出城乡两种疲惫的性质不同。"
+          ],
+          "diagramLinks": null,
+          "roleExplanations": {
+            "s": "主句主语是「this」。",
+            "v": "主句谓语是「is」。",
+            "p": "表语是「a good, healthy tiredness.」。"
+          },
+          "grammarSupplements": [],
+          "generatedGlossary": null,
+          "acceptedTargets": null
+        },
+        {
+          "id": "online-shanghai-2008-autumn-B-16",
+          "paragraph": 3,
+          "sentence": "Here, all I need to put me in a good mood is a hot bath and one of Kathy's wonderful dinners.\"",
+          "targets": {
+            "s": "all I need to put me in a good mood",
+            "v": "is",
+            "p": "a hot bath and one of Kathy's wonderful dinners.",
+            "m": "I need to put me in a good mood"
+          },
+          "main": "all I need is a hot bath and one of Kathy's wonderful dinners.",
+          "analysis": "主句主语是 all I need to put me in a good mood，系动词为 is，表语是 a hot bath and one of Kathy's wonderful dinners。I need ... 是省略 that 的定语从句，修饰 all；to put me in a good mood 表示让她心情变好，不能把 hot bath 错作动词 need 的直接宾语。",
+          "meaning": "“在这里，想让我心情好起来，只需要洗个热水澡，再吃上一顿凯茜做的美味晚餐。”",
+          "distractors": [
+            "“在这里，我必须自己做饭并每天洗冷水澡才能开心。”",
+            "“只有凯茜陪我回伦敦，我才会觉得愉快。”",
+            "“这里没有可以让我放松的事，我只需要工作。”"
+          ],
+          "deepNotes": [
+            "主句主语是 all I need to put me in a good mood，系动词为 is，表语是 a hot bath and one of Kathy's wonderful dinners。I need ... 是省略 that 的定语从句，修饰 all；to put me in a good mood 表示让她心情变好，不能把 hot bath 错作动词 need 的直接宾语。"
+          ],
+          "diagramLinks": {
+            "m": {
+              "anchor": "s",
+              "relation": "定语从句修饰主语中心 all"
+            }
+          },
+          "roleExplanations": {
+            "s": "all I need to put me in a good mood 整体是主句主语，中心 all 后有省略 that 的定语从句。",
+            "v": "主句谓语是「is」。",
+            "p": "a hot bath and one of Kathy's wonderful dinners 是表语，列出能使她开心的两件事。",
+            "m": "I need to put me in a good mood 修饰主语中心 all，相当于 all that I need ...，不是修饰 dinner。"
+          },
+          "grammarSupplements": [
+            {
+              "kind": "省略关系词的定语从句",
+              "text": "I need to put me in a good mood",
+              "explanation": "修饰 all，回答“所需要的一切是什么”；what she needs = all she needs。"
+            }
+          ],
+          "generatedGlossary": null,
+          "acceptedTargets": null
+        },
+        {
+          "id": "online-shanghai-2008-autumn-B-17",
+          "paragraph": 4,
+          "sentence": "Zoe says she has never felt bored on the farm.",
+          "targets": {
+            "s": "Zoe",
+            "v": "says",
+            "o": "she has never felt bored on the farm."
+          },
+          "main": "Zoe says",
+          "analysis": "主句 Zoe says。she has never felt bored on the farm 是省略 that 的宾语从句，整体表示 Zoe 说的内容；has never felt 是从句内部谓语，而不是主句谓语。",
+          "meaning": "佐伊说，她在农场从来没有觉得无聊。",
+          "distractors": [
+            "佐伊说她在农场一直无事可做，十分无聊。",
+            "佐伊说自己从来没有在农场真正工作过。",
+            "佐伊说只有回到伦敦，她才不会无聊。"
+          ],
+          "deepNotes": [
+            "主句 Zoe says。she has never felt bored on the farm 是省略 that 的宾语从句，整体表示 Zoe 说的内容；has never felt 是从句内部谓语，而不是主句谓语。"
+          ],
+          "diagramLinks": null,
+          "roleExplanations": {
+            "s": "主句主语是「Zoe」。",
+            "v": "主句谓语是「says」。",
+            "o": "she has never felt bored on the farm 是 says 后的整个宾语从句（省略 that），不能只选 bored。"
+          },
+          "grammarSupplements": [],
+          "generatedGlossary": null,
+          "acceptedTargets": null
+        },
+        {
+          "id": "online-shanghai-2008-autumn-B-18",
+          "paragraph": 4,
+          "sentence": "Every day brings a new experience.",
+          "targets": {
+            "s": "Every day",
+            "v": "brings",
+            "o": "a new experience."
+          },
+          "main": "Every day brings a new experience.",
+          "analysis": "Every day 在这里是名词短语主语（每天），brings 是谓语，a new experience 是宾语；它不是句首时间状语。",
+          "meaning": "每一天都会带来新的体验。",
+          "distractors": [
+            "每天都重复同一件毫无新意的事。",
+            "一段新的经历让她只停留了一天。",
+            "她每一天都被要求结束自己的新工作。"
+          ],
+          "deepNotes": [
+            "Every day 在这里是名词短语主语（每天），brings 是谓语，a new experience 是宾语；它不是句首时间状语。"
+          ],
+          "diagramLinks": null,
+          "roleExplanations": {
+            "s": "Every day 在此作主语，表示“每一天”；谓语 brings 要用第三人称单数。",
+            "v": "主句谓语是「brings」。",
+            "o": "主句宾语是「a new experience.」。若是完整宾语从句，应把整个从句选出来。"
+          },
+          "grammarSupplements": [],
+          "generatedGlossary": null,
+          "acceptedTargets": null
+        },
+        {
+          "id": "online-shanghai-2008-autumn-B-19",
+          "paragraph": 4,
+          "sentence": "Kathy has been teaching her how to ride a horse and she has learnt to drive a tractor.",
+          "targets": {
+            "s": "Kathy",
+            "v": "has been teaching",
+            "o": "how to ride a horse"
+          },
+          "main": "Kathy has been teaching her; she has learnt to drive a tractor.",
+          "analysis": "前半句 Kathy has been teaching her how to ride a horse，后半句 and she has learnt to drive a tractor：主语从 Kathy 变为 she，因而不是共享同一主语的并列谓语。how to ride a horse 是 teaching 的内容，her 指学习者 Zoe；to drive a tractor 说明 she 学会的本领。",
+          "meaning": "凯茜一直在教她骑马，而她也学会了驾驶拖拉机。",
+          "distractors": [
+            "凯茜学会了开拖拉机，而佐伊一直在教她骑马。",
+            "佐伊只学会骑马，始终不会驾驶拖拉机。",
+            "凯茜禁止佐伊接触农场的马和拖拉机。"
+          ],
+          "deepNotes": [
+            "前半句 Kathy has been teaching her how to ride a horse，后半句 and she has learnt to drive a tractor：主语从 Kathy 变为 she，因而不是共享同一主语的并列谓语。how to ride a horse 是 teaching 的内容，her 指学习者 Zoe；to drive a tractor 说明 she 学会的本领。"
+          ],
+          "diagramLinks": null,
+          "roleExplanations": {
+            "s": "主句主语是「Kathy」。",
+            "v": "主句谓语是「has been teaching」。",
+            "o": "how to ride a horse 是凯茜教授的具体内容；her 指接受教学的 Zoe，属于受教者成分，不另出零碎选择题。"
+          },
+          "grammarSupplements": [
+            {
+              "kind": "第二个独立分句",
+              "text": "she has learnt to drive a tractor.",
+              "explanation": "and 后主语 she 指 Zoe，谓语 has learnt；不能误以为 Kathy 学会了开拖拉机。"
+            }
+          ],
+          "generatedGlossary": null,
+          "acceptedTargets": null
+        },
+        {
+          "id": "online-shanghai-2008-autumn-B-20",
+          "paragraph": 4,
+          "sentence": "Since Christmas, she has been helping with the lambing — watching a lamb being born is unbelievable, she says, \"It's one of the most moving experiences I've ever had. I could never go back to city life now.\"",
+          "targets": {
+            "s": "she",
+            "v": "has been helping",
+            "m": "I've ever had."
+          },
+          "main": "she has been helping with the lambing; watching a lamb being born is unbelievable.",
+          "analysis": "主干起始为 she has been helping with the lambing。破折号后 watching a lamb being born 作主语，is unbelievable 作系表；she says 插入说明这是佐伊的评价。引语中 It's one of the most moving experiences I've ever had 含省略 that 的定语从句 I've ever had，修饰 experiences；末尾 I could never go back to city life now 是她的直接表态。",
+          "meaning": "从圣诞节以来，她一直帮忙照料母羊产羔。她说，看到小羊出生简直不可思议：“这是我经历过的最令人感动的事情之一。我现在再也不可能回到城市生活了。”",
+          "distractors": [
+            "圣诞节后她就不再参与农场工作，也从未见过小羊出生。",
+            "她觉得小羊出生令人难以忍受，因此决定立即回伦敦。",
+            "她说农场经历十分平淡，自己一直盼望返回城市。"
+          ],
+          "deepNotes": [
+            "主干起始为 she has been helping with the lambing。破折号后 watching a lamb being born 作主语，is unbelievable 作系表；she says 插入说明这是佐伊的评价。引语中 It's one of the most moving experiences I've ever had 含省略 that 的定语从句 I've ever had，修饰 experiences；末尾 I could never go back to city life now 是她的直接表态。"
+          ],
+          "diagramLinks": {
+            "m": {
+              "anchor": "o",
+              "relation": "修饰引语中的 experiences"
+            }
+          },
+          "roleExplanations": {
+            "s": "句首 she 指 Zoe，主句谓语 has been helping；破折号后的 watching a lamb being born 是另一个分句的动名词主语。",
+            "v": "主句谓语是「has been helping」。",
+            "m": "I've ever had 是省略 that 的定语从句，修饰引语中的 experiences（经历），不是修饰 lamb。"
+          },
+          "grammarSupplements": [
+            {
+              "kind": "破折号后的独立判断",
+              "text": "watching a lamb being born is unbelievable",
+              "explanation": "watching... 整体作主语，is unbelievable 表示看到羔羊出生令人不可思议。"
+            },
+            {
+              "kind": "引语中的定语从句",
+              "text": "I've ever had.",
+              "explanation": "修饰最令人感动的经历 experiences，省略了关系代词 that。"
+            },
+            {
+              "kind": "直接引语结尾",
+              "text": "I could never go back to city life now.",
+              "explanation": "could never 表示她如今绝不愿回到城市生活，体现对农场生活的肯定。"
+            }
+          ],
+          "generatedGlossary": null,
+          "acceptedTargets": null
+        }
+      ],
+      "glossary": {
+        "PR": "公关；公共关系（Public Relations）",
+        "consultant": "顾问；咨询师",
+        "flat": "公寓（英式英语）",
+        "social life": "社交生活",
+        "out of work": "失业",
+        "dismiss": "解雇",
+        "dismissed": "解雇了",
+        "by text": "通过短信",
+        "live through": "度过（艰难时期）",
+        "felt like": "想要；愿意",
+        "feel like": "想要；愿意",
+        "invitation": "邀请",
+        "north-west": "西北部",
+        "jump at the chance": "欣然抓住机会",
+        "jumped at the chance": "欣然抓住机会",
+        "meaningless": "毫无意义的",
+        "had no regrets": "没有遗憾",
+        "regret": "后悔；遗憾",
+        "stressed": "压力大的",
+        "mentally exhausted": "精神疲惫",
+        "physically": "身体上地",
+        "tiredness": "疲倦；疲劳",
+        "put me in a good mood": "使我心情好起来",
+        "hot bath": "热水澡",
+        "bored": "无聊的",
+        "tractor": "拖拉机",
+        "learnt": "学会了（英式英语）",
+        "lambing": "母羊产羔；接羔",
+        "lamb": "羔羊",
+        "unbelievable": "令人难以置信的",
+        "moving": "感人的",
+        "rewarding": "有收获的；值得的",
+        "misfortune": "不幸；厄运",
+        "a blessing": "一件幸事"
+      },
+      "alternativeMeanings": null,
+      "phraseGlossary": {
+        "PR consultant": "公关顾问",
+        "out of work": "失业",
+        "jumped at the chance": "欣然抓住机会",
+        "no regrets": "不后悔",
+        "mentally exhausted": "精神疲惫",
+        "put me in a good mood": "让我心情好起来",
+        "helping with the lambing": "帮忙照料母羊产羔",
+        "turn out a blessing": "因祸得福"
+      },
+      "review": {
+        "summary": "失业让 Zoe 从伦敦的忙碌生活走向威尔士乡间。虽然农场劳动辛苦，却为她带来健康的疲劳、真切的感动和充实的新生活。",
+        "paragraphNotes": [
+          {
+            "paragraph": 1,
+            "point": "原有生活体面、忙碌；意外被解雇带来低谷。",
+            "connection": "第68题依据开头职业与生活情况；第69题的主要原因是失业。"
+          },
+          {
+            "paragraph": 2,
+            "point": "好友邀请，短住变长留；乡村生活重新定义价值。",
+            "connection": "Zoe 一到农场就喜欢这里，逐渐觉得此前生活空虚。"
+          },
+          {
+            "paragraph": 3,
+            "point": "对比伦敦的精神疲惫与农场的身体劳累。",
+            "connection": "第70题关键是 physically tiring 与 good, healthy tiredness。"
+          },
+          {
+            "paragraph": 4,
+            "point": "新体验不断，学习骑马开拖拉机，见证小羊出生。",
+            "connection": "结尾她不愿回伦敦，支持第71题“因祸得福”的主旨。"
+          }
+        ],
+        "keyTakeaways": [
+          "抓人物态度的前后变化：原先满意 → 失业沮丧 → 农场充实。",
+          "辨认比较：mentally exhausted（都市）与 physically tiring but healthy（乡间）。",
+          "主旨题要概括情节转折，而不是被“老朋友帮助”这一细节带偏。"
+        ]
+      },
+      "source": "2008年上海市普通高校招生统一文化考试英语秋考 · 阅读理解 B；用户提供原文及第68—71题，并对照第三方历年卷转载核对",
+      "sourceURL": "https://www.yeyulingfeng.com/wendang/136297.html",
+      "verifiedShanghaiExam": false,
+      "examEdition": "shanghai-2008-autumn",
+      "examPart": "B"
+    }
+  ],
+  "questionSets": [
+    {
+      "id": "online-shanghai-2008-autumn-B",
+      "title": "2008年上海秋考英语 · 阅读 B · 原卷68—71题",
+      "source": "2008年上海秋考英语 · 阅读理解 B（用户提供题图，参考解析卷与历年答案复核）",
+      "mode": "single",
+      "intro": "共4道原卷阅读理解单选题。先独立作答并提交，之后查看标准参考答案、原文定位和解题分析。",
+      "passageText": "Zoe Chambers was a successful PR (Public Relations) consultant and life was going well — she had a great job, a beautiful flat and a busy social life in London. Then one evening in June last year, she received a text message telling her she was out of work. \"The first two weeks were the most difficult to live through,\" she said. \"After everything I'd done for the company, they dismissed me by text! I was so angry and I just didn't feel like looking for another job. I hated everything about the city and my life.\"\n\nThen, Zoe received an invitation from an old school friend, Kathy, to come and stay. Kathy and her husband, Huw, had just bought a farm in north-west Wales. Zoe jumped at the chance to spend a weekend away from London, and now, ten months later, she is still on the farm. \"The moment I arrived at Kathy's farm, I loved it and I knew I wanted to stay,\" said Zoe. \"Everything about my past life suddenly seemed meaningless.\"\n\nZoe has been working on the farm since October of last year and says she has no regrets. \"It's a hard life, physically very tiring,\" she says. \"In London I was stressed and often mentally exhausted. But this is a good, healthy tiredness. Here, all I need to put me in a good mood is a hot bath and one of Kathy's wonderful dinners.\"\n\nZoe says she has never felt bored on the farm. Every day brings a new experience. Kathy has been teaching her how to ride a horse and she has learnt to drive a tractor. Since Christmas, she has been helping with the lambing — watching a lamb being born is unbelievable, she says, \"It's one of the most moving experiences I've ever had. I could never go back to city life now.\"",
+      "sharedOptions": null,
+      "questions": [
+        {
+          "id": 68,
+          "stem": "When working as a PR consultant in London, Zoe thought she lived a______ life.",
+          "options": [
+            "satisfying",
+            "tough",
+            "meaningless",
+            "boring"
+          ],
+          "correctIndex": 0,
+          "kind": "single",
+          "context": "",
+          "evidence": "Zoe Chambers was a successful PR (Public Relations) consultant and life was going well — she had a great job, a beautiful flat and a busy social life in London.",
+          "explanation": "第1段说她当时职业成功，工作、公寓和社交生活都很好，说明她过去认为伦敦生活令人满意。第2段到农场后才觉得“过去的生活毫无意义”，要区分前后态度，选 A。"
+        },
+        {
+          "id": 69,
+          "stem": "The most important reason why Zoe went to visit Kathy's farm is that______.",
+          "options": [
+            "Zoe lost her job as a PR consultant",
+            "Kathy persuaded her to do so",
+            "Zoe got tired of the city life",
+            "Zoe loved Wales more than London"
+          ],
+          "correctIndex": 0,
+          "kind": "single",
+          "context": "",
+          "evidence": "she received a text message telling her she was out of work. ... Zoe received an invitation from an old school friend, Kathy, to come and stay.",
+          "explanation": "先发生的是 Zoe 突然被解雇，随后老朋友邀请她去农场暂住。失业才是此次生活转折的主要起因；Kathy 是邀请她，并没有文中所说的“说服”，选 A。"
+        },
+        {
+          "id": 70,
+          "stem": "How does Zoe feel about the country life according to the passage?",
+          "options": [
+            "Tiresome and troublesome.",
+            "Romantic and peaceful",
+            "Mentally exhausting but healthy",
+            "Physically tiring but rewarding."
+          ],
+          "correctIndex": 3,
+          "kind": "single",
+          "context": "",
+          "evidence": "\"It's a hard life, physically very tiring,\" she says. ... \"But this is a good, healthy tiredness.\" ... \"It's one of the most moving experiences I've ever had.\"",
+          "explanation": "她明确说农场劳作让身体非常疲惫（physically very tiring），但这是健康的疲惫，且有许多感动、充实的新体验，所以是“身体累但值得”，选 D；C 把精神疲惫与农场生活混淆。"
+        },
+        {
+          "id": 71,
+          "stem": "Which of the following is closest to the main idea of the passage?",
+          "options": [
+            "A friend in need is a friend indeed.",
+            "Where there is a will, there is a way.",
+            "A misfortune may turn out a blessing.",
+            "Kill two birds with one stone."
+          ],
+          "correctIndex": 2,
+          "kind": "single",
+          "context": "",
+          "evidence": "she received a text message telling her she was out of work. ... \"Everything about my past life suddenly seemed meaningless.\" ... \"I could never go back to city life now.\"",
+          "explanation": "被解雇原本是不幸，却促成了 Zoe 在乡村找到更满意的生活，是“塞翁失马，焉知非福”，选 C。A 强调友谊但不是故事核心；B 强调意志；D 指一举两得。"
+        }
+      ]
+    }
+  ],
   "retiredPassageIDs": []
 }
