@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": 6,
+  "revision": 7,
   "passages": [
     {
       "id": "online-shanghai-2008-autumn-B",
@@ -1133,7 +1133,54 @@
             }
           ],
           "generatedGlossary": null,
-          "acceptedTargets": null
+          "acceptedTargets": null,
+          "studyUnits": [
+            {
+              "id": "u01",
+              "kind": "地点状语",
+              "question": "句首哪个词交代她说的是在农场的情形？",
+              "text": "Here,",
+              "explanation": "Here 表示在这里，说明她在农场怎样让自己心情好起来。",
+              "startToken": 0,
+              "endToken": 0
+            },
+            {
+              "id": "u02",
+              "kind": "目的说明",
+              "question": "哪部分解释她为什么需要这些东西？",
+              "text": "to put me in a good mood",
+              "explanation": "to put me in a good mood 说明目的，是“让自己心情好起来”。",
+              "startToken": 4,
+              "endToken": 10
+            },
+            {
+              "id": "u03",
+              "kind": "主句表语",
+              "question": "is 后面说哪两样东西就能让她开心？",
+              "text": "a hot bath and one of Kathy's wonderful dinners.",
+              "explanation": "这是主句系动词 is 的两个并列名词性表语。",
+              "startToken": 12,
+              "endToken": 20
+            },
+            {
+              "id": "u04",
+              "kind": "定语",
+              "question": "哪个词修饰 dinners，说明晚餐很好吃？",
+              "text": "wonderful",
+              "explanation": "wonderful 修饰 dinners，说明令人愉快的晚餐。",
+              "startToken": 19,
+              "endToken": 19
+            },
+            {
+              "id": "u05",
+              "kind": "所有格修饰",
+              "question": "谁的晚餐让 Zoe 心情好？",
+              "text": "Kathy's",
+              "explanation": "Kathy's 修饰 dinners，说明晚餐出自 Kathy。",
+              "startToken": 18,
+              "endToken": 18
+            }
+          ]
         },
         {
           "id": "online-shanghai-2008-autumn-B-17",
@@ -1163,7 +1210,45 @@
           },
           "grammarSupplements": [],
           "generatedGlossary": null,
-          "acceptedTargets": null
+          "acceptedTargets": null,
+          "studyUnits": [
+            {
+              "id": "u01",
+              "kind": "否定状语",
+              "question": "哪个词表示她在农场一次也没有感到无聊？",
+              "text": "never",
+              "explanation": "never 否定 has felt，表示从未感到无聊。",
+              "startToken": 4,
+              "endToken": 4
+            },
+            {
+              "id": "u02",
+              "kind": "地点状语",
+              "question": "哪部分说明她不觉得无聊的地方？",
+              "text": "on the farm.",
+              "explanation": "on the farm 修饰从句里的 has never felt，表示地点。",
+              "startToken": 7,
+              "endToken": 9
+            },
+            {
+              "id": "u03",
+              "kind": "从句主语",
+              "question": "宾语从句中感到不无聊的人是谁？",
+              "text": "she",
+              "explanation": "she 指 Zoe，是宾语从句主语。",
+              "startToken": 2,
+              "endToken": 2
+            },
+            {
+              "id": "u04",
+              "kind": "从句谓语",
+              "question": "宾语从句中的完整谓语动词是哪一段？",
+              "text": "has never felt",
+              "explanation": "has never felt 为现在完成时否定结构，注意 never 位置。",
+              "startToken": 3,
+              "endToken": 5
+            }
+          ]
         },
         {
           "id": "online-shanghai-2008-autumn-B-18",
@@ -1193,7 +1278,27 @@
           },
           "grammarSupplements": [],
           "generatedGlossary": null,
-          "acceptedTargets": null
+          "acceptedTargets": null,
+          "studyUnits": [
+            {
+              "id": "u01",
+              "kind": "主语定语",
+              "question": "哪个词限定 day，表示每一天？",
+              "text": "Every",
+              "explanation": "Every 修饰 day，强调每天都如此。",
+              "startToken": 0,
+              "endToken": 0
+            },
+            {
+              "id": "u02",
+              "kind": "宾语定语",
+              "question": "哪个词修饰 experience，表示每天都有新的经历？",
+              "text": "new",
+              "explanation": "new 修饰 experience，表明农场生活不单调。",
+              "startToken": 4,
+              "endToken": 4
+            }
+          ]
         },
         {
           "id": "online-shanghai-2008-autumn-B-19",
@@ -1229,7 +1334,45 @@
             }
           ],
           "generatedGlossary": null,
-          "acceptedTargets": null
+          "acceptedTargets": null,
+          "studyUnits": [
+            {
+              "id": "u01",
+              "kind": "接受指导的人",
+              "question": "Kathy 教谁骑马？",
+              "text": "her",
+              "explanation": "her 指 Zoe，是 teaching 的受教者。",
+              "startToken": 4,
+              "endToken": 4
+            },
+            {
+              "id": "u02",
+              "kind": "第二独立分句主语",
+              "question": "and 后面学会驾驶拖拉机的人是谁？",
+              "text": "she",
+              "explanation": "she 指 Zoe，and 后主语变更，不能把 has learnt 归给 Kathy。",
+              "startToken": 11,
+              "endToken": 11
+            },
+            {
+              "id": "u03",
+              "kind": "第二独立分句谓语",
+              "question": "Zoe 后来学会开拖拉机，谓语是哪组词？",
+              "text": "has learnt",
+              "explanation": "has learnt 是现在完成时，说明她已掌握技能。",
+              "startToken": 12,
+              "endToken": 13
+            },
+            {
+              "id": "u04",
+              "kind": "学习内容",
+              "question": "她学会了做什么？",
+              "text": "to drive a tractor.",
+              "explanation": "to drive a tractor 说明 learnt 的具体内容。",
+              "startToken": 14,
+              "endToken": 17
+            }
+          ]
         },
         {
           "id": "online-shanghai-2008-autumn-B-20",
@@ -1280,7 +1423,99 @@
             }
           ],
           "generatedGlossary": null,
-          "acceptedTargets": null
+          "acceptedTargets": null,
+          "studyUnits": [
+            {
+              "id": "u01",
+              "kind": "时间状语",
+              "question": "哪一部分说明她从什么时候开始帮忙照料母羊产羔？",
+              "text": "Since Christmas,",
+              "explanation": "Since Christmas 表明从圣诞节开始，与现在完成进行时呼应。",
+              "startToken": 0,
+              "endToken": 1
+            },
+            {
+              "id": "u02",
+              "kind": "活动内容",
+              "question": "她具体帮忙做的是哪一件农场工作？",
+              "text": "with the lambing",
+              "explanation": "with the lambing 说明她参加母羊产羔相关工作。",
+              "startToken": 6,
+              "endToken": 8
+            },
+            {
+              "id": "u03",
+              "kind": "破折号后分句主语",
+              "question": "什么事情让她觉得不可思议？",
+              "text": "watching a lamb being born",
+              "explanation": "整个 watching ... being born 作动名词主语，指亲眼看到羔羊出生。",
+              "startToken": 10,
+              "endToken": 14
+            },
+            {
+              "id": "u04",
+              "kind": "破折号后分句系动词",
+              "question": "这个分句用哪个词连接主语和其评价？",
+              "text": "is",
+              "explanation": "is 与 watching a lamb being born 这一动名词主语搭配。",
+              "startToken": 15,
+              "endToken": 15
+            },
+            {
+              "id": "u05",
+              "kind": "破折号后表语",
+              "question": "她用哪个词评价亲眼看到羔羊出生？",
+              "text": "unbelievable,",
+              "explanation": "unbelievable 是表语，表示不可思议。",
+              "startToken": 16,
+              "endToken": 16
+            },
+            {
+              "id": "u06",
+              "kind": "插入引述分句",
+              "question": "哪段词说明后面的评价出自 Zoe？",
+              "text": "she says,",
+              "explanation": "she says 是插入的引述语，表明说话者。",
+              "startToken": 17,
+              "endToken": 18
+            },
+            {
+              "id": "u07",
+              "kind": "引语中的表语",
+              "question": "她认为这是什么样的经历？",
+              "text": "one of the most moving experiences I've ever had.",
+              "explanation": "这是引语 It is 后的名词性表语，包含修饰 experiences 的定语从句。",
+              "startToken": 20,
+              "endToken": 28
+            },
+            {
+              "id": "u08",
+              "kind": "最后独立分句主语",
+              "question": "结尾不愿意返回都市的人是谁？",
+              "text": "I",
+              "explanation": "引语结尾 I 指 Zoe，是 I could never ... 的主语。",
+              "startToken": 29,
+              "endToken": 29
+            },
+            {
+              "id": "u09",
+              "kind": "最后独立分句谓语",
+              "question": "哪些词表达她绝不愿回到城市？",
+              "text": "could never go back",
+              "explanation": "could never go back 为否定情态动词结构，表明坚定态度。",
+              "startToken": 30,
+              "endToken": 33
+            },
+            {
+              "id": "u10",
+              "kind": "最后分句指向",
+              "question": "哪一部分说明她不愿回到怎样的生活？",
+              "text": "to city life now.",
+              "explanation": "to city life 表明返回的目标是城市生活，now 指当前态度。",
+              "startToken": 34,
+              "endToken": 37
+            }
+          ]
         }
       ],
       "glossary": {
