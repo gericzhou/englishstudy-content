@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": 4,
+  "revision": 5,
   "passages": [
     {
       "id": "online-shanghai-2008-autumn-B",
@@ -458,7 +458,18 @@
             "o": [
               "everything"
             ]
-          }
+          },
+          "studyUnits": [
+            {
+              "id": "u01",
+              "kind": "宾语定语",
+              "question": "哪一部分说明她讨厌的是哪些方面的一切？",
+              "text": "about the city and my life.",
+              "explanation": "about the city and my life 修饰 everything，将讨厌的范围指向城市及过去生活。",
+              "startToken": 3,
+              "endToken": 8
+            }
+          ]
         },
         {
           "id": "online-shanghai-2008-autumn-B-07",
@@ -498,7 +509,27 @@
             "o": [
               "an invitation from an old school friend, Kathy, to come and stay."
             ]
-          }
+          },
+          "studyUnits": [
+            {
+              "id": "u01",
+              "kind": "邀请来源",
+              "question": "哪段内容说明邀请来自谁？",
+              "text": "from an old school friend, Kathy,",
+              "explanation": "修饰 invitation，交代邀请的来源；Kathy 与 old school friend 指同一个人。",
+              "startToken": 5,
+              "endToken": 10
+            },
+            {
+              "id": "u02",
+              "kind": "邀请内容",
+              "question": "哪段内容说明 Kathy 邀 Zoe 去做什么？",
+              "text": "to come and stay.",
+              "explanation": "补充说明 invitation 的具体内容，即来住一段时间。",
+              "startToken": 11,
+              "endToken": 14
+            }
+          ]
         },
         {
           "id": "online-shanghai-2008-autumn-B-08",
@@ -535,7 +566,27 @@
             "o": [
               "a farm in north-west Wales."
             ]
-          }
+          },
+          "studyUnits": [
+            {
+              "id": "u01",
+              "kind": "同位语",
+              "question": "哪一个名字说明 Kathy 的丈夫是谁？",
+              "text": "Huw,",
+              "explanation": "Huw 与 her husband 指同一人，作同位语。",
+              "startToken": 4,
+              "endToken": 4
+            },
+            {
+              "id": "u02",
+              "kind": "地点定语",
+              "question": "哪段内容说明农场位于哪个地区？",
+              "text": "in north-west Wales.",
+              "explanation": "修饰 a farm，说明农场位置；重点是它修饰哪个名词。",
+              "startToken": 10,
+              "endToken": 12
+            }
+          ]
         },
         {
           "id": "online-shanghai-2008-autumn-B-09",
@@ -569,7 +620,54 @@
             }
           ],
           "generatedGlossary": null,
-          "acceptedTargets": null
+          "acceptedTargets": null,
+          "studyUnits": [
+            {
+              "id": "u01",
+              "kind": "机会内容",
+              "question": "她欣然抓住的机会具体是什么？",
+              "text": "to spend a weekend away from London,",
+              "explanation": "to spend ... 修饰 chance，说明这个机会就是离开伦敦过周末。",
+              "startToken": 5,
+              "endToken": 11
+            },
+            {
+              "id": "u02",
+              "kind": "时间状语",
+              "question": "哪段话说明时间过去了十个月？",
+              "text": "now, ten months later,",
+              "explanation": "第二独立分句的时间背景，强调短暂访问已变成长住。",
+              "startToken": 13,
+              "endToken": 16
+            },
+            {
+              "id": "u03",
+              "kind": "第二分句主语",
+              "question": "and 后第二个独立分句讲的是谁？",
+              "text": "she",
+              "explanation": "she 指 Zoe，后面的谓语是 is，而非 Zoe 在前半句的 jumped。",
+              "startToken": 17,
+              "endToken": 17
+            },
+            {
+              "id": "u04",
+              "kind": "第二分句系动词",
+              "question": "这个分句的系动词是什么？",
+              "text": "is",
+              "explanation": "she is still on the farm：is 表示此时的状态。",
+              "startToken": 18,
+              "endToken": 18
+            },
+            {
+              "id": "u05",
+              "kind": "第二分句状态",
+              "question": "哪一部分说明她仍待在哪里？",
+              "text": "still on the farm.",
+              "explanation": "is 后面的地点表语，说明她十个月后仍在农场。",
+              "startToken": 19,
+              "endToken": 22
+            }
+          ]
         },
         {
           "id": "online-shanghai-2008-autumn-B-10",
@@ -610,7 +708,63 @@
             }
           ],
           "generatedGlossary": null,
-          "acceptedTargets": null
+          "acceptedTargets": null,
+          "studyUnits": [
+            {
+              "id": "u01",
+              "kind": "时间状语从句",
+              "question": "哪段话表示她一到农场，就发生了后面的事情？",
+              "text": "The moment I arrived at Kathy's farm,",
+              "explanation": "The moment 在这里引导时间从句，相当于 as soon as。",
+              "startToken": 0,
+              "endToken": 6
+            },
+            {
+              "id": "u02",
+              "kind": "引语第一主句主语",
+              "question": "引语中爱上农场的人是谁？",
+              "text": "I",
+              "explanation": "这里第二次出现的 I 是 I loved it 的主语，指 Zoe。",
+              "startToken": 7,
+              "endToken": 7
+            },
+            {
+              "id": "u03",
+              "kind": "引语第一主句谓语",
+              "question": "她一到农场就爱上了它，动词是什么？",
+              "text": "loved",
+              "explanation": "loved 是 I loved it 的谓语。",
+              "startToken": 8,
+              "endToken": 8
+            },
+            {
+              "id": "u04",
+              "kind": "引语第一主句宾语",
+              "question": "她爱上的对象用哪个词表示？",
+              "text": "it",
+              "explanation": "it 指 Kathy 的农场。",
+              "startToken": 9,
+              "endToken": 9
+            },
+            {
+              "id": "u05",
+              "kind": "引语第二主句谓语",
+              "question": "and 后她知道自己想留下，这里的动词是什么？",
+              "text": "knew",
+              "explanation": "knew 是 I knew ... 的谓语。",
+              "startToken": 12,
+              "endToken": 12
+            },
+            {
+              "id": "u06",
+              "kind": "引语宾语从句",
+              "question": "她当时意识到的事情是什么？",
+              "text": "I wanted to stay,",
+              "explanation": "I wanted to stay 是 knew 后省略 that 的宾语从句，表达她想留下来。",
+              "startToken": 13,
+              "endToken": 16
+            }
+          ]
         },
         {
           "id": "online-shanghai-2008-autumn-B-11",
