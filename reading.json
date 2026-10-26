@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": 5,
+  "revision": 6,
   "passages": [
     {
       "id": "online-shanghai-2008-autumn-B",
@@ -794,7 +794,36 @@
           },
           "grammarSupplements": [],
           "generatedGlossary": null,
-          "acceptedTargets": null
+          "acceptedTargets": null,
+          "studyUnits": [
+            {
+              "id": "u01",
+              "kind": "主语修饰",
+              "question": "哪部分限制 Everything，说明是过去生活中的事情？",
+              "text": "about my past life",
+              "explanation": "about my past life 修饰主语中心词 Everything，说明“一切”是哪一方面的一切。",
+              "startToken": 1,
+              "endToken": 4
+            },
+            {
+              "id": "u02",
+              "kind": "时间/方式状语",
+              "question": "哪个词说明她突然觉得过去的生活没有意义？",
+              "text": "suddenly",
+              "explanation": "suddenly 修饰 seemed，表示突然产生这样的感受。",
+              "startToken": 5,
+              "endToken": 5
+            },
+            {
+              "id": "u03",
+              "kind": "表语",
+              "question": "哪一个词说明她觉得过去的生活怎么样？",
+              "text": "meaningless.",
+              "explanation": "meaningless 是 seemed 后的表语。",
+              "startToken": 7,
+              "endToken": 7
+            }
+          ]
         },
         {
           "id": "online-shanghai-2008-autumn-B-12",
@@ -837,7 +866,54 @@
             }
           ],
           "generatedGlossary": null,
-          "acceptedTargets": null
+          "acceptedTargets": null,
+          "studyUnits": [
+            {
+              "id": "u01",
+              "kind": "地点状语",
+              "question": "哪部分说明 Zoe 在哪里一直工作？",
+              "text": "on the farm",
+              "explanation": "on the farm 修饰 has been working，说明工作地点。",
+              "startToken": 4,
+              "endToken": 6
+            },
+            {
+              "id": "u02",
+              "kind": "时间状语",
+              "question": "哪部分说明工作从什么时候持续至今？",
+              "text": "since October of last year",
+              "explanation": "since October of last year 表示从去年十月开始至今，与现在完成进行时呼应。",
+              "startToken": 7,
+              "endToken": 11
+            },
+            {
+              "id": "u03",
+              "kind": "宾语从句内主语",
+              "question": "says 后整个宾语从句里，主语是什么？",
+              "text": "she",
+              "explanation": "she 指 Zoe，是从句里的主语。",
+              "startToken": 14,
+              "endToken": 14
+            },
+            {
+              "id": "u04",
+              "kind": "宾语从句内谓语",
+              "question": "宾语从句中表示她没有后悔的动词是什么？",
+              "text": "has",
+              "explanation": "has 是 she has no regrets 的谓语，no regrets 是宾语。",
+              "startToken": 1,
+              "endToken": 1
+            },
+            {
+              "id": "u05",
+              "kind": "宾语从句内宾语",
+              "question": "她说自己没有什么？",
+              "text": "no regrets.",
+              "explanation": "no regrets 是 has 的宾语，表示没有遗憾。",
+              "startToken": 16,
+              "endToken": 17
+            }
+          ]
         },
         {
           "id": "online-shanghai-2008-autumn-B-13",
@@ -867,7 +943,36 @@
           },
           "grammarSupplements": [],
           "generatedGlossary": null,
-          "acceptedTargets": null
+          "acceptedTargets": null,
+          "studyUnits": [
+            {
+              "id": "u01",
+              "kind": "引语主语",
+              "question": "引语开头哪个词指农场生活？",
+              "text": "It's",
+              "explanation": "It's = It is，这里的 It 代表农场生活；不是引语后的 she。",
+              "startToken": 0,
+              "endToken": 0
+            },
+            {
+              "id": "u02",
+              "kind": "引语表语",
+              "question": "引语里的 It is 后面哪部分说明农场生活辛苦？",
+              "text": "a hard life,",
+              "explanation": "a hard life 作引语内部的表语。",
+              "startToken": 1,
+              "endToken": 3
+            },
+            {
+              "id": "u03",
+              "kind": "程度/方面补充",
+              "question": "哪部分表示劳动造成身体上的劳累？",
+              "text": "physically very tiring,",
+              "explanation": "physically very tiring 补充说明 hard life，强调身体上劳累，不是伦敦时的精神疲惫。",
+              "startToken": 4,
+              "endToken": 6
+            }
+          ]
         },
         {
           "id": "online-shanghai-2008-autumn-B-14",
@@ -897,7 +1002,45 @@
           },
           "grammarSupplements": [],
           "generatedGlossary": null,
-          "acceptedTargets": null
+          "acceptedTargets": null,
+          "studyUnits": [
+            {
+              "id": "u01",
+              "kind": "地点状语",
+              "question": "什么地方的生活让她压力大而精神疲惫？",
+              "text": "In London",
+              "explanation": "In London 说明事情发生在伦敦，修饰后面的状态。",
+              "startToken": 0,
+              "endToken": 1
+            },
+            {
+              "id": "u02",
+              "kind": "频率状语",
+              "question": "哪个词说明她经常感到疲惫？",
+              "text": "often",
+              "explanation": "often 表示经常发生的频率。",
+              "startToken": 6,
+              "endToken": 6
+            },
+            {
+              "id": "u03",
+              "kind": "方面状语",
+              "question": "哪个词强调是精神上而非身体上的疲惫？",
+              "text": "mentally",
+              "explanation": "mentally 修饰 exhausted，和下一句 healthy tiredness 对比。",
+              "startToken": 7,
+              "endToken": 7
+            },
+            {
+              "id": "u04",
+              "kind": "表语",
+              "question": "哪一部分完整说明她当时的精神状态？",
+              "text": "stressed and often mentally exhausted.",
+              "explanation": "stressed 和 mentally exhausted 并列表语，说明她在伦敦的状态。",
+              "startToken": 4,
+              "endToken": 8
+            }
+          ]
         },
         {
           "id": "online-shanghai-2008-autumn-B-15",
@@ -927,7 +1070,27 @@
           },
           "grammarSupplements": [],
           "generatedGlossary": null,
-          "acceptedTargets": null
+          "acceptedTargets": null,
+          "studyUnits": [
+            {
+              "id": "u01",
+              "kind": "定语",
+              "question": "哪两个词修饰 tiredness，表明这是有益的疲劳？",
+              "text": "good, healthy",
+              "explanation": "good 和 healthy 一起修饰 tiredness；不是让学生从不同介词短语中猜答案。",
+              "startToken": 4,
+              "endToken": 5
+            },
+            {
+              "id": "u02",
+              "kind": "表语",
+              "question": "is 后面哪个成分说明 this 是怎样的疲劳？",
+              "text": "a good, healthy tiredness.",
+              "explanation": "完整表语说明这种疲劳是健康的。",
+              "startToken": 3,
+              "endToken": 6
+            }
+          ]
         },
         {
           "id": "online-shanghai-2008-autumn-B-16",
