@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": 3,
+  "revision": 4,
   "passages": [
     {
       "id": "online-shanghai-2008-autumn-B",
@@ -47,7 +47,108 @@
             }
           ],
           "generatedGlossary": null,
-          "acceptedTargets": null
+          "acceptedTargets": null,
+          "studyUnits": [
+            {
+              "id": "u01",
+              "kind": "表语",
+              "question": "was 后面哪一部分说明 Zoe 的身份？",
+              "text": "a successful PR (Public Relations) consultant",
+              "explanation": "a successful PR consultant 是 Zoe Chambers 的表语，不能把这一部分误当宾语。",
+              "startToken": 3,
+              "endToken": 8
+            },
+            {
+              "id": "u02",
+              "kind": "定语",
+              "question": "哪一个词修饰 consultant，说明 Zoe 的工作做得好？",
+              "text": "successful",
+              "explanation": "successful 修饰 consultant，意思是成功的公关顾问。",
+              "startToken": 4,
+              "endToken": 4
+            },
+            {
+              "id": "u03",
+              "kind": "第二分句主语",
+              "question": "and 后的独立分句以什么为主语？",
+              "text": "life",
+              "explanation": "life 是第二个分句的主语，指她的生活。",
+              "startToken": 10,
+              "endToken": 10
+            },
+            {
+              "id": "u04",
+              "kind": "第二分句谓语",
+              "question": "life 后面的谓语是哪一组词？",
+              "text": "was going",
+              "explanation": "was going 是过去进行时，表达生活当时进展顺利。",
+              "startToken": 11,
+              "endToken": 12
+            },
+            {
+              "id": "u05",
+              "kind": "方式状语",
+              "question": "哪个词说明生活过得怎么样？",
+              "text": "well",
+              "explanation": "well 修饰 was going，表示过得顺利。",
+              "startToken": 13,
+              "endToken": 13
+            },
+            {
+              "id": "u06",
+              "kind": "第三分句主语",
+              "question": "破折号后的新分句以谁为主语？",
+              "text": "she",
+              "explanation": "she 指 Zoe；这个分句在具体解释前一句的生活为什么顺利。",
+              "startToken": 15,
+              "endToken": 15
+            },
+            {
+              "id": "u07",
+              "kind": "第三分句谓语",
+              "question": "这个新分句的谓语是哪个词？",
+              "text": "had",
+              "explanation": "had 表示拥有，不是前面 was 的并列谓语。",
+              "startToken": 16,
+              "endToken": 16
+            },
+            {
+              "id": "u08",
+              "kind": "第三分句并列宾语",
+              "question": "她拥有的三样东西是哪一段？",
+              "text": "a great job, a beautiful flat and a busy social life",
+              "explanation": "这三项是 had 的并列宾语：工作、公寓、社交生活。",
+              "startToken": 17,
+              "endToken": 27
+            },
+            {
+              "id": "u09",
+              "kind": "定语",
+              "question": "哪个词修饰 flat，说明公寓的特点？",
+              "text": "beautiful",
+              "explanation": "beautiful 修饰 flat，说明漂亮的公寓。",
+              "startToken": 21,
+              "endToken": 21
+            },
+            {
+              "id": "u10",
+              "kind": "定语",
+              "question": "哪个词修饰 social life，说明社交生活的状态？",
+              "text": "busy",
+              "explanation": "busy 修饰 social life，说明她当时社交活动丰富。",
+              "startToken": 25,
+              "endToken": 25
+            },
+            {
+              "id": "u11",
+              "kind": "地点状语",
+              "question": "哪一部分交代这些工作和生活是在什么城市？",
+              "text": "in London.",
+              "explanation": "in London 交代她当时居住与活动的地点，不是要求单独判定介词类别。",
+              "startToken": 28,
+              "endToken": 29
+            }
+          ]
         },
         {
           "id": "online-shanghai-2008-autumn-B-02",
@@ -92,7 +193,36 @@
             "o": [
               "a text message telling her she was out of work."
             ]
-          }
+          },
+          "studyUnits": [
+            {
+              "id": "u01",
+              "kind": "时间状语",
+              "question": "收到短信的时间是哪一段？",
+              "text": "Then one evening in June last year,",
+              "explanation": "交代去年六月某晚的时间背景，修饰 received。",
+              "startToken": 0,
+              "endToken": 6
+            },
+            {
+              "id": "u02",
+              "kind": "后置定语",
+              "question": "哪一部分补充说明短信传达了什么？",
+              "text": "telling her she was out of work.",
+              "explanation": "修饰宾语 a text message；这是短信通知她失业的内容。",
+              "startToken": 12,
+              "endToken": 18
+            },
+            {
+              "id": "u03",
+              "kind": "宾语从句",
+              "question": "短信告诉她发生了什么事？",
+              "text": "she was out of work.",
+              "explanation": "这是 telling her 后省略 that 的内容从句，意思是她失业了。",
+              "startToken": 14,
+              "endToken": 18
+            }
+          ]
         },
         {
           "id": "online-shanghai-2008-autumn-B-03",
@@ -128,7 +258,36 @@
             }
           ],
           "generatedGlossary": null,
-          "acceptedTargets": null
+          "acceptedTargets": null,
+          "studyUnits": [
+            {
+              "id": "u01",
+              "kind": "引语内主语",
+              "question": "她说哪段时间最难熬？",
+              "text": "The first two weeks",
+              "explanation": "这是直接引语内部的主语。",
+              "startToken": 0,
+              "endToken": 3
+            },
+            {
+              "id": "u02",
+              "kind": "引语内谓语",
+              "question": "这段直接引语的系动词是什么？",
+              "text": "were",
+              "explanation": "were 对应主语 The first two weeks。",
+              "startToken": 4,
+              "endToken": 4
+            },
+            {
+              "id": "u03",
+              "kind": "引语内表语",
+              "question": "这两个星期到底怎么样？",
+              "text": "the most difficult to live through,",
+              "explanation": "the most difficult to live through 说明最难熬，是引语内系动词 were 的表语。",
+              "startToken": 5,
+              "endToken": 10
+            }
+          ]
         },
         {
           "id": "online-shanghai-2008-autumn-B-04",
@@ -171,7 +330,27 @@
             }
           ],
           "generatedGlossary": null,
-          "acceptedTargets": null
+          "acceptedTargets": null,
+          "studyUnits": [
+            {
+              "id": "u01",
+              "kind": "时间背景",
+              "question": "哪段话强调她此前为公司已经做了很多事？",
+              "text": "After everything I'd done for the company,",
+              "explanation": "After 引出事态发生的背景；I'd done for the company 修饰 everything。",
+              "startToken": 0,
+              "endToken": 6
+            },
+            {
+              "id": "u02",
+              "kind": "方式状语",
+              "question": "他们通过什么方式解雇了她？",
+              "text": "by text!",
+              "explanation": "by text 修饰 dismissed，表示通过短信解雇。",
+              "startToken": 10,
+              "endToken": 11
+            }
+          ]
         },
         {
           "id": "online-shanghai-2008-autumn-B-05",
@@ -207,7 +386,45 @@
             }
           ],
           "generatedGlossary": null,
-          "acceptedTargets": null
+          "acceptedTargets": null,
+          "studyUnits": [
+            {
+              "id": "u01",
+              "kind": "表语",
+              "question": "第一分句 I was 后面说明她情绪状态的是什么？",
+              "text": "so angry",
+              "explanation": "so angry 是描述 Zoe 非常生气的表语。",
+              "startToken": 2,
+              "endToken": 3
+            },
+            {
+              "id": "u02",
+              "kind": "第二分句主语",
+              "question": "and 后面第二个完整分句的主语是什么？",
+              "text": "I",
+              "explanation": "第二个 I 仍指 Zoe，但后面是不一样的谓语。",
+              "startToken": 5,
+              "endToken": 5
+            },
+            {
+              "id": "u03",
+              "kind": "第二分句谓语",
+              "question": "第二分句表示她不想做某事的谓语是哪一段？",
+              "text": "didn't feel like",
+              "explanation": "didn't feel like 表示不想做，是否定谓语组合。",
+              "startToken": 7,
+              "endToken": 9
+            },
+            {
+              "id": "u04",
+              "kind": "不想做的事",
+              "question": "Zoe 不想再做的具体事情是什么？",
+              "text": "looking for another job.",
+              "explanation": "looking for another job 整体说明她不想做的事。",
+              "startToken": 10,
+              "endToken": 13
+            }
+          ]
         },
         {
           "id": "online-shanghai-2008-autumn-B-06",
