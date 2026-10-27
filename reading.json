@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": 11,
+  "revision": 12,
   "passages": [
     {
       "id": "online-shanghai-2008-autumn-B",
@@ -1641,8 +1641,8 @@
             "v": "found",
             "o": "that most of them are ignorant when it comes to money."
           },
-          "main": "A study involving 8,500 teenagers from all social backgrounds found",
-          "analysis": "主语中心是 study，involving 8,500 teenagers ... 为现在分词后置定语修饰 study。谓语 found 后的 that most of them ... 为宾语从句，内部 most of them 是主语、are 是系动词、ignorant 是表语；when it comes to money 限定话题。",
+          "main": "A study found that most of them are ignorant.",
+          "analysis": "【主句主干】主句主语中心 A study（完整主语 A study involving 8,500 teenagers from all social backgrounds），谓语 found；found 后接 that 引导的完整宾语从句 that most of them are ignorant when it comes to money。\n【主句定语】involving 8,500 teenagers from all social backgrounds 为现在分词短语作后置定语，修饰 study；其中 from all social backgrounds 修饰 teenagers，说明其社会背景。\n【宾语从句内部】that 为连接词；most of them 为从句主语；are 为系动词；ignorant 为形容词表语，构成主系表；when it comes to money 为习惯表达，作方面/话题状语，限定从句内部的 ignorant。\n【主句状语】主句本身没有独立的状语，不能把宾语从句中的 when it comes to money 误标成修饰 found 的主句状语。\n【判题口径】主句主语选 A study 或完整主语均正确；宾语选 that most of them are ignorant 或完整宾语从句均正确。但分析完整结构时应补充后置定语和从句内部的状语。",
           "meaning": "一项涉及来自各种社会背景的8500名青少年的研究发现，大多数人在涉及金钱问题时缺乏相关知识。",
           "distractors": [
             "一项针对8500名青少年的研究发现，无论家庭背景如何，大多数人都熟悉各种金钱问题。",
@@ -1650,15 +1650,40 @@
             "一项涉及8500名成年人的研究发现，青少年对金钱问题的了解普遍超过成年人。"
           ],
           "deepNotes": [
-            "主语中心是 study，involving 8,500 teenagers ... 为现在分词后置定语修饰 study。谓语 found 后的 that most of them ... 为宾语从句，内部 most of them 是主语、are 是系动词、ignorant 是表语；when it comes to money 限定话题。"
+            "主句完整主语范围含 involving ... 的后置定语，但核心主语 A study 可以独立识别。主语中心与完整主语都算对。",
+            "involving 为现在分词而非主句谓语；不能因它位于 study 后便误认成另一个主句动作。",
+            "found 后面的 that 引导宾语从句；从句内 most of them are ignorant 是主系表，不是主句又出现了一套主谓。",
+            "when it comes to money 是从句内部的方面/话题状语，不是主句的时间状语；主句没有单独的状语。",
+            "完整宾语从句包含尾部的 when it comes to money；选 that most of them are ignorant 可用于识别其核心结构。"
           ],
           "diagramLinks": null,
           "roleExplanations": {
-            "s": "完整主语是 A study involving 8,500 teenagers from all social backgrounds；主语中心部分为 A study。involving ... 是现在分词短语作后置定语，修饰 study。因此选 A study 或完整主语均算正确。",
-            "v": "主句谓语：found。结合整句解释其对应关系。",
-            "o": "found 后接 that 引导的宾语从句。完整宾语从句为 that most of them are ignorant when it comes to money；核心部分为 that most of them are ignorant；when it comes to money 是从句内部的方面状语，进一步限定 ignorant 的语义。因此本题两种选区均算正确。"
+            "s": "主句完整主语是 A study involving 8,500 teenagers from all social backgrounds；中心主语是 A study。后面 involving ... 为修饰 study 的现在分词后置定语，两种主语范围都接受。",
+            "v": "主句谓语是 found（发现）；不要误将 involving 或宾语从句里的 are / comes 当成主句谓语。",
+            "o": "主句宾语是 that 引导的完整宾语从句 that most of them are ignorant when it comes to money；其核心 most of them are ignorant 为主系表结构，when it comes to money 是从句内部的方面状语。"
           },
-          "grammarSupplements": [],
+          "grammarSupplements": [
+            {
+              "kind": "主语内部·现在分词后置定语",
+              "text": "involving 8,500 teenagers from all social backgrounds",
+              "explanation": "整体修饰 study，说明研究涉及的人群；不承担主句谓语功能。"
+            },
+            {
+              "kind": "名词后置修饰",
+              "text": "from all social backgrounds",
+              "explanation": "修饰 teenagers，描述来自不同社会背景；属于 involving 修饰结构内部。"
+            },
+            {
+              "kind": "宾语从句",
+              "text": "that most of them are ignorant when it comes to money.",
+              "explanation": "found 的宾语从句，内部包含主语 most of them、系动词 are、表语 ignorant、方面状语 when it comes to money。"
+            },
+            {
+              "kind": "从句内部·方面状语",
+              "text": "when it comes to money.",
+              "explanation": "表示谈到金钱问题时，限定宾语从句中的 ignorant，不是主句状语。"
+            }
+          ],
           "generatedGlossary": null,
           "acceptedTargets": {
             "s": [
@@ -1668,7 +1693,62 @@
               "that most of them are ignorant"
             ]
           },
-          "studyUnits": []
+          "studyUnits": [
+            {
+              "id": "u01",
+              "kind": "主语内部·后置定语",
+              "question": "哪一整段现在分词结构修饰主语中心词 study？",
+              "text": "involving 8,500 teenagers from all social backgrounds",
+              "explanation": "involving ... 为现在分词短语作后置定语，修饰 study，说明这是一项涉及8500名青少年的研究。它不承担主句时态，主句谓语是 found。",
+              "startToken": 2,
+              "endToken": 8
+            },
+            {
+              "id": "u02",
+              "kind": "后置定语内部·名词修饰",
+              "question": "哪一段补充说明 teenagers 来自哪些社会背景？",
+              "text": "from all social backgrounds",
+              "explanation": "from all social backgrounds 是介词短语，修饰 teenagers（来自不同社会背景的青少年），包含在更大的 involving 定语短语之内，不是独立修饰 found 的主句状语。",
+              "startToken": 5,
+              "endToken": 8
+            },
+            {
+              "id": "u03",
+              "kind": "宾语从句·主语",
+              "question": "进入 found 后面的 that 宾语从句：其中谁‘缺乏相关知识’？选出从句主语。",
+              "text": "most of them",
+              "explanation": "most of them 是 that 宾语从句内部的主语，them 指前文研究中的青少年；不要将它误认成主句主语。",
+              "startToken": 11,
+              "endToken": 13
+            },
+            {
+              "id": "u04",
+              "kind": "宾语从句·系动词",
+              "question": "在宾语从句中，连接 most of them 和 ignorant 的系动词是哪一个？",
+              "text": "are",
+              "explanation": "are 是宾语从句的系动词，与从句表语 ignorant 构成主系表结构；不是主句谓语，主句谓语是 found。",
+              "startToken": 14,
+              "endToken": 14
+            },
+            {
+              "id": "u05",
+              "kind": "宾语从句·表语",
+              "question": "在宾语从句中，哪一个形容词说明 most of them 的知识状态？",
+              "text": "ignorant",
+              "explanation": "ignorant 是形容词作表语，表示缺乏知识；are ignorant 构成系表结构，而不是将 ignorant 当作宾语。",
+              "startToken": 15,
+              "endToken": 15
+            },
+            {
+              "id": "u06",
+              "kind": "宾语从句内部·方面状语",
+              "question": "哪一段限定‘缺乏知识’是谈到什么问题时？注意它属于哪一层从句。",
+              "text": "when it comes to money.",
+              "explanation": "when it comes to money 是习惯表达‘谈到金钱问题时’，在 that 宾语从句内部起方面/话题状语作用，限定 ignorant 的语义；它不修饰主句谓语 found。主句自身没有另外的状语。",
+              "startToken": 16,
+              "endToken": 20
+            }
+          ]
         },
         {
           "id": "online-shanghai-2008-autumn-C-02",
