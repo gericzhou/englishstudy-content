@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": 8,
+  "revision": 9,
   "passages": [
     {
       "id": "online-shanghai-2008-autumn-B",
@@ -1644,7 +1644,11 @@
           "main": "A study involving 8,500 teenagers from all social backgrounds found",
           "analysis": "主语中心是 study，involving 8,500 teenagers ... 为现在分词后置定语修饰 study。谓语 found 后的 that most of them ... 为宾语从句，内部 most of them 是主语、are 是系动词、ignorant 是表语；when it comes to money 限定话题。",
           "meaning": "一项涉及来自各种社会背景的8500名青少年的研究发现，大多数人在涉及金钱问题时缺乏相关知识。",
-          "distractors": [],
+          "distractors": [
+            "一项针对8500名青少年的研究发现，无论家庭背景如何，大多数人都熟悉各种金钱问题。",
+            "这项研究只调查了来自富裕家庭的8500名青少年，发现他们普遍缺乏理财知识。",
+            "一项涉及8500名成年人的研究发现，青少年对金钱问题的了解普遍超过成年人。"
+          ],
           "deepNotes": [
             "主语中心是 study，involving 8,500 teenagers ... 为现在分词后置定语修饰 study。谓语 found 后的 that most of them ... 为宾语从句，内部 most of them 是主语、are 是系动词、ignorant 是表语；when it comes to money 限定话题。"
           ],
@@ -1672,7 +1676,11 @@
           "main": "The findings are",
           "analysis": "主干 The findings are particularly worrying。主谓间的 the first in a series ... 是同位语补充；that has started ... 修饰 NatWest，而非复数 findings。as 引导原因状语从句，内部 this generation of young people 作主语、is likely to be burdened 为被动谓语结构。than any before 构成比较。",
           "meaning": "这些研究结果属于NatWest五年研究的一系列报告中的首份成果，格外令人担忧，因为这一代年轻人可能承受比以往任何一代更沉重的债务。",
-          "distractors": [],
+          "distractors": [
+            "NatWest为期五年的研究已经完成，结果表明这一代年轻人的债务负担将比过去更轻。",
+            "这些令人担忧的结果来自NatWest研究的最后一份报告，因为年轻人的债务问题已经得到解决。",
+            "NatWest的首份报告认为，尽管年轻人面临债务，但他们的负债水平与前几代完全相同。"
+          ],
           "deepNotes": [
             "主干 The findings are particularly worrying。主谓间的 the first in a series ... 是同位语补充；that has started ... 修饰 NatWest，而非复数 findings。as 引导原因状语从句，内部 this generation of young people 作主语、is likely to be burdened 为被动谓语结构。than any before 构成比较。"
           ],
@@ -1699,7 +1707,11 @@
           "main": "University tuition fees (学费) are currently capped",
           "analysis": "有三组独立分句：fees are currently capped；but this will be reviewed；and the Government is under enormous pressure。三个主语不同，不能误判为共享主语并列谓语。to raise the ceiling 说明压力内容，ceiling 在这里指学费限额；保留原文中文括号注释。",
           "meaning": "大学学费目前的年度上限是3000英镑，不过这项限制将于明年重新审议，而政府正面临要求提高上限的巨大压力。",
-          "distractors": [],
+          "distractors": [
+            "英国大学学费目前每年最低为3000英镑，政府计划在明年取消这一最低收费标准。",
+            "大学学费的年度上限已经提高到3000英镑以上，政府正面临要求降低学费的巨大压力。",
+            "大学学费的上限目前是每年3000英镑，政府已经决定明年不再审议或调整这一限制。"
+          ],
           "deepNotes": [
             "有三组独立分句：fees are currently capped；but this will be reviewed；and the Government is under enormous pressure。三个主语不同，不能误判为共享主语并列谓语。to raise the ceiling 说明压力内容，ceiling 在这里指学费限额；保留原文中文括号注释。"
           ],
@@ -1724,7 +1736,11 @@
           "main": "the teenagers were presented",
           "analysis": "第一分句主语 the teenagers，谓语 were presented 为被动语态。but 后是另一完整分句，主语 76 per cent，谓语 failed，to identify the cheapest 说明未能完成的任务。",
           "meaning": "研究中，青少年看到四种不同贷款的条款，但其中76%的人没能找出最便宜的一种。",
-          "distractors": [],
+          "distractors": [
+            "研究向青少年介绍四种不同的贷款方案，其中76%的人成功找出了费用最低的一种。",
+            "研究显示，76%的青少年无法在四种贷款中找出利率最高的那一种。",
+            "研究发现，青少年只获得一种贷款方案的条款，因此无法比较四种贷款的成本。"
+          ],
           "deepNotes": [
             "第一分句主语 the teenagers，谓语 were presented 为被动语态。but 后是另一完整分句，主语 76 per cent，谓语 failed，to identify the cheapest 说明未能完成的任务。"
           ],
@@ -1751,7 +1767,11 @@
           "main": "The young people predicted",
           "analysis": "predicted 后是宾语从句，其内部 they would be earning 为主谓。although 引导让步状语从句，其主语 the average salary，谓语 is，£17,815 是表语数值。for those aged 22 to 29 修饰 salary 所指人群，aged 22 to 29 修饰 those。",
           "meaning": "这些年轻人预测到25岁时平均收入可达31,000英镑，但22至29岁人群实际平均薪资仅17,815英镑。",
-          "distractors": [],
+          "distractors": [
+            "年轻人估计自己25岁时年收入只有17,815英镑，而22至29岁人群实际平均工资达到31,000英镑。",
+            "年轻人预计22岁时就能平均赚到31,000英镑，而25岁人群的实际年薪只有17,815英镑。",
+            "年轻人预测自己的年收入为31,000英镑，而22至29岁人群的实际平均年收入也完全符合这一预测。"
+          ],
           "deepNotes": [
             "predicted 后是宾语从句，其内部 they would be earning 为主谓。although 引导让步状语从句，其主语 the average salary，谓语 is，£17,815 是表语数值。for those aged 22 to 29 修饰 salary 所指人群，aged 22 to 29 修饰 those。"
           ],
@@ -1779,7 +1799,11 @@
           "main": "The teenagers expected",
           "analysis": "主句 expected 后跟不定式 to be in debt，when they finished university or training 是时间从句。although half said ... 是让步从句，内部 said 后的 that ... 是宾语从句，该从句内 assumed 后又省略 that 引出 the debts would be less than ...，形成两层嵌套。",
           "meaning": "这些青少年预计自己完成大学学业或培训时会欠债，但一半人认为欠款会低于1万英镑。",
-          "distractors": [],
+          "distractors": [
+            "这些青少年预计大学或培训结束时不会负债，而且一半人认为自己会有1万英镑的存款。",
+            "这些青少年预计会在大学或培训结束后欠债，其中一半人认为欠款会超过1万英镑。",
+            "研究发现，全部青少年都确信毕业时欠款恰好为1万英镑，没有人认为债务会更少。"
+          ],
           "deepNotes": [
             "主句 expected 后跟不定式 to be in debt，when they finished university or training 是时间从句。although half said ... 是让步从句，内部 said 后的 that ... 是宾语从句，该从句内 assumed 后又省略 that 引出 the debts would be less than ...，形成两层嵌套。"
           ],
@@ -1805,7 +1829,11 @@
           "main": "Average debts for graduates are",
           "analysis": "主语中心 debts；for graduates 是主语的后置修饰，说明统计对象；are 为系动词；£12,363 为表语数值。",
           "meaning": "毕业生平均负债12,363英镑。",
-          "distractors": [],
+          "distractors": [
+            "毕业生的平均年薪为12,363英镑。",
+            "毕业生每个人都欠下恰好12,363英镑的债务。",
+            "毕业生的平均储蓄达到了12,363英镑。"
+          ],
           "deepNotes": [
             "主语中心 debts；for graduates 是主语的后置修饰，说明统计对象；are 为系动词；£12,363 为表语数值。"
           ],
@@ -1831,7 +1859,11 @@
           "main": "Stephen Moir said",
           "analysis": "外层主句 Stephen Moir said。head of community investment ... 为人物同位语；which owns NatWest 修饰 Royal Bank of Scotland Group。引语构成 the more ..., and the younger ..., the more likely ... 的关联比较结构：两个前提，一个结果。who manage ... 是修饰 adults 的定语从句。",
           "meaning": "苏格兰皇家银行集团社区投资主管斯蒂芬·莫伊尔说：“年轻人接触金融问题越多、越早了解这些问题，就越可能成长为负责任且善于规划、自信而有效地管理自己财务的成年人。”",
-          "distractors": [],
+          "distractors": [
+            "莫伊尔认为，年轻人越晚接触金融知识，就越能自信而有效地管理个人财务。",
+            "莫伊尔指出，越早接触金融问题，年轻人未来就越可能陷入严重债务并失去规划能力。",
+            "苏格兰皇家银行集团负责人表示，年轻人无须了解金融问题，也能自然成长为善于理财的成年人。"
+          ],
           "deepNotes": [
             "外层主句 Stephen Moir said。head of community investment ... 为人物同位语；which owns NatWest 修饰 Royal Bank of Scotland Group。引语构成 the more ..., and the younger ..., the more likely ... 的关联比较结构：两个前提，一个结果。who manage ... 是修饰 adults 的定语从句。"
           ],
@@ -1857,7 +1889,11 @@
           "main": "Ministers are",
           "analysis": "主语 Ministers，系动词 are，表语 deeply concerned；about the financial pressures ... 说明担忧的对象；on teenagers and young people 修饰 pressures；because of student loans and rising housing costs 是原因状语。",
           "meaning": "部长们非常担心学生贷款和不断上涨的住房费用给青少年及年轻人造成的经济压力。",
-          "distractors": [],
+          "distractors": [
+            "部长们担心的是不断下降的大学学费和住房费用会导致年轻人的储蓄增加。",
+            "政府部长对学生贷款和上涨的住房费用并不担忧，认为它们不会对年轻人造成经济压力。",
+            "部长们特别担心青少年因为工资上涨过快和住房成本下降而无法合理消费。"
+          ],
           "deepNotes": [
             "主语 Ministers，系动词 are，表语 deeply concerned；about the financial pressures ... 说明担忧的对象；on teenagers and young people 修饰 pressures；because of student loans and rising housing costs 是原因状语。"
           ],
@@ -1883,7 +1919,11 @@
           "main": "They have just introduced",
           "analysis": "主语 They 指前述政府有关人员；谓语 have just introduced 为现在完成时；宾语 new lessons。in how to manage debts 修饰 lessons，说明课程内容。",
           "meaning": "他们刚推出教授如何管理债务的新课程。",
-          "distractors": [],
+          "distractors": [
+            "他们刚刚推出了新的贷款课程，专门教学生如何尽可能多地借债。",
+            "他们计划在几年以后才推出债务管理课程，目前尚未采取任何措施。",
+            "他们刚宣布取消所有有关个人债务管理的课程。"
+          ],
           "deepNotes": [
             "主语 They 指前述政府有关人员；谓语 have just introduced 为现在完成时；宾语 new lessons。in how to manage debts 修饰 lessons，说明课程内容。"
           ],
@@ -1912,7 +1952,11 @@
           "main": "Nikki Fairweather said",
           "analysis": "aged 15 from St Helens 后置补充 Nikki 的年龄与籍贯；said 和 admitted 是共享 Nikki 主语的两个并列谓语。said 接 that she had benefited ... 宾语从句；admitted 接 that she still had a lot ... 宾语从句，其中 to learn about money 修饰 a lot。",
           "meaning": "来自圣海伦斯的15岁女孩妮基·费尔韦瑟说，个人理财课使她受益，但也承认自己在金钱方面还有很多需要学习。",
-          "distractors": [],
+          "distractors": [
+            "来自圣海伦斯的15岁女孩妮基说，个人理财课对她毫无帮助，所以她不打算继续学习金钱知识。",
+            "妮基表示自己虽然上过个人理财课，但已经完全掌握金钱知识，不再需要进一步学习。",
+            "来自圣海伦斯的妮基说，她直到25岁才开始上理财课，而且从未从中受益。"
+          ],
           "deepNotes": [
             "aged 15 from St Helens 后置补充 Nikki 的年龄与籍贯；said 和 admitted 是共享 Nikki 主语的两个并列谓语。said 接 that she had benefited ... 宾语从句；admitted 接 that she still had a lot ... 宾语从句，其中 to learn about money 修饰 a lot。"
           ],
