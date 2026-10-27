@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": 9,
+  "revision": 10,
   "passages": [
     {
       "id": "online-shanghai-2008-autumn-B",
@@ -1654,13 +1654,17 @@
           ],
           "diagramLinks": null,
           "roleExplanations": {
-            "s": "主句主语：A study involving 8,500 teenagers from all social backgrounds。结合整句解释其对应关系。",
+            "s": "完整主语是 A study involving 8,500 teenagers from all social backgrounds；主语中心部分为 A study。involving ... 是现在分词短语作后置定语，修饰 study。因此选 A study 或完整主语均算正确。",
             "v": "主句谓语：found。结合整句解释其对应关系。",
             "o": "主句宾语：that most of them are ignorant when it comes to money.。结合整句解释其对应关系。"
           },
           "grammarSupplements": [],
           "generatedGlossary": null,
-          "acceptedTargets": null,
+          "acceptedTargets": {
+            "s": [
+              "A study"
+            ]
+          },
           "studyUnits": []
         },
         {
