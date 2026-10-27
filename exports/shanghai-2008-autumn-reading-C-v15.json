@@ -1,0 +1,1039 @@
+{
+  "schemaVersion": 1,
+  "revision": 15,
+  "passages": [
+    {
+      "id": "online-shanghai-2008-autumn-C",
+      "section": "ONLINE",
+      "title": "2008年上海秋考英语 · 阅读理解 C · Teenagers and Money",
+      "page": "第7页 · 阅读理解 C（72—75题）",
+      "sentences": [
+        {
+          "id": "online-shanghai-2008-autumn-C-01",
+          "paragraph": 1,
+          "sentence": "A study involving 8,500 teenagers from all social backgrounds found that most of them are ignorant when it comes to money.",
+          "targets": {
+            "s": "A study involving 8,500 teenagers from all social backgrounds",
+            "v": "found",
+            "o": "that most of them are ignorant when it comes to money."
+          },
+          "main": "A study found that most of them are ignorant.",
+          "analysis": "【主句主干】主句主语中心 A study（完整主语 A study involving 8,500 teenagers from all social backgrounds），谓语 found；found 后接 that 引导的完整宾语从句 that most of them are ignorant when it comes to money。\n【主句定语】involving 8,500 teenagers from all social backgrounds 为现在分词短语作后置定语，修饰 study；其中 from all social backgrounds 修饰 teenagers，说明其社会背景。\n【宾语从句内部】that 为连接词；most of them 为从句主语；are 为系动词；ignorant 为形容词表语，构成主系表；when it comes to money 为习惯表达，作方面/话题状语，限定从句内部的 ignorant。\n【主句状语】主句本身没有独立的状语，不能把宾语从句中的 when it comes to money 误标成修饰 found 的主句状语。\n【判题口径】主句主语选 A study 或完整主语均正确；宾语选 that most of them are ignorant 或完整宾语从句均正确。但分析完整结构时应补充后置定语和从句内部的状语。",
+          "meaning": "一项涉及来自各种社会背景的8500名青少年的研究发现，大多数人在涉及金钱问题时缺乏相关知识。",
+          "distractors": [
+            "一项针对8500名青少年的研究发现，无论家庭背景如何，大多数人都熟悉各种金钱问题。",
+            "这项研究只调查了来自富裕家庭的8500名青少年，发现他们普遍缺乏理财知识。",
+            "一项涉及8500名成年人的研究发现，青少年对金钱问题的了解普遍超过成年人。"
+          ],
+          "deepNotes": [
+            "主句完整主语范围含 involving ... 的后置定语，但核心主语 A study 可以独立识别。主语中心与完整主语都算对。",
+            "involving 为现在分词而非主句谓语；不能因它位于 study 后便误认成另一个主句动作。",
+            "found 后面的 that 引导宾语从句；从句内 most of them are ignorant 是主系表，不是主句又出现了一套主谓。",
+            "when it comes to money 是从句内部的方面/话题状语，不是主句的时间状语；主句没有单独的状语。",
+            "完整宾语从句包含尾部的 when it comes to money；选 that most of them are ignorant 可用于识别其核心结构。"
+          ],
+          "diagramLinks": null,
+          "roleExplanations": {
+            "s": "主句完整主语是 A study involving 8,500 teenagers from all social backgrounds；中心主语是 A study。后面 involving ... 为修饰 study 的现在分词后置定语，两种主语范围都接受。",
+            "v": "主句谓语是 found（发现）；不要误将 involving 或宾语从句里的 are / comes 当成主句谓语。",
+            "o": "主句宾语是 that 引导的完整宾语从句 that most of them are ignorant when it comes to money；其核心 most of them are ignorant 为主系表结构，when it comes to money 是从句内部的方面状语。"
+          },
+          "grammarSupplements": [
+            {
+              "kind": "后置定语",
+              "text": "involving 8,500 teenagers from all social backgrounds",
+              "explanation": "整个 involving ... 是现在分词短语作后置定语，修饰主语中心词 study；其中 from all social backgrounds 修饰 teenagers。主句谓语只有 found。"
+            },
+            {
+              "kind": "宾语从句内部·方面状语",
+              "text": "when it comes to money.",
+              "explanation": "这是宾语从句内部的方面/话题状语，意思是‘谈到金钱时’。宾语从句的主干是 most of them（主语）+ are（系动词）+ ignorant（表语）；它不是主句 found 的状语。"
+            }
+          ],
+          "generatedGlossary": null,
+          "acceptedTargets": {
+            "s": [
+              "A study"
+            ],
+            "o": [
+              "that most of them are ignorant"
+            ]
+          },
+          "studyUnits": [
+            {
+              "id": "v15-01",
+              "kind": "后置定语",
+              "question": "找出修饰 study、说明研究对象的完整后置定语。",
+              "text": "involving 8,500 teenagers from all social backgrounds",
+              "explanation": "整个 involving ... 是现在分词短语作后置定语，修饰主语中心词 study；其中 from all social backgrounds 修饰 teenagers。主句谓语只有 found。",
+              "startToken": 2,
+              "endToken": 8
+            },
+            {
+              "id": "v15-02",
+              "kind": "宾语从句内部·方面状语",
+              "question": "宾语从句最后哪一部分限定‘缺乏知识’所涉及的话题？",
+              "text": "when it comes to money.",
+              "explanation": "这是宾语从句内部的方面/话题状语，意思是‘谈到金钱时’。宾语从句的主干是 most of them（主语）+ are（系动词）+ ignorant（表语）；它不是主句 found 的状语。",
+              "startToken": 16,
+              "endToken": 20
+            }
+          ]
+        },
+        {
+          "id": "online-shanghai-2008-autumn-C-02",
+          "paragraph": 1,
+          "sentence": "The findings, the first in a series of reports from NatWest that has started a five-year research project into teenagers and money, are particularly worrying as this generation of young people is likely to be burdened with greater debts than any before.",
+          "targets": {
+            "s": "The findings",
+            "v": "are",
+            "m": "that has started a five-year research project into teenagers and money,",
+            "x": "as this generation of young people is likely to be burdened with greater debts than any before."
+          },
+          "main": "The findings are particularly worrying.",
+          "analysis": "【主句】The findings 是主语，are 为系动词，particularly worrying 为形容词性表语，构成主系表。\n【主语补充】the first in a series of reports ... money 是 findings 的同位语，说明这是系列报告中的第一份。that has started a five-year research project into teenagers and money 修饰 NatWest，has started 为该定语从句谓语。\n【原因状语从句】as this generation of young people is likely to be burdened with greater debts than any before 是修饰主句‘令人担忧’的原因从句；内部 this generation of young people 为主语，is likely 为系表结构，to be burdened ... 为不定式补充，其核心 to be burdened 是被动结构；than any before 省略重复名词，比较前代年轻人的债务。\n【界限】主句没有宾语；研究项目属于定语从句，不能算成 are 的宾语。",
+          "meaning": "这些研究结果属于NatWest五年研究的一系列报告中的首份成果，格外令人担忧，因为这一代年轻人可能承受比以往任何一代更沉重的债务。",
+          "distractors": [
+            "NatWest为期五年的研究已经完成，结果表明这一代年轻人的债务负担将比过去更轻。",
+            "这些令人担忧的结果来自NatWest研究的最后一份报告，因为年轻人的债务问题已经得到解决。",
+            "NatWest的首份报告认为，尽管年轻人面临债务，但他们的负债水平与前几代完全相同。"
+          ],
+          "deepNotes": [
+            "【主句】The findings 是主语，are 为系动词，particularly worrying 为形容词性表语，构成主系表。",
+            "【主语补充】the first in a series of reports ... money 是 findings 的同位语，说明这是系列报告中的第一份。that has started a five-year research project into teenagers and money 修饰 NatWest，has started 为该定语从句谓语。",
+            "【原因状语从句】as this generation of young people is likely to be burdened with greater debts than any before 是修饰主句‘令人担忧’的原因从句；内部 this generation of young people 为主语，is likely 为系表结构，to be burdened ... 为不定式补充，其核心 to be burdened 是被动结构；than any before 省略重复名词，比较前代年轻人的债务。",
+            "【界限】主句没有宾语；研究项目属于定语从句，不能算成 are 的宾语。"
+          ],
+          "diagramLinks": null,
+          "roleExplanations": {
+            "s": "主句主语 The findings（这些研究结果）；紧随其后的 the first ... 是同位语，不是另一个主句主语。",
+            "v": "are 是主句系动词，particularly worrying 为表语；不是‘are + 宾语’。",
+            "m": "that has started ... 修饰 NatWest，that 为该定语从句主语、has started 为谓语、a five-year research project 为宾语。",
+            "x": "as 引导原因状语从句，交代为何这些结果格外令人担忧。"
+          },
+          "grammarSupplements": [
+            {
+              "kind": "主语同位语",
+              "text": "the first in a series of reports from NatWest that has started a five-year research project into teenagers and money,",
+              "explanation": "这段是 findings 的同位语；其中 from NatWest 说明报告来源，that has started ... 为修饰 NatWest 的定语从句（that 作主语，has started 作谓语）。"
+            },
+            {
+              "kind": "主句表语",
+              "text": "particularly worrying",
+              "explanation": "主句 The findings are particularly worrying 是主系表结构。are 是系动词，particularly worrying 是表语；下文 as 原因状语从句解释为何令人担忧。"
+            },
+            {
+              "kind": "原因从句内的重要补足结构",
+              "text": "to be burdened with greater debts than any before.",
+              "explanation": "这段不定式补充 likely 的内容。to be burdened 是被动结构；greater ... than any before 表示相较以往任何一代债务更重。从句主语是 this generation of young people，is likely 表示‘很可能’。"
+            }
+          ],
+          "generatedGlossary": null,
+          "acceptedTargets": null,
+          "studyUnits": [
+            {
+              "id": "v15-01",
+              "kind": "主语同位语",
+              "question": "哪个插入成分解释 The findings 是哪一份报告？",
+              "text": "the first in a series of reports from NatWest that has started a five-year research project into teenagers and money,",
+              "explanation": "这段是 findings 的同位语；其中 from NatWest 说明报告来源，that has started ... 为修饰 NatWest 的定语从句（that 作主语，has started 作谓语）。",
+              "startToken": 2,
+              "endToken": 21
+            },
+            {
+              "id": "v15-02",
+              "kind": "主句表语",
+              "question": "找出说明这些调查结果‘格外令人担忧’的完整表语。",
+              "text": "particularly worrying",
+              "explanation": "主句 The findings are particularly worrying 是主系表结构。are 是系动词，particularly worrying 是表语；下文 as 原因状语从句解释为何令人担忧。",
+              "startToken": 23,
+              "endToken": 24
+            },
+            {
+              "id": "v15-03",
+              "kind": "原因从句内的重要补足结构",
+              "question": "原因状语从句中，哪一段说明这一代人可能背负怎样的债务？",
+              "text": "to be burdened with greater debts than any before.",
+              "explanation": "这段不定式补充 likely 的内容。to be burdened 是被动结构；greater ... than any before 表示相较以往任何一代债务更重。从句主语是 this generation of young people，is likely 表示‘很可能’。",
+              "startToken": 33,
+              "endToken": 41
+            }
+          ]
+        },
+        {
+          "id": "online-shanghai-2008-autumn-C-03",
+          "paragraph": 2,
+          "sentence": "University tuition fees (学费) are currently capped at £3,000 annually, but this will be reviewed next year and the Government is under enormous pressure to raise the ceiling.",
+          "targets": {
+            "s": "University tuition fees (学费)",
+            "v": "are currently capped"
+          },
+          "main": "University tuition fees are currently capped; this will be reviewed; and the Government is under enormous pressure.",
+          "analysis": "【并列分句①】University tuition fees (学费) 是主语，are currently capped 为被动谓语，at £3,000 表示学费上限，annually 表示每年。\n【并列分句②】but this will be reviewed next year：this 是主语，指前文收费上限，will be reviewed 为被动谓语，next year 为时间状语。\n【并列分句③】and the Government is under enormous pressure to raise the ceiling：the Government 为主语，is 为系动词，under enormous pressure 为介词短语作表语；to raise the ceiling 为不定式后置修饰 pressure，交代压力要求的行动；the ceiling 指费用上限。\n【易错点】三组主语分别是 tuition fees / this / the Government。but 和 and 连接的是三个分句，不能误判为相同主语的并列谓语；这里没有主句的直接宾语。",
+          "meaning": "大学学费目前的年度上限是3000英镑，不过这项限制将于明年重新审议，而政府正面临要求提高上限的巨大压力。",
+          "distractors": [
+            "英国大学学费目前每年最低为3000英镑，政府计划在明年取消这一最低收费标准。",
+            "大学学费的年度上限已经提高到3000英镑以上，政府正面临要求降低学费的巨大压力。",
+            "大学学费的上限目前是每年3000英镑，政府已经决定明年不再审议或调整这一限制。"
+          ],
+          "deepNotes": [
+            "【并列分句①】University tuition fees (学费) 是主语，are currently capped 为被动谓语，at £3,000 表示学费上限，annually 表示每年。",
+            "【并列分句②】but this will be reviewed next year：this 是主语，指前文收费上限，will be reviewed 为被动谓语，next year 为时间状语。",
+            "【并列分句③】and the Government is under enormous pressure to raise the ceiling：the Government 为主语，is 为系动词，under enormous pressure 为介词短语作表语；to raise the ceiling 为不定式后置修饰 pressure，交代压力要求的行动；the ceiling 指费用上限。",
+            "【易错点】三组主语分别是 tuition fees / this / the Government。but 和 and 连接的是三个分句，不能误判为相同主语的并列谓语；这里没有主句的直接宾语。"
+          ],
+          "diagramLinks": null,
+          "roleExplanations": {
+            "s": "第一分句的完整主语 University tuition fees (学费)；tuition 与 University 均修饰核心 fees。",
+            "v": "第一分句 are currently capped 为被动谓语，currently 是时间副词；at £3,000 annually 说明上限金额及年计口径。"
+          },
+          "grammarSupplements": [
+            {
+              "kind": "第一分句·金额与频率状语",
+              "text": "at £3,000 annually,",
+              "explanation": "at £3,000 表示学费最高金额，annually 为‘每年’的频率状语。第一分句主语 University tuition fees，谓语 are currently capped。"
+            },
+            {
+              "kind": "并列分句②",
+              "text": "but this will be reviewed next year",
+              "explanation": "第二分句的主语 this 指学费上限，will be reviewed 是被动谓语，next year 是时间状语。这里不是 fees 的并列谓语。"
+            },
+            {
+              "kind": "并列分句③",
+              "text": "and the Government is under enormous pressure to raise the ceiling.",
+              "explanation": "第三分句主语 the Government，系动词 is，under enormous pressure 为表语；to raise the ceiling 修饰 pressure，说明所承受压力的具体内容。三个并列分句各有自己的主语。"
+            }
+          ],
+          "generatedGlossary": null,
+          "acceptedTargets": null,
+          "studyUnits": [
+            {
+              "id": "v15-01",
+              "kind": "第一分句·金额与频率状语",
+              "question": "哪一段说明大学学费上限的金额及计费周期？",
+              "text": "at £3,000 annually,",
+              "explanation": "at £3,000 表示学费最高金额，annually 为‘每年’的频率状语。第一分句主语 University tuition fees，谓语 are currently capped。",
+              "startToken": 7,
+              "endToken": 9
+            },
+            {
+              "id": "v15-02",
+              "kind": "并列分句②",
+              "question": "but 引出了哪个完整的第二分句？",
+              "text": "but this will be reviewed next year",
+              "explanation": "第二分句的主语 this 指学费上限，will be reviewed 是被动谓语，next year 是时间状语。这里不是 fees 的并列谓语。",
+              "startToken": 10,
+              "endToken": 16
+            },
+            {
+              "id": "v15-03",
+              "kind": "并列分句③",
+              "question": "and 引出了哪个完整的第三分句？",
+              "text": "and the Government is under enormous pressure to raise the ceiling.",
+              "explanation": "第三分句主语 the Government，系动词 is，under enormous pressure 为表语；to raise the ceiling 修饰 pressure，说明所承受压力的具体内容。三个并列分句各有自己的主语。",
+              "startToken": 17,
+              "endToken": 27
+            }
+          ]
+        },
+        {
+          "id": "online-shanghai-2008-autumn-C-04",
+          "paragraph": 3,
+          "sentence": "In the research, the teenagers were presented with the terms of four different loans but 76 per cent failed to identify the cheapest.",
+          "targets": {
+            "s": "the teenagers",
+            "v": "were presented"
+          },
+          "main": "The teenagers were presented with loan terms, but 76 per cent failed to identify the cheapest.",
+          "analysis": "【前置状语】In the research 为介词短语作范围/背景状语，说明研究场景。\n【并列分句①】the teenagers（主语）+ were presented（被动谓语）+ with the terms of four different loans（介词补足语）；意思是向青少年提供四种贷款条款。of four different loans 修饰 terms。\n【并列分句②】but 76 per cent（主语，意指研究中的76%青少年）+ failed（谓语）+ to identify the cheapest（不定式补足语）；the cheapest 是省略 loan 的名词化最高级，作 identify 的宾语。\n【易错】but 后是不同主语的新分句，不是 teenagers 的第二个共用主语谓语；前句的 with ... 也不是额外的主句直接宾语。",
+          "meaning": "研究中，青少年看到四种不同贷款的条款，但其中76%的人没能找出最便宜的一种。",
+          "distractors": [
+            "研究向青少年介绍四种不同的贷款方案，其中76%的人成功找出了费用最低的一种。",
+            "研究显示，76%的青少年无法在四种贷款中找出利率最高的那一种。",
+            "研究发现，青少年只获得一种贷款方案的条款，因此无法比较四种贷款的成本。"
+          ],
+          "deepNotes": [
+            "【前置状语】In the research 为介词短语作范围/背景状语，说明研究场景。",
+            "【并列分句①】the teenagers（主语）+ were presented（被动谓语）+ with the terms of four different loans（介词补足语）；意思是向青少年提供四种贷款条款。of four different loans 修饰 terms。",
+            "【并列分句②】but 76 per cent（主语，意指研究中的76%青少年）+ failed（谓语）+ to identify the cheapest（不定式补足语）；the cheapest 是省略 loan 的名词化最高级，作 identify 的宾语。",
+            "【易错】but 后是不同主语的新分句，不是 teenagers 的第二个共用主语谓语；前句的 with ... 也不是额外的主句直接宾语。"
+          ],
+          "diagramLinks": null,
+          "roleExplanations": {
+            "s": "第一分句主语 the teenagers，指参与研究的青少年。",
+            "v": "were presented 是被动谓语，主动逻辑相当于研究人员向青少年提供了贷款条款。"
+          },
+          "grammarSupplements": [
+            {
+              "kind": "背景状语",
+              "text": "In the research,",
+              "explanation": "In the research 是背景状语；第一分句主语 the teenagers，were presented 是被动谓语。"
+            },
+            {
+              "kind": "谓语的介词补足语",
+              "text": "with the terms of four different loans",
+              "explanation": "be presented with 表示‘被出示／获提供’，with ... 补充呈现的内容；of four different loans 在这个名词短语里修饰 terms。"
+            },
+            {
+              "kind": "并列分句②",
+              "text": "but 76 per cent failed to identify the cheapest.",
+              "explanation": "第二分句主语 76 per cent，谓语 failed；to identify the cheapest 是不定式补足语，其中 the cheapest 省略了 loan。"
+            }
+          ],
+          "generatedGlossary": null,
+          "acceptedTargets": null,
+          "studyUnits": [
+            {
+              "id": "v15-01",
+              "kind": "背景状语",
+              "question": "句首哪一段交代研究发生的背景？",
+              "text": "In the research,",
+              "explanation": "In the research 是背景状语；第一分句主语 the teenagers，were presented 是被动谓语。",
+              "startToken": 0,
+              "endToken": 2
+            },
+            {
+              "id": "v15-02",
+              "kind": "谓语的介词补足语",
+              "question": "研究人员向青少年提供了什么？找出 presented 后面的完整部分。",
+              "text": "with the terms of four different loans",
+              "explanation": "be presented with 表示‘被出示／获提供’，with ... 补充呈现的内容；of four different loans 在这个名词短语里修饰 terms。",
+              "startToken": 7,
+              "endToken": 13
+            },
+            {
+              "id": "v15-03",
+              "kind": "并列分句②",
+              "question": "but 后哪一整段说明76%的人没有找出最便宜的贷款？",
+              "text": "but 76 per cent failed to identify the cheapest.",
+              "explanation": "第二分句主语 76 per cent，谓语 failed；to identify the cheapest 是不定式补足语，其中 the cheapest 省略了 loan。",
+              "startToken": 14,
+              "endToken": 22
+            }
+          ]
+        },
+        {
+          "id": "online-shanghai-2008-autumn-C-05",
+          "paragraph": 3,
+          "sentence": "The young people also predicted that they would be earning on average £31,000 by the age of 25, although the average salary for those aged 22 to 29 is just £17,815.",
+          "targets": {
+            "s": "The young people",
+            "v": "predicted",
+            "o": "that they would be earning on average £31,000 by the age of 25,",
+            "x": "although the average salary for those aged 22 to 29 is just £17,815."
+          },
+          "main": "The young people predicted that they would be earning £31,000, although the average salary is just £17,815.",
+          "analysis": "【主句】The young people 是主语，also 为副词作状语，predicted 为谓语，that ... by the age of 25 为宾语从句。\n【宾语从句】they 是主语，would be earning 是过去视角的将来进行时谓语；£31,000 表示预计年收入金额，on average 表示平均水平，by the age of 25 是时间状语。\n【让步状语从句】although the average salary for those aged 22 to 29 is just £17,815 与年轻人的预计作对照；主语 the average salary for those aged 22 to 29，系动词 is，表语 just £17,815；for those aged 22 to 29 修饰 salary，aged 22 to 29 修饰 those。\n【易错】although 从句有自己的主系表结构；主句没有并列谓语。",
+          "meaning": "这些年轻人预测到25岁时平均收入可达31,000英镑，但22至29岁人群实际平均薪资仅17,815英镑。",
+          "distractors": [
+            "年轻人估计自己25岁时年收入只有17,815英镑，而22至29岁人群实际平均工资达到31,000英镑。",
+            "年轻人预计22岁时就能平均赚到31,000英镑，而25岁人群的实际年薪只有17,815英镑。",
+            "年轻人预测自己的年收入为31,000英镑，而22至29岁人群的实际平均年收入也完全符合这一预测。"
+          ],
+          "deepNotes": [
+            "【主句】The young people 是主语，also 为副词作状语，predicted 为谓语，that ... by the age of 25 为宾语从句。",
+            "【宾语从句】they 是主语，would be earning 是过去视角的将来进行时谓语；£31,000 表示预计年收入金额，on average 表示平均水平，by the age of 25 是时间状语。",
+            "【让步状语从句】although the average salary for those aged 22 to 29 is just £17,815 与年轻人的预计作对照；主语 the average salary for those aged 22 to 29，系动词 is，表语 just £17,815；for those aged 22 to 29 修饰 salary，aged 22 to 29 修饰 those。",
+            "【易错】although 从句有自己的主系表结构；主句没有并列谓语。"
+          ],
+          "diagramLinks": null,
+          "roleExplanations": {
+            "s": "主句主语 The young people，指受访青年。",
+            "v": "predicted 是主句谓语，also 是补充副词。",
+            "o": "that they would be earning on average £31,000 by the age of 25 是 predicted 的宾语从句；从句中 they 是主语、would be earning 是谓语。",
+            "x": "although 引导让步状语从句，将青年预期的收入与实际调查显示的平均工资作对比。"
+          },
+          "grammarSupplements": [
+            {
+              "kind": "宾语从句内·时间状语",
+              "text": "by the age of 25,",
+              "explanation": "宾语从句主语 they，谓语 would be earning，£31,000 是金额宾语；on average 表‘平均’；by the age of 25 是时间状语。"
+            },
+            {
+              "kind": "让步从句·人群限定语",
+              "text": "for those aged 22 to 29",
+              "explanation": "这一介词短语修饰 the average salary，aged 22 to 29 又修饰 those。让步从句的完整主干为 the average salary ...（主语）+ is（系动词）+ just £17,815（表语）。"
+            }
+          ],
+          "generatedGlossary": null,
+          "acceptedTargets": null,
+          "studyUnits": [
+            {
+              "id": "v15-01",
+              "kind": "宾语从句内·时间状语",
+              "question": "受访者预计到什么年龄时会有这一收入？找出完整时间状语。",
+              "text": "by the age of 25,",
+              "explanation": "宾语从句主语 they，谓语 would be earning，£31,000 是金额宾语；on average 表‘平均’；by the age of 25 是时间状语。",
+              "startToken": 13,
+              "endToken": 17
+            },
+            {
+              "id": "v15-02",
+              "kind": "让步从句·人群限定语",
+              "question": "although 从句中，哪部分限定实际平均工资所统计的年龄人群？",
+              "text": "for those aged 22 to 29",
+              "explanation": "这一介词短语修饰 the average salary，aged 22 to 29 又修饰 those。让步从句的完整主干为 the average salary ...（主语）+ is（系动词）+ just £17,815（表语）。",
+              "startToken": 22,
+              "endToken": 27
+            }
+          ]
+        },
+        {
+          "id": "online-shanghai-2008-autumn-C-06",
+          "paragraph": 3,
+          "sentence": "The teenagers expected to be in debt when they finished university or training, although half said that they assumed the debts would be less than £10,000.",
+          "targets": {
+            "s": "The teenagers",
+            "v": "expected",
+            "x": "although half said that they assumed the debts would be less than £10,000."
+          },
+          "main": "The teenagers expected to be in debt, although half said that they assumed the debts would be less than £10,000.",
+          "analysis": "【主句】The teenagers（主语）+ expected（谓语）+ to be in debt（不定式补足语，说明预期所处的状态）。\n【时间状语从句】when they finished university or training 修饰 to be in debt 这一预期状态，内部 they（主语）+ finished（谓语）+ university or training（宾语）。\n【让步状语从句】although half said that they assumed the debts would be less than £10,000：half 指一半受访青少年，said 为谓语；that they assumed ... 是 said 的宾语从句。\n【嵌套宾语从句】该 that 从句内 they 是主语，assumed 是谓语，后面省略连接词 that，引出 the debts would be less than £10,000（assumed 的宾语从句）；其中 the debts 是主语，would be 系动词，less than £10,000 为表语。\n【结构提醒】两层宾语从句不要都误认成修饰主句 teenagers；the debts 的金额判断是受访者的假设，不是研究得出的实际债务。",
+          "meaning": "这些青少年预计自己完成大学学业或培训时会欠债，但一半人认为欠款会低于1万英镑。",
+          "distractors": [
+            "这些青少年预计大学或培训结束时不会负债，而且一半人认为自己会有1万英镑的存款。",
+            "这些青少年预计会在大学或培训结束后欠债，其中一半人认为欠款会超过1万英镑。",
+            "研究发现，全部青少年都确信毕业时欠款恰好为1万英镑，没有人认为债务会更少。"
+          ],
+          "deepNotes": [
+            "【主句】The teenagers（主语）+ expected（谓语）+ to be in debt（不定式补足语，说明预期所处的状态）。",
+            "【时间状语从句】when they finished university or training 修饰 to be in debt 这一预期状态，内部 they（主语）+ finished（谓语）+ university or training（宾语）。",
+            "【让步状语从句】although half said that they assumed the debts would be less than £10,000：half 指一半受访青少年，said 为谓语；that they assumed ... 是 said 的宾语从句。",
+            "【嵌套宾语从句】该 that 从句内 they 是主语，assumed 是谓语，后面省略连接词 that，引出 the debts would be less than £10,000（assumed 的宾语从句）；其中 the debts 是主语，would be 系动词，less than £10,000 为表语。",
+            "【结构提醒】两层宾语从句不要都误认成修饰主句 teenagers；the debts 的金额判断是受访者的假设，不是研究得出的实际债务。"
+          ],
+          "diagramLinks": null,
+          "roleExplanations": {
+            "s": "The teenagers 为主句主语。",
+            "v": "expected 是主句谓语，后面用 to be in debt 补充预期的内容。",
+            "x": "although 引导让步状语从句，其内部 said -> assumed -> debts would be 的多层结构必须继续分析。"
+          },
+          "grammarSupplements": [
+            {
+              "kind": "主句·不定式补足语",
+              "text": "to be in debt",
+              "explanation": "to be in debt 补充 expected 的预期内容；in debt 作‘负债’的状态表语。它不是独立主句。"
+            },
+            {
+              "kind": "时间状语从句",
+              "text": "when they finished university or training,",
+              "explanation": "when 引导时间状语从句；其中 they 为主语，finished 为谓语，university or training 为并列宾语。"
+            },
+            {
+              "kind": "让步从句内·嵌套宾语从句",
+              "text": "the debts would be less than £10,000.",
+              "explanation": "最里层从句为 the debts（主语）+ would be（系动词）+ less than £10,000（表语）。外层 although half said that they assumed ... 为让步从句；said 后的 that 从句里又嵌套了 assumed 的宾语从句。"
+            }
+          ],
+          "generatedGlossary": null,
+          "acceptedTargets": null,
+          "studyUnits": [
+            {
+              "id": "v15-01",
+              "kind": "主句·不定式补足语",
+              "question": "青少年预计自己完成学业时会处于什么状态？",
+              "text": "to be in debt",
+              "explanation": "to be in debt 补充 expected 的预期内容；in debt 作‘负债’的状态表语。它不是独立主句。",
+              "startToken": 3,
+              "endToken": 6
+            },
+            {
+              "id": "v15-02",
+              "kind": "时间状语从句",
+              "question": "哪一整段说明青少年什么时候会负债？",
+              "text": "when they finished university or training,",
+              "explanation": "when 引导时间状语从句；其中 they 为主语，finished 为谓语，university or training 为并列宾语。",
+              "startToken": 7,
+              "endToken": 12
+            },
+            {
+              "id": "v15-03",
+              "kind": "让步从句内·嵌套宾语从句",
+              "question": "找出 assumed 后面省略 that 的整段宾语从句。",
+              "text": "the debts would be less than £10,000.",
+              "explanation": "最里层从句为 the debts（主语）+ would be（系动词）+ less than £10,000（表语）。外层 although half said that they assumed ... 为让步从句；said 后的 that 从句里又嵌套了 assumed 的宾语从句。",
+              "startToken": 19,
+              "endToken": 25
+            }
+          ]
+        },
+        {
+          "id": "online-shanghai-2008-autumn-C-07",
+          "paragraph": 3,
+          "sentence": "Average debts for graduates are £12,363.",
+          "targets": {
+            "s": "Average debts for graduates",
+            "v": "are"
+          },
+          "main": "Average debts for graduates are £12,363.",
+          "analysis": "【主句主干】Average debts for graduates 为完整主语，中心名词 debts；are 是系动词，£12,363 是表示数额的表语，构成主系表。\n【定语】Average 是前置形容词定语，修饰 debts；for graduates 是介词短语作后置定语，说明统计对象是毕业生。\n【无须虚构】本句没有直接宾语、没有从句，也没有独立时间／地点状语。£12,363 不是 are 的宾语，for graduates 不是修饰 are 的地点状语。",
+          "meaning": "毕业生平均负债12,363英镑。",
+          "distractors": [
+            "毕业生的平均年薪为12,363英镑。",
+            "毕业生每个人都欠下恰好12,363英镑的债务。",
+            "毕业生的平均储蓄达到了12,363英镑。"
+          ],
+          "deepNotes": [
+            "【主句主干】Average debts for graduates 为完整主语，中心名词 debts；are 是系动词，£12,363 是表示数额的表语，构成主系表。",
+            "【定语】Average 是前置形容词定语，修饰 debts；for graduates 是介词短语作后置定语，说明统计对象是毕业生。",
+            "【无须虚构】本句没有直接宾语、没有从句，也没有独立时间／地点状语。£12,363 不是 are 的宾语，for graduates 不是修饰 are 的地点状语。"
+          ],
+          "diagramLinks": null,
+          "roleExplanations": {
+            "s": "完整主语 Average debts for graduates，中心是 debts；Average 前置定语，for graduates 后置定语。",
+            "v": "are 是系动词，其后的 £12,363 是数额表语，不是宾语。"
+          },
+          "grammarSupplements": [
+            {
+              "kind": "主语·后置定语",
+              "text": "for graduates",
+              "explanation": "for graduates 是修饰 debts 的介词短语后置定语；完整主语是 Average debts for graduates。"
+            },
+            {
+              "kind": "主系表·数额表语",
+              "text": "£12,363.",
+              "explanation": "本句结构为主语 Average debts for graduates + 系动词 are + 数额表语 £12,363；没有直接宾语或单独状语。"
+            }
+          ],
+          "generatedGlossary": null,
+          "acceptedTargets": {
+            "s": [
+              "Average debts"
+            ]
+          },
+          "studyUnits": [
+            {
+              "id": "v15-01",
+              "kind": "主语·后置定语",
+              "question": "哪一段限定平均债务统计的是毕业生？",
+              "text": "for graduates",
+              "explanation": "for graduates 是修饰 debts 的介词短语后置定语；完整主语是 Average debts for graduates。",
+              "startToken": 2,
+              "endToken": 3
+            },
+            {
+              "id": "v15-02",
+              "kind": "主系表·数额表语",
+              "question": "找出 are 后面说明平均债务金额的表语。",
+              "text": "£12,363.",
+              "explanation": "本句结构为主语 Average debts for graduates + 系动词 are + 数额表语 £12,363；没有直接宾语或单独状语。",
+              "startToken": 5,
+              "endToken": 5
+            }
+          ]
+        },
+        {
+          "id": "online-shanghai-2008-autumn-C-08",
+          "paragraph": 4,
+          "sentence": "Stephen Moir, head of community investment at the Royal Bank of Scotland Group which owns NatWest, said, \"The more exposed young people are to financial issues, and the younger they become aware of them, the more likely they are to become responsible, forward-planning adults who manage their finances confidently and effectively.\"",
+          "targets": {
+            "s": "Stephen Moir",
+            "v": "said",
+            "m": "which owns NatWest,"
+          },
+          "main": "Stephen Moir said ...",
+          "analysis": "【外层主句】Stephen Moir 是主语；said 是谓语；其后整段引号内的话是直接引语，作为 said 说出的内容。\n【同位语与定语】head of community investment at the Royal Bank of Scotland Group which owns NatWest 是人物身份同位语，说明 Stephen Moir 的职位；which owns NatWest 定语从句修饰 Royal Bank of Scotland Group，该从句主语 which、谓语 owns、宾语 NatWest。\n【直接引语的关联比较】两个程度条件形成一个结论：The more exposed young people are to financial issues（青少年接触金融问题越多）；and the younger they become aware of them（越早意识到）；the more likely they are to become responsible, forward-planning adults ...（就越可能成长为负责且有规划的成年人）。它们并非外层 Stephen Moir 的并列谓语。\n【引语内部】第一比较分句的主语 young people、系动词 are、前置表语 more exposed；第二分句的主语 they、系动词 become、表语 aware，the younger 表示认知发生得更早；结果分句主语 they、系动词 are、表语 more likely，to become ... 为补足语。\n【嵌套定语从句】who manage their finances confidently and effectively 修饰 adults；其主语 who、谓语 manage、宾语 their finances，confidently and effectively 为并列方式状语。",
+          "meaning": "苏格兰皇家银行集团社区投资主管斯蒂芬·莫伊尔说：“年轻人接触金融问题越多、越早了解这些问题，就越可能成长为负责任且善于规划、自信而有效地管理自己财务的成年人。”",
+          "distractors": [
+            "莫伊尔认为，年轻人越晚接触金融知识，就越能自信而有效地管理个人财务。",
+            "莫伊尔指出，越早接触金融问题，年轻人未来就越可能陷入严重债务并失去规划能力。",
+            "苏格兰皇家银行集团负责人表示，年轻人无须了解金融问题，也能自然成长为善于理财的成年人。"
+          ],
+          "deepNotes": [
+            "【外层主句】Stephen Moir 是主语；said 是谓语；其后整段引号内的话是直接引语，作为 said 说出的内容。",
+            "【同位语与定语】head of community investment at the Royal Bank of Scotland Group which owns NatWest 是人物身份同位语，说明 Stephen Moir 的职位；which owns NatWest 定语从句修饰 Royal Bank of Scotland Group，该从句主语 which、谓语 owns、宾语 NatWest。",
+            "【直接引语的关联比较】两个程度条件形成一个结论：The more exposed young people are to financial issues（青少年接触金融问题越多）；and the younger they become aware of them（越早意识到）；the more likely they are to become responsible, forward-planning adults ...（就越可能成长为负责且有规划的成年人）。它们并非外层 Stephen Moir 的并列谓语。",
+            "【引语内部】第一比较分句的主语 young people、系动词 are、前置表语 more exposed；第二分句的主语 they、系动词 become、表语 aware，the younger 表示认知发生得更早；结果分句主语 they、系动词 are、表语 more likely，to become ... 为补足语。",
+            "【嵌套定语从句】who manage their finances confidently and effectively 修饰 adults；其主语 who、谓语 manage、宾语 their finances，confidently and effectively 为并列方式状语。"
+          ],
+          "diagramLinks": null,
+          "roleExplanations": {
+            "s": "Stephen Moir 是外层主句主语，后面的职位名词短语为同位语，不是另一个主语。",
+            "v": "said 为外层主句谓语；整段直接引语是其说出的内容。",
+            "m": "which owns NatWest 修饰 Royal Bank of Scotland Group；which 为从句主语、owns 为从句谓语、NatWest 为宾语。"
+          },
+          "grammarSupplements": [
+            {
+              "kind": "人物同位语",
+              "text": "head of community investment at the Royal Bank of Scotland Group which owns NatWest,",
+              "explanation": "这段是 Stephen Moir 的同位语；内部 which owns NatWest 修饰 Royal Bank of Scotland Group，which 为从句主语、owns 为谓语、NatWest 为宾语。"
+            },
+            {
+              "kind": "引语·第一比较条件",
+              "text": "The more exposed young people are to financial issues,",
+              "explanation": "the more ... 是比较条件①，主语 young people，系动词 are，比较表语 more exposed 前置，to financial issues 补足 exposed。"
+            },
+            {
+              "kind": "引语·第二比较条件",
+              "text": "and the younger they become aware of them,",
+              "explanation": "and 引出比较条件②；they 是主语，become 为系动词，aware 为表语，them 指 financial issues。"
+            },
+            {
+              "kind": "引语·比较结果",
+              "text": "the more likely they are to become responsible, forward-planning adults who manage their finances confidently and effectively.",
+              "explanation": "这是‘越……越……’的结果部分：they（主语）+ are（系动词）+ more likely（表语）+ to become ...（补足语）。其中 responsible、forward-planning 修饰 adults。"
+            },
+            {
+              "kind": "结果内部·定语从句",
+              "text": "who manage their finances confidently and effectively.",
+              "explanation": "who 从句修饰 adults；who 是主语，manage 是谓语，their finances 为宾语，confidently and effectively 为并列方式状语。"
+            }
+          ],
+          "generatedGlossary": null,
+          "acceptedTargets": null,
+          "studyUnits": [
+            {
+              "id": "v15-01",
+              "kind": "人物同位语",
+              "question": "哪一整段补充说明 Stephen Moir 的职位？",
+              "text": "head of community investment at the Royal Bank of Scotland Group which owns NatWest,",
+              "explanation": "这段是 Stephen Moir 的同位语；内部 which owns NatWest 修饰 Royal Bank of Scotland Group，which 为从句主语、owns 为谓语、NatWest 为宾语。",
+              "startToken": 2,
+              "endToken": 15
+            },
+            {
+              "id": "v15-02",
+              "kind": "引语·第一比较条件",
+              "question": "引语中哪段表示‘年轻人接触金融问题越多’？",
+              "text": "The more exposed young people are to financial issues,",
+              "explanation": "the more ... 是比较条件①，主语 young people，系动词 are，比较表语 more exposed 前置，to financial issues 补足 exposed。",
+              "startToken": 17,
+              "endToken": 25
+            },
+            {
+              "id": "v15-03",
+              "kind": "引语·第二比较条件",
+              "question": "哪一段并列表示‘越早意识到这些问题’？",
+              "text": "and the younger they become aware of them,",
+              "explanation": "and 引出比较条件②；they 是主语，become 为系动词，aware 为表语，them 指 financial issues。",
+              "startToken": 26,
+              "endToken": 33
+            },
+            {
+              "id": "v15-04",
+              "kind": "引语·比较结果",
+              "question": "哪一整段表达前面两个‘越……’条件产生的结果？",
+              "text": "the more likely they are to become responsible, forward-planning adults who manage their finances confidently and effectively.",
+              "explanation": "这是‘越……越……’的结果部分：they（主语）+ are（系动词）+ more likely（表语）+ to become ...（补足语）。其中 responsible、forward-planning 修饰 adults。",
+              "startToken": 34,
+              "endToken": 50
+            },
+            {
+              "id": "v15-05",
+              "kind": "结果内部·定语从句",
+              "question": "哪一完整从句说明这些成年人如何管理财务？",
+              "text": "who manage their finances confidently and effectively.",
+              "explanation": "who 从句修饰 adults；who 是主语，manage 是谓语，their finances 为宾语，confidently and effectively 为并列方式状语。",
+              "startToken": 44,
+              "endToken": 50
+            }
+          ]
+        },
+        {
+          "id": "online-shanghai-2008-autumn-C-09",
+          "paragraph": 5,
+          "sentence": "Ministers are deeply concerned about the financial pressures on teenagers and young people because of student loans and rising housing costs.",
+          "targets": {
+            "s": "Ministers",
+            "v": "are"
+          },
+          "main": "Ministers are deeply concerned about the financial pressures.",
+          "analysis": "【主句主干】Ministers（主语）+ are（系动词）+ deeply concerned（表语），构成主系表；deeply 是程度副词修饰 concerned。\n【表语的补足成分】about the financial pressures on teenagers and young people 指明担忧的对象，属于 concerned 后的介词补足语。\n【定语】on teenagers and young people 是介词短语修饰 pressures，说明压力施加于哪些人。\n【原因】because of student loans and rising housing costs 表示压力来源，也解释部长们担忧的原因；because of 后接名词短语，不是引导完整原因状语从句。\n【词法】rising 为现在分词作定语修饰 housing costs（上涨的住房成本）。本句没有直接宾语。",
+          "meaning": "部长们非常担心学生贷款和不断上涨的住房费用给青少年及年轻人造成的经济压力。",
+          "distractors": [
+            "部长们担心的是不断下降的大学学费和住房费用会导致年轻人的储蓄增加。",
+            "政府部长对学生贷款和上涨的住房费用并不担忧，认为它们不会对年轻人造成经济压力。",
+            "部长们特别担心青少年因为工资上涨过快和住房成本下降而无法合理消费。"
+          ],
+          "deepNotes": [
+            "【主句主干】Ministers（主语）+ are（系动词）+ deeply concerned（表语），构成主系表；deeply 是程度副词修饰 concerned。",
+            "【表语的补足成分】about the financial pressures on teenagers and young people 指明担忧的对象，属于 concerned 后的介词补足语。",
+            "【定语】on teenagers and young people 是介词短语修饰 pressures，说明压力施加于哪些人。",
+            "【原因】because of student loans and rising housing costs 表示压力来源，也解释部长们担忧的原因；because of 后接名词短语，不是引导完整原因状语从句。",
+            "【词法】rising 为现在分词作定语修饰 housing costs（上涨的住房成本）。本句没有直接宾语。"
+          ],
+          "diagramLinks": null,
+          "roleExplanations": {
+            "s": "Ministers 是主句主语。",
+            "v": "are 为系动词，deeply concerned 是表语（表示担忧状态），不能将 concerned 直接当成宾语。"
+          },
+          "grammarSupplements": [
+            {
+              "kind": "主句·表语",
+              "text": "deeply concerned",
+              "explanation": "Ministers（主语）+ are（系动词）+ deeply concerned（表语）；deeply 是程度副词。"
+            },
+            {
+              "kind": "表语的介词补足语",
+              "text": "about the financial pressures on teenagers and young people",
+              "explanation": "about ... 补充 concerned 的担忧对象；on teenagers and young people 在名词短语内部修饰 pressures，说明谁承受这些压力。"
+            },
+            {
+              "kind": "原因状语",
+              "text": "because of student loans and rising housing costs.",
+              "explanation": "because of ... 是原因状语性质的介词短语，不能当成 because 引导的完整从句；其中 rising 修饰 housing costs。"
+            }
+          ],
+          "generatedGlossary": null,
+          "acceptedTargets": null,
+          "studyUnits": [
+            {
+              "id": "v15-01",
+              "kind": "主句·表语",
+              "question": "找出说明部长们担忧状态的完整表语。",
+              "text": "deeply concerned",
+              "explanation": "Ministers（主语）+ are（系动词）+ deeply concerned（表语）；deeply 是程度副词。",
+              "startToken": 2,
+              "endToken": 3
+            },
+            {
+              "id": "v15-02",
+              "kind": "表语的介词补足语",
+              "question": "部长们担心的是哪些经济压力？",
+              "text": "about the financial pressures on teenagers and young people",
+              "explanation": "about ... 补充 concerned 的担忧对象；on teenagers and young people 在名词短语内部修饰 pressures，说明谁承受这些压力。",
+              "startToken": 4,
+              "endToken": 12
+            },
+            {
+              "id": "v15-03",
+              "kind": "原因状语",
+              "question": "哪一完整成分交代经济压力的来源？",
+              "text": "because of student loans and rising housing costs.",
+              "explanation": "because of ... 是原因状语性质的介词短语，不能当成 because 引导的完整从句；其中 rising 修饰 housing costs。",
+              "startToken": 13,
+              "endToken": 20
+            }
+          ]
+        },
+        {
+          "id": "online-shanghai-2008-autumn-C-10",
+          "paragraph": 5,
+          "sentence": "They have just introduced new lessons in how to manage debts.",
+          "targets": {
+            "s": "They",
+            "v": "have just introduced",
+            "o": "new lessons in how to manage debts."
+          },
+          "main": "They have just introduced new lessons.",
+          "analysis": "【主句】They 为主语，回指上句政府官员；have introduced 是现在完成时的谓语框架，just 插在助动词与过去分词之间作时间副词，have just introduced 整体表示‘刚刚推出’。\n【宾语】new lessons in how to manage debts 是完整宾语，中心词 lessons，new 前置修饰它；只选 new lessons 作为宾语中心名词短语也可以判对。\n【后置定语】in how to manage debts 是介词短语修饰 lessons，说明课程的内容；介词 in 后的 how to manage debts 是疑问词 how + 不定式构成的结构（如何管理债务），manage 的宾语为 debts。\n【不要误判】in how ... 不属于独立主句状语，也没有新的有限谓语或独立从句。",
+          "meaning": "他们刚推出教授如何管理债务的新课程。",
+          "distractors": [
+            "他们刚刚推出了新的贷款课程，专门教学生如何尽可能多地借债。",
+            "他们计划在几年以后才推出债务管理课程，目前尚未采取任何措施。",
+            "他们刚宣布取消所有有关个人债务管理的课程。"
+          ],
+          "deepNotes": [
+            "【主句】They 为主语，回指上句政府官员；have introduced 是现在完成时的谓语框架，just 插在助动词与过去分词之间作时间副词，have just introduced 整体表示‘刚刚推出’。",
+            "【宾语】new lessons in how to manage debts 是完整宾语，中心词 lessons，new 前置修饰它；只选 new lessons 作为宾语中心名词短语也可以判对。",
+            "【后置定语】in how to manage debts 是介词短语修饰 lessons，说明课程的内容；介词 in 后的 how to manage debts 是疑问词 how + 不定式构成的结构（如何管理债务），manage 的宾语为 debts。",
+            "【不要误判】in how ... 不属于独立主句状语，也没有新的有限谓语或独立从句。"
+          ],
+          "diagramLinks": null,
+          "roleExplanations": {
+            "s": "They 是主语，指前文相关政府人员。",
+            "v": "have just introduced 是主句完成时谓语，just 为时间副词，表示刚刚。",
+            "o": "完整宾语 new lessons in how to manage debts；中心名词短语 new lessons 也有效。后面 in ... 为修饰 lessons 的内容定语。"
+          },
+          "grammarSupplements": [
+            {
+              "kind": "宾语·后置定语",
+              "text": "in how to manage debts.",
+              "explanation": "介词短语 in ... 作后置定语修饰 lessons，内部 how to manage debts 是‘疑问词 + 不定式’结构，manage 的宾语是 debts。第二步已找完整宾语，第三步只需再辨认这段修饰。"
+            }
+          ],
+          "generatedGlossary": null,
+          "acceptedTargets": {
+            "o": [
+              "new lessons"
+            ]
+          },
+          "studyUnits": [
+            {
+              "id": "v15-01",
+              "kind": "宾语·后置定语",
+              "question": "new lessons 后面哪部分说明课程教授的内容？",
+              "text": "in how to manage debts.",
+              "explanation": "介词短语 in ... 作后置定语修饰 lessons，内部 how to manage debts 是‘疑问词 + 不定式’结构，manage 的宾语是 debts。第二步已找完整宾语，第三步只需再辨认这段修饰。",
+              "startToken": 6,
+              "endToken": 10
+            }
+          ]
+        },
+        {
+          "id": "online-shanghai-2008-autumn-C-11",
+          "paragraph": 5,
+          "sentence": "Nikki Fairweather, aged 15 from St Helens, said that she had benefited from lessons on personal finance, but admitted that she still had a lot to learn about money.",
+          "targets": {
+            "s": "Nikki Fairweather",
+            "v": "said",
+            "o": "that she had benefited from lessons on personal finance,",
+            "v2": "admitted",
+            "o2": "that she still had a lot to learn about money."
+          },
+          "main": "Nikki Fairweather said ... but admitted ...",
+          "analysis": "【主句】Nikki Fairweather 为共同主语；said（谓语①）和 admitted（谓语②）由 but 连接，是同一主语的并列谓语，不是两个不同主语的独立分句；每个谓语各支配自己的 that 宾语从句。\n【主语补充】aged 15 from St Helens 后置补充 Nikki 的年龄与来自哪里；aged 15 表年龄的过去分词短语，from St Helens 表来源，不能误认为谓语。\n【宾语从句①】that she had benefited from lessons on personal finance：she 为主语，had benefited 是过去完成时谓语，from lessons on personal finance 为动词 benefited 的介词补足语；on personal finance 修饰 lessons，说明理财课程主题。\n【宾语从句②】that she still had a lot to learn about money：she 为主语，had 为谓语，a lot to learn about money 为宾语；still 为副词状语，to learn about money 是不定式作后置定语修饰 a lot，about money 补充 learn 所涉及的内容。\n【易错】said 与 admitted 都由 Nikki 发出，不能把 she had benefited 或 she still had 误认成主句的并列谓语；but 不连接两个 that 宾语从句，而是连接两组‘谓语 + 宾语从句’。",
+          "meaning": "来自圣海伦斯的15岁女孩妮基·费尔韦瑟说，个人理财课使她受益，但也承认自己在金钱方面还有很多需要学习。",
+          "distractors": [
+            "来自圣海伦斯的15岁女孩妮基说，个人理财课对她毫无帮助，所以她不打算继续学习金钱知识。",
+            "妮基表示自己虽然上过个人理财课，但已经完全掌握金钱知识，不再需要进一步学习。",
+            "来自圣海伦斯的妮基说，她直到25岁才开始上理财课，而且从未从中受益。"
+          ],
+          "deepNotes": [
+            "【主句】Nikki Fairweather 为共同主语；said（谓语①）和 admitted（谓语②）由 but 连接，是同一主语的并列谓语，不是两个不同主语的独立分句；每个谓语各支配自己的 that 宾语从句。",
+            "【主语补充】aged 15 from St Helens 后置补充 Nikki 的年龄与来自哪里；aged 15 表年龄的过去分词短语，from St Helens 表来源，不能误认为谓语。",
+            "【宾语从句①】that she had benefited from lessons on personal finance：she 为主语，had benefited 是过去完成时谓语，from lessons on personal finance 为动词 benefited 的介词补足语；on personal finance 修饰 lessons，说明理财课程主题。",
+            "【宾语从句②】that she still had a lot to learn about money：she 为主语，had 为谓语，a lot to learn about money 为宾语；still 为副词状语，to learn about money 是不定式作后置定语修饰 a lot，about money 补充 learn 所涉及的内容。",
+            "【易错】said 与 admitted 都由 Nikki 发出，不能把 she had benefited 或 she still had 误认成主句的并列谓语；but 不连接两个 that 宾语从句，而是连接两组‘谓语 + 宾语从句’。"
+          ],
+          "diagramLinks": null,
+          "roleExplanations": {
+            "s": "Nikki Fairweather 是两个并列主句谓语 said 和 admitted 共用的主语；aged 15 from St Helens 是主语后的年龄、籍贯补充修饰。",
+            "v": "said 是谓语①，后接第一 that 宾语从句。",
+            "o": "that she had benefited from lessons on personal finance 是 said 的宾语从句，内部 she 为主语、had benefited 为谓语。",
+            "v2": "admitted 是并列谓语②，与 said 共用 Nikki 这个主语，but 表转折。",
+            "o2": "that she still had a lot to learn about money 是 admitted 的宾语从句，内部 she still had a lot to learn ...。"
+          },
+          "grammarSupplements": [
+            {
+              "kind": "主语·年龄与籍贯补充",
+              "text": "aged 15 from St Helens,",
+              "explanation": "aged 15 和 from St Helens 都是主语 Nikki Fairweather 后的补充修饰；句中真正并列的两个谓语是 said 与 admitted。"
+            },
+            {
+              "kind": "宾语从句①·补足语",
+              "text": "from lessons on personal finance,",
+              "explanation": "在 said 后的宾语从句中，she 是主语，had benefited 是过去完成时谓语；from lessons on personal finance 补充 benefited 的来源，其中 on personal finance 修饰 lessons。"
+            },
+            {
+              "kind": "宾语从句②·后置定语",
+              "text": "to learn about money.",
+              "explanation": "第二个从句是 she（主语）+ still had（谓语）+ a lot to learn about money（宾语）；to learn about money 为不定式作后置定语修饰 a lot。两个宾语从句分别归 said 和 admitted 管理。"
+            }
+          ],
+          "generatedGlossary": null,
+          "acceptedTargets": {
+            "o": [
+              "that she had benefited from lessons on personal finance"
+            ],
+            "o2": [
+              "that she still had a lot"
+            ]
+          },
+          "studyUnits": [
+            {
+              "id": "v15-01",
+              "kind": "主语·年龄与籍贯补充",
+              "question": "哪一整段补充说明 Nikki 的年龄和来自哪里？",
+              "text": "aged 15 from St Helens,",
+              "explanation": "aged 15 和 from St Helens 都是主语 Nikki Fairweather 后的补充修饰；句中真正并列的两个谓语是 said 与 admitted。",
+              "startToken": 2,
+              "endToken": 6
+            },
+            {
+              "id": "v15-02",
+              "kind": "宾语从句①·补足语",
+              "question": "第一个 that 宾语从句中，哪部分说明 Nikki 从什么课程获益？",
+              "text": "from lessons on personal finance,",
+              "explanation": "在 said 后的宾语从句中，she 是主语，had benefited 是过去完成时谓语；from lessons on personal finance 补充 benefited 的来源，其中 on personal finance 修饰 lessons。",
+              "startToken": 12,
+              "endToken": 16
+            },
+            {
+              "id": "v15-03",
+              "kind": "宾语从句②·后置定语",
+              "question": "第二个 that 宾语从句中，哪部分说明她还有哪些知识需要学习？",
+              "text": "to learn about money.",
+              "explanation": "第二个从句是 she（主语）+ still had（谓语）+ a lot to learn about money（宾语）；to learn about money 为不定式作后置定语修饰 a lot。两个宾语从句分别归 said 和 admitted 管理。",
+              "startToken": 25,
+              "endToken": 28
+            }
+          ]
+        }
+      ],
+      "glossary": {
+        "NatWest": "英国国民西敏寺银行",
+        "ignorant": "缺乏知识的",
+        "debt": "债务",
+        "debts": "债务",
+        "tuition": "学费",
+        "tuition fees": "学费",
+        "capped": "限定最高限额",
+        "annually": "每年",
+        "ceiling": "上限",
+        "loans": "贷款",
+        "terms": "条款；条件",
+        "identify": "辨认",
+        "overestimate": "高估",
+        "graduates": "毕业生",
+        "salary": "薪水",
+        "earnings": "收入",
+        "be exposed to": "接触；了解",
+        "finances": "财务",
+        "forward-planning": "善于提前规划的",
+        "confidently": "自信地",
+        "effectively": "有效地",
+        "financial pressures": "经济压力",
+        "housing costs": "住房成本",
+        "benefited": "受益",
+        "personal finance": "个人理财",
+        "assumed": "以为；假设",
+        "reviewed": "重新审议"
+      },
+      "alternativeMeanings": null,
+      "phraseGlossary": {
+        "when it comes to": "当谈到……",
+        "raise the ceiling": "提高上限",
+        "be burdened with": "承受；背负",
+        "on average": "平均而言",
+        "in debt": "负债",
+        "the more ... the more ...": "越……越……",
+        "had a lot to learn": "还有很多需要学习"
+      },
+      "review": {
+        "theme": "英国青少年金融知识不足与及早加强理财教育",
+        "overview": "NatWest调查8500名青少年发现他们缺乏金融知识，高估收入、低估负债，贷款判断能力不强。学费及住房成本带来压力，专家与政府希望通过早期金融教育改善情况。",
+        "paragraphNotes": [
+          {
+            "paragraph": 1,
+            "point": "8500名青少年不懂金钱问题，未来债务风险令人担忧。",
+            "connection": "第75题选A。"
+          },
+          {
+            "paragraph": 2,
+            "point": "学费有年度上限，政府面临提高限额的压力。",
+            "connection": "第73题 ceiling 指学费上限。"
+          },
+          {
+            "paragraph": 3,
+            "point": "贷款条款辨识差，高估未来收入、低估实际债务。",
+            "connection": "第72题以£31,000和£17,815作对比，选C。"
+          },
+          {
+            "paragraph": 4,
+            "point": "Stephen Moir强调越早学习理财知识越能有效管理财务。",
+            "connection": "第74题选B。"
+          },
+          {
+            "paragraph": 5,
+            "point": "政府推出相关课程，青少年虽受益仍有更多学习空间。",
+            "connection": "对应全文解决方案，不应误解为大学必修课。"
+          }
+        ],
+        "development": [
+          "第1段：研究发现多数学青少年缺乏钱的知识。",
+          "第2段：学费政策与上限的潜在调整。",
+          "第3段：贷款、收入、债务数据证据。",
+          "第4段：专家主张及早接触金融知识。",
+          "第5段：政府与学生对理财教育的回应。"
+        ],
+        "keyGrammar": [
+          "involving 8,500 teenagers：现在分词后置修饰 study。",
+          "findings, the first ... NatWest that has started ..., are ...：同位语插入语中带定语从句，真正谓语是 are。",
+          "fees are capped ..., but this will be reviewed ..., and the Government is ...：三组独立主谓，不能套用共享主语。",
+          "predicted that ... although ...：宾语从句 + 让步状语从句。",
+          "said that they assumed the debts would ...：多层宾语从句。",
+          "The more ... the more ...：越……越……比较关联；who manage ... 修饰 adults。",
+          "Nikki said that ..., but admitted that ...：两个共享主语的并列谓语、各带宾语从句。"
+        ],
+        "keyPhrases": [
+          "ignorant when it comes to money：谈到金钱问题就缺乏相关知识",
+          "be burdened with debts：背负债务",
+          "tuition fees / cap at：学费／限定上限",
+          "raise the ceiling：提高限额",
+          "on average：平均而言",
+          "be exposed to financial issues：接触财务问题",
+          "the more ..., the more ...：越……就越……",
+          "manage finances：管理财务",
+          "benefit from：从……中受益"
+        ],
+        "commonMistakes": [
+          "72：预估£31,000而实际均薪£17,815，不要颠倒数据。",
+          "73：raise the ceiling 意为提高上限，非提高天花板。",
+          "74：Stephen Moir主张尽早学习财务知识，非太年轻不应了解。",
+          "75：当前大多数人金融知识不足，不能误说已经背负沉重债务。"
+        ],
+        "homeworkTip": "先做阅读72—75题，再逐句拆解主干，找清楚全部独立分句、定语、状语、宾语从句及它们的修饰对象。"
+      },
+      "source": "2008年上海高考英语秋考 · 阅读理解C（用户提供两页原文及试题截图）",
+      "sourceURL": "https://www.yeyulingfeng.com/wendang/136297.html",
+      "verifiedShanghaiExam": false,
+      "examEdition": "shanghai-2008-autumn",
+      "examPart": "C"
+    }
+  ],
+  "questionSets": [
+    {
+      "id": "online-shanghai-2008-autumn-C",
+      "title": "2008年上海秋考英语 · 阅读C · 原卷72—75题",
+      "source": "2008年上海秋考英语卷 · 阅读C · 原卷题图、参考答案交叉核对",
+      "mode": "single",
+      "intro": "原卷4道阅读理解题。先独立答题，再提交查看原文依据和解析。",
+      "passageText": "A study involving 8,500 teenagers from all social backgrounds found that most of them are ignorant when it comes to money. The findings, the first in a series of reports from NatWest that has started a five-year research project into teenagers and money, are particularly worrying as this generation of young people is likely to be burdened with greater debts than any before.\n\nUniversity tuition fees (学费) are currently capped at £3,000 annually, but this will be reviewed next year and the Government is under enormous pressure to raise the ceiling.\n\nIn the research, the teenagers were presented with the terms of four different loans but 76 per cent failed to identify the cheapest. The young people also predicted that they would be earning on average £31,000 by the age of 25, although the average salary for those aged 22 to 29 is just £17,815. The teenagers expected to be in debt when they finished university or training, although half said that they assumed the debts would be less than £10,000. Average debts for graduates are £12,363.\n\nStephen Moir, head of community investment at the Royal Bank of Scotland Group which owns NatWest, said, \"The more exposed young people are to financial issues, and the younger they become aware of them, the more likely they are to become responsible, forward-planning adults who manage their finances confidently and effectively.\"\n\nMinisters are deeply concerned about the financial pressures on teenagers and young people because of student loans and rising housing costs. They have just introduced new lessons in how to manage debts. Nikki Fairweather, aged 15 from St Helens, said that she had benefited from lessons on personal finance, but admitted that she still had a lot to learn about money.",
+      "sharedOptions": null,
+      "questions": [
+        {
+          "id": 72,
+          "stem": "Which of the following can be found from the five-year research project?",
+          "options": [
+            "Students understand personal finances differently.",
+            "University tuition fees in England have been rising.",
+            "Teenagers tend to overestimate their future earnings.",
+            "The students' payback ability has become a major issue."
+          ],
+          "correctIndex": 2,
+          "evidence": "The young people also predicted that they would be earning on average £31,000 by the age of 25, although the average salary for those aged 22 to 29 is just £17,815.",
+          "explanation": "青少年预期收入£31,000，现实平均收入只有£17,815，说明高估未来收入。B项错误地把可能提高学费上限当作已经持续上涨，选C。",
+          "kind": "single",
+          "context": ""
+        },
+        {
+          "id": 73,
+          "stem": "The phrase \"to raise the ceiling\" in paragraph 2 probably means \"_______\".",
+          "options": [
+            "to raise the student loans",
+            "to improve the school facilities",
+            "to increase the upper limit of the tuition",
+            "to lift the school building roofs"
+          ],
+          "correctIndex": 2,
+          "evidence": "University tuition fees (学费) are currently capped at £3,000 annually, but this will be reviewed next year and the Government is under enormous pressure to raise the ceiling.",
+          "explanation": "capped at £3,000 annually 表示学费有最高限额，因此 raise the ceiling 是提高学费上限，不是提高屋顶，选C。",
+          "kind": "single",
+          "context": ""
+        },
+        {
+          "id": 74,
+          "stem": "According to Stephen Moir, students_______.",
+          "options": [
+            "are too young to be exposed to financial issues",
+            "should learn to manage their finances well",
+            "should maintain a positive attitude when facing loans",
+            "benefit a lot from lessons on personal finance"
+          ],
+          "correctIndex": 1,
+          "evidence": "The more exposed young people are to financial issues, and the younger they become aware of them, the more likely they are to become responsible, forward-planning adults who manage their finances confidently and effectively.",
+          "explanation": "Stephen Moir 认为年轻人应尽早接触理财知识，以便有效管理财务，选B。D是Nikki的个人经历。",
+          "kind": "single",
+          "context": ""
+        },
+        {
+          "id": 75,
+          "stem": "What can we learn from the passage?",
+          "options": [
+            "Many British teenagers do not know money matters well",
+            "Teenagers in Britain are heavily burdened with debts.",
+            "Financial planning is a required course at college.",
+            "Young people should become responsible adults."
+          ],
+          "correctIndex": 0,
+          "evidence": "A study involving 8,500 teenagers from all social backgrounds found that most of them are ignorant when it comes to money.",
+          "explanation": "调查发现大多数英国青少年缺乏金钱知识，后文贷款、收入及债务数据进一步证实，选A。B混淆当前与未来，C把新开课程误作大学必修。",
+          "kind": "single",
+          "context": ""
+        }
+      ]
+    }
+  ],
+  "retiredPassageIDs": []
+}
