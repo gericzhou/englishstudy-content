@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": 10,
+  "revision": 11,
   "passages": [
     {
       "id": "online-shanghai-2008-autumn-B",
@@ -1656,13 +1656,16 @@
           "roleExplanations": {
             "s": "完整主语是 A study involving 8,500 teenagers from all social backgrounds；主语中心部分为 A study。involving ... 是现在分词短语作后置定语，修饰 study。因此选 A study 或完整主语均算正确。",
             "v": "主句谓语：found。结合整句解释其对应关系。",
-            "o": "主句宾语：that most of them are ignorant when it comes to money.。结合整句解释其对应关系。"
+            "o": "found 后接 that 引导的宾语从句。完整宾语从句为 that most of them are ignorant when it comes to money；核心部分为 that most of them are ignorant；when it comes to money 是从句内部的方面状语，进一步限定 ignorant 的语义。因此本题两种选区均算正确。"
           },
           "grammarSupplements": [],
           "generatedGlossary": null,
           "acceptedTargets": {
             "s": [
               "A study"
+            ],
+            "o": [
+              "that most of them are ignorant"
             ]
           },
           "studyUnits": []
