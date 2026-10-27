@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": 12,
+  "revision": 13,
   "passages": [
     {
       "id": "online-shanghai-2008-autumn-B",
@@ -1760,8 +1760,8 @@
             "m": "that has started a five-year research project into teenagers and money,",
             "x": "as this generation of young people is likely to be burdened with greater debts than any before."
           },
-          "main": "The findings are",
-          "analysis": "主干 The findings are particularly worrying。主谓间的 the first in a series ... 是同位语补充；that has started ... 修饰 NatWest，而非复数 findings。as 引导原因状语从句，内部 this generation of young people 作主语、is likely to be burdened 为被动谓语结构。than any before 构成比较。",
+          "main": "The findings are particularly worrying.",
+          "analysis": "【主句】The findings 是主语，are 为系动词，particularly worrying 为形容词性表语，构成主系表。\n【主语补充】the first in a series of reports ... money 是 findings 的同位语，说明这是系列报告中的第一份。that has started a five-year research project into teenagers and money 修饰 NatWest，has started 为该定语从句谓语。\n【原因状语从句】as this generation of young people is likely to be burdened with greater debts than any before 是修饰主句‘令人担忧’的原因从句；内部 this generation of young people 为主语，is likely 为系表结构，to be burdened ... 为不定式补充，其核心 to be burdened 是被动结构；than any before 省略重复名词，比较前代年轻人的债务。\n【界限】主句没有宾语；研究项目属于定语从句，不能算成 are 的宾语。",
           "meaning": "这些研究结果属于NatWest五年研究的一系列报告中的首份成果，格外令人担忧，因为这一代年轻人可能承受比以往任何一代更沉重的债务。",
           "distractors": [
             "NatWest为期五年的研究已经完成，结果表明这一代年轻人的债务负担将比过去更轻。",
@@ -1769,19 +1769,164 @@
             "NatWest的首份报告认为，尽管年轻人面临债务，但他们的负债水平与前几代完全相同。"
           ],
           "deepNotes": [
-            "主干 The findings are particularly worrying。主谓间的 the first in a series ... 是同位语补充；that has started ... 修饰 NatWest，而非复数 findings。as 引导原因状语从句，内部 this generation of young people 作主语、is likely to be burdened 为被动谓语结构。than any before 构成比较。"
+            "【主句】The findings 是主语，are 为系动词，particularly worrying 为形容词性表语，构成主系表。",
+            "【主语补充】the first in a series of reports ... money 是 findings 的同位语，说明这是系列报告中的第一份。that has started a five-year research project into teenagers and money 修饰 NatWest，has started 为该定语从句谓语。",
+            "【原因状语从句】as this generation of young people is likely to be burdened with greater debts than any before 是修饰主句‘令人担忧’的原因从句；内部 this generation of young people 为主语，is likely 为系表结构，to be burdened ... 为不定式补充，其核心 to be burdened 是被动结构；than any before 省略重复名词，比较前代年轻人的债务。",
+            "【界限】主句没有宾语；研究项目属于定语从句，不能算成 are 的宾语。"
           ],
           "diagramLinks": null,
           "roleExplanations": {
-            "s": "主句主语：The findings。结合整句解释其对应关系。",
-            "v": "主句谓语：are。结合整句解释其对应关系。",
-            "m": "定语从句：that has started a five-year research project into teenagers and money,。结合整句解释其对应关系。",
-            "x": "状语从句：as this generation of young people is likely to be burdened with greater debts than any before.。结合整句解释其对应关系。"
+            "s": "主句主语 The findings（这些研究结果）；紧随其后的 the first ... 是同位语，不是另一个主句主语。",
+            "v": "are 是主句系动词，particularly worrying 为表语；不是‘are + 宾语’。",
+            "m": "that has started ... 修饰 NatWest，that 为该定语从句主语、has started 为谓语、a five-year research project 为宾语。",
+            "x": "as 引导原因状语从句，交代为何这些结果格外令人担忧。"
           },
-          "grammarSupplements": [],
+          "grammarSupplements": [
+            {
+              "kind": "同位语",
+              "text": "the first in a series of reports from NatWest that has started a five-year research project into teenagers and money,",
+              "explanation": "这是主语 findings 的同位语，提供报告来源和先后顺序；它没有自己的独立主句谓语。"
+            },
+            {
+              "kind": "同位语内部·后置修饰",
+              "text": "from NatWest",
+              "explanation": "from NatWest 修饰 reports，说明报告来源；后面的 that has started ... 指 NatWest。"
+            },
+            {
+              "kind": "定语从句内部·谓语",
+              "text": "has started",
+              "explanation": "has started 是定语从句谓语（现在完成时），that 指代 NatWest；不是主句谓语。"
+            },
+            {
+              "kind": "定语从句内部·宾语",
+              "text": "a five-year research project",
+              "explanation": "a five-year research project 是 has started 的宾语，five-year 为复合形容词定语修饰 project。"
+            },
+            {
+              "kind": "定语从句内部·后置修饰",
+              "text": "into teenagers and money,",
+              "explanation": "into teenagers and money 修饰 research project，说明研究的主题。"
+            },
+            {
+              "kind": "主句·表语",
+              "text": "particularly worrying",
+              "explanation": "particularly worrying 是主句表语；particularly 是程度副词修饰形容词性 worrying。"
+            },
+            {
+              "kind": "原因状语从句·主语",
+              "text": "this generation of young people",
+              "explanation": "this generation of young people 为原因状语从句主语，中心词是 generation。"
+            },
+            {
+              "kind": "原因状语从句·系表",
+              "text": "is likely",
+              "explanation": "is 是系动词，likely 是表语；不是把 be burdened 直接当作主句谓语。"
+            },
+            {
+              "kind": "原因状语从句·不定式与被动",
+              "text": "to be burdened with greater debts than any before.",
+              "explanation": "to be burdened 为被动语态不定式，补充 likely 的具体内容；with ... 为 burdened 的补足语。"
+            },
+            {
+              "kind": "比较结构",
+              "text": "than any before.",
+              "explanation": "than any before 是比较结构，any 指此前任何一代（人），省略了由语境可知的词。"
+            }
+          ],
           "generatedGlossary": null,
           "acceptedTargets": null,
-          "studyUnits": []
+          "studyUnits": [
+            {
+              "id": "u01",
+              "kind": "同位语",
+              "question": "哪个较长的插入成分说明 findings 是哪一份报告？",
+              "text": "the first in a series of reports from NatWest that has started a five-year research project into teenagers and money,",
+              "explanation": "这是主语 findings 的同位语，提供报告来源和先后顺序；它没有自己的独立主句谓语。",
+              "startToken": 2,
+              "endToken": 21
+            },
+            {
+              "id": "u02",
+              "kind": "同位语内部·后置修饰",
+              "question": "哪一部分交代报告来自哪家机构？",
+              "text": "from NatWest",
+              "explanation": "from NatWest 修饰 reports，说明报告来源；后面的 that has started ... 指 NatWest。",
+              "startToken": 9,
+              "endToken": 10
+            },
+            {
+              "id": "u03",
+              "kind": "定语从句内部·谓语",
+              "question": "修饰 NatWest 的 that 从句中，哪个动词表达‘已经开展’？",
+              "text": "has started",
+              "explanation": "has started 是定语从句谓语（现在完成时），that 指代 NatWest；不是主句谓语。",
+              "startToken": 12,
+              "endToken": 13
+            },
+            {
+              "id": "u04",
+              "kind": "定语从句内部·宾语",
+              "question": "NatWest 开始了一项什么研究项目？",
+              "text": "a five-year research project",
+              "explanation": "a five-year research project 是 has started 的宾语，five-year 为复合形容词定语修饰 project。",
+              "startToken": 14,
+              "endToken": 17
+            },
+            {
+              "id": "u05",
+              "kind": "定语从句内部·后置修饰",
+              "question": "研究项目具体研究青少年和什么内容？",
+              "text": "into teenagers and money,",
+              "explanation": "into teenagers and money 修饰 research project，说明研究的主题。",
+              "startToken": 18,
+              "endToken": 21
+            },
+            {
+              "id": "u06",
+              "kind": "主句·表语",
+              "question": "主句 are 后面，哪一段说明 findings 为什么令人担忧？",
+              "text": "particularly worrying",
+              "explanation": "particularly worrying 是主句表语；particularly 是程度副词修饰形容词性 worrying。",
+              "startToken": 23,
+              "endToken": 24
+            },
+            {
+              "id": "u07",
+              "kind": "原因状语从句·主语",
+              "question": "as 原因从句的主语是什么？",
+              "text": "this generation of young people",
+              "explanation": "this generation of young people 为原因状语从句主语，中心词是 generation。",
+              "startToken": 26,
+              "endToken": 30
+            },
+            {
+              "id": "u08",
+              "kind": "原因状语从句·系表",
+              "question": "as 从句内哪一段表示‘很可能’？",
+              "text": "is likely",
+              "explanation": "is 是系动词，likely 是表语；不是把 be burdened 直接当作主句谓语。",
+              "startToken": 31,
+              "endToken": 32
+            },
+            {
+              "id": "u09",
+              "kind": "原因状语从句·不定式与被动",
+              "question": "哪一段补充说明这代人可能承受怎样的债务？",
+              "text": "to be burdened with greater debts than any before.",
+              "explanation": "to be burdened 为被动语态不定式，补充 likely 的具体内容；with ... 为 burdened 的补足语。",
+              "startToken": 33,
+              "endToken": 41
+            },
+            {
+              "id": "u10",
+              "kind": "比较结构",
+              "question": "哪部分把债务与前几代相比？",
+              "text": "than any before.",
+              "explanation": "than any before 是比较结构，any 指此前任何一代（人），省略了由语境可知的词。",
+              "startToken": 39,
+              "endToken": 41
+            }
+          ]
         },
         {
           "id": "online-shanghai-2008-autumn-C-03",
@@ -1791,8 +1936,8 @@
             "s": "University tuition fees (学费)",
             "v": "are currently capped"
           },
-          "main": "University tuition fees (学费) are currently capped",
-          "analysis": "有三组独立分句：fees are currently capped；but this will be reviewed；and the Government is under enormous pressure。三个主语不同，不能误判为共享主语并列谓语。to raise the ceiling 说明压力内容，ceiling 在这里指学费限额；保留原文中文括号注释。",
+          "main": "University tuition fees are currently capped; this will be reviewed; and the Government is under enormous pressure.",
+          "analysis": "【并列分句①】University tuition fees (学费) 是主语，are currently capped 为被动谓语，at £3,000 表示学费上限，annually 表示每年。\n【并列分句②】but this will be reviewed next year：this 是主语，指前文收费上限，will be reviewed 为被动谓语，next year 为时间状语。\n【并列分句③】and the Government is under enormous pressure to raise the ceiling：the Government 为主语，is 为系动词，under enormous pressure 为介词短语作表语；to raise the ceiling 为不定式后置修饰 pressure，交代压力要求的行动；the ceiling 指费用上限。\n【易错点】三组主语分别是 tuition fees / this / the Government。but 和 and 连接的是三个分句，不能误判为相同主语的并列谓语；这里没有主句的直接宾语。",
           "meaning": "大学学费目前的年度上限是3000英镑，不过这项限制将于明年重新审议，而政府正面临要求提高上限的巨大压力。",
           "distractors": [
             "英国大学学费目前每年最低为3000英镑，政府计划在明年取消这一最低收费标准。",
@@ -1800,17 +1945,157 @@
             "大学学费的上限目前是每年3000英镑，政府已经决定明年不再审议或调整这一限制。"
           ],
           "deepNotes": [
-            "有三组独立分句：fees are currently capped；but this will be reviewed；and the Government is under enormous pressure。三个主语不同，不能误判为共享主语并列谓语。to raise the ceiling 说明压力内容，ceiling 在这里指学费限额；保留原文中文括号注释。"
+            "【并列分句①】University tuition fees (学费) 是主语，are currently capped 为被动谓语，at £3,000 表示学费上限，annually 表示每年。",
+            "【并列分句②】but this will be reviewed next year：this 是主语，指前文收费上限，will be reviewed 为被动谓语，next year 为时间状语。",
+            "【并列分句③】and the Government is under enormous pressure to raise the ceiling：the Government 为主语，is 为系动词，under enormous pressure 为介词短语作表语；to raise the ceiling 为不定式后置修饰 pressure，交代压力要求的行动；the ceiling 指费用上限。",
+            "【易错点】三组主语分别是 tuition fees / this / the Government。but 和 and 连接的是三个分句，不能误判为相同主语的并列谓语；这里没有主句的直接宾语。"
           ],
           "diagramLinks": null,
           "roleExplanations": {
-            "s": "主句主语：University tuition fees (学费)。结合整句解释其对应关系。",
-            "v": "主句谓语：are currently capped。结合整句解释其对应关系。"
+            "s": "第一分句的完整主语 University tuition fees (学费)；tuition 与 University 均修饰核心 fees。",
+            "v": "第一分句 are currently capped 为被动谓语，currently 是时间副词；at £3,000 annually 说明上限金额及年计口径。"
           },
-          "grammarSupplements": [],
+          "grammarSupplements": [
+            {
+              "kind": "被动谓语内部·时间状语",
+              "text": "currently",
+              "explanation": "currently 为时间副词，修饰第一分句的 are capped。"
+            },
+            {
+              "kind": "并列分句②",
+              "text": "but this will be reviewed next year",
+              "explanation": "第二分句由 but 引出；主语 this 指前述学费收费上限，will be reviewed 是被动谓语，next year 为时间状语。"
+            },
+            {
+              "kind": "并列分句②·主语",
+              "text": "this",
+              "explanation": "this 是第二分句的主语，不能把它视为第一分句的宾语。"
+            },
+            {
+              "kind": "并列分句②·被动谓语",
+              "text": "will be reviewed",
+              "explanation": "will be reviewed 是一般将来时被动语态，第二分句主语为 this。"
+            },
+            {
+              "kind": "并列分句②·时间状语",
+              "text": "next year",
+              "explanation": "next year 是时间状语，修饰 will be reviewed。"
+            },
+            {
+              "kind": "并列分句③",
+              "text": "and the Government is under enormous pressure to raise the ceiling.",
+              "explanation": "and 连接另一独立分句：the Government（主语）+ is（系动词）+ under enormous pressure（表语）+ to raise the ceiling（不定式补充）。"
+            },
+            {
+              "kind": "并列分句③·主语",
+              "text": "the Government",
+              "explanation": "the Government 是第三分句主语，与费用本身并非同一主语。"
+            },
+            {
+              "kind": "并列分句③·表语",
+              "text": "under enormous pressure",
+              "explanation": "under enormous pressure 是介词短语作表语，说明政府正面临极大压力。"
+            },
+            {
+              "kind": "并列分句③·不定式定语",
+              "text": "to raise the ceiling.",
+              "explanation": "to raise the ceiling 是不定式短语修饰 pressure，说明压力涉及的行动：提高费用上限。"
+            }
+          ],
           "generatedGlossary": null,
           "acceptedTargets": null,
-          "studyUnits": []
+          "studyUnits": [
+            {
+              "id": "u01",
+              "kind": "被动谓语内部·时间状语",
+              "question": "哪一词说明学费上限是‘目前’的规定？",
+              "text": "currently",
+              "explanation": "currently 为时间副词，修饰第一分句的 are capped。",
+              "startToken": 5,
+              "endToken": 5
+            },
+            {
+              "id": "u02",
+              "kind": "金额与计费单位",
+              "question": "哪一部分说明第一分句的学费金额上限？",
+              "text": "at £3,000 annually,",
+              "explanation": "at £3,000 表示上限金额；annually 是频率状语，表示每年。",
+              "startToken": 7,
+              "endToken": 9
+            },
+            {
+              "id": "u03",
+              "kind": "并列分句②",
+              "question": "but 后面的第二个完整分句是什么？",
+              "text": "but this will be reviewed next year",
+              "explanation": "第二分句由 but 引出；主语 this 指前述学费收费上限，will be reviewed 是被动谓语，next year 为时间状语。",
+              "startToken": 10,
+              "endToken": 16
+            },
+            {
+              "id": "u04",
+              "kind": "并列分句②·主语",
+              "question": "在第二分句中，哪个代词代指收费上限？",
+              "text": "this",
+              "explanation": "this 是第二分句的主语，不能把它视为第一分句的宾语。",
+              "startToken": 11,
+              "endToken": 11
+            },
+            {
+              "id": "u05",
+              "kind": "并列分句②·被动谓语",
+              "question": "第二分句中‘将被审议’的完整谓语是哪部分？",
+              "text": "will be reviewed",
+              "explanation": "will be reviewed 是一般将来时被动语态，第二分句主语为 this。",
+              "startToken": 12,
+              "endToken": 14
+            },
+            {
+              "id": "u06",
+              "kind": "并列分句②·时间状语",
+              "question": "第二分句预计什么时候审议？",
+              "text": "next year",
+              "explanation": "next year 是时间状语，修饰 will be reviewed。",
+              "startToken": 15,
+              "endToken": 16
+            },
+            {
+              "id": "u07",
+              "kind": "并列分句③",
+              "question": "and 后面的第三个完整分句是哪段？",
+              "text": "and the Government is under enormous pressure to raise the ceiling.",
+              "explanation": "and 连接另一独立分句：the Government（主语）+ is（系动词）+ under enormous pressure（表语）+ to raise the ceiling（不定式补充）。",
+              "startToken": 17,
+              "endToken": 27
+            },
+            {
+              "id": "u08",
+              "kind": "并列分句③·主语",
+              "question": "第三分句主语是谁？",
+              "text": "the Government",
+              "explanation": "the Government 是第三分句主语，与费用本身并非同一主语。",
+              "startToken": 18,
+              "endToken": 19
+            },
+            {
+              "id": "u09",
+              "kind": "并列分句③·表语",
+              "question": "第三分句中说明政府所处压力状态的是哪一部分？",
+              "text": "under enormous pressure",
+              "explanation": "under enormous pressure 是介词短语作表语，说明政府正面临极大压力。",
+              "startToken": 21,
+              "endToken": 23
+            },
+            {
+              "id": "u10",
+              "kind": "并列分句③·不定式定语",
+              "question": "压力具体是要求政府做什么？",
+              "text": "to raise the ceiling.",
+              "explanation": "to raise the ceiling 是不定式短语修饰 pressure，说明压力涉及的行动：提高费用上限。",
+              "startToken": 24,
+              "endToken": 27
+            }
+          ]
         },
         {
           "id": "online-shanghai-2008-autumn-C-04",
@@ -1820,8 +2105,8 @@
             "s": "the teenagers",
             "v": "were presented"
           },
-          "main": "the teenagers were presented",
-          "analysis": "第一分句主语 the teenagers，谓语 were presented 为被动语态。but 后是另一完整分句，主语 76 per cent，谓语 failed，to identify the cheapest 说明未能完成的任务。",
+          "main": "The teenagers were presented with loan terms, but 76 per cent failed to identify the cheapest.",
+          "analysis": "【前置状语】In the research 为介词短语作范围/背景状语，说明研究场景。\n【并列分句①】the teenagers（主语）+ were presented（被动谓语）+ with the terms of four different loans（介词补足语）；意思是向青少年提供四种贷款条款。of four different loans 修饰 terms。\n【并列分句②】but 76 per cent（主语，意指研究中的76%青少年）+ failed（谓语）+ to identify the cheapest（不定式补足语）；the cheapest 是省略 loan 的名词化最高级，作 identify 的宾语。\n【易错】but 后是不同主语的新分句，不是 teenagers 的第二个共用主语谓语；前句的 with ... 也不是额外的主句直接宾语。",
           "meaning": "研究中，青少年看到四种不同贷款的条款，但其中76%的人没能找出最便宜的一种。",
           "distractors": [
             "研究向青少年介绍四种不同的贷款方案，其中76%的人成功找出了费用最低的一种。",
@@ -1829,17 +2114,134 @@
             "研究发现，青少年只获得一种贷款方案的条款，因此无法比较四种贷款的成本。"
           ],
           "deepNotes": [
-            "第一分句主语 the teenagers，谓语 were presented 为被动语态。but 后是另一完整分句，主语 76 per cent，谓语 failed，to identify the cheapest 说明未能完成的任务。"
+            "【前置状语】In the research 为介词短语作范围/背景状语，说明研究场景。",
+            "【并列分句①】the teenagers（主语）+ were presented（被动谓语）+ with the terms of four different loans（介词补足语）；意思是向青少年提供四种贷款条款。of four different loans 修饰 terms。",
+            "【并列分句②】but 76 per cent（主语，意指研究中的76%青少年）+ failed（谓语）+ to identify the cheapest（不定式补足语）；the cheapest 是省略 loan 的名词化最高级，作 identify 的宾语。",
+            "【易错】but 后是不同主语的新分句，不是 teenagers 的第二个共用主语谓语；前句的 with ... 也不是额外的主句直接宾语。"
           ],
           "diagramLinks": null,
           "roleExplanations": {
-            "s": "主句主语：the teenagers。结合整句解释其对应关系。",
-            "v": "主句谓语：were presented。结合整句解释其对应关系。"
+            "s": "第一分句主语 the teenagers，指参与研究的青少年。",
+            "v": "were presented 是被动谓语，主动逻辑相当于研究人员向青少年提供了贷款条款。"
           },
-          "grammarSupplements": [],
+          "grammarSupplements": [
+            {
+              "kind": "主句·背景状语",
+              "text": "In the research,",
+              "explanation": "In the research 是介词短语作背景状语，不是主语组成部分。"
+            },
+            {
+              "kind": "被动谓语·介词补足语",
+              "text": "with the terms of four different loans",
+              "explanation": "were presented with ... 表示‘被出示／获提供……’；with 短语补充提供的对象，不是新谓语。"
+            },
+            {
+              "kind": "名词·后置定语",
+              "text": "of four different loans",
+              "explanation": "of four different loans 作后置定语，修饰 terms。"
+            },
+            {
+              "kind": "并列分句②",
+              "text": "but 76 per cent failed to identify the cheapest.",
+              "explanation": "but 引出第二分句，主语为 76 per cent（76%的受试者），谓语 failed，不定式 to identify ... 说明失败的事情。"
+            },
+            {
+              "kind": "并列分句②·主语",
+              "text": "76 per cent",
+              "explanation": "76 per cent 是第二分句主语，省略了 of the teenagers；不等同于前句主语 the teenagers。"
+            },
+            {
+              "kind": "并列分句②·谓语",
+              "text": "failed",
+              "explanation": "failed 是第二分句谓语，后接 to identify the cheapest。"
+            },
+            {
+              "kind": "并列分句②·不定式补语",
+              "text": "to identify the cheapest.",
+              "explanation": "to identify the cheapest 是 failed 后的不定式补足语，表示没有识别出最便宜贷款。"
+            },
+            {
+              "kind": "不定式内部·宾语",
+              "text": "the cheapest.",
+              "explanation": "the cheapest 为名词化的形容词最高级，相当于 the cheapest loan（最便宜的贷款）。"
+            }
+          ],
           "generatedGlossary": null,
           "acceptedTargets": null,
-          "studyUnits": []
+          "studyUnits": [
+            {
+              "id": "u01",
+              "kind": "主句·背景状语",
+              "question": "句首哪一段说明这些事情发生于什么研究场景？",
+              "text": "In the research,",
+              "explanation": "In the research 是介词短语作背景状语，不是主语组成部分。",
+              "startToken": 0,
+              "endToken": 2
+            },
+            {
+              "id": "u02",
+              "kind": "被动谓语·介词补足语",
+              "question": "青少年在研究中看到了什么内容？选出 presented 后的补足语。",
+              "text": "with the terms of four different loans",
+              "explanation": "were presented with ... 表示‘被出示／获提供……’；with 短语补充提供的对象，不是新谓语。",
+              "startToken": 7,
+              "endToken": 13
+            },
+            {
+              "id": "u03",
+              "kind": "名词·后置定语",
+              "question": "贷款条款对应哪四笔贷款？找出修饰 terms 的介词短语。",
+              "text": "of four different loans",
+              "explanation": "of four different loans 作后置定语，修饰 terms。",
+              "startToken": 10,
+              "endToken": 13
+            },
+            {
+              "id": "u04",
+              "kind": "并列分句②",
+              "question": "but 后的另一个完整分句是什么？",
+              "text": "but 76 per cent failed to identify the cheapest.",
+              "explanation": "but 引出第二分句，主语为 76 per cent（76%的受试者），谓语 failed，不定式 to identify ... 说明失败的事情。",
+              "startToken": 14,
+              "endToken": 22
+            },
+            {
+              "id": "u05",
+              "kind": "并列分句②·主语",
+              "question": "第二分句的主语是多少比例的受试者？",
+              "text": "76 per cent",
+              "explanation": "76 per cent 是第二分句主语，省略了 of the teenagers；不等同于前句主语 the teenagers。",
+              "startToken": 15,
+              "endToken": 17
+            },
+            {
+              "id": "u06",
+              "kind": "并列分句②·谓语",
+              "question": "第二分句哪个词表示‘未能做到’？",
+              "text": "failed",
+              "explanation": "failed 是第二分句谓语，后接 to identify the cheapest。",
+              "startToken": 18,
+              "endToken": 18
+            },
+            {
+              "id": "u07",
+              "kind": "并列分句②·不定式补语",
+              "question": "76%的青少年未能完成的任务是什么？",
+              "text": "to identify the cheapest.",
+              "explanation": "to identify the cheapest 是 failed 后的不定式补足语，表示没有识别出最便宜贷款。",
+              "startToken": 19,
+              "endToken": 22
+            },
+            {
+              "id": "u08",
+              "kind": "不定式内部·宾语",
+              "question": "identify 的宾语在哪里？",
+              "text": "the cheapest.",
+              "explanation": "the cheapest 为名词化的形容词最高级，相当于 the cheapest loan（最便宜的贷款）。",
+              "startToken": 21,
+              "endToken": 22
+            }
+          ]
         },
         {
           "id": "online-shanghai-2008-autumn-C-05",
@@ -1851,8 +2253,8 @@
             "o": "that they would be earning on average £31,000 by the age of 25,",
             "x": "although the average salary for those aged 22 to 29 is just £17,815."
           },
-          "main": "The young people predicted",
-          "analysis": "predicted 后是宾语从句，其内部 they would be earning 为主谓。although 引导让步状语从句，其主语 the average salary，谓语 is，£17,815 是表语数值。for those aged 22 to 29 修饰 salary 所指人群，aged 22 to 29 修饰 those。",
+          "main": "The young people predicted that they would be earning £31,000, although the average salary is just £17,815.",
+          "analysis": "【主句】The young people 是主语，also 为副词作状语，predicted 为谓语，that ... by the age of 25 为宾语从句。\n【宾语从句】they 是主语，would be earning 是过去视角的将来进行时谓语；£31,000 表示预计年收入金额，on average 表示平均水平，by the age of 25 是时间状语。\n【让步状语从句】although the average salary for those aged 22 to 29 is just £17,815 与年轻人的预计作对照；主语 the average salary for those aged 22 to 29，系动词 is，表语 just £17,815；for those aged 22 to 29 修饰 salary，aged 22 to 29 修饰 those。\n【易错】although 从句有自己的主系表结构；主句没有并列谓语。",
           "meaning": "这些年轻人预测到25岁时平均收入可达31,000英镑，但22至29岁人群实际平均薪资仅17,815英镑。",
           "distractors": [
             "年轻人估计自己25岁时年收入只有17,815英镑，而22至29岁人群实际平均工资达到31,000英镑。",
@@ -1860,19 +2262,173 @@
             "年轻人预测自己的年收入为31,000英镑，而22至29岁人群的实际平均年收入也完全符合这一预测。"
           ],
           "deepNotes": [
-            "predicted 后是宾语从句，其内部 they would be earning 为主谓。although 引导让步状语从句，其主语 the average salary，谓语 is，£17,815 是表语数值。for those aged 22 to 29 修饰 salary 所指人群，aged 22 to 29 修饰 those。"
+            "【主句】The young people 是主语，also 为副词作状语，predicted 为谓语，that ... by the age of 25 为宾语从句。",
+            "【宾语从句】they 是主语，would be earning 是过去视角的将来进行时谓语；£31,000 表示预计年收入金额，on average 表示平均水平，by the age of 25 是时间状语。",
+            "【让步状语从句】although the average salary for those aged 22 to 29 is just £17,815 与年轻人的预计作对照；主语 the average salary for those aged 22 to 29，系动词 is，表语 just £17,815；for those aged 22 to 29 修饰 salary，aged 22 to 29 修饰 those。",
+            "【易错】although 从句有自己的主系表结构；主句没有并列谓语。"
           ],
           "diagramLinks": null,
           "roleExplanations": {
-            "s": "主句主语：The young people。结合整句解释其对应关系。",
-            "v": "主句谓语：predicted。结合整句解释其对应关系。",
-            "o": "主句宾语：that they would be earning on average £31,000 by the age of 25,。结合整句解释其对应关系。",
-            "x": "状语从句：although the average salary for those aged 22 to 29 is just £17,815.。结合整句解释其对应关系。"
+            "s": "主句主语 The young people，指受访青年。",
+            "v": "predicted 是主句谓语，also 是补充副词。",
+            "o": "that they would be earning on average £31,000 by the age of 25 是 predicted 的宾语从句；从句中 they 是主语、would be earning 是谓语。",
+            "x": "although 引导让步状语从句，将青年预期的收入与实际调查显示的平均工资作对比。"
           },
-          "grammarSupplements": [],
+          "grammarSupplements": [
+            {
+              "kind": "主句·副词状语",
+              "text": "also",
+              "explanation": "also 是副词状语，修饰主句 predicted。"
+            },
+            {
+              "kind": "宾语从句·主语",
+              "text": "they",
+              "explanation": "they 是宾语从句主语，回指前面的 the young people。"
+            },
+            {
+              "kind": "宾语从句·谓语",
+              "text": "would be earning",
+              "explanation": "would be earning 是从过去预期未来的进行结构；它不是主句谓语。"
+            },
+            {
+              "kind": "宾语从句·平均水平状语",
+              "text": "on average",
+              "explanation": "on average 为表示统计口径的状语，修饰赚取收入的描述。"
+            },
+            {
+              "kind": "宾语从句·金额宾语",
+              "text": "£31,000",
+              "explanation": "£31,000 作 earning 的金额宾语。"
+            },
+            {
+              "kind": "宾语从句·时间状语",
+              "text": "by the age of 25,",
+              "explanation": "by the age of 25 是时间状语，说明预期实现该收入的年龄节点。"
+            },
+            {
+              "kind": "让步状语从句·主语",
+              "text": "the average salary for those aged 22 to 29",
+              "explanation": "这个名词短语是 although 从句主语，核心为 the average salary。"
+            },
+            {
+              "kind": "让步从句·名词后置修饰",
+              "text": "for those aged 22 to 29",
+              "explanation": "for those aged 22 to 29 修饰 salary，限定统计人群。"
+            },
+            {
+              "kind": "让步从句·过去分词定语",
+              "text": "aged 22 to 29",
+              "explanation": "aged 22 to 29 是过去分词形式的后置定语，修饰 those。"
+            },
+            {
+              "kind": "让步从句·表语",
+              "text": "just £17,815.",
+              "explanation": "just £17,815 是金额表语，just 限定数额仅有这些。"
+            }
+          ],
           "generatedGlossary": null,
           "acceptedTargets": null,
-          "studyUnits": []
+          "studyUnits": [
+            {
+              "id": "u01",
+              "kind": "主句·副词状语",
+              "question": "主句谓语 predicted 前哪个副词表示‘还／也’？",
+              "text": "also",
+              "explanation": "also 是副词状语，修饰主句 predicted。",
+              "startToken": 3,
+              "endToken": 3
+            },
+            {
+              "id": "u02",
+              "kind": "宾语从句·主语",
+              "question": "that 宾语从句中，预计获得收入的人是谁？",
+              "text": "they",
+              "explanation": "they 是宾语从句主语，回指前面的 the young people。",
+              "startToken": 6,
+              "endToken": 6
+            },
+            {
+              "id": "u03",
+              "kind": "宾语从句·谓语",
+              "question": "在 that 从句中，哪一段表达预期将持续赚取收入？",
+              "text": "would be earning",
+              "explanation": "would be earning 是从过去预期未来的进行结构；它不是主句谓语。",
+              "startToken": 7,
+              "endToken": 9
+            },
+            {
+              "id": "u04",
+              "kind": "宾语从句·平均水平状语",
+              "question": "哪一段说明预期收入是平均数？",
+              "text": "on average",
+              "explanation": "on average 为表示统计口径的状语，修饰赚取收入的描述。",
+              "startToken": 10,
+              "endToken": 11
+            },
+            {
+              "id": "u05",
+              "kind": "宾语从句·金额宾语",
+              "question": "从句中预计平均赚到的金额是什么？",
+              "text": "£31,000",
+              "explanation": "£31,000 作 earning 的金额宾语。",
+              "startToken": 12,
+              "endToken": 12
+            },
+            {
+              "id": "u06",
+              "kind": "宾语从句·时间状语",
+              "question": "青年预计到什么年龄时有这个收入？",
+              "text": "by the age of 25,",
+              "explanation": "by the age of 25 是时间状语，说明预期实现该收入的年龄节点。",
+              "startToken": 13,
+              "endToken": 17
+            },
+            {
+              "id": "u07",
+              "kind": "让步状语从句·主语",
+              "question": "although 从句里讨论的实际平均工资是什么？选出完整主语。",
+              "text": "the average salary for those aged 22 to 29",
+              "explanation": "这个名词短语是 although 从句主语，核心为 the average salary。",
+              "startToken": 19,
+              "endToken": 27
+            },
+            {
+              "id": "u08",
+              "kind": "让步从句·名词后置修饰",
+              "question": "哪些年龄的人群的平均工资？",
+              "text": "for those aged 22 to 29",
+              "explanation": "for those aged 22 to 29 修饰 salary，限定统计人群。",
+              "startToken": 22,
+              "endToken": 27
+            },
+            {
+              "id": "u09",
+              "kind": "让步从句·过去分词定语",
+              "question": "那些人具体处于哪个年龄段？",
+              "text": "aged 22 to 29",
+              "explanation": "aged 22 to 29 是过去分词形式的后置定语，修饰 those。",
+              "startToken": 24,
+              "endToken": 27
+            },
+            {
+              "id": "u10",
+              "kind": "让步从句·系动词",
+              "question": "although 从句中连接平均工资和金额的系动词是什么？",
+              "text": "is",
+              "explanation": "is 是让步状语从句中的系动词，不是主句谓语。",
+              "startToken": 28,
+              "endToken": 28
+            },
+            {
+              "id": "u11",
+              "kind": "让步从句·表语",
+              "question": "让步状语从句给出的实际平均工资数值是什么？",
+              "text": "just £17,815.",
+              "explanation": "just £17,815 是金额表语，just 限定数额仅有这些。",
+              "startToken": 29,
+              "endToken": 30
+            }
+          ]
         },
         {
           "id": "online-shanghai-2008-autumn-C-06",
@@ -1883,8 +2439,8 @@
             "v": "expected",
             "x": "although half said that they assumed the debts would be less than £10,000."
           },
-          "main": "The teenagers expected",
-          "analysis": "主句 expected 后跟不定式 to be in debt，when they finished university or training 是时间从句。although half said ... 是让步从句，内部 said 后的 that ... 是宾语从句，该从句内 assumed 后又省略 that 引出 the debts would be less than ...，形成两层嵌套。",
+          "main": "The teenagers expected to be in debt, although half said that they assumed the debts would be less than £10,000.",
+          "analysis": "【主句】The teenagers（主语）+ expected（谓语）+ to be in debt（不定式补足语，说明预期所处的状态）。\n【时间状语从句】when they finished university or training 修饰 to be in debt 这一预期状态，内部 they（主语）+ finished（谓语）+ university or training（宾语）。\n【让步状语从句】although half said that they assumed the debts would be less than £10,000：half 指一半受访青少年，said 为谓语；that they assumed ... 是 said 的宾语从句。\n【嵌套宾语从句】该 that 从句内 they 是主语，assumed 是谓语，后面省略连接词 that，引出 the debts would be less than £10,000（assumed 的宾语从句）；其中 the debts 是主语，would be 系动词，less than £10,000 为表语。\n【结构提醒】两层宾语从句不要都误认成修饰主句 teenagers；the debts 的金额判断是受访者的假设，不是研究得出的实际债务。",
           "meaning": "这些青少年预计自己完成大学学业或培训时会欠债，但一半人认为欠款会低于1万英镑。",
           "distractors": [
             "这些青少年预计大学或培训结束时不会负债，而且一半人认为自己会有1万英镑的存款。",
@@ -1892,18 +2448,173 @@
             "研究发现，全部青少年都确信毕业时欠款恰好为1万英镑，没有人认为债务会更少。"
           ],
           "deepNotes": [
-            "主句 expected 后跟不定式 to be in debt，when they finished university or training 是时间从句。although half said ... 是让步从句，内部 said 后的 that ... 是宾语从句，该从句内 assumed 后又省略 that 引出 the debts would be less than ...，形成两层嵌套。"
+            "【主句】The teenagers（主语）+ expected（谓语）+ to be in debt（不定式补足语，说明预期所处的状态）。",
+            "【时间状语从句】when they finished university or training 修饰 to be in debt 这一预期状态，内部 they（主语）+ finished（谓语）+ university or training（宾语）。",
+            "【让步状语从句】although half said that they assumed the debts would be less than £10,000：half 指一半受访青少年，said 为谓语；that they assumed ... 是 said 的宾语从句。",
+            "【嵌套宾语从句】该 that 从句内 they 是主语，assumed 是谓语，后面省略连接词 that，引出 the debts would be less than £10,000（assumed 的宾语从句）；其中 the debts 是主语，would be 系动词，less than £10,000 为表语。",
+            "【结构提醒】两层宾语从句不要都误认成修饰主句 teenagers；the debts 的金额判断是受访者的假设，不是研究得出的实际债务。"
           ],
           "diagramLinks": null,
           "roleExplanations": {
-            "s": "主句主语：The teenagers。结合整句解释其对应关系。",
-            "v": "主句谓语：expected。结合整句解释其对应关系。",
-            "x": "状语从句：although half said that they assumed the debts would be less than £10,000.。结合整句解释其对应关系。"
+            "s": "The teenagers 为主句主语。",
+            "v": "expected 是主句谓语，后面用 to be in debt 补充预期的内容。",
+            "x": "although 引导让步状语从句，其内部 said -> assumed -> debts would be 的多层结构必须继续分析。"
           },
-          "grammarSupplements": [],
+          "grammarSupplements": [
+            {
+              "kind": "不定式补足语",
+              "text": "to be in debt",
+              "explanation": "to be in debt 是 expected 后的不定式补足语；in debt 是表示负债状态的介词短语作表语。"
+            },
+            {
+              "kind": "时间状语从句",
+              "text": "when they finished university or training,",
+              "explanation": "when 引导时间状语从句，修饰 to be in debt 的时间；该从句主语 they、谓语 finished、宾语 university or training。"
+            },
+            {
+              "kind": "让步状语从句·主语",
+              "text": "half",
+              "explanation": "half 指一半受访者，是 although 从句的主语。"
+            },
+            {
+              "kind": "让步状语从句·谓语",
+              "text": "said",
+              "explanation": "said 是 although 从句的谓语，其宾语为 that they assumed ... 从句。"
+            },
+            {
+              "kind": "宾语从句①",
+              "text": "that they assumed the debts would be less than £10,000.",
+              "explanation": "该 that 从句是 said 的宾语，里面又嵌套 assumed 的宾语从句；不能只找第一层 then 停止分析。"
+            },
+            {
+              "kind": "宾语从句①·谓语",
+              "text": "assumed",
+              "explanation": "assumed 是 they 的谓语，其后省略 that 引出另一个宾语从句。"
+            },
+            {
+              "kind": "宾语从句②",
+              "text": "the debts would be less than £10,000.",
+              "explanation": "这是 assumed 的宾语从句，主语 the debts，系动词 would be，表语 less than £10,000。"
+            },
+            {
+              "kind": "宾语从句②·主语",
+              "text": "the debts",
+              "explanation": "the debts 是最里层宾语从句的主语。"
+            },
+            {
+              "kind": "宾语从句②·系动词",
+              "text": "would be",
+              "explanation": "would be 为情态动词加系动词，后跟金额比较表语。"
+            },
+            {
+              "kind": "宾语从句②·表语",
+              "text": "less than £10,000.",
+              "explanation": "less than £10,000 作比较数量表语；less than 不等于 less 的单独宾语。"
+            }
+          ],
           "generatedGlossary": null,
           "acceptedTargets": null,
-          "studyUnits": []
+          "studyUnits": [
+            {
+              "id": "u01",
+              "kind": "不定式补足语",
+              "question": "青少年预计自己毕业时将处于什么状态？",
+              "text": "to be in debt",
+              "explanation": "to be in debt 是 expected 后的不定式补足语；in debt 是表示负债状态的介词短语作表语。",
+              "startToken": 3,
+              "endToken": 6
+            },
+            {
+              "id": "u02",
+              "kind": "时间状语从句",
+              "question": "哪部分说明预计什么时候会负债？",
+              "text": "when they finished university or training,",
+              "explanation": "when 引导时间状语从句，修饰 to be in debt 的时间；该从句主语 they、谓语 finished、宾语 university or training。",
+              "startToken": 7,
+              "endToken": 12
+            },
+            {
+              "id": "u03",
+              "kind": "时间从句·动宾结构",
+              "question": "时间从句中，青少年将完成什么？",
+              "text": "finished university or training,",
+              "explanation": "finished 是时间从句谓语，university or training 为并列宾语成分；不是主句谓语。",
+              "startToken": 9,
+              "endToken": 12
+            },
+            {
+              "id": "u04",
+              "kind": "让步状语从句·主语",
+              "question": "although 从句里哪一部分青少年作出了较低负债的估计？",
+              "text": "half",
+              "explanation": "half 指一半受访者，是 although 从句的主语。",
+              "startToken": 14,
+              "endToken": 14
+            },
+            {
+              "id": "u05",
+              "kind": "让步状语从句·谓语",
+              "question": "although 从句中表达‘说’的谓语是什么？",
+              "text": "said",
+              "explanation": "said 是 although 从句的谓语，其宾语为 that they assumed ... 从句。",
+              "startToken": 15,
+              "endToken": 15
+            },
+            {
+              "id": "u06",
+              "kind": "宾语从句①",
+              "question": "said 后的整个 that 宾语从句是什么？",
+              "text": "that they assumed the debts would be less than £10,000.",
+              "explanation": "该 that 从句是 said 的宾语，里面又嵌套 assumed 的宾语从句；不能只找第一层 then 停止分析。",
+              "startToken": 16,
+              "endToken": 25
+            },
+            {
+              "id": "u07",
+              "kind": "宾语从句①·谓语",
+              "question": "that 宾语从句里哪个词表示‘认为／假定’？",
+              "text": "assumed",
+              "explanation": "assumed 是 they 的谓语，其后省略 that 引出另一个宾语从句。",
+              "startToken": 18,
+              "endToken": 18
+            },
+            {
+              "id": "u08",
+              "kind": "宾语从句②",
+              "question": "assumed 后面省略 that 的宾语从句是哪一段？",
+              "text": "the debts would be less than £10,000.",
+              "explanation": "这是 assumed 的宾语从句，主语 the debts，系动词 would be，表语 less than £10,000。",
+              "startToken": 19,
+              "endToken": 25
+            },
+            {
+              "id": "u09",
+              "kind": "宾语从句②·主语",
+              "question": "最里层从句中什么可能低于1万英镑？",
+              "text": "the debts",
+              "explanation": "the debts 是最里层宾语从句的主语。",
+              "startToken": 19,
+              "endToken": 20
+            },
+            {
+              "id": "u10",
+              "kind": "宾语从句②·系动词",
+              "question": "最里层从句哪个部分承担‘将是’的系动词功能？",
+              "text": "would be",
+              "explanation": "would be 为情态动词加系动词，后跟金额比较表语。",
+              "startToken": 21,
+              "endToken": 22
+            },
+            {
+              "id": "u11",
+              "kind": "宾语从句②·表语",
+              "question": "最里层从句估计欠款会低于多少？",
+              "text": "less than £10,000.",
+              "explanation": "less than £10,000 作比较数量表语；less than 不等于 less 的单独宾语。",
+              "startToken": 23,
+              "endToken": 25
+            }
+          ]
         },
         {
           "id": "online-shanghai-2008-autumn-C-07",
