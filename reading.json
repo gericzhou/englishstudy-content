@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": 16,
+  "revision": 17,
   "passages": [
     {
       "id": "online-shanghai-2008-autumn-B",
@@ -2488,6 +2488,920 @@
       "verifiedShanghaiExam": false,
       "examEdition": "shanghai-2008-autumn",
       "examPart": "C"
+    },
+    {
+      "id": "online-shanghai-2008-autumn-D",
+      "section": "ONLINE",
+      "title": "2008年上海秋考英语 · 阅读理解 D · Global Food Crisis",
+      "page": "第8—9页 · 阅读理解 D（76—79题）",
+      "sentences": [
+        {
+          "id": "online-shanghai-2008-autumn-D-01",
+          "paragraph": 1,
+          "sentence": "The world economy has run into a brick wall.",
+          "targets": {
+            "s": "The world economy",
+            "v": "has run into",
+            "o": "a brick wall."
+          },
+          "main": "The world economy has run into a brick wall.",
+          "analysis": "【主句主干】The world economy 作主语；has run into 为现在完成时的短语动词谓语；a brick wall 为宾语。【语义】run into a brick wall 在此是比喻：经济发展遇到了重大阻碍，而非真的撞上墙。run into 应当整体识别。",
+          "meaning": "世界经济遭遇了难以突破的障碍。",
+          "distractors": [
+            "世界经济已经突破了全部发展障碍。",
+            "全球建筑行业发生了砖墙倒塌事故。",
+            "世界经济预计很快将进入高速增长阶段。"
+          ],
+          "deepNotes": [],
+          "roleExplanations": {
+            "s": "The world economy 是对应主句的语法成分；结合上下文区分主句与从句。",
+            "v": "has run into 是对应主句的语法成分；结合上下文区分主句与从句。",
+            "o": "a brick wall. 是对应主句的语法成分；结合上下文区分主句与从句。"
+          },
+          "grammarSupplements": [],
+          "generatedGlossary": null,
+          "acceptedTargets": null,
+          "studyUnits": []
+        },
+        {
+          "id": "online-shanghai-2008-autumn-D-02",
+          "paragraph": 1,
+          "sentence": "Despite countless warnings in recent years about the need to address a potential hunger crisis in poor countries and an energy crisis worldwide, world leaders failed to think ahead.",
+          "targets": {
+            "s": "world leaders",
+            "v": "failed"
+          },
+          "main": "world leaders failed to think ahead.",
+          "analysis": "【主句主干】world leaders 是主语，failed 是谓语；to think ahead 为不定式补足内容。【主句让步状语】Despite ... worldwide 为完整的介词短语作让步状语，表示‘尽管有无数预警’。其中 about the need ... 修饰 warnings；to address ... 修饰 need，后接两个并列的危机对象。Despite 不是连词，后面并非一个独立的让步从句。",
+          "meaning": "尽管近年来不断有人警告要应对贫困国家可能出现的饥荒危机以及全球能源危机，各国领导人却未能提前谋划。",
+          "distractors": [
+            "各国领导人提前应对了所有预警，避免了饥荒。",
+            "领导人只关注贫困国家能源生产，不考虑食物问题。",
+            "全球粮食危机之所以消失，是因为政府减少了警告。"
+          ],
+          "deepNotes": [],
+          "roleExplanations": {
+            "s": "world leaders 是对应主句的语法成分；结合上下文区分主句与从句。",
+            "v": "failed 是对应主句的语法成分；结合上下文区分主句与从句。"
+          },
+          "grammarSupplements": [
+            {
+              "kind": "主句让步状语",
+              "text": "Despite countless warnings in recent years about the need to address a potential hunger crisis in poor countries and an energy crisis worldwide,",
+              "explanation": "这一整体以 Despite 引导，表示虽已收到无数警告却仍未提前筹划；修饰主句 failed。"
+            },
+            {
+              "kind": "谓语补足成分",
+              "text": "to think ahead.",
+              "explanation": "不定式短语补充 failed 的内容，表示未能未雨绸缪。"
+            }
+          ],
+          "generatedGlossary": null,
+          "acceptedTargets": {
+            "v": [
+              "failed to think ahead"
+            ]
+          },
+          "studyUnits": [
+            {
+              "id": "d17-02-1",
+              "kind": "主句让步状语",
+              "question": "找出主句让步状语的完整部分，判断它在主句中起什么作用。",
+              "text": "Despite countless warnings in recent years about the need to address a potential hunger crisis in poor countries and an energy crisis worldwide,",
+              "explanation": "这一整体以 Despite 引导，表示虽已收到无数警告却仍未提前筹划；修饰主句 failed。",
+              "startToken": 0,
+              "endToken": 22
+            },
+            {
+              "id": "d17-02-2",
+              "kind": "谓语补足成分",
+              "question": "找出谓语补足成分的完整部分，判断它在主句中起什么作用。",
+              "text": "to think ahead.",
+              "explanation": "不定式短语补充 failed 的内容，表示未能未雨绸缪。",
+              "startToken": 26,
+              "endToken": 28
+            }
+          ]
+        },
+        {
+          "id": "online-shanghai-2008-autumn-D-03",
+          "paragraph": 1,
+          "sentence": "The result is a global food crisis.",
+          "targets": {
+            "s": "The result",
+            "v": "is",
+            "p": "a global food crisis."
+          },
+          "main": "The result is a global food crisis.",
+          "analysis": "【主系表】The result 是主语，is 为系动词，a global food crisis 为名词性表语。句中没有直接宾语；result 指前面没有及时处理危机风险所造成的后果。",
+          "meaning": "其结果就是一场全球性的粮食危机。",
+          "distractors": [
+            "这一结果帮助世界摆脱了所有粮食危机。",
+            "全球粮食危机已经完全获得解决。",
+            "这是一项全球市场盈利结果。"
+          ],
+          "deepNotes": [],
+          "roleExplanations": {
+            "s": "The result 是对应主句的语法成分；结合上下文区分主句与从句。",
+            "v": "is 是对应主句的语法成分；结合上下文区分主句与从句。",
+            "p": "a global food crisis. 是对应主句的语法成分；结合上下文区分主句与从句。"
+          },
+          "grammarSupplements": [],
+          "generatedGlossary": null,
+          "acceptedTargets": null,
+          "studyUnits": []
+        },
+        {
+          "id": "online-shanghai-2008-autumn-D-04",
+          "paragraph": 1,
+          "sentence": "Wheat, corn and rice prices have more than doubled in the past two years.",
+          "targets": {
+            "s": "Wheat, corn and rice prices",
+            "v": "have more than doubled"
+          },
+          "main": "Wheat, corn and rice prices / have more than doubled",
+          "analysis": "【主句主干】Wheat, corn and rice prices 为完整主语；中心词 prices，前面三种粮食并列修饰 prices。have more than doubled 是现在完成时谓语，double 在这里是不及物动词，不应硬找宾语。【状语】in the past two years 为时间状语。注意‘涨到两倍多’与‘上涨两倍多’并非同义。",
+          "meaning": "过去两年，小麦、玉米和大米的价格已涨到原来的两倍多。",
+          "distractors": [
+            "过去两年三种粮食的价格都下跌了一半。",
+            "过去两年三种粮食的出口总量翻了十倍。",
+            "小麦价格翻倍，而玉米和大米价格保持不变。"
+          ],
+          "deepNotes": [],
+          "roleExplanations": {
+            "s": "Wheat, corn and rice prices 是对应主句的语法成分；结合上下文区分主句与从句。",
+            "v": "have more than doubled 是对应主句的语法成分；结合上下文区分主句与从句。"
+          },
+          "grammarSupplements": [
+            {
+              "kind": "主句时间状语",
+              "text": "in the past two years.",
+              "explanation": "限定上涨发生于过去两年，与 have ... doubled 对应。"
+            }
+          ],
+          "generatedGlossary": null,
+          "acceptedTargets": null,
+          "studyUnits": [
+            {
+              "id": "d17-04-1",
+              "kind": "主句时间状语",
+              "question": "找出主句时间状语的完整部分，判断它在主句中起什么作用。",
+              "text": "in the past two years.",
+              "explanation": "限定上涨发生于过去两年，与 have ... doubled 对应。",
+              "startToken": 9,
+              "endToken": 13
+            }
+          ]
+        },
+        {
+          "id": "online-shanghai-2008-autumn-D-05",
+          "paragraph": 1,
+          "sentence": "And oil prices have increased more than three times since the start of 2004.",
+          "targets": {
+            "s": "oil prices",
+            "v": "have increased"
+          },
+          "main": "oil prices / have increased",
+          "analysis": "【主句主干】oil prices 是主语；have increased 是现在完成时谓语。more than three times 说明上涨幅度；since the start of 2004 是表示起点的时间状语。句首 And 承接粮价上涨的数据，不是主语的一部分。",
+          "meaning": "而自2004年初以来，石油价格的涨幅已超过三倍。",
+          "distractors": [
+            "2004年以后石油价格降到三分之一。",
+            "石油价格只在2004年当年上升过一次。",
+            "2004年之后石油产量增加了三倍，但价格没变。"
+          ],
+          "deepNotes": [],
+          "roleExplanations": {
+            "s": "oil prices 是对应主句的语法成分；结合上下文区分主句与从句。",
+            "v": "have increased 是对应主句的语法成分；结合上下文区分主句与从句。"
+          },
+          "grammarSupplements": [
+            {
+              "kind": "主句时间状语",
+              "text": "since the start of 2004.",
+              "explanation": "说明从2004年初到现在的变化时间段。"
+            }
+          ],
+          "generatedGlossary": null,
+          "acceptedTargets": null,
+          "studyUnits": [
+            {
+              "id": "d17-05-1",
+              "kind": "主句时间状语",
+              "question": "找出主句时间状语的完整部分，判断它在主句中起什么作用。",
+              "text": "since the start of 2004.",
+              "explanation": "说明从2004年初到现在的变化时间段。",
+              "startToken": 9,
+              "endToken": 13
+            }
+          ]
+        },
+        {
+          "id": "online-shanghai-2008-autumn-D-06",
+          "paragraph": 1,
+          "sentence": "These food-price increases, combined with increasing energy costs, will slow if not stop economic growth in many parts of the world and will even affect political stability.",
+          "targets": {
+            "s": "These food-price increases",
+            "v": "will slow",
+            "o": "economic growth in many parts of the world",
+            "v2": "will even affect",
+            "o2": "political stability."
+          },
+          "main": "These food-price increases will slow economic growth and will even affect political stability.",
+          "analysis": "【主干】These food-price increases 是两组并列谓语的共同主语；第一组 will slow 对应宾语 economic growth in many parts of the world；第二组 will even affect 对应宾语 political stability。【附加修饰】combined with increasing energy costs 是修饰主语的过去分词短语。【插入结构】if not stop 是对 slow 的递进修正，意为‘即使不完全阻止，也会减缓’，不单作为独立条件状语从句。两组谓语相距较远，但仍共享主语。",
+          "meaning": "食品价格上涨，再加上不断攀升的能源成本，将减缓甚至阻止许多地区的经济增长，并影响政治稳定。",
+          "distractors": [
+            "粮食价格和能源价格上涨将加快经济增长、改善政治稳定。",
+            "食品和能源价格上涨只会影响粮食产量，完全不影响经济。",
+            "经济增长将导致食品价格持续下跌，并增强政治稳定。"
+          ],
+          "deepNotes": [
+            "注意 will slow 与 will even affect 是两个共享主语的并列谓语；if not stop 为递进插入语。"
+          ],
+          "roleExplanations": {
+            "s": "These food-price increases 是对应主句的语法成分；结合上下文区分主句与从句。",
+            "v": "will slow 是对应主句的语法成分；结合上下文区分主句与从句。",
+            "o": "economic growth in many parts of the world 是对应主句的语法成分；结合上下文区分主句与从句。",
+            "v2": "will even affect 是对应主句的语法成分；结合上下文区分主句与从句。",
+            "o2": "political stability. 是对应主句的语法成分；结合上下文区分主句与从句。"
+          },
+          "grammarSupplements": [
+            {
+              "kind": "主语补充修饰",
+              "text": "combined with increasing energy costs,",
+              "explanation": "过去分词短语补充主语 These food-price increases，说明能源成本上升共同加剧影响。"
+            }
+          ],
+          "generatedGlossary": null,
+          "acceptedTargets": null,
+          "studyUnits": [
+            {
+              "id": "d17-06-1",
+              "kind": "主语补充修饰",
+              "question": "找出主语补充修饰的完整部分，判断它在主句中起什么作用。",
+              "text": "combined with increasing energy costs,",
+              "explanation": "过去分词短语补充主语 These food-price increases，说明能源成本上升共同加剧影响。",
+              "startToken": 3,
+              "endToken": 7
+            }
+          ]
+        },
+        {
+          "id": "online-shanghai-2008-autumn-D-07",
+          "paragraph": 1,
+          "sentence": "Practical solutions to these problems do exist, but we'll have to start thinking ahead and acting globally.",
+          "targets": {
+            "s": "Practical solutions to these problems",
+            "v": "do exist"
+          },
+          "main": "Practical solutions do exist, but we'll have to start thinking ahead and acting globally.",
+          "analysis": "【第一主句】Practical solutions to these problems 为主语，do exist 为强调式谓语；to these problems 作后置修饰。【并列主句】but we'll have to start thinking ahead and acting globally 有新的主语 we，谓语 have to start；thinking ahead 与 acting globally 为并列 -ing 补足结构。前后主句的主语不同，因此不能把第二主句视为第一主句的共享主语谓语。",
+          "meaning": "这些问题确实有切实可行的解决方案，但我们必须开始提前规划并在全球协同行动。",
+          "distractors": [
+            "世界各国已经完成所有方案，因此不必行动。",
+            "现实中完全不存在缓解粮食与能源危机的方案。",
+            "作者认为各国只需各自处理本国问题，无需全球协调。"
+          ],
+          "deepNotes": [],
+          "roleExplanations": {
+            "s": "Practical solutions to these problems 是对应主句的语法成分；结合上下文区分主句与从句。",
+            "v": "do exist 是对应主句的语法成分；结合上下文区分主句与从句。"
+          },
+          "grammarSupplements": [
+            {
+              "kind": "并列主句②",
+              "text": "but we'll have to start thinking ahead and acting globally.",
+              "explanation": "but 后为独立并列主句，主语 we 与 solutions 不同，强调未来需要立即规划和协同。"
+            }
+          ],
+          "generatedGlossary": null,
+          "acceptedTargets": {
+            "s": [
+              "Practical solutions"
+            ]
+          },
+          "studyUnits": [
+            {
+              "id": "d17-07-1",
+              "kind": "并列主句②",
+              "question": "找出并列主句②的完整部分，判断它在主句中起什么作用。",
+              "text": "but we'll have to start thinking ahead and acting globally.",
+              "explanation": "but 后为独立并列主句，主语 we 与 solutions 不同，强调未来需要立即规划和协同。",
+              "startToken": 7,
+              "endToken": 16
+            }
+          ]
+        },
+        {
+          "id": "online-shanghai-2008-autumn-D-08",
+          "paragraph": 2,
+          "sentence": "Here are three steps to ease the current food crisis and avoid the potential for a global crisis.",
+          "targets": {
+            "s": "three steps to ease the current food crisis and avoid the potential for a global crisis.",
+            "v": "are"
+          },
+          "main": "Here are three steps.",
+          "analysis": "【倒装主句】Here are ... 是以地点副词起首的倒装结构，真正主语是后面的 three steps ...，系动词 are 位于主语之前，Here 不是主语。【定语】to ease ... and avoid ... 为不定式后置定语，修饰 steps；ease 与 avoid 是并列动作。",
+          "meaning": "下面提出三项措施，以缓解当前的粮食危机，并避免可能发生的全球性危机。",
+          "distractors": [
+            "这里列出三种办法来加剧粮食危机。",
+            "三项措施主要用于提高世界油价。",
+            "这里说明全球粮食危机已经完全结束。"
+          ],
+          "deepNotes": [
+            "倒装句真正的主语是 three steps；不要把 Here 认成主语。"
+          ],
+          "roleExplanations": {
+            "s": "three steps to ease the current food crisis and avoid the potential for a global crisis. 是对应主句的语法成分；结合上下文区分主句与从句。",
+            "v": "are 是对应主句的语法成分；结合上下文区分主句与从句。"
+          },
+          "grammarSupplements": [
+            {
+              "kind": "主语后置定语",
+              "text": "to ease the current food crisis and avoid the potential for a global crisis.",
+              "explanation": "后置不定式短语修饰 steps，表示这些措施的用途；ease 与 avoid 并列。"
+            }
+          ],
+          "generatedGlossary": null,
+          "acceptedTargets": {
+            "s": [
+              "three steps"
+            ]
+          },
+          "studyUnits": [
+            {
+              "id": "d17-08-1",
+              "kind": "主语后置定语",
+              "question": "找出主语后置定语的完整部分，判断它在主句中起什么作用。",
+              "text": "to ease the current food crisis and avoid the potential for a global crisis.",
+              "explanation": "后置不定式短语修饰 steps，表示这些措施的用途；ease 与 avoid 并列。",
+              "startToken": 4,
+              "endToken": 17
+            }
+          ]
+        },
+        {
+          "id": "online-shanghai-2008-autumn-D-09",
+          "paragraph": 2,
+          "sentence": "The first is to promote the dramatic success of Malawi, a country in southern Africa, which three years ago established a special fund to help its farmers get fertilizer and seeds with high productivity.",
+          "targets": {
+            "s": "The first",
+            "v": "is",
+            "p": "to promote the dramatic success of Malawi"
+          },
+          "main": "The first is to promote the dramatic success of Malawi.",
+          "analysis": "【主系表】The first 是主语，is 是系动词，to promote ... 是不定式表语。【同位语】a country in southern Africa 说明 Malawi 的位置。【定语从句】which three years ago established a special fund ... 修饰 Malawi；which 在从句中为主语，established 为谓语，a special fund 为宾语。【基金目的】to help its farmers get fertilizer and seeds with high productivity 解释设立基金的目的，get 后接并列的肥料与高产种子。以上从句内部只作文字讲解，不逐项圈选。",
+          "meaning": "第一步是推广非洲南部马拉维的成功经验：三年前该国设立专项基金，帮助农民获得化肥和高产种子。",
+          "distractors": [
+            "第一步是要求南部非洲国家停止农业补贴和粮食生产。",
+            "马拉维政府三年前禁止农民使用化肥和优质种子。",
+            "作者认为第一步应从马拉维大量进口全部粮食。"
+          ],
+          "deepNotes": [
+            "which 指 Malawi，不能误指 success。"
+          ],
+          "roleExplanations": {
+            "s": "The first 是对应主句的语法成分；结合上下文区分主句与从句。",
+            "v": "is 是对应主句的语法成分；结合上下文区分主句与从句。",
+            "p": "to promote the dramatic success of Malawi 是对应主句的语法成分；结合上下文区分主句与从句。"
+          },
+          "grammarSupplements": [],
+          "generatedGlossary": null,
+          "acceptedTargets": null,
+          "studyUnits": []
+        },
+        {
+          "id": "online-shanghai-2008-autumn-D-10",
+          "paragraph": 2,
+          "sentence": "Malawi’s harvest doubled after just one year.",
+          "targets": {
+            "s": "Malawi’s harvest",
+            "v": "doubled"
+          },
+          "main": "Malawi’s harvest / doubled",
+          "analysis": "【主句主干】Malawi’s harvest 为主语，doubled 为不及物谓语，意思是‘变为两倍’。【状语】after just one year 是时间状语，强调项目实施一年即见效。",
+          "meaning": "仅一年后，马拉维的收成就翻了一番。",
+          "distractors": [
+            "马拉维一年后的收成减少了一半。",
+            "马拉维的粮食产量一直没有变化。",
+            "马拉维花了十年时间才开始种植粮食。"
+          ],
+          "deepNotes": [],
+          "roleExplanations": {
+            "s": "Malawi’s harvest 是对应主句的语法成分；结合上下文区分主句与从句。",
+            "v": "doubled 是对应主句的语法成分；结合上下文区分主句与从句。"
+          },
+          "grammarSupplements": [
+            {
+              "kind": "主句时间状语",
+              "text": "after just one year.",
+              "explanation": "说明帮助农民的措施实施后仅用一年就见到成果。"
+            }
+          ],
+          "generatedGlossary": null,
+          "acceptedTargets": null,
+          "studyUnits": [
+            {
+              "id": "d17-10-1",
+              "kind": "主句时间状语",
+              "question": "找出主句时间状语的完整部分，判断它在主句中起什么作用。",
+              "text": "after just one year.",
+              "explanation": "说明帮助农民的措施实施后仅用一年就见到成果。",
+              "startToken": 3,
+              "endToken": 6
+            }
+          ]
+        },
+        {
+          "id": "online-shanghai-2008-autumn-D-11",
+          "paragraph": 2,
+          "sentence": "An international fund based on the Malawi model would cost a mere $10 per person annually in the rich world, or $10 billion altogether.",
+          "targets": {
+            "s": "An international fund based on the Malawi model",
+            "v": "would cost",
+            "o": "a mere $10 per person annually in the rich world, or $10 billion altogether."
+          },
+          "main": "An international fund would cost $10 per person annually, or $10 billion altogether.",
+          "analysis": "【主干】An international fund ... 为主语，would cost 为估算费用的谓语，后面金额为宾语。【定语】based on the Malawi model 修饰 fund。【金额】$10 per person annually 表示富国人均每年10美元；or $10 billion altogether 指整体总额100亿美元，并不是每一个发达国家都需要独立出100亿美元。【76题】基金用途是帮助贫困农民取得化肥和高产种子。",
+          "meaning": "按马拉维模式设立一个国际基金，富裕国家每人每年只需支付10美元，总共约100亿美元。",
+          "distractors": [
+            "这种国际基金要求每个发达国家每年支付100亿美元。",
+            "这一基金主要是给富裕国家补贴高端农业机械。",
+            "马拉维模式只帮助贫困地区降低世界原油价格。"
+          ],
+          "deepNotes": [
+            "$10 billion 是总额，不是每个国家支付的金额。"
+          ],
+          "roleExplanations": {
+            "s": "An international fund based on the Malawi model 是对应主句的语法成分；结合上下文区分主句与从句。",
+            "v": "would cost 是对应主句的语法成分；结合上下文区分主句与从句。",
+            "o": "a mere $10 per person annually in the rich world, or $10 billion altogether. 是对应主句的语法成分；结合上下文区分主句与从句。"
+          },
+          "grammarSupplements": [
+            {
+              "kind": "主语后置定语",
+              "text": "based on the Malawi model",
+              "explanation": "过去分词短语修饰国际基金，说明其模式参考马拉维的做法。"
+            }
+          ],
+          "generatedGlossary": null,
+          "acceptedTargets": {
+            "s": [
+              "An international fund"
+            ]
+          },
+          "studyUnits": [
+            {
+              "id": "d17-11-1",
+              "kind": "主语后置定语",
+              "question": "找出主语后置定语的完整部分，判断它在主句中起什么作用。",
+              "text": "based on the Malawi model",
+              "explanation": "过去分词短语修饰国际基金，说明其模式参考马拉维的做法。",
+              "startToken": 3,
+              "endToken": 7
+            }
+          ]
+        },
+        {
+          "id": "online-shanghai-2008-autumn-D-12",
+          "paragraph": 3,
+          "sentence": "Second, the U.S. and Europe should abandon their policies of paying partly for the change of food into biofuels.",
+          "targets": {
+            "s": "the U.S. and Europe",
+            "v": "should abandon",
+            "o": "their policies of paying partly for the change of food into biofuels."
+          },
+          "main": "the U.S. and Europe should abandon their policies.",
+          "analysis": "【主干】the U.S. and Europe 是并列主语，should abandon 为情态动词加实义动词构成的谓语，their policies ... 是宾语。【宾语后置定语】of paying partly for the change of food into biofuels 修饰 policies，进一步解释应放弃的是政府补贴将粮食转化为燃料的政策。作者并未否定所有非粮生物燃料。",
+          "meaning": "第二，美国和欧洲应该放弃为把粮食转化为生物燃料提供部分补贴的政策。",
+          "distractors": [
+            "第二，美国和欧洲应该增加用粮食生产生物燃料的财政补贴。",
+            "作者建议彻底停止所有形式的生物燃料研究。",
+            "第二步要求美国和欧洲停止食品种植，全面改用石油。"
+          ],
+          "deepNotes": [],
+          "roleExplanations": {
+            "s": "the U.S. and Europe 是对应主句的语法成分；结合上下文区分主句与从句。",
+            "v": "should abandon 是对应主句的语法成分；结合上下文区分主句与从句。",
+            "o": "their policies of paying partly for the change of food into biofuels. 是对应主句的语法成分；结合上下文区分主句与从句。"
+          },
+          "grammarSupplements": [
+            {
+              "kind": "宾语后置定语",
+              "text": "of paying partly for the change of food into biofuels.",
+              "explanation": "修饰 their policies，说明被反对的是政府补贴粮食转化燃料的政策。"
+            }
+          ],
+          "generatedGlossary": null,
+          "acceptedTargets": null,
+          "studyUnits": [
+            {
+              "id": "d17-12-1",
+              "kind": "宾语后置定语",
+              "question": "找出宾语后置定语的完整部分，判断它在主句中起什么作用。",
+              "text": "of paying partly for the change of food into biofuels.",
+              "explanation": "修饰 their policies，说明被反对的是政府补贴粮食转化燃料的政策。",
+              "startToken": 9,
+              "endToken": 18
+            }
+          ]
+        },
+        {
+          "id": "online-shanghai-2008-autumn-D-13",
+          "paragraph": 3,
+          "sentence": "The U.S. government gives farmers a taxpayer-financed payment of 51 cents per gallon of ethanol (乙醇) changed from corn.",
+          "targets": {
+            "s": "The U.S. government",
+            "v": "gives",
+            "i": "farmers",
+            "o": "a taxpayer-financed payment of 51 cents per gallon of ethanol (乙醇) changed from corn."
+          },
+          "main": "The U.S. government gives farmers a taxpayer-financed payment.",
+          "analysis": "【双宾语】The U.S. government 为主语，gives 为谓语，farmers 是接受者（间接宾语），a taxpayer-financed payment ... 是直接宾语。【补充】taxpayer-financed 说明资金来自纳税人，51 cents per gallon 是每加仑51美分，changed from corn 后置修饰 ethanol。【中文括注】(乙醇) 只是中文提示，不属于英语语法成分，也不参与选词。",
+          "meaning": "美国政府每生产一加仑由玉米制成的乙醇，就向农民提供51美分的纳税人资助补贴。",
+          "distractors": [
+            "美国农民必须向政府支付每加仑51美元的乙醇税。",
+            "美国政府每年向所有农民支付51亿美元补贴。",
+            "这段说的是从小麦制成的乙醇，其价格由政府直接规定。"
+          ],
+          "deepNotes": [
+            "中文括注 (乙醇) 不参加圈选；farmers 是间接宾语而非给出的事物。"
+          ],
+          "roleExplanations": {
+            "s": "The U.S. government 是对应主句的语法成分；结合上下文区分主句与从句。",
+            "v": "gives 是对应主句的语法成分；结合上下文区分主句与从句。",
+            "i": "farmers 是对应主句的语法成分；结合上下文区分主句与从句。",
+            "o": "a taxpayer-financed payment of 51 cents per gallon of ethanol (乙醇) changed from corn. 是对应主句的语法成分；结合上下文区分主句与从句。"
+          },
+          "grammarSupplements": [],
+          "generatedGlossary": null,
+          "acceptedTargets": {
+            "o": [
+              "a taxpayer-financed payment",
+              "a taxpayer-financed payment of 51 cents per gallon of ethanol"
+            ]
+          },
+          "studyUnits": []
+        },
+        {
+          "id": "online-shanghai-2008-autumn-D-14",
+          "paragraph": 3,
+          "sentence": "There may be a case for biofuels produced on lands that do not produce foods — tree crops, grasses and wood products — but there's no case for the government to pay to put the world's dinner into the gas tank.",
+          "targets": {
+            "s": "a case for biofuels produced on lands that do not produce foods",
+            "v": "may be"
+          },
+          "main": "There may be a case for non-food biofuels, but there's no case for food-to-fuel subsidies.",
+          "analysis": "【第一主句】There may be a case ... 是存在句，may be 为谓语，真正的名词性主语后置为 a case ...；There 为形式引导成分。【定语】produced on lands ... 修饰 biofuels，that do not produce foods 修饰 lands；破折号中列出非粮食来源。【第二主句】but there's no case ... 有自己的否定判断，后面 for the government to pay ... 解释政策。【比喻】put the world's dinner into the gas tank 指把粮食用于汽车燃料，不能按字面理解。第二主句只作为整体练习，不要求圈其内部每一层。",
+          "meaning": "利用非粮食生产用地种植的树木、草类或木材制品开发生物燃料，或许有其合理性；但政府花钱鼓励将人类口粮转为汽车燃料则毫无道理。",
+          "distractors": [
+            "作者赞成把所有可食用粮食全部拿去生产汽车燃料。",
+            "作者反对任何树木、草类和木材制品的能源用途。",
+            "政府应该补贴农民直接将餐桌上的晚饭倒进油箱。"
+          ],
+          "deepNotes": [],
+          "roleExplanations": {
+            "s": "a case for biofuels produced on lands that do not produce foods 是对应主句的语法成分；结合上下文区分主句与从句。",
+            "v": "may be 是对应主句的语法成分；结合上下文区分主句与从句。"
+          },
+          "grammarSupplements": [
+            {
+              "kind": "并列主句②",
+              "text": "but there's no case for the government to pay to put the world's dinner into the gas tank.",
+              "explanation": "but 引出第二个独立判断：政府补贴用粮食生产汽车燃料没有合理依据。"
+            }
+          ],
+          "generatedGlossary": null,
+          "acceptedTargets": {
+            "s": [
+              "a case"
+            ]
+          },
+          "studyUnits": [
+            {
+              "id": "d17-14-1",
+              "kind": "并列主句②",
+              "question": "找出并列主句②的完整部分，判断它在主句中起什么作用。",
+              "text": "but there's no case for the government to pay to put the world's dinner into the gas tank.",
+              "explanation": "but 引出第二个独立判断：政府补贴用粮食生产汽车燃料没有合理依据。",
+              "startToken": 23,
+              "endToken": 40
+            }
+          ]
+        },
+        {
+          "id": "online-shanghai-2008-autumn-D-15",
+          "paragraph": 4,
+          "sentence": "Third, we urgently need to weather-proof the world's crops as soon and as effectively as possible.",
+          "targets": {
+            "s": "we",
+            "v": "need"
+          },
+          "main": "we need to weather-proof the world's crops.",
+          "analysis": "【主干】we 为主语，need 为谓语，urgently 是修饰 need 的程度副词。【谓语补足】to weather-proof the world's crops 表示需要采取的行动；weather-proof 是动词，意为‘使农作物具有抵御天气灾害的能力’。【方式时间状语】as soon and as effectively as possible 修饰实施措施的紧迫性与效率。Third 为篇章步骤连接词。",
+          "meaning": "第三，我们迫切需要尽快且尽可能有效地增强全球农作物抵御恶劣天气的能力。",
+          "distractors": [
+            "第三步是停止生产农作物以保护世界环境。",
+            "作者认为应等待全球粮食价格下降再考虑天气影响。",
+            "第三步要求所有贫困农民立即转向种植能源作物。"
+          ],
+          "deepNotes": [],
+          "roleExplanations": {
+            "s": "we 是对应主句的语法成分；结合上下文区分主句与从句。",
+            "v": "need 是对应主句的语法成分；结合上下文区分主句与从句。"
+          },
+          "grammarSupplements": [
+            {
+              "kind": "谓语必要补足语",
+              "text": "to weather-proof the world's crops",
+              "explanation": "不定式结构说明 need 后具体需要实施的举措。"
+            },
+            {
+              "kind": "主句时间与方式状语",
+              "text": "as soon and as effectively as possible.",
+              "explanation": "同时强调尽快实施与提高效率，这一整体不需要再分拆为两个副词。"
+            }
+          ],
+          "generatedGlossary": null,
+          "acceptedTargets": null,
+          "studyUnits": [
+            {
+              "id": "d17-15-1",
+              "kind": "谓语必要补足语",
+              "question": "找出谓语必要补足语的完整部分，判断它在主句中起什么作用。",
+              "text": "to weather-proof the world's crops",
+              "explanation": "不定式结构说明 need 后具体需要实施的举措。",
+              "startToken": 4,
+              "endToken": 8
+            },
+            {
+              "id": "d17-15-2",
+              "kind": "主句时间与方式状语",
+              "question": "找出主句时间与方式状语的完整部分，判断它在主句中起什么作用。",
+              "text": "as soon and as effectively as possible.",
+              "explanation": "同时强调尽快实施与提高效率，这一整体不需要再分拆为两个副词。",
+              "startToken": 9,
+              "endToken": 15
+            }
+          ]
+        },
+        {
+          "id": "online-shanghai-2008-autumn-D-16",
+          "paragraph": 4,
+          "sentence": "For a poor farmer, sometimes something as simple as a farm pond — which collects rainwater to be used in dry weather — can make the difference between a good harvest and a bad one.",
+          "targets": {
+            "s": "something as simple as a farm pond",
+            "v": "can make",
+            "o": "the difference between a good harvest and a bad one."
+          },
+          "main": "something as simple as a farm pond can make the difference between a good harvest and a bad one.",
+          "analysis": "【主干】something as simple as a farm pond 作主语，中心词 something；can make 为谓语，the difference between a good harvest and a bad one 是宾语。【主句状语】For a poor farmer 为受益对象/评价角度，sometimes 为频率。【定语从句】破折号括住的 which collects rainwater to be used in dry weather 修饰 farm pond，其中 which 为主语，collects 为谓语，rainwater 为宾语，to be used in dry weather 修饰 rainwater；内部成分只讲解不额外出题。【词组】make the difference between ... 表‘决定……的差别’。",
+          "meaning": "对贫困农民来说，有时一个简单的农田蓄水池收集雨水供干旱时使用，就足以决定收成好坏。",
+          "distractors": [
+            "这段认为简易水池会损害农民的庄稼收成。",
+            "贫困农民只有建立大型水库才能避免干旱。",
+            "水池只能在多雨季节使用，完全不能帮助旱季农业。"
+          ],
+          "deepNotes": [],
+          "roleExplanations": {
+            "s": "something as simple as a farm pond 是对应主句的语法成分；结合上下文区分主句与从句。",
+            "v": "can make 是对应主句的语法成分；结合上下文区分主句与从句。",
+            "o": "the difference between a good harvest and a bad one. 是对应主句的语法成分；结合上下文区分主句与从句。"
+          },
+          "grammarSupplements": [
+            {
+              "kind": "主句角度状语",
+              "text": "For a poor farmer,",
+              "explanation": "说明从贫困农民角度评价农田蓄水池的作用。"
+            },
+            {
+              "kind": "主语内部定语从句",
+              "text": "which collects rainwater to be used in dry weather",
+              "explanation": "一个完整定语从句修饰 farm pond，说明其收集并储存雨水的作用，不拆内部主谓宾。"
+            }
+          ],
+          "generatedGlossary": null,
+          "acceptedTargets": {
+            "s": [
+              "something"
+            ]
+          },
+          "studyUnits": [
+            {
+              "id": "d17-16-1",
+              "kind": "主句角度状语",
+              "question": "找出主句角度状语的完整部分，判断它在主句中起什么作用。",
+              "text": "For a poor farmer,",
+              "explanation": "说明从贫困农民角度评价农田蓄水池的作用。",
+              "startToken": 0,
+              "endToken": 3
+            },
+            {
+              "id": "d17-16-2",
+              "kind": "主语内部定语从句",
+              "question": "找出主语内部定语从句的完整部分，判断它在主句中起什么作用。",
+              "text": "which collects rainwater to be used in dry weather",
+              "explanation": "一个完整定语从句修饰 farm pond，说明其收集并储存雨水的作用，不拆内部主谓宾。",
+              "startToken": 13,
+              "endToken": 21
+            }
+          ]
+        },
+        {
+          "id": "online-shanghai-2008-autumn-D-17",
+          "paragraph": 4,
+          "sentence": "The world has already committed to establishing a Climate Adaptation Fund to help poor regions climate-proof vital economic activities such as food production and health care but has not yet acted upon the promise.",
+          "targets": {
+            "s": "The world",
+            "v": "has already committed",
+            "v2": "has not yet acted upon"
+          },
+          "main": "The world has already committed ..., but has not yet acted upon the promise.",
+          "analysis": "【主句主干】The world（指国际社会）为主语；has already committed 是谓语①，has not yet acted upon 是与之共享主语的并列谓语②。【第一组谓语补足语】to establishing ... 是介词 to + 动名词结构（commit to doing），其中 to help poor regions climate-proof ... 说明基金目的；help 后面的 climate-proof 是不带 to 的动词原形。【第二组谓语】has not yet acted upon 及其补足内容 the promise 表示‘仍未履行承诺’。【对照】already committed 对比 not yet acted，突出作者呼吁立即行动。",
+          "meaning": "国际社会已经承诺成立气候适应基金，帮助贫困地区增强粮食生产与医疗保健等重要经济活动应对气候影响的能力，但至今尚未兑现承诺。",
+          "distractors": [
+            "国际社会已经完全建立基金并兑现所有帮助承诺。",
+            "国际社会从未承诺帮助贫困地区适应气候变化。",
+            "气候适应基金只资助富裕国家购买汽车燃料。"
+          ],
+          "deepNotes": [
+            "注意 commit to establishing 不是不定式；has already committed 和 has not yet acted upon 是同一主语的两组谓语。"
+          ],
+          "roleExplanations": {
+            "s": "The world 是对应主句的语法成分；结合上下文区分主句与从句。",
+            "v": "has already committed 是对应主句的语法成分；结合上下文区分主句与从句。",
+            "v2": "has not yet acted upon 是对应主句的语法成分；结合上下文区分主句与从句。"
+          },
+          "grammarSupplements": [
+            {
+              "kind": "谓语①补足成分",
+              "text": "to establishing a Climate Adaptation Fund to help poor regions climate-proof vital economic activities such as food production and health care",
+              "explanation": "to establishing 补充 committed 的承诺内容；to 是介词，后接动名词 establishing。"
+            }
+          ],
+          "generatedGlossary": null,
+          "acceptedTargets": null,
+          "studyUnits": [
+            {
+              "id": "d17-17-1",
+              "kind": "谓语①补足成分",
+              "question": "找出谓语①补足成分的完整部分，判断它在主句中起什么作用。",
+              "text": "to establishing a Climate Adaptation Fund to help poor regions climate-proof vital economic activities such as food production and health care",
+              "explanation": "to establishing 补充 committed 的承诺内容；to 是介词，后接动名词 establishing。",
+              "startToken": 5,
+              "endToken": 25
+            }
+          ]
+        }
+      ],
+      "glossary": {
+        "world economy": "n. 世界经济",
+        "run into a brick wall": "陷入困境",
+        "despite": "prep. 尽管",
+        "countless": "adj. 数不清的",
+        "address": "v. 应对，处理",
+        "potential": "adj. 潜在的",
+        "hunger crisis": "n. 饥荒危机",
+        "energy crisis": "n. 能源危机",
+        "worldwide": "adv. 全球范围内",
+        "think ahead": "提前筹划",
+        "global food crisis": "n. 全球粮食危机",
+        "doubled": "v. 翻倍",
+        "corn": "n. 玉米",
+        "political stability": "n. 政治稳定",
+        "combined with": "连同，加上",
+        "economic growth": "n. 经济增长",
+        "globally": "adv. 在全球范围",
+        "practical": "adj. 切实可行的",
+        "ease": "v. 缓解",
+        "avoid": "v. 避免",
+        "promote": "v. 推广",
+        "dramatic": "adj. 显著的",
+        "Malawi": "n. 马拉维",
+        "established": "v. 设立",
+        "fund": "n. 基金",
+        "fertilizer": "n. 化肥",
+        "seeds": "n. 种子",
+        "productivity": "n. 生产率",
+        "harvest": "n. 收成",
+        "mere": "adj. 仅仅的",
+        "annually": "adv. 每年",
+        "altogether": "adv. 合计",
+        "abandon": "v. 放弃",
+        "policies": "n. 政策",
+        "biofuels": "n. 生物燃料",
+        "taxpayer-financed": "adj. 由纳税人出资的",
+        "ethanol": "n. 乙醇",
+        "gallon": "n. 加仑",
+        "tree crops": "n. 木本作物",
+        "grasses": "n. 草类",
+        "wood products": "n. 木材制品",
+        "gas tank": "n. 油箱",
+        "the world's dinner": "n. 全球人民的口粮（比喻）",
+        "weather-proof": "v. 使能抵御天气灾害",
+        "effectively": "adv. 有效地",
+        "farm pond": "n. 农田蓄水池",
+        "rainwater": "n. 雨水",
+        "dry weather": "n. 干旱天气",
+        "committed to": "承诺",
+        "Climate Adaptation Fund": "n. 气候适应基金",
+        "climate-proof": "v. 增强气候适应能力",
+        "vital": "adj. 至关重要的",
+        "health care": "n. 医疗保健",
+        "acted upon": "针对……采取行动",
+        "promise": "n. 承诺"
+      },
+      "alternativeMeanings": {
+        "case": [
+          "情况；本句 a case for = 有理由支持"
+        ],
+        "address": [
+          "地址；此处是动词‘应对’"
+        ],
+        "fund": [
+          "基金；资助"
+        ]
+      },
+      "phraseGlossary": {
+        "think ahead": "提前筹划",
+        "run into a brick wall": "遇到重大阻力",
+        "have a case for": "有合理理由支持",
+        "make the difference between": "决定……间的差异",
+        "commit to establishing": "承诺设立",
+        "act upon the promise": "履行承诺",
+        "if not stop": "即使不完全阻止，也至少会……"
+      },
+      "review": {
+        "theme": "全球粮食危机及应对措施",
+        "overview": "文章先写粮价、油价飙升给全球经济与政治稳定造成压力，然后提出推广马拉维农业基金、停止补贴粮食转生物燃料、强化农作物气候适应能力三项举措，最终呼吁国际社会兑现承诺、立即行动。",
+        "paragraphNotes": [
+          {
+            "paragraph": 1,
+            "point": "粮食与能源涨价，经济增长和政治稳定面临风险，需要全球应对。",
+            "connection": "第79题：呼吁立即行动。"
+          },
+          {
+            "paragraph": 2,
+            "point": "第一步推广马拉维基金模式，使贫困农民获得化肥和高产种子。",
+            "connection": "第76题：D。"
+          },
+          {
+            "paragraph": 3,
+            "point": "第二步反对政府补贴用粮食生产生物燃料，但认可非粮来源的合理用途。",
+            "connection": "第77题：A。"
+          },
+          {
+            "paragraph": 4,
+            "point": "第三步加强农业抗灾能力；蓄水池能防旱，基金承诺尚未落实。",
+            "connection": "第78题：A。"
+          }
+        ],
+        "development": [
+          "第一段：全球危机及风险。",
+          "第二段：马拉维经验与国际基金。",
+          "第三段：取消粮食燃料补贴。",
+          "第四段：农业气候适应与立即行动。"
+        ],
+        "keyGrammar": [
+          "Despite 后接名词短语作让步状语，不是状语从句。",
+          "has run into：短语动词作谓语；不要把 into 漏掉。",
+          "These food-price increases ... will slow ... and will even affect ...：共享主语的并列谓语和各自宾语。",
+          "Here are three steps：倒装，three steps 才是真正主语。",
+          "The first is to promote ...：不定式作表语，不是宾语。",
+          "The U.S. government gives farmers a payment：双宾语，farmers 为间接宾语。",
+          "There may be a case ... but there's no case ...：存在句中的肯定、否定对照。",
+          "something ... — which collects ... — can make ...：定语从句插入主语之后。",
+          "commit to establishing：to 是介词，后接动名词；has not yet acted upon 是并列谓语。"
+        ],
+        "keyPhrases": [
+          "run into a brick wall",
+          "think ahead",
+          "do exist",
+          "combined with",
+          "if not stop",
+          "based on the Malawi model",
+          "biofuels",
+          "there may be a case for",
+          "put the world's dinner into the gas tank",
+          "weather-proof",
+          "make the difference between",
+          "commit to establishing",
+          "act upon the promise"
+        ],
+        "commonMistakes": [
+          "76：$10 billion 是基金总额，而不是每个发达国家各出100亿美元。",
+          "77：作者反对政府补贴粮食变燃料，不是反对一切非粮生物燃料。",
+          "78：蓄水池可在旱季提供雨水；气候适应基金尚未实际落实。",
+          "79：文章主旨是立刻采取全球联合行动。",
+          "原文若干OCR错误：S10 billion→$10 billion、die world's crops→the world's crops、Climate Adaptation hind→Climate Adaptation Fund。",
+          "题目第78题A、B及79题A在可核实的公开转录里有明显不完整之处。题目选项按用户提供原文收录，不补写未经核对的内容。"
+        ],
+        "homeworkTip": "先独立作答76—79题，再逐句练主句主谓宾、表语与关键定状补；括号中的中文注释不计入成分选择。"
+      },
+      "source": "2008年上海高考英语秋考 · 阅读理解D（用户提供文章及76—79题，对照第三方空白卷和解析卷；学习文本订正明显OCR错误）",
+      "sourceURL": "https://www.yeyulingfeng.com/wendang/136297.html",
+      "verifiedShanghaiExam": false,
+      "examEdition": "shanghai-2008-autumn",
+      "examPart": "D"
     }
   ],
   "questionSets": [
@@ -2630,6 +3544,77 @@
           "explanation": "调查发现大多数英国青少年缺乏金钱知识，后文贷款、收入及债务数据进一步证实，选A。B混淆当前与未来，C把新开课程误作大学必修。",
           "kind": "single",
           "context": ""
+        }
+      ]
+    },
+    {
+      "id": "online-shanghai-2008-autumn-D",
+      "title": "2008年上海秋考英语 · 阅读理解 D · 76—79题",
+      "source": "2008年上海高考英语秋考阅读理解D；题干选项按用户提供文字，依据第三方解析卷校核参考答案",
+      "mode": "single",
+      "intro": "先做76—79题再统一提交。第78题A/B及第79题A有原始转录残缺，选项保留原文；不要把残缺文本误当作英语语法样本。",
+      "passageText": "The world economy has run into a brick wall. Despite countless warnings in recent years about the need to address a potential hunger crisis in poor countries and an energy crisis worldwide, world leaders failed to think ahead. The result is a global food crisis. Wheat, corn and rice prices have more than doubled in the past two years. And oil prices have increased more than three times since the start of 2004. These food-price increases, combined with increasing energy costs, will slow if not stop economic growth in many parts of the world and will even affect political stability. Practical solutions to these problems do exist, but we'll have to start thinking ahead and acting globally. Here are three steps to ease the current food crisis and avoid the potential for a global crisis. The first is to promote the dramatic success of Malawi, a country in southern Africa, which three years ago established a special fund to help its farmers get fertilizer and seeds with high productivity. Malawi’s harvest doubled after just one year. An international fund based on the Malawi model would cost a mere $10 per person annually in the rich world, or $10 billion altogether. Second, the U.S. and Europe should abandon their policies of paying partly for the change of food into biofuels. The U.S. government gives farmers a taxpayer-financed payment of 51 cents per gallon of ethanol (乙醇) changed from corn. There may be a case for biofuels produced on lands that do not produce foods — tree crops, grasses and wood products — but there's no case for the government to pay to put the world's dinner into the gas tank. Third, we urgently need to weather-proof the world's crops as soon and as effectively as possible. For a poor farmer, sometimes something as simple as a farm pond — which collects rainwater to be used in dry weather — can make the difference between a good harvest and a bad one. The world has already committed to establishing a Climate Adaptation Fund to help poor regions climate-proof vital economic activities such as food production and health care but has not yet acted upon the promise.",
+      "sharedOptions": null,
+      "questions": [
+        {
+          "id": 76,
+          "stem": "An international fund based on the Malawi model would______.",
+          "options": [
+            "cost each of the developed countries $10 billion per year",
+            "aim to double the harvest in southern African countries In a year",
+            "decrease the food prices as well as the energy prices",
+            "give poor farmers access to fertilizer and highly productive seeds"
+          ],
+          "correctIndex": 3,
+          "evidence": "The first is to promote the dramatic success of Malawi ... a special fund to help its farmers get fertilizer and seeds with high productivity.",
+          "explanation": "马拉维模式利用专项基金帮助农民获得化肥和高产种子；国际基金意在推广这种方式。$10 billion 是基金合计规模，不是每个国家独立支付。选D。",
+          "kind": "细节理解",
+          "context": "第一项方案：马拉维模式"
+        },
+        {
+          "id": 77,
+          "stem": "With the second step, the author expresses the idea that ______.",
+          "options": [
+            "it is not wise to change food crops into gas",
+            "it is misleading to put tree crops into the gas tank",
+            "we should get alternative forms of fuel in any way",
+            "biofuels should be developed on a large scale"
+          ],
+          "correctIndex": 0,
+          "evidence": "the U.S. and Europe should abandon their policies of paying partly for the change of food into biofuels.",
+          "explanation": "作者反对补贴鼓励粮食作物转燃料，认为这种做法不明智，但并未反对非粮来源的生物燃料。选A。",
+          "kind": "段意归纳",
+          "context": "第二项方案：放弃粮食燃料补贴"
+        },
+        {
+          "id": 78,
+          "stem": "Which of the following is true according to the passage?",
+          "options": [
+            "A rain-collecting pond is a simple safeguard against dry weal",
+            "A Climate Adaptation Fund has been established to help poor",
+            "The world has made a serious promise to build farm ponds.",
+            "It makes a great difference whether we develop wood products or not."
+          ],
+          "correctIndex": 0,
+          "evidence": "something as simple as a farm pond — which collects rainwater to be used in dry weather — can make the difference between a good harvest and a bad one.",
+          "explanation": "原文说简单的蓄水池能收集雨水、供干旱天气使用，因此A正确。B说基金已建立，与文章‘has not yet acted upon the promise’矛盾；C混淆水池与基金承诺；D不是文中强调的观点。注意原卷转录A项结尾 dry weal 和B项末尾 help poor 均明显残缺，这里按用户提供的选项原样保留，未擅自补写。",
+          "kind": "事实判断",
+          "context": "第三项方案：防旱与适应气候"
+        },
+        {
+          "id": 79,
+          "stem": "In the passage, the author calls on us to______.",
+          "options": [
+            "slow down but not to stop economic.",
+            "develop tree crops, grasses and wood products",
+            "achieve economic growth and political stability",
+            "act now so as to relieve the global food shortage"
+          ],
+          "correctIndex": 3,
+          "evidence": "Practical solutions to these problems do exist, but we'll have to start thinking ahead and acting globally.",
+          "explanation": "作者指出全球粮食危机且列出三项对策，最后批评国际社会虽然承诺建基金但尚未付诸行动，因此呼吁马上行动缓解粮食短缺。选D。",
+          "kind": "写作目的",
+          "context": "全文呼吁立即采取全球合作行动"
         }
       ]
     }
