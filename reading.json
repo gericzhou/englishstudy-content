@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": 17,
+  "revision": 18,
   "passages": [
     {
       "id": "online-shanghai-2008-autumn-B",
@@ -2849,7 +2849,7 @@
             "p": "to promote the dramatic success of Malawi"
           },
           "main": "The first is to promote the dramatic success of Malawi.",
-          "analysis": "【主系表】The first 是主语，is 是系动词，to promote ... 是不定式表语。【同位语】a country in southern Africa 说明 Malawi 的位置。【定语从句】which three years ago established a special fund ... 修饰 Malawi；which 在从句中为主语，established 为谓语，a special fund 为宾语。【基金目的】to help its farmers get fertilizer and seeds with high productivity 解释设立基金的目的，get 后接并列的肥料与高产种子。以上从句内部只作文字讲解，不逐项圈选。",
+          "analysis": "【第一层：主系表】The first 是主语，is 为系动词，to promote the dramatic success of Malawi 是不定式表语。整句不是只到 Malawi 就结束。【第二层：同位语】a country in southern Africa 补充说明 Malawi 是一个位于非洲南部的国家。【第三层：定语从句】which three years ago established a special fund ... 修饰 Malawi；which 在从句中作主语，established 是谓语，a special fund 是宾语，three years ago 是时间状语。【第四层：不定式目的状语】to help its farmers get fertilizer and seeds with high productivity 说明基金的用途；help sb. do sth. 中 farmers 是宾语，get 是省略 to 的不定式，fertilizer and seeds 是并列宾语；with high productivity 结合语义修饰 seeds。【注意】训练只额外圈选这三个有意义的整块，不在每一层内部反复拆成单词题。",
           "meaning": "第一步是推广非洲南部马拉维的成功经验：三年前该国设立专项基金，帮助农民获得化肥和高产种子。",
           "distractors": [
             "第一步是要求南部非洲国家停止农业补贴和粮食生产。",
@@ -2857,17 +2857,63 @@
             "作者认为第一步应从马拉维大量进口全部粮食。"
           ],
           "deepNotes": [
-            "which 指 Malawi，不能误指 success。"
+            "整句四层：①主句 The first / is / to promote the dramatic success of Malawi；②Malawi 的同位语 a country in southern Africa；③修饰 Malawi 的 which 定语从句（which / established / a special fund）；④基金设立的目的 to help ...。",
+            "which 指代 Malawi，不能误指 success；三年前设立基金的是马拉维，而不是 the success。",
+            "get fertilizer and seeds with high productivity 表示让农民获得化肥和高产种子；with high productivity 应结合语义理解为高产种子的特征。"
           ],
           "roleExplanations": {
-            "s": "The first 是对应主句的语法成分；结合上下文区分主句与从句。",
-            "v": "is 是对应主句的语法成分；结合上下文区分主句与从句。",
-            "p": "to promote the dramatic success of Malawi 是对应主句的语法成分；结合上下文区分主句与从句。"
+            "s": "The first（第一步）是主句主语；这里不是 Malawi，因为 Malawi 出现在不定式表语里。",
+            "v": "is 是主句的系动词。不要把后面定语从句的 established 当成主句的第二个谓语。",
+            "p": "to promote the dramatic success of Malawi 是不定式短语作表语，说明第一步要做什么；其后还接同位语、定语从句和基金目的结构，需要继续分析。"
           },
-          "grammarSupplements": [],
+          "grammarSupplements": [
+            {
+              "kind": "主语名词同位语",
+              "text": "a country in southern Africa,",
+              "explanation": "a country in southern Africa 是 Malawi 的同位语；country 为中心词，in southern Africa 为地点后置修饰。它不是新的主句主语。"
+            },
+            {
+              "kind": "定语从句主干",
+              "text": "which three years ago established a special fund",
+              "explanation": "which 指代 Malawi（马拉维），在定语从句中作主语；three years ago 是时间状语；established 为谓语；a special fund 为宾语。这个从句修饰 Malawi，不能当作整句的主句谓语。"
+            },
+            {
+              "kind": "不定式目的状语",
+              "text": "to help its farmers get fertilizer and seeds with high productivity.",
+              "explanation": "to help ... 是不定式目的状语，说明设立基金是为了帮助农民获得物资。help its farmers get ... 中 farmers 是 help 的宾语，get 为不带 to 的动词原形；get 后的 fertilizer and seeds 是并列宾语；with high productivity 修饰 seeds，表示高产种子。"
+            }
+          ],
           "generatedGlossary": null,
           "acceptedTargets": null,
-          "studyUnits": []
+          "studyUnits": [
+            {
+              "id": "d18-09-1",
+              "kind": "主语名词同位语",
+              "question": "Malawi 后面哪一整段补充说明这个国家的位置？",
+              "text": "a country in southern Africa,",
+              "explanation": "a country in southern Africa 是 Malawi 的同位语；country 为中心词，in southern Africa 为地点后置修饰。它不是新的主句主语。",
+              "startToken": 10,
+              "endToken": 14
+            },
+            {
+              "id": "d18-09-2",
+              "kind": "定语从句主干",
+              "question": "找出说明 Malawi 三年前采取什么行动的定语从句主干（先不包含后面的目的短语）。",
+              "text": "which three years ago established a special fund",
+              "explanation": "which 指代 Malawi（马拉维），在定语从句中作主语；three years ago 是时间状语；established 为谓语；a special fund 为宾语。这个从句修饰 Malawi，不能当作整句的主句谓语。",
+              "startToken": 15,
+              "endToken": 22
+            },
+            {
+              "id": "d18-09-3",
+              "kind": "不定式目的状语",
+              "question": "哪一整段说明设立专项基金的目的？",
+              "text": "to help its farmers get fertilizer and seeds with high productivity.",
+              "explanation": "to help ... 是不定式目的状语，说明设立基金是为了帮助农民获得物资。help its farmers get ... 中 farmers 是 help 的宾语，get 为不带 to 的动词原形；get 后的 fertilizer and seeds 是并列宾语；with high productivity 修饰 seeds，表示高产种子。",
+              "startToken": 23,
+              "endToken": 33
+            }
+          ]
         },
         {
           "id": "online-shanghai-2008-autumn-D-10",
