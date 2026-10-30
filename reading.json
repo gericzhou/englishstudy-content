@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": 18,
+  "revision": 19,
   "passages": [
     {
       "id": "online-shanghai-2008-autumn-B",
@@ -3448,6 +3448,2030 @@
       "verifiedShanghaiExam": false,
       "examEdition": "shanghai-2008-autumn",
       "examPart": "D"
+    },
+    {
+      "id": "online-shanghai-2009-reading-A-george-richard",
+      "section": "ONLINE",
+      "title": "2009年上海秋考阅读理解A · George与Richard（完整解析）",
+      "source": "用户提供的 George 与 Richard 阅读文本；按需求修正 formal→former、引语标点与换行；“2009年上海秋考”出处沿用用户题库标题，未独立核实。",
+      "sentences": [
+        {
+          "id": "online-shanghai-2009-reading-A-george-richard-01",
+          "paragraph": 1,
+          "sentence": "Even at school there had been an unhealthy competition between George and Richard.",
+          "targets": {
+            "s": "there",
+            "v": "had been"
+          },
+          "main": "there / had been / an unhealthy competition between George and Richard",
+          "meaning": "甚至在上学时，乔治和理查德之间就已经存在一种不健康的竞争。",
+          "analysis": "本句使用 there be 存在句，had been 是过去完成时，说明两人竞争的状态早在故事过去某一时间之前就已出现。there 是形式上的引导词，真正表示存在的事物是 an unhealthy competition between George and Richard，不能把 between George and Richard 单独当成谓语宾语。Even at school 表示“甚至在学校时期”，是时间背景。",
+          "roleExplanations": {
+            "s": "there：主句主语。请结合完整解析区分主句和从句。",
+            "v": "had been：主句谓语。请结合完整解析区分主句和从句。"
+          },
+          "studyUnits": [
+            {
+              "id": "unit-01",
+              "kind": "时间状语",
+              "question": "找出本句中的“时间状语”，注意整段语义结构。",
+              "text": "Even at school",
+              "explanation": "强调这种竞争早在学生时代就有。",
+              "startToken": 0,
+              "endToken": 2
+            },
+            {
+              "id": "unit-02",
+              "kind": "真正主语",
+              "question": "找出本句中的“真正主语”，注意整段语义结构。",
+              "text": "an unhealthy competition between George and Richard",
+              "explanation": "there be 结构中的后置名词短语，表示存在的竞争。",
+              "startToken": 6,
+              "endToken": 12
+            },
+            {
+              "id": "unit-03",
+              "kind": "后置定语",
+              "question": "找出本句中的“后置定语”，注意整段语义结构。",
+              "text": "between George and Richard",
+              "explanation": "修饰 competition，说明竞争发生在两人之间。",
+              "startToken": 9,
+              "endToken": 12
+            },
+            {
+              "id": "unit-04",
+              "kind": "定语",
+              "question": "找出本句中的“定语”，注意整段语义结构。",
+              "text": "unhealthy",
+              "explanation": "修饰 competition，表示不健康的。",
+              "startToken": 7,
+              "endToken": 7
+            }
+          ],
+          "grammarSupplements": [
+            {
+              "kind": "时间状语",
+              "text": "Even at school",
+              "explanation": "强调这种竞争早在学生时代就有。"
+            },
+            {
+              "kind": "真正主语",
+              "text": "an unhealthy competition between George and Richard",
+              "explanation": "there be 结构中的后置名词短语，表示存在的竞争。"
+            },
+            {
+              "kind": "后置定语",
+              "text": "between George and Richard",
+              "explanation": "修饰 competition，说明竞争发生在两人之间。"
+            },
+            {
+              "kind": "定语",
+              "text": "unhealthy",
+              "explanation": "修饰 competition，表示不健康的。"
+            }
+          ],
+          "deepNotes": [],
+          "acceptedTargets": {},
+          "targetRanges": {
+            "s": {
+              "start": 3,
+              "end": 3
+            },
+            "v": {
+              "start": 4,
+              "end": 5
+            }
+          },
+          "distractors": []
+        },
+        {
+          "id": "online-shanghai-2009-reading-A-george-richard-02",
+          "paragraph": 2,
+          "sentence": "“I’ll be the first millionaire in Coleford!”",
+          "targets": {
+            "s": "I’ll",
+            "v": "be",
+            "p": "the first millionaire in Coleford"
+          },
+          "main": "I will be the first millionaire in Coleford",
+          "meaning": "“我会成为科尔福德的第一个百万富翁！”",
+          "analysis": "这是理查德的直接引语。I’ll 是 I will 的缩写，包含主语 I 与将来时助动词 will；网页按原文词块选择时可点击 I’ll 作为主语所在词块。be 是系动词，the first millionaire in Coleford 是表语，说明他预期成为的身份；in Coleford 修饰 millionaire 的地域范围，不是另一个谓语。",
+          "roleExplanations": {
+            "s": "I’ll：主句主语。请结合完整解析区分主句和从句。",
+            "v": "be：主句谓语。请结合完整解析区分主句和从句。",
+            "p": "the first millionaire in Coleford：主句表语。请结合完整解析区分主句和从句。"
+          },
+          "studyUnits": [
+            {
+              "id": "unit-01",
+              "kind": "定语",
+              "question": "找出本句中的“定语”，注意整段语义结构。",
+              "text": "first",
+              "explanation": "修饰 millionaire，强调第一个。",
+              "startToken": 3,
+              "endToken": 3
+            },
+            {
+              "id": "unit-02",
+              "kind": "后置定语",
+              "question": "找出本句中的“后置定语”，注意整段语义结构。",
+              "text": "in Coleford",
+              "explanation": "限定成为百万富翁的范围。",
+              "startToken": 5,
+              "endToken": 6
+            }
+          ],
+          "grammarSupplements": [
+            {
+              "kind": "定语",
+              "text": "first",
+              "explanation": "修饰 millionaire，强调第一个。"
+            },
+            {
+              "kind": "后置定语",
+              "text": "in Coleford",
+              "explanation": "限定成为百万富翁的范围。"
+            }
+          ],
+          "deepNotes": [],
+          "acceptedTargets": {},
+          "targetRanges": {
+            "s": {
+              "start": 0,
+              "end": 0
+            },
+            "v": {
+              "start": 1,
+              "end": 1
+            },
+            "p": {
+              "start": 2,
+              "end": 6
+            }
+          },
+          "distractors": []
+        },
+        {
+          "id": "online-shanghai-2009-reading-A-george-richard-03",
+          "paragraph": 2,
+          "sentence": "Richard used to boast.",
+          "targets": {
+            "s": "Richard",
+            "v": "used to boast"
+          },
+          "main": "Richard used to boast",
+          "meaning": "理查德过去常常这样吹嘘。",
+          "analysis": "Richard 是主语，used to boast 是完整的过去习惯性谓语。used to do 表示过去常常做某事，不表示现在仍然如此；boast 意为夸口、吹嘘。它在原文中为前面的直接引语提供“谁说的”这一报告说明。",
+          "roleExplanations": {
+            "s": "Richard：主句主语。请结合完整解析区分主句和从句。",
+            "v": "used to boast：主句谓语。请结合完整解析区分主句和从句。"
+          },
+          "studyUnits": [
+            {
+              "id": "unit-01",
+              "kind": "习惯性谓语",
+              "question": "找出本句中的“习惯性谓语”，注意整段语义结构。",
+              "text": "used to boast",
+              "explanation": "used to + 动词原形，描述过去反复发生的行为。",
+              "startToken": 1,
+              "endToken": 3
+            }
+          ],
+          "grammarSupplements": [
+            {
+              "kind": "习惯性谓语",
+              "text": "used to boast",
+              "explanation": "used to + 动词原形，描述过去反复发生的行为。"
+            }
+          ],
+          "deepNotes": [],
+          "acceptedTargets": {},
+          "targetRanges": {
+            "s": {
+              "start": 0,
+              "end": 0
+            },
+            "v": {
+              "start": 1,
+              "end": 3
+            }
+          },
+          "distractors": []
+        },
+        {
+          "id": "online-shanghai-2009-reading-A-george-richard-04",
+          "paragraph": 3,
+          "sentence": "“And you’ll be sorry you knew me,” George would reply, “because I’ll be the best lawyer in the town!”",
+          "targets": {
+            "s": "George",
+            "v": "would reply"
+          },
+          "main": "George would reply: “You will be sorry ... because I will be the best lawyer.”",
+          "meaning": "“而你会后悔认识我的，”乔治总是回答道，“因为我会成为镇上最好的律师！”",
+          "analysis": "本句外层叙述框架是 George（主语）would reply（谓语），两段引语共同组成他说话的内容。引语前半句中 you’ll be sorry 是主系表，you knew me 是省略 that 的补充说明，解释后悔什么；引语后半句 because 引导原因状语从句，I’ll be the best lawyer in the town 也是主系表。would reply 在此表示过去经常这样回答，并不是假设语气。两个引语中的 I、you 不应错当外层报告句的主语。",
+          "roleExplanations": {
+            "s": "George：主句主语。请结合完整解析区分主句和从句。",
+            "v": "would reply：主句谓语。请结合完整解析区分主句和从句。"
+          },
+          "studyUnits": [
+            {
+              "id": "unit-01",
+              "kind": "引语内主语",
+              "question": "找出本句中的“引语内主语”，注意整段语义结构。",
+              "text": "you’ll",
+              "explanation": "第一段引语的主语所在词块 you’ll = you will。",
+              "startToken": 1,
+              "endToken": 1
+            },
+            {
+              "id": "unit-02",
+              "kind": "引语内表语",
+              "question": "找出本句中的“引语内表语”，注意整段语义结构。",
+              "text": "sorry",
+              "explanation": "描述 you 将感到后悔。",
+              "startToken": 3,
+              "endToken": 3
+            },
+            {
+              "id": "unit-03",
+              "kind": "宾语从句",
+              "question": "找出本句中的“宾语从句”，注意整段语义结构。",
+              "text": "you knew me",
+              "explanation": "省略 that，说明“后悔认识我”这一内容。",
+              "startToken": 4,
+              "endToken": 6
+            },
+            {
+              "id": "unit-04",
+              "kind": "原因状语从句",
+              "question": "找出本句中的“原因状语从句”，注意整段语义结构。",
+              "text": "because I’ll be the best lawyer in the town!",
+              "explanation": "because 引出理由，属于引语的后半段。",
+              "startToken": 10,
+              "endToken": 18
+            },
+            {
+              "id": "unit-05",
+              "kind": "引语内主语",
+              "question": "找出本句中的“引语内主语”，注意整段语义结构。",
+              "text": "I’ll",
+              "explanation": "第二段引语中 I 将成为律师。",
+              "startToken": 11,
+              "endToken": 11
+            },
+            {
+              "id": "unit-06",
+              "kind": "引语内表语",
+              "question": "找出本句中的“引语内表语”，注意整段语义结构。",
+              "text": "the best lawyer in the town",
+              "explanation": "说明乔治计划成为的身份。",
+              "startToken": 13,
+              "endToken": 18
+            }
+          ],
+          "grammarSupplements": [
+            {
+              "kind": "引语内主语",
+              "text": "you’ll",
+              "explanation": "第一段引语的主语所在词块 you’ll = you will。"
+            },
+            {
+              "kind": "引语内表语",
+              "text": "sorry",
+              "explanation": "描述 you 将感到后悔。"
+            },
+            {
+              "kind": "宾语从句",
+              "text": "you knew me",
+              "explanation": "省略 that，说明“后悔认识我”这一内容。"
+            },
+            {
+              "kind": "原因状语从句",
+              "text": "because I’ll be the best lawyer in the town!",
+              "explanation": "because 引出理由，属于引语的后半段。"
+            },
+            {
+              "kind": "引语内主语",
+              "text": "I’ll",
+              "explanation": "第二段引语中 I 将成为律师。"
+            },
+            {
+              "kind": "引语内表语",
+              "text": "the best lawyer in the town",
+              "explanation": "说明乔治计划成为的身份。"
+            }
+          ],
+          "deepNotes": [],
+          "acceptedTargets": {},
+          "targetRanges": {
+            "s": {
+              "start": 7,
+              "end": 7
+            },
+            "v": {
+              "start": 8,
+              "end": 9
+            }
+          },
+          "distractors": []
+        },
+        {
+          "id": "online-shanghai-2009-reading-A-george-richard-05",
+          "paragraph": 4,
+          "sentence": "George never did become a lawyer and Richard never made any money.",
+          "targets": {
+            "s": "George",
+            "v": "never did become",
+            "p": "a lawyer"
+          },
+          "main": "George never did become a lawyer; Richard never made any money",
+          "meaning": "乔治最终并没有成为律师，而理查德也始终没挣到什么钱。",
+          "analysis": "这是 and 连接的两个独立并列分句，主语分别是 George 和 Richard。第一分句 never did become a lawyer 中 did 加强否定陈述的语气，become 是连系动词，a lawyer 作表语而不是宾语。第二分句 Richard never made any money 有自己的主语 Richard、谓语 never made 和宾语 any money；不可把 made 当成 George 共享主语的并列谓语。",
+          "roleExplanations": {
+            "s": "George：主句主语。请结合完整解析区分主句和从句。",
+            "v": "never did become：主句谓语。请结合完整解析区分主句和从句。",
+            "p": "a lawyer：主句表语。请结合完整解析区分主句和从句。"
+          },
+          "studyUnits": [
+            {
+              "id": "unit-01",
+              "kind": "第二分句主语",
+              "question": "找出本句中的“第二分句主语”，注意整段语义结构。",
+              "text": "Richard",
+              "explanation": "and 后开启新分句，主语改为 Richard。",
+              "startToken": 7,
+              "endToken": 7
+            },
+            {
+              "id": "unit-02",
+              "kind": "第二分句谓语",
+              "question": "找出本句中的“第二分句谓语”，注意整段语义结构。",
+              "text": "never made",
+              "explanation": "否定谓语，表示从未赚到。",
+              "startToken": 8,
+              "endToken": 9
+            },
+            {
+              "id": "unit-03",
+              "kind": "第二分句宾语",
+              "question": "找出本句中的“第二分句宾语”，注意整段语义结构。",
+              "text": "any money",
+              "explanation": "made 的宾语；否定环境中 any 强调没有钱。",
+              "startToken": 10,
+              "endToken": 11
+            },
+            {
+              "id": "unit-04",
+              "kind": "定语",
+              "question": "找出本句中的“定语”，注意整段语义结构。",
+              "text": "any",
+              "explanation": "修饰 money，和 never 配合。",
+              "startToken": 10,
+              "endToken": 10
+            }
+          ],
+          "grammarSupplements": [
+            {
+              "kind": "第二分句主语",
+              "text": "Richard",
+              "explanation": "and 后开启新分句，主语改为 Richard。"
+            },
+            {
+              "kind": "第二分句谓语",
+              "text": "never made",
+              "explanation": "否定谓语，表示从未赚到。"
+            },
+            {
+              "kind": "第二分句宾语",
+              "text": "any money",
+              "explanation": "made 的宾语；否定环境中 any 强调没有钱。"
+            },
+            {
+              "kind": "定语",
+              "text": "any",
+              "explanation": "修饰 money，和 never 配合。"
+            }
+          ],
+          "deepNotes": [],
+          "acceptedTargets": {},
+          "targetRanges": {
+            "s": {
+              "start": 0,
+              "end": 0
+            },
+            "v": {
+              "start": 1,
+              "end": 3
+            },
+            "p": {
+              "start": 4,
+              "end": 5
+            }
+          },
+          "distractors": []
+        },
+        {
+          "id": "online-shanghai-2009-reading-A-george-richard-06",
+          "paragraph": 4,
+          "sentence": "Instead both men opened bookshops on opposite sides of Coleford High Street.",
+          "targets": {
+            "s": "both men",
+            "v": "opened",
+            "o": "bookshops"
+          },
+          "main": "both men opened bookshops",
+          "meaning": "相反，两个人都在科尔福德大街的两侧开了书店。",
+          "analysis": "Instead 是句首转折/替代状语，表明两人未实现原先的职业梦想。both men 为主语，opened 是谓语，bookshops 是宾语。on opposite sides of Coleford High Street 是地点状语，说明开店的位置；opposite 修饰 sides，突出两人隔街竞争。",
+          "roleExplanations": {
+            "s": "both men：主句主语。请结合完整解析区分主句和从句。",
+            "v": "opened：主句谓语。请结合完整解析区分主句和从句。",
+            "o": "bookshops：主句宾语。请结合完整解析区分主句和从句。"
+          },
+          "studyUnits": [
+            {
+              "id": "unit-01",
+              "kind": "转折状语",
+              "question": "找出本句中的“转折状语”，注意整段语义结构。",
+              "text": "Instead",
+              "explanation": "说明实际结果与先前计划不同。",
+              "startToken": 0,
+              "endToken": 0
+            },
+            {
+              "id": "unit-02",
+              "kind": "地点状语",
+              "question": "找出本句中的“地点状语”，注意整段语义结构。",
+              "text": "on opposite sides of Coleford High Street",
+              "explanation": "整体修饰 opened，说明书店的位置。",
+              "startToken": 5,
+              "endToken": 11
+            },
+            {
+              "id": "unit-03",
+              "kind": "定语",
+              "question": "找出本句中的“定语”，注意整段语义结构。",
+              "text": "opposite",
+              "explanation": "修饰 sides，说明两家店位于相对两侧。",
+              "startToken": 6,
+              "endToken": 6
+            }
+          ],
+          "grammarSupplements": [
+            {
+              "kind": "转折状语",
+              "text": "Instead",
+              "explanation": "说明实际结果与先前计划不同。"
+            },
+            {
+              "kind": "地点状语",
+              "text": "on opposite sides of Coleford High Street",
+              "explanation": "整体修饰 opened，说明书店的位置。"
+            },
+            {
+              "kind": "定语",
+              "text": "opposite",
+              "explanation": "修饰 sides，说明两家店位于相对两侧。"
+            }
+          ],
+          "deepNotes": [],
+          "acceptedTargets": {},
+          "targetRanges": {
+            "s": {
+              "start": 1,
+              "end": 2
+            },
+            "v": {
+              "start": 3,
+              "end": 3
+            },
+            "o": {
+              "start": 4,
+              "end": 4
+            }
+          },
+          "distractors": []
+        },
+        {
+          "id": "online-shanghai-2009-reading-A-george-richard-07",
+          "paragraph": 4,
+          "sentence": "It was hard to make money from books, which made the competition between them worse.",
+          "targets": {
+            "s": "It",
+            "v": "was",
+            "p": "hard"
+          },
+          "main": "It was hard to make money from books",
+          "meaning": "靠卖书赚钱很难，这使他们之间的竞争变得更加激烈。",
+          "analysis": "It 是形式主语，was 为系动词，hard 是表语；to make money from books 是后置的不定式真正主语，表示“靠卖书赚钱”这件事很难。逗号后 which made the competition between them worse 是非限制性定语从句，which 指代前面“靠卖书挣钱困难”这一整件事，made 是从句谓语，the competition between them 是宾语，worse 为宾语补足语。不能把从句 made 当作外层主句的第二谓语。",
+          "roleExplanations": {
+            "s": "It：主句主语。请结合完整解析区分主句和从句。",
+            "v": "was：主句谓语。请结合完整解析区分主句和从句。",
+            "p": "hard：主句表语。请结合完整解析区分主句和从句。"
+          },
+          "studyUnits": [
+            {
+              "id": "unit-01",
+              "kind": "真正主语",
+              "question": "找出本句中的“真正主语”，注意整段语义结构。",
+              "text": "to make money from books",
+              "explanation": "不定式说明究竟什么事情困难。",
+              "startToken": 3,
+              "endToken": 7
+            },
+            {
+              "id": "unit-02",
+              "kind": "非限制性定语从句",
+              "question": "找出本句中的“非限制性定语从句”，注意整段语义结构。",
+              "text": "which made the competition between them worse",
+              "explanation": "which 指代前面整个事实；从句补充其结果。",
+              "startToken": 8,
+              "endToken": 14
+            },
+            {
+              "id": "unit-03",
+              "kind": "宾语补语",
+              "question": "找出本句中的“宾语补语”，注意整段语义结构。",
+              "text": "worse",
+              "explanation": "是 made 后的宾语补足语，描述竞争变得更糟。",
+              "startToken": 14,
+              "endToken": 14
+            },
+            {
+              "id": "unit-04",
+              "kind": "后置定语",
+              "question": "找出本句中的“后置定语”，注意整段语义结构。",
+              "text": "between them",
+              "explanation": "修饰 competition，指两人的竞争。",
+              "startToken": 12,
+              "endToken": 13
+            }
+          ],
+          "grammarSupplements": [
+            {
+              "kind": "真正主语",
+              "text": "to make money from books",
+              "explanation": "不定式说明究竟什么事情困难。"
+            },
+            {
+              "kind": "非限制性定语从句",
+              "text": "which made the competition between them worse",
+              "explanation": "which 指代前面整个事实；从句补充其结果。"
+            },
+            {
+              "kind": "宾语补语",
+              "text": "worse",
+              "explanation": "是 made 后的宾语补足语，描述竞争变得更糟。"
+            },
+            {
+              "kind": "后置定语",
+              "text": "between them",
+              "explanation": "修饰 competition，指两人的竞争。"
+            }
+          ],
+          "deepNotes": [],
+          "acceptedTargets": {},
+          "targetRanges": {
+            "s": {
+              "start": 0,
+              "end": 0
+            },
+            "v": {
+              "start": 1,
+              "end": 1
+            },
+            "p": {
+              "start": 2,
+              "end": 2
+            }
+          },
+          "distractors": []
+        },
+        {
+          "id": "online-shanghai-2009-reading-A-george-richard-08",
+          "paragraph": 5,
+          "sentence": "Then Richard married a mysterious girl.",
+          "targets": {
+            "s": "Richard",
+            "v": "married",
+            "o": "a mysterious girl"
+          },
+          "main": "Richard married a mysterious girl",
+          "meaning": "后来，理查德娶了一位神秘的女孩。",
+          "analysis": "Then 为时间顺序状语，连接故事下一事件。主语 Richard，谓语 married，宾语 a mysterious girl。mysterious 是形容词定语，修饰 girl；marry 在此直接接宾语，通常不需要介词 with。",
+          "roleExplanations": {
+            "s": "Richard：主句主语。请结合完整解析区分主句和从句。",
+            "v": "married：主句谓语。请结合完整解析区分主句和从句。",
+            "o": "a mysterious girl：主句宾语。请结合完整解析区分主句和从句。"
+          },
+          "studyUnits": [
+            {
+              "id": "unit-01",
+              "kind": "时间状语",
+              "question": "找出本句中的“时间状语”，注意整段语义结构。",
+              "text": "Then",
+              "explanation": "表示故事下一时间节点。",
+              "startToken": 0,
+              "endToken": 0
+            },
+            {
+              "id": "unit-02",
+              "kind": "定语",
+              "question": "找出本句中的“定语”，注意整段语义结构。",
+              "text": "mysterious",
+              "explanation": "修饰 girl，表示神秘的。",
+              "startToken": 4,
+              "endToken": 4
+            }
+          ],
+          "grammarSupplements": [
+            {
+              "kind": "时间状语",
+              "text": "Then",
+              "explanation": "表示故事下一时间节点。"
+            },
+            {
+              "kind": "定语",
+              "text": "mysterious",
+              "explanation": "修饰 girl，表示神秘的。"
+            }
+          ],
+          "deepNotes": [],
+          "acceptedTargets": {},
+          "targetRanges": {
+            "s": {
+              "start": 1,
+              "end": 1
+            },
+            "v": {
+              "start": 2,
+              "end": 2
+            },
+            "o": {
+              "start": 3,
+              "end": 5
+            }
+          },
+          "distractors": []
+        },
+        {
+          "id": "online-shanghai-2009-reading-A-george-richard-09",
+          "paragraph": 5,
+          "sentence": "The couple spent their honeymoon on the coast — but Richard never came back.",
+          "targets": {
+            "s": "The couple",
+            "v": "spent",
+            "o": "their honeymoon"
+          },
+          "main": "The couple spent their honeymoon; Richard never came back",
+          "meaning": "这对夫妻去海滨度蜜月——但是理查德再也没有回来。",
+          "analysis": "破折号连接前后两件形成反差的事情。前一主句 The couple spent their honeymoon on the coast，主语 The couple，谓语 spent，宾语 their honeymoon，on the coast 是地点状语。破折号后 but Richard never came back 是独立的转折分句，其主语 Richard、谓语 never came back，否定词 never 强调再也没有回来。",
+          "roleExplanations": {
+            "s": "The couple：主句主语。请结合完整解析区分主句和从句。",
+            "v": "spent：主句谓语。请结合完整解析区分主句和从句。",
+            "o": "their honeymoon：主句宾语。请结合完整解析区分主句和从句。"
+          },
+          "studyUnits": [
+            {
+              "id": "unit-01",
+              "kind": "地点状语",
+              "question": "找出本句中的“地点状语”，注意整段语义结构。",
+              "text": "on the coast",
+              "explanation": "说明度蜜月的地点。",
+              "startToken": 5,
+              "endToken": 7
+            },
+            {
+              "id": "unit-02",
+              "kind": "第二分句主语",
+              "question": "找出本句中的“第二分句主语”，注意整段语义结构。",
+              "text": "Richard",
+              "explanation": "破折号后的转折句另有主语。",
+              "startToken": 10,
+              "endToken": 10
+            },
+            {
+              "id": "unit-03",
+              "kind": "第二分句谓语",
+              "question": "找出本句中的“第二分句谓语”，注意整段语义结构。",
+              "text": "never came back",
+              "explanation": "came back 为返回；never 表示再未发生。",
+              "startToken": 11,
+              "endToken": 13
+            }
+          ],
+          "grammarSupplements": [
+            {
+              "kind": "地点状语",
+              "text": "on the coast",
+              "explanation": "说明度蜜月的地点。"
+            },
+            {
+              "kind": "第二分句主语",
+              "text": "Richard",
+              "explanation": "破折号后的转折句另有主语。"
+            },
+            {
+              "kind": "第二分句谓语",
+              "text": "never came back",
+              "explanation": "came back 为返回；never 表示再未发生。"
+            }
+          ],
+          "deepNotes": [],
+          "acceptedTargets": {},
+          "targetRanges": {
+            "s": {
+              "start": 0,
+              "end": 1
+            },
+            "v": {
+              "start": 2,
+              "end": 2
+            },
+            "o": {
+              "start": 3,
+              "end": 4
+            }
+          },
+          "distractors": []
+        },
+        {
+          "id": "online-shanghai-2009-reading-A-george-richard-10",
+          "paragraph": 5,
+          "sentence": "The police found his wallet on a deserted beach but the body was never found.",
+          "targets": {
+            "s": "The police",
+            "v": "found",
+            "o": "his wallet"
+          },
+          "main": "The police found his wallet; the body was never found",
+          "meaning": "警方在一处荒无人烟的海滩上找到了他的钱包，但始终没有找到尸体。",
+          "analysis": "but 连接两个独立分句。第一分句主语 The police、谓语 found、宾语 his wallet；on a deserted beach 是地点状语。第二分句 the body was never found 的主语为 the body，was never found 为一般过去时被动语态，强调尸体未被发现；这里没有说警方亲眼看到他溺水。",
+          "roleExplanations": {
+            "s": "The police：主句主语。请结合完整解析区分主句和从句。",
+            "v": "found：主句谓语。请结合完整解析区分主句和从句。",
+            "o": "his wallet：主句宾语。请结合完整解析区分主句和从句。"
+          },
+          "studyUnits": [
+            {
+              "id": "unit-01",
+              "kind": "地点状语",
+              "question": "找出本句中的“地点状语”，注意整段语义结构。",
+              "text": "on a deserted beach",
+              "explanation": "警方发现钱包的地点。",
+              "startToken": 5,
+              "endToken": 8
+            },
+            {
+              "id": "unit-02",
+              "kind": "定语",
+              "question": "找出本句中的“定语”，注意整段语义结构。",
+              "text": "deserted",
+              "explanation": "修饰 beach，指荒无人烟的。",
+              "startToken": 7,
+              "endToken": 7
+            },
+            {
+              "id": "unit-03",
+              "kind": "第二分句主语",
+              "question": "找出本句中的“第二分句主语”，注意整段语义结构。",
+              "text": "the body",
+              "explanation": "被动句的主语，是未被发现之物。",
+              "startToken": 10,
+              "endToken": 11
+            },
+            {
+              "id": "unit-04",
+              "kind": "第二分句谓语",
+              "question": "找出本句中的“第二分句谓语”，注意整段语义结构。",
+              "text": "was never found",
+              "explanation": "一般过去时被动语态，否定未找到。",
+              "startToken": 12,
+              "endToken": 14
+            }
+          ],
+          "grammarSupplements": [
+            {
+              "kind": "地点状语",
+              "text": "on a deserted beach",
+              "explanation": "警方发现钱包的地点。"
+            },
+            {
+              "kind": "定语",
+              "text": "deserted",
+              "explanation": "修饰 beach，指荒无人烟的。"
+            },
+            {
+              "kind": "第二分句主语",
+              "text": "the body",
+              "explanation": "被动句的主语，是未被发现之物。"
+            },
+            {
+              "kind": "第二分句谓语",
+              "text": "was never found",
+              "explanation": "一般过去时被动语态，否定未找到。"
+            }
+          ],
+          "deepNotes": [],
+          "acceptedTargets": {},
+          "targetRanges": {
+            "s": {
+              "start": 0,
+              "end": 1
+            },
+            "v": {
+              "start": 2,
+              "end": 2
+            },
+            "o": {
+              "start": 3,
+              "end": 4
+            }
+          },
+          "distractors": []
+        },
+        {
+          "id": "online-shanghai-2009-reading-A-george-richard-11",
+          "paragraph": 5,
+          "sentence": "He must have drowned.",
+          "targets": {
+            "s": "He",
+            "v": "must have drowned"
+          },
+          "main": "He must have drowned (deduction, not established fact)",
+          "meaning": "他一定是溺水身亡了。（这是当时人们的推测。）",
+          "analysis": "must have + 过去分词表示对过去情况的较有把握的推测，must have drowned 是完整谓语，不能理解为“必须淹死”。故事中并未找到尸体，所以这是根据线索作出的推断而不是已经得到证明的事实；后文结局暗示这个推断错误。",
+          "roleExplanations": {
+            "s": "He：主句主语。请结合完整解析区分主句和从句。",
+            "v": "must have drowned：主句谓语。请结合完整解析区分主句和从句。"
+          },
+          "studyUnits": [
+            {
+              "id": "unit-01",
+              "kind": "情态推测谓语",
+              "question": "找出本句中的“情态推测谓语”，注意整段语义结构。",
+              "text": "must have drowned",
+              "explanation": "must have done 表示对过去发生的事作出强烈推测。",
+              "startToken": 1,
+              "endToken": 3
+            }
+          ],
+          "grammarSupplements": [
+            {
+              "kind": "情态推测谓语",
+              "text": "must have drowned",
+              "explanation": "must have done 表示对过去发生的事作出强烈推测。"
+            }
+          ],
+          "deepNotes": [],
+          "acceptedTargets": {},
+          "targetRanges": {
+            "s": {
+              "start": 0,
+              "end": 0
+            },
+            "v": {
+              "start": 1,
+              "end": 3
+            }
+          },
+          "distractors": []
+        },
+        {
+          "id": "online-shanghai-2009-reading-A-george-richard-12",
+          "paragraph": 6,
+          "sentence": "Now with only one bookshop in town, business was better for George.",
+          "targets": {
+            "s": "business",
+            "v": "was",
+            "p": "better"
+          },
+          "main": "business was better for George",
+          "meaning": "如今镇上只剩一家书店，乔治的生意变得更好了。",
+          "analysis": "句子主体为 business was better for George，business 为主语，was 为系动词，better 为比较级表语。句首 Now 是时间状语，with only one bookshop in town 是 with 介词结构作背景状语，说明只有一家店的情形。for George 表示“对乔治而言”，不宜误判为 was 的宾语。",
+          "roleExplanations": {
+            "s": "business：主句主语。请结合完整解析区分主句和从句。",
+            "v": "was：主句谓语。请结合完整解析区分主句和从句。",
+            "p": "better：主句表语。请结合完整解析区分主句和从句。"
+          },
+          "studyUnits": [
+            {
+              "id": "unit-01",
+              "kind": "时间状语",
+              "question": "找出本句中的“时间状语”，注意整段语义结构。",
+              "text": "Now",
+              "explanation": "叙述转到理查德消失之后。",
+              "startToken": 0,
+              "endToken": 0
+            },
+            {
+              "id": "unit-02",
+              "kind": "背景状语",
+              "question": "找出本句中的“背景状语”，注意整段语义结构。",
+              "text": "with only one bookshop in town",
+              "explanation": "with 引出的伴随/背景情况，交代镇上只剩一家店。",
+              "startToken": 1,
+              "endToken": 6
+            },
+            {
+              "id": "unit-03",
+              "kind": "比较级表语",
+              "question": "找出本句中的“比较级表语”，注意整段语义结构。",
+              "text": "better",
+              "explanation": "说明生意比以前更好。",
+              "startToken": 9,
+              "endToken": 9
+            },
+            {
+              "id": "unit-04",
+              "kind": "角度状语",
+              "question": "找出本句中的“角度状语”，注意整段语义结构。",
+              "text": "for George",
+              "explanation": "说明更好的生意是针对乔治而言。",
+              "startToken": 10,
+              "endToken": 11
+            }
+          ],
+          "grammarSupplements": [
+            {
+              "kind": "时间状语",
+              "text": "Now",
+              "explanation": "叙述转到理查德消失之后。"
+            },
+            {
+              "kind": "背景状语",
+              "text": "with only one bookshop in town",
+              "explanation": "with 引出的伴随/背景情况，交代镇上只剩一家店。"
+            },
+            {
+              "kind": "比较级表语",
+              "text": "better",
+              "explanation": "说明生意比以前更好。"
+            },
+            {
+              "kind": "角度状语",
+              "text": "for George",
+              "explanation": "说明更好的生意是针对乔治而言。"
+            }
+          ],
+          "deepNotes": [],
+          "acceptedTargets": {},
+          "targetRanges": {
+            "s": {
+              "start": 7,
+              "end": 7
+            },
+            "v": {
+              "start": 8,
+              "end": 8
+            },
+            "p": {
+              "start": 9,
+              "end": 9
+            }
+          },
+          "distractors": []
+        },
+        {
+          "id": "online-shanghai-2009-reading-A-george-richard-13",
+          "paragraph": 6,
+          "sentence": "But sometimes he sat in his narrow, old kitchen and gazed out of the dirty window, thinking about his former rival (竞争对手).",
+          "targets": {
+            "s": "he",
+            "v": "sat",
+            "v2": "gazed"
+          },
+          "main": "he sat ... and gazed ..., thinking about his former rival",
+          "meaning": "但有时他会坐在狭窄破旧的厨房里，凝望着肮脏窗户的外面，想着他从前的竞争对手。",
+          "analysis": "he 是共同主语，sat 和 gazed 是由 and 连接的并列谓语，第二个动作共享 he。in his narrow, old kitchen 是 sat 的地点状语；out of the dirty window 与 gazed 搭配，指透过窗户向外凝望。逗号后 thinking about his former rival 是现在分词短语作伴随状语，逻辑主语也是 he。former 意为“从前的”，不是 formal“正式的”；括号内中文只是注释，不参与英语拆句。",
+          "roleExplanations": {
+            "s": "he：主句主语。请结合完整解析区分主句和从句。",
+            "v": "sat：主句谓语。请结合完整解析区分主句和从句。",
+            "v2": "gazed：并列谓语。请结合完整解析区分主句和从句。"
+          },
+          "studyUnits": [
+            {
+              "id": "unit-01",
+              "kind": "地点状语",
+              "question": "找出本句中的“地点状语”，注意整段语义结构。",
+              "text": "in his narrow, old kitchen",
+              "explanation": "说明坐在哪里。",
+              "startToken": 4,
+              "endToken": 8
+            },
+            {
+              "id": "unit-02",
+              "kind": "方向状语",
+              "question": "找出本句中的“方向状语”，注意整段语义结构。",
+              "text": "out of the dirty window",
+              "explanation": "与 gazed 配合，说明凝视方向。",
+              "startToken": 11,
+              "endToken": 15
+            },
+            {
+              "id": "unit-03",
+              "kind": "伴随状语",
+              "question": "找出本句中的“伴随状语”，注意整段语义结构。",
+              "text": "thinking about his former rival (竞争对手)",
+              "explanation": "现在分词短语，说明他凝望时同时在想谁。",
+              "startToken": 16,
+              "endToken": 21
+            },
+            {
+              "id": "unit-04",
+              "kind": "定语",
+              "question": "找出本句中的“定语”，注意整段语义结构。",
+              "text": "narrow, old",
+              "explanation": "修饰 kitchen，形容厨房狭窄老旧。",
+              "startToken": 6,
+              "endToken": 7
+            },
+            {
+              "id": "unit-05",
+              "kind": "定语",
+              "question": "找出本句中的“定语”，注意整段语义结构。",
+              "text": "former",
+              "explanation": "修饰 rival，意为以前的。",
+              "startToken": 19,
+              "endToken": 19
+            },
+            {
+              "id": "unit-06",
+              "kind": "频率状语",
+              "question": "找出本句中的“频率状语”，注意整段语义结构。",
+              "text": "sometimes",
+              "explanation": "说明该动作时常发生。",
+              "startToken": 1,
+              "endToken": 1
+            }
+          ],
+          "grammarSupplements": [
+            {
+              "kind": "地点状语",
+              "text": "in his narrow, old kitchen",
+              "explanation": "说明坐在哪里。"
+            },
+            {
+              "kind": "方向状语",
+              "text": "out of the dirty window",
+              "explanation": "与 gazed 配合，说明凝视方向。"
+            },
+            {
+              "kind": "伴随状语",
+              "text": "thinking about his former rival (竞争对手)",
+              "explanation": "现在分词短语，说明他凝望时同时在想谁。"
+            },
+            {
+              "kind": "定语",
+              "text": "narrow, old",
+              "explanation": "修饰 kitchen，形容厨房狭窄老旧。"
+            },
+            {
+              "kind": "定语",
+              "text": "former",
+              "explanation": "修饰 rival，意为以前的。"
+            },
+            {
+              "kind": "频率状语",
+              "text": "sometimes",
+              "explanation": "说明该动作时常发生。"
+            }
+          ],
+          "deepNotes": [],
+          "acceptedTargets": {},
+          "targetRanges": {
+            "s": {
+              "start": 2,
+              "end": 2
+            },
+            "v": {
+              "start": 3,
+              "end": 3
+            },
+            "v2": {
+              "start": 10,
+              "end": 10
+            }
+          },
+          "distractors": []
+        },
+        {
+          "id": "online-shanghai-2009-reading-A-george-richard-14",
+          "paragraph": 6,
+          "sentence": "Perhaps he missed him?",
+          "targets": {
+            "s": "he",
+            "v": "missed",
+            "o": "him"
+          },
+          "main": "he missed him (perhaps)",
+          "meaning": "也许他想念理查德了？",
+          "analysis": "Perhaps 是表示不确定猜测的句子状语，he 是乔治，missed 为一般过去时谓语，him 指失踪的理查德。问号表达叙述者的不确定揣测，并不意味着这是必须回答的普通疑问句。",
+          "roleExplanations": {
+            "s": "he：主句主语。请结合完整解析区分主句和从句。",
+            "v": "missed：主句谓语。请结合完整解析区分主句和从句。",
+            "o": "him：主句宾语。请结合完整解析区分主句和从句。"
+          },
+          "studyUnits": [
+            {
+              "id": "unit-01",
+              "kind": "推测状语",
+              "question": "找出本句中的“推测状语”，注意整段语义结构。",
+              "text": "Perhaps",
+              "explanation": "表示“也许”，保留推测语气。",
+              "startToken": 0,
+              "endToken": 0
+            }
+          ],
+          "grammarSupplements": [
+            {
+              "kind": "推测状语",
+              "text": "Perhaps",
+              "explanation": "表示“也许”，保留推测语气。"
+            }
+          ],
+          "deepNotes": [],
+          "acceptedTargets": {},
+          "targetRanges": {
+            "s": {
+              "start": 1,
+              "end": 1
+            },
+            "v": {
+              "start": 2,
+              "end": 2
+            },
+            "o": {
+              "start": 3,
+              "end": 3
+            }
+          },
+          "distractors": []
+        },
+        {
+          "id": "online-shanghai-2009-reading-A-george-richard-15",
+          "paragraph": 7,
+          "sentence": "George was very interested in old dictionaries.",
+          "targets": {
+            "s": "George",
+            "v": "was",
+            "p": "very interested in old dictionaries"
+          },
+          "main": "George was very interested in old dictionaries",
+          "meaning": "乔治对旧词典非常感兴趣。",
+          "analysis": "was 是系动词，very interested in old dictionaries 为表语部分；interested 是形容词化的过去分词，very 修饰 interested 表示程度，in old dictionaries 是 interested 的介词补足语，不是被动语态谓语。old 是 dictionaries 的前置定语。",
+          "roleExplanations": {
+            "s": "George：主句主语。请结合完整解析区分主句和从句。",
+            "v": "was：主句谓语。请结合完整解析区分主句和从句。",
+            "p": "very interested in old dictionaries：主句表语。请结合完整解析区分主句和从句。"
+          },
+          "studyUnits": [
+            {
+              "id": "unit-01",
+              "kind": "程度状语",
+              "question": "找出本句中的“程度状语”，注意整段语义结构。",
+              "text": "very",
+              "explanation": "修饰 interested，表示“非常”。",
+              "startToken": 2,
+              "endToken": 2
+            },
+            {
+              "id": "unit-02",
+              "kind": "介词补足语",
+              "question": "找出本句中的“介词补足语”，注意整段语义结构。",
+              "text": "in old dictionaries",
+              "explanation": "interested in 为固定搭配，指出感兴趣的对象。",
+              "startToken": 4,
+              "endToken": 6
+            },
+            {
+              "id": "unit-03",
+              "kind": "定语",
+              "question": "找出本句中的“定语”，注意整段语义结构。",
+              "text": "old",
+              "explanation": "修饰 dictionaries，指年代久远的词典。",
+              "startToken": 5,
+              "endToken": 5
+            }
+          ],
+          "grammarSupplements": [
+            {
+              "kind": "程度状语",
+              "text": "very",
+              "explanation": "修饰 interested，表示“非常”。"
+            },
+            {
+              "kind": "介词补足语",
+              "text": "in old dictionaries",
+              "explanation": "interested in 为固定搭配，指出感兴趣的对象。"
+            },
+            {
+              "kind": "定语",
+              "text": "old",
+              "explanation": "修饰 dictionaries，指年代久远的词典。"
+            }
+          ],
+          "deepNotes": [],
+          "acceptedTargets": {},
+          "targetRanges": {
+            "s": {
+              "start": 0,
+              "end": 0
+            },
+            "v": {
+              "start": 1,
+              "end": 1
+            },
+            "p": {
+              "start": 2,
+              "end": 6
+            }
+          },
+          "distractors": []
+        },
+        {
+          "id": "online-shanghai-2009-reading-A-george-richard-16",
+          "paragraph": 7,
+          "sentence": "He’d recently found a collector in Australia who was selling a rare first edition.",
+          "targets": {
+            "s": "He’d",
+            "v": "found",
+            "o": "a collector in Australia"
+          },
+          "main": "He had recently found a collector in Australia",
+          "meaning": "他最近发现澳大利亚有一位收藏家，正在出售一本珍贵的初版本。",
+          "analysis": "He’d 等于 He had，整个句子是过去完成时 had found；由于网页按空格切词，主语所在词块是 He’d，其中也包含助动词 had，真正的动作核心是 found。recently 为时间状语。a collector in Australia 为 found 的宾语；who was selling a rare first edition 是修饰 collector 的定语从句，who 是从句主语，was selling 是从句谓语，a rare first edition 为从句宾语。rare 和 first 修饰 edition，first edition 表示初版本。",
+          "roleExplanations": {
+            "s": "He’d：主句主语。请结合完整解析区分主句和从句。",
+            "v": "found：主句谓语。请结合完整解析区分主句和从句。",
+            "o": "a collector in Australia：主句宾语。请结合完整解析区分主句和从句。"
+          },
+          "studyUnits": [
+            {
+              "id": "unit-01",
+              "kind": "时间状语",
+              "question": "找出本句中的“时间状语”，注意整段语义结构。",
+              "text": "recently",
+              "explanation": "说明发现收藏家的时间较近。",
+              "startToken": 1,
+              "endToken": 1
+            },
+            {
+              "id": "unit-02",
+              "kind": "后置定语",
+              "question": "找出本句中的“后置定语”，注意整段语义结构。",
+              "text": "in Australia",
+              "explanation": "修饰 collector，说明收藏家的所在国家。",
+              "startToken": 5,
+              "endToken": 6
+            },
+            {
+              "id": "unit-03",
+              "kind": "定语从句",
+              "question": "找出本句中的“定语从句”，注意整段语义结构。",
+              "text": "who was selling a rare first edition",
+              "explanation": "修饰 collector，包含从句主语 who、谓语 was selling 和宾语。",
+              "startToken": 7,
+              "endToken": 13
+            },
+            {
+              "id": "unit-04",
+              "kind": "从句谓语",
+              "question": "找出本句中的“从句谓语”，注意整段语义结构。",
+              "text": "was selling",
+              "explanation": "过去进行时，描述收藏家当时正在出售。",
+              "startToken": 8,
+              "endToken": 9
+            },
+            {
+              "id": "unit-05",
+              "kind": "从句宾语",
+              "question": "找出本句中的“从句宾语”，注意整段语义结构。",
+              "text": "a rare first edition",
+              "explanation": "出售的对象：珍贵的初版本。",
+              "startToken": 10,
+              "endToken": 13
+            },
+            {
+              "id": "unit-06",
+              "kind": "定语",
+              "question": "找出本句中的“定语”，注意整段语义结构。",
+              "text": "rare",
+              "explanation": "修饰 edition，意为珍贵稀有的。",
+              "startToken": 11,
+              "endToken": 11
+            }
+          ],
+          "grammarSupplements": [
+            {
+              "kind": "时间状语",
+              "text": "recently",
+              "explanation": "说明发现收藏家的时间较近。"
+            },
+            {
+              "kind": "后置定语",
+              "text": "in Australia",
+              "explanation": "修饰 collector，说明收藏家的所在国家。"
+            },
+            {
+              "kind": "定语从句",
+              "text": "who was selling a rare first edition",
+              "explanation": "修饰 collector，包含从句主语 who、谓语 was selling 和宾语。"
+            },
+            {
+              "kind": "从句谓语",
+              "text": "was selling",
+              "explanation": "过去进行时，描述收藏家当时正在出售。"
+            },
+            {
+              "kind": "从句宾语",
+              "text": "a rare first edition",
+              "explanation": "出售的对象：珍贵的初版本。"
+            },
+            {
+              "kind": "定语",
+              "text": "rare",
+              "explanation": "修饰 edition，意为珍贵稀有的。"
+            }
+          ],
+          "deepNotes": [],
+          "acceptedTargets": {},
+          "targetRanges": {
+            "s": {
+              "start": 0,
+              "end": 0
+            },
+            "v": {
+              "start": 2,
+              "end": 2
+            },
+            "o": {
+              "start": 3,
+              "end": 6
+            }
+          },
+          "distractors": []
+        },
+        {
+          "id": "online-shanghai-2009-reading-A-george-richard-17",
+          "paragraph": 7,
+          "sentence": "When the parcel arrived, the book was in perfect condition and George was delighted.",
+          "targets": {
+            "s": "the book",
+            "v": "was",
+            "p": "in perfect condition"
+          },
+          "main": "the book was in perfect condition; George was delighted",
+          "meaning": "包裹到达时，书保存得完好无损，乔治十分高兴。",
+          "analysis": "When the parcel arrived 为时间状语从句，说明后面两个动作发生的时间。主句是由 and 连接的两套主系表：the book / was / in perfect condition 与 George / was / delighted。第二分句的主语是 George，不和第一分句共用 the book；delighted 为形容词性表语。",
+          "roleExplanations": {
+            "s": "the book：主句主语。请结合完整解析区分主句和从句。",
+            "v": "was：主句谓语。请结合完整解析区分主句和从句。",
+            "p": "in perfect condition：主句表语。请结合完整解析区分主句和从句。"
+          },
+          "studyUnits": [
+            {
+              "id": "unit-01",
+              "kind": "时间状语从句",
+              "question": "找出本句中的“时间状语从句”，注意整段语义结构。",
+              "text": "When the parcel arrived",
+              "explanation": "arrived 为从句谓语，说明包裹到达的时间。",
+              "startToken": 0,
+              "endToken": 3
+            },
+            {
+              "id": "unit-02",
+              "kind": "第二分句主语",
+              "question": "找出本句中的“第二分句主语”，注意整段语义结构。",
+              "text": "George",
+              "explanation": "and 后新分句的主语。",
+              "startToken": 11,
+              "endToken": 11
+            },
+            {
+              "id": "unit-03",
+              "kind": "第二分句谓语",
+              "question": "找出本句中的“第二分句谓语”，注意整段语义结构。",
+              "text": "was",
+              "explanation": "第二分句系动词。",
+              "startToken": 12,
+              "endToken": 12
+            },
+            {
+              "id": "unit-04",
+              "kind": "第二分句表语",
+              "question": "找出本句中的“第二分句表语”，注意整段语义结构。",
+              "text": "delighted",
+              "explanation": "说明乔治感到高兴。",
+              "startToken": 13,
+              "endToken": 13
+            },
+            {
+              "id": "unit-05",
+              "kind": "定语",
+              "question": "找出本句中的“定语”，注意整段语义结构。",
+              "text": "perfect",
+              "explanation": "修饰 condition，表示完好无损的。",
+              "startToken": 8,
+              "endToken": 8
+            }
+          ],
+          "grammarSupplements": [
+            {
+              "kind": "时间状语从句",
+              "text": "When the parcel arrived",
+              "explanation": "arrived 为从句谓语，说明包裹到达的时间。"
+            },
+            {
+              "kind": "第二分句主语",
+              "text": "George",
+              "explanation": "and 后新分句的主语。"
+            },
+            {
+              "kind": "第二分句谓语",
+              "text": "was",
+              "explanation": "第二分句系动词。"
+            },
+            {
+              "kind": "第二分句表语",
+              "text": "delighted",
+              "explanation": "说明乔治感到高兴。"
+            },
+            {
+              "kind": "定语",
+              "text": "perfect",
+              "explanation": "修饰 condition，表示完好无损的。"
+            }
+          ],
+          "deepNotes": [],
+          "acceptedTargets": {},
+          "targetRanges": {
+            "s": {
+              "start": 4,
+              "end": 5
+            },
+            "v": {
+              "start": 6,
+              "end": 6
+            },
+            "p": {
+              "start": 7,
+              "end": 9
+            }
+          },
+          "distractors": []
+        },
+        {
+          "id": "online-shanghai-2009-reading-A-george-richard-18",
+          "paragraph": 7,
+          "sentence": "But while he was having lunch, George glanced at the photo in the newspaper that the book had been wrapped in.",
+          "targets": {
+            "s": "George",
+            "v": "glanced at"
+          },
+          "main": "George glanced at the photo in the newspaper",
+          "meaning": "但就在他吃午饭时，乔治瞥见了用来包书的那张报纸上的照片。",
+          "analysis": "But 表示转折。while he was having lunch 是时间状语从句，he 指 George，was having 是从句的过去进行时谓语。主句 George glanced at the photo...，glanced at 是动作及其介词搭配；the photo 是介词 at 的宾语，不宜把它当作 glance 的直接宾语。in the newspaper 修饰 photo，说明照片登在报纸上；that the book had been wrapped in 是修饰 newspaper 的定语从句，关系词 that 在从句中是末尾介词 in 的宾语，the book 为从句主语、had been wrapped 为过去完成时被动语态，整段意为“那本书此前被包在其中的报纸”。",
+          "roleExplanations": {
+            "s": "George：主句主语。请结合完整解析区分主句和从句。",
+            "v": "glanced at：主句谓语。请结合完整解析区分主句和从句。"
+          },
+          "studyUnits": [
+            {
+              "id": "unit-01",
+              "kind": "时间状语从句",
+              "question": "找出本句中的“时间状语从句”，注意整段语义结构。",
+              "text": "while he was having lunch",
+              "explanation": "while 引导时间从句，was having 为过去进行时。",
+              "startToken": 1,
+              "endToken": 5
+            },
+            {
+              "id": "unit-02",
+              "kind": "介词补足语",
+              "question": "找出本句中的“介词补足语”，注意整段语义结构。",
+              "text": "at the photo",
+              "explanation": "glance at 表示瞥见，photo 是介词 at 的宾语。",
+              "startToken": 8,
+              "endToken": 10
+            },
+            {
+              "id": "unit-03",
+              "kind": "后置定语",
+              "question": "找出本句中的“后置定语”，注意整段语义结构。",
+              "text": "in the newspaper",
+              "explanation": "说明照片位于哪份报纸上。",
+              "startToken": 11,
+              "endToken": 13
+            },
+            {
+              "id": "unit-04",
+              "kind": "定语从句",
+              "question": "找出本句中的“定语从句”，注意整段语义结构。",
+              "text": "that the book had been wrapped in",
+              "explanation": "修饰 newspaper，尾部 in 是原本与 newspaper 搭配的介词。",
+              "startToken": 14,
+              "endToken": 20
+            },
+            {
+              "id": "unit-05",
+              "kind": "从句谓语",
+              "question": "找出本句中的“从句谓语”，注意整段语义结构。",
+              "text": "had been wrapped",
+              "explanation": "定语从句中的过去完成时被动语态。",
+              "startToken": 17,
+              "endToken": 19
+            }
+          ],
+          "grammarSupplements": [
+            {
+              "kind": "时间状语从句",
+              "text": "while he was having lunch",
+              "explanation": "while 引导时间从句，was having 为过去进行时。"
+            },
+            {
+              "kind": "介词补足语",
+              "text": "at the photo",
+              "explanation": "glance at 表示瞥见，photo 是介词 at 的宾语。"
+            },
+            {
+              "kind": "后置定语",
+              "text": "in the newspaper",
+              "explanation": "说明照片位于哪份报纸上。"
+            },
+            {
+              "kind": "定语从句",
+              "text": "that the book had been wrapped in",
+              "explanation": "修饰 newspaper，尾部 in 是原本与 newspaper 搭配的介词。"
+            },
+            {
+              "kind": "从句谓语",
+              "text": "had been wrapped",
+              "explanation": "定语从句中的过去完成时被动语态。"
+            }
+          ],
+          "deepNotes": [],
+          "acceptedTargets": {},
+          "targetRanges": {
+            "s": {
+              "start": 6,
+              "end": 6
+            },
+            "v": {
+              "start": 7,
+              "end": 8
+            }
+          },
+          "distractors": []
+        },
+        {
+          "id": "online-shanghai-2009-reading-A-george-richard-19",
+          "paragraph": 7,
+          "sentence": "He was astonished — the smiling face was older than he remembered but unmistakable!",
+          "targets": {
+            "s": "He",
+            "v": "was",
+            "p": "astonished"
+          },
+          "main": "He was astonished; the smiling face was older but unmistakable",
+          "meaning": "他惊呆了——照片里那张微笑的脸比他记忆中的苍老了，却绝不会认错！",
+          "analysis": "破折号前 He / was / astonished 为主系表，He 指 George。破折号后是另一独立主系表分句：the smiling face（主语）was（系动词）older than he remembered but unmistakable（并列的表语部分）。than he remembered 是比较从句，表示“比他记忆中的样子更老”；but unmistakable 意为“但仍毫无疑问能认出来”，不是否定事实。这里为结局埋伏笔：照片上的人看似是失踪的 Richard。",
+          "roleExplanations": {
+            "s": "He：主句主语。请结合完整解析区分主句和从句。",
+            "v": "was：主句谓语。请结合完整解析区分主句和从句。",
+            "p": "astonished：主句表语。请结合完整解析区分主句和从句。"
+          },
+          "studyUnits": [
+            {
+              "id": "unit-01",
+              "kind": "第二分句主语",
+              "question": "找出本句中的“第二分句主语”，注意整段语义结构。",
+              "text": "the smiling face",
+              "explanation": "破折号后另一独立句的主语。",
+              "startToken": 4,
+              "endToken": 6
+            },
+            {
+              "id": "unit-02",
+              "kind": "第二分句谓语",
+              "question": "找出本句中的“第二分句谓语”，注意整段语义结构。",
+              "text": "was",
+              "explanation": "破折号后主系表结构的系动词。",
+              "startToken": 7,
+              "endToken": 7
+            },
+            {
+              "id": "unit-03",
+              "kind": "第二分句表语",
+              "question": "找出本句中的“第二分句表语”，注意整段语义结构。",
+              "text": "older than he remembered but unmistakable",
+              "explanation": "由 but 连接的两个描述，表示更老但仍可辨认。",
+              "startToken": 8,
+              "endToken": 13
+            },
+            {
+              "id": "unit-04",
+              "kind": "比较状语从句",
+              "question": "找出本句中的“比较状语从句”，注意整段语义结构。",
+              "text": "than he remembered",
+              "explanation": "与 older 对应，说明比较标准。",
+              "startToken": 9,
+              "endToken": 11
+            },
+            {
+              "id": "unit-05",
+              "kind": "定语",
+              "question": "找出本句中的“定语”，注意整段语义结构。",
+              "text": "smiling",
+              "explanation": "现在分词作前置定语，修饰 face。",
+              "startToken": 5,
+              "endToken": 5
+            }
+          ],
+          "grammarSupplements": [
+            {
+              "kind": "第二分句主语",
+              "text": "the smiling face",
+              "explanation": "破折号后另一独立句的主语。"
+            },
+            {
+              "kind": "第二分句谓语",
+              "text": "was",
+              "explanation": "破折号后主系表结构的系动词。"
+            },
+            {
+              "kind": "第二分句表语",
+              "text": "older than he remembered but unmistakable",
+              "explanation": "由 but 连接的两个描述，表示更老但仍可辨认。"
+            },
+            {
+              "kind": "比较状语从句",
+              "text": "than he remembered",
+              "explanation": "与 older 对应，说明比较标准。"
+            },
+            {
+              "kind": "定语",
+              "text": "smiling",
+              "explanation": "现在分词作前置定语，修饰 face。"
+            }
+          ],
+          "deepNotes": [],
+          "acceptedTargets": {},
+          "targetRanges": {
+            "s": {
+              "start": 0,
+              "end": 0
+            },
+            "v": {
+              "start": 1,
+              "end": 1
+            },
+            "p": {
+              "start": 2,
+              "end": 2
+            }
+          },
+          "distractors": []
+        },
+        {
+          "id": "online-shanghai-2009-reading-A-george-richard-20",
+          "paragraph": 7,
+          "sentence": "Trembling, George started reading.",
+          "targets": {
+            "s": "George",
+            "v": "started",
+            "o": "reading"
+          },
+          "main": "George started reading",
+          "meaning": "乔治颤抖着，开始读起报纸上的内容。",
+          "analysis": "Trembling 为现在分词短语作伴随状语，逻辑主语为 George，描写他在读之前/同时的激动或震惊。George 是主句主语，started 是谓语，reading 为动名词性补足成分，start doing 表示开始做某事；并不是有一个单独受事物品作宾语。",
+          "roleExplanations": {
+            "s": "George：主句主语。请结合完整解析区分主句和从句。",
+            "v": "started：主句谓语。请结合完整解析区分主句和从句。",
+            "o": "reading：主句宾语。请结合完整解析区分主句和从句。"
+          },
+          "studyUnits": [
+            {
+              "id": "unit-01",
+              "kind": "伴随状语",
+              "question": "找出本句中的“伴随状语”，注意整段语义结构。",
+              "text": "Trembling",
+              "explanation": "现在分词表示“颤抖着”，逻辑主语是 George。",
+              "startToken": 0,
+              "endToken": 0
+            },
+            {
+              "id": "unit-02",
+              "kind": "动名词补语",
+              "question": "找出本句中的“动名词补语”，注意整段语义结构。",
+              "text": "reading",
+              "explanation": "start reading = 开始阅读，reading 表示开始进行的活动。",
+              "startToken": 3,
+              "endToken": 3
+            }
+          ],
+          "grammarSupplements": [
+            {
+              "kind": "伴随状语",
+              "text": "Trembling",
+              "explanation": "现在分词表示“颤抖着”，逻辑主语是 George。"
+            },
+            {
+              "kind": "动名词补语",
+              "text": "reading",
+              "explanation": "start reading = 开始阅读，reading 表示开始进行的活动。"
+            }
+          ],
+          "deepNotes": [],
+          "acceptedTargets": {},
+          "targetRanges": {
+            "s": {
+              "start": 1,
+              "end": 1
+            },
+            "v": {
+              "start": 2,
+              "end": 2
+            },
+            "o": {
+              "start": 3,
+              "end": 3
+            }
+          },
+          "distractors": []
+        },
+        {
+          "id": "online-shanghai-2009-reading-A-george-richard-21",
+          "paragraph": 8,
+          "sentence": "“Bookends have bought ten bookstores from their rivals Dylans.",
+          "targets": {
+            "s": "Bookends",
+            "v": "have bought",
+            "o": "ten bookstores"
+          },
+          "main": "Bookends have bought ten bookstores",
+          "meaning": "“Bookends 公司已经从竞争对手 Dylans 公司手中收购了十家书店。",
+          "analysis": "这是报纸报道中直接引语的第一句。Bookends 是公司名称、主语；have bought 是现在完成时谓语，强调迄今完成的收购；ten bookstores 是宾语。from their rivals Dylans 是来源介词短语，说明从哪家竞争对手手中买入书店。注意两家企业名称不能当作普通复数名词误译。",
+          "roleExplanations": {
+            "s": "Bookends：主句主语。请结合完整解析区分主句和从句。",
+            "v": "have bought：主句谓语。请结合完整解析区分主句和从句。",
+            "o": "ten bookstores：主句宾语。请结合完整解析区分主句和从句。"
+          },
+          "studyUnits": [
+            {
+              "id": "unit-01",
+              "kind": "来源状语",
+              "question": "找出本句中的“来源状语”，注意整段语义结构。",
+              "text": "from their rivals Dylans",
+              "explanation": "说明购入书店的来源。",
+              "startToken": 5,
+              "endToken": 8
+            },
+            {
+              "id": "unit-02",
+              "kind": "定语",
+              "question": "找出本句中的“定语”，注意整段语义结构。",
+              "text": "ten",
+              "explanation": "说明书店的数量。",
+              "startToken": 3,
+              "endToken": 3
+            },
+            {
+              "id": "unit-03",
+              "kind": "同位语",
+              "question": "找出本句中的“同位语”，注意整段语义结构。",
+              "text": "Dylans",
+              "explanation": "为 rivals 指明竞争对手公司的名称。",
+              "startToken": 8,
+              "endToken": 8
+            }
+          ],
+          "grammarSupplements": [
+            {
+              "kind": "来源状语",
+              "text": "from their rivals Dylans",
+              "explanation": "说明购入书店的来源。"
+            },
+            {
+              "kind": "定语",
+              "text": "ten",
+              "explanation": "说明书店的数量。"
+            },
+            {
+              "kind": "同位语",
+              "text": "Dylans",
+              "explanation": "为 rivals 指明竞争对手公司的名称。"
+            }
+          ],
+          "deepNotes": [],
+          "acceptedTargets": {},
+          "targetRanges": {
+            "s": {
+              "start": 0,
+              "end": 0
+            },
+            "v": {
+              "start": 1,
+              "end": 2
+            },
+            "o": {
+              "start": 3,
+              "end": 4
+            }
+          },
+          "distractors": []
+        },
+        {
+          "id": "online-shanghai-2009-reading-A-george-richard-22",
+          "paragraph": 8,
+          "sentence": "The company, owned by multi-millionaire Richard Pike, is now the largest bookseller in Australia.”",
+          "targets": {
+            "s": "The company",
+            "v": "is",
+            "p": "the largest bookseller in Australia"
+          },
+          "main": "The company is now the largest bookseller in Australia",
+          "meaning": "这家公司由身家数百万的富翁理查德·派克拥有，如今已是澳大利亚最大的图书零售商。”",
+          "analysis": "主句 The company / is / the largest bookseller in Australia 为主系表，now 为时间状语。逗号包围的 owned by multi-millionaire Richard Pike 是过去分词短语作后置定语，补充说明公司所有者；owned 为被动意义，不是主句谓语。largest 为最高级，表示澳大利亚最大的图书销售企业。Richard Pike 这一姓名与此前失踪的 Richard 形成故事反转，提示他可能并未溺亡而是在澳大利亚发迹；文本并未直接用完整句说他怎样离开。",
+          "roleExplanations": {
+            "s": "The company：主句主语。请结合完整解析区分主句和从句。",
+            "v": "is：主句谓语。请结合完整解析区分主句和从句。",
+            "p": "the largest bookseller in Australia：主句表语。请结合完整解析区分主句和从句。"
+          },
+          "studyUnits": [
+            {
+              "id": "unit-01",
+              "kind": "后置定语",
+              "question": "找出本句中的“后置定语”，注意整段语义结构。",
+              "text": "owned by multi-millionaire Richard Pike",
+              "explanation": "过去分词短语，说明公司的所有者。",
+              "startToken": 2,
+              "endToken": 6
+            },
+            {
+              "id": "unit-02",
+              "kind": "时间状语",
+              "question": "找出本句中的“时间状语”，注意整段语义结构。",
+              "text": "now",
+              "explanation": "说明当前状况。",
+              "startToken": 8,
+              "endToken": 8
+            },
+            {
+              "id": "unit-03",
+              "kind": "最高级定语",
+              "question": "找出本句中的“最高级定语”，注意整段语义结构。",
+              "text": "largest",
+              "explanation": "修饰 bookseller，表示规模最大。",
+              "startToken": 10,
+              "endToken": 10
+            },
+            {
+              "id": "unit-04",
+              "kind": "地点限定",
+              "question": "找出本句中的“地点限定”，注意整段语义结构。",
+              "text": "in Australia",
+              "explanation": "限定最大图书销售商的地域范围。",
+              "startToken": 12,
+              "endToken": 13
+            }
+          ],
+          "grammarSupplements": [
+            {
+              "kind": "后置定语",
+              "text": "owned by multi-millionaire Richard Pike",
+              "explanation": "过去分词短语，说明公司的所有者。"
+            },
+            {
+              "kind": "时间状语",
+              "text": "now",
+              "explanation": "说明当前状况。"
+            },
+            {
+              "kind": "最高级定语",
+              "text": "largest",
+              "explanation": "修饰 bookseller，表示规模最大。"
+            },
+            {
+              "kind": "地点限定",
+              "text": "in Australia",
+              "explanation": "限定最大图书销售商的地域范围。"
+            }
+          ],
+          "deepNotes": [],
+          "acceptedTargets": {},
+          "targetRanges": {
+            "s": {
+              "start": 0,
+              "end": 1
+            },
+            "v": {
+              "start": 7,
+              "end": 7
+            },
+            "p": {
+              "start": 9,
+              "end": 13
+            }
+          },
+          "distractors": []
+        }
+      ],
+      "glossary": {
+        "unhealthy": "不健康的",
+        "competition": "竞争",
+        "millionaire": "百万富翁",
+        "Coleford": "地名：科尔福德",
+        "boast": "吹嘘；夸口",
+        "reply": "回答",
+        "opposite": "对面的；相对的",
+        "deserted": "荒无人烟的",
+        "mysterious": "神秘的",
+        "honeymoon": "蜜月",
+        "coast": "海岸",
+        "drowned": "溺亡；淹死",
+        "narrow": "狭窄的",
+        "rival": "竞争对手",
+        "former": "从前的",
+        "collector": "收藏家",
+        "rare": "稀有的",
+        "edition": "版本；版次",
+        "parcel": "包裹",
+        "glanced": "瞥见",
+        "wrapped": "包裹；包好",
+        "astonished": "吃惊的；震惊的",
+        "unmistakable": "绝对不会认错的",
+        "Trembling": "颤抖着",
+        "bookstores": "书店",
+        "multi-millionaire": "千万富翁",
+        "bookseller": "书商；图书零售商"
+      },
+      "review": {
+        "overview": "两位自学生时代起互相攀比的男子后来在街对面各开书店。Richard 度蜜月后被认为溺亡，George 成了唯一一家书店的主人。多年后他从澳洲包书的报纸上认出了 Richard，得知对方已在澳大利亚成为书业巨头，形成反转结局。",
+        "paragraphNotes": [
+          {
+            "paragraph": 1,
+            "point": "两人从学生时代起便互相竞争。",
+            "connection": "引出性格和竞争关系。"
+          },
+          {
+            "paragraph": 2,
+            "point": "两人互相吹嘘各自将成为百万富翁、著名律师。",
+            "connection": "理想与后面的现实形成反差。"
+          },
+          {
+            "paragraph": 3,
+            "point": "乔治回应理查德的自夸。",
+            "connection": "引语与报告句之间层次要分清。"
+          },
+          {
+            "paragraph": 4,
+            "point": "两人理想落空，均转而经营书店，竞争反而激烈。",
+            "connection": "卖书赚钱难为冲突升级提供背景。"
+          },
+          {
+            "paragraph": 5,
+            "point": "Richard 蜜月失踪，只找到钱包未找到遗体。",
+            "connection": "must have drowned 是推测而非证实。"
+          },
+          {
+            "paragraph": 6,
+            "point": "乔治的生意变好，却有时惦记失踪的竞争对手。",
+            "connection": "暗示竞争之下复杂的情感。"
+          },
+          {
+            "paragraph": 7,
+            "point": "一本澳洲旧书的包裹报纸带来令人震惊的照片。",
+            "connection": "通过报纸报道揭示线索。"
+          },
+          {
+            "paragraph": 8,
+            "point": "报纸写 Richard Pike 已成为澳洲大书商。",
+            "connection": "故事反转：可能就是之前失踪的 Richard。"
+          }
+        ],
+        "keyGrammar": [
+          "there had been：过去完成时 there be 存在句",
+          "used to boast / would reply：过去反复习惯动作",
+          "and / but 连接独立分句时各自拥有主语",
+          "never did become：强调性助动词 did",
+          "must have drowned：对过去情况推测而非已证实事实",
+          "which made ... worse：关系从句及 make + 宾语 + 宾补",
+          "thinking about ... / owned by ...：现在分词伴随状语与过去分词后置定语",
+          "that the book had been wrapped in：关系从句，介词留在末尾"
+        ],
+        "commonMistakes": [
+          "把 there be 后面的真正存在对象漏译",
+          "把第二个独立分句的谓语误判为首句主语的并列谓语",
+          "把 must have drowned 当成事实陈述",
+          "混淆 former 与 formal",
+          "误把 glance at 后的名词当成及物动词的直接宾语",
+          "忽略 Richard 的身份反转"
+        ]
+      },
+      "page": "阅读理解 A · 第65—68题",
+      "phraseGlossary": {
+        "from time to time": "偶尔；有时；时不时地（相当于 sometimes / occasionally）"
+      }
     }
   ],
   "questionSets": [
@@ -3661,6 +5685,77 @@
           "explanation": "作者指出全球粮食危机且列出三项对策，最后批评国际社会虽然承诺建基金但尚未付诸行动，因此呼吁马上行动缓解粮食短缺。选D。",
           "kind": "写作目的",
           "context": "全文呼吁立即采取全球合作行动"
+        }
+      ]
+    },
+    {
+      "id": "online-shanghai-2009-reading-A-george-richard",
+      "title": "George 与 Richard · 阅读理解 65—68 题",
+      "source": "用户提供的 George 与 Richard 阅读文本；按需求修正 formal→former、引语标点与换行；“2009年上海秋考”出处沿用用户题库标题，未独立核实。",
+      "mode": "single",
+      "intro": "共 4 道阅读理解单选题。建议先独立作答，提交后再核对答案、原文依据和中文解析。",
+      "passageText": "Even at school there had been an unhealthy competition between George and Richard.\n\n“I’ll be the first millionaire in Coleford!” Richard used to boast.\n\n“And you’ll be sorry you knew me,” George would reply, “because I’ll be the best lawyer in the town!”\n\nGeorge never did become a lawyer and Richard never made any money. Instead both men opened bookshops on opposite sides of Coleford High Street. It was hard to make money from books, which made the competition between them worse.\n\nThen Richard married a mysterious girl. The couple spent their honeymoon on the coast — but Richard never came back. The police found his wallet on a deserted beach but the body was never found. He must have drowned.\n\nNow with only one bookshop in town, business was better for George. But sometimes he sat in his narrow, old kitchen and gazed out of the dirty window, thinking about his former rival (竞争对手). Perhaps he missed him?\n\nGeorge was very interested in old dictionaries. He’d recently found a collector in Australia who was selling a rare first edition. When the parcel arrived, the book was in perfect condition and George was delighted. But while he was having lunch, George glanced at the photo in the newspaper that the book had been wrapped in. He was astonished — the smiling face was older than he remembered but unmistakable! Trembling, George started reading.\n\n“Bookends have bought ten bookstores from their rivals Dylans. The company, owned by multi-millionaire Richard Pike, is now the largest bookseller in Australia.”",
+      "sharedOptions": null,
+      "questions": [
+        {
+          "id": 65,
+          "stem": "George and Richard were ______ at school.",
+          "options": [
+            "roommates",
+            "good friends",
+            "competitors",
+            "booksellers"
+          ],
+          "correctIndex": 2,
+          "kind": "single",
+          "context": "",
+          "evidence": "Even at school there had been an unhealthy competition between George and Richard.",
+          "explanation": "第一句明确写道，两人在上学时就存在不健康的竞争（an unhealthy competition），因此二人是竞争对手（competitors），选 C；没有证据表明他们是室友、好友，也不是在学校时就做书商。"
+        },
+        {
+          "id": 66,
+          "stem": "How did George feel about Richard after his disappearance?",
+          "options": [
+            "He envied Richard’s marriage.",
+            "He thought of Richard from time to time.",
+            "He felt lucky with no rival in town.",
+            "He was guilty of Richard’s death."
+          ],
+          "correctIndex": 1,
+          "kind": "single",
+          "context": "",
+          "evidence": "But sometimes he sat in his narrow, old kitchen and gazed out of the dirty window, thinking about his former rival (竞争对手). Perhaps he missed him?",
+          "explanation": "关键是 sometimes ... thinking about his former rival，说明 George 有时会想起失踪的 Richard，甚至可能想念他，选 B。文中仅说失去竞争对手后生意变好，并未说他为此感到庆幸，更没有嫉妒婚姻或因其死亡而内疚的证据。 from time to time 意为“偶尔；有时；时不时地”，相当于 sometimes 或 occasionally；这里指他时不时会想起 Richard。"
+        },
+        {
+          "id": 67,
+          "stem": "George got information about Richard from ______.",
+          "options": [
+            "a dictionary collector in Australia",
+            "the latter’s rivals Dylans",
+            "a rare first edition of a dictionary",
+            "the wrapping paper of a book"
+          ],
+          "correctIndex": 3,
+          "kind": "single",
+          "context": "",
+          "evidence": "George glanced at the photo in the newspaper that the book had been wrapped in.",
+          "explanation": "George 是在包裹旧书的报纸上看到照片和新闻，从而得知 Richard 的消息。a newspaper that the book had been wrapped in 指用来包书的报纸，即包装纸，选 D。收藏家和字典只是让这张报纸来到 George 面前的契机。"
+        },
+        {
+          "id": 68,
+          "stem": "What happened to George and Richard in the end?",
+          "options": [
+            "Both George and Richard became millionaires.",
+            "Both of them realized their original ambitions.",
+            "George established a successful business while Richard was missing.",
+            "Richard became a millionaire while George had no great success."
+          ],
+          "correctIndex": 3,
+          "kind": "single",
+          "context": "",
+          "evidence": "Now with only one bookshop in town, business was better for George. / The company, owned by multi-millionaire Richard Pike, is now the largest bookseller in Australia.",
+          "explanation": "结尾揭示 Richard Pike 是澳大利亚大型书店公司的千万富翁老板，完成了当年想成为百万富翁的愿望；George 仍经营当地书店，虽然少了竞争对手后生意好转，却没有成为他梦想中的最优秀律师，也没有取得与 Richard 相当的巨大成就。因此选 D。C 把生意改善等同于建立了成功的大企业，夸大了原文。"
         }
       ]
     }
